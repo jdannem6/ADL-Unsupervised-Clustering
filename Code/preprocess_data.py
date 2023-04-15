@@ -176,7 +176,7 @@ def preprocess_datasets():
     personA_df["True Classification"] = 'Person A'
     personB_df["True Classification"] = 'Person B'
 
-    combined_df = pd.concat([personA_df, personB_df])
+    combined_df = pd.concat([personA_df, personB_df], ignore_index=True)
     return combined_df
 
 
