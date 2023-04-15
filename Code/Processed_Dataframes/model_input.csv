@@ -1,0 +1,2744 @@
+,Location,Type,Place,Activity,Duration,Hour of Day,Day of Week
+0,Bed,Pressure,Bedroom,Sleeping,7:50:12,2,Monday
+1,Cabinet,Magnetic,Bathroom,Toileting,0:00:07,10,Monday
+2,Basin,PIR,Bathroom,Toileting,0:01:47,10,Monday
+3,Toilet,Flush,Bathroom,Toileting,0:00:34,10,Monday
+4,Shower,PIR,Bathroom,Showering,0:06:22,10,Monday
+5,Fridge,Magnetic,Kitchen,Breakfast,0:00:18,10,Monday
+6,Cupboard,Magnetic,Kitchen,Breakfast,0:02:33,10,Monday
+7,Toaster,Electric,Kitchen,Breakfast,0:04:41,10,Monday
+8,Fridge,Magnetic,Kitchen,Breakfast,0:00:07,10,Monday
+9,Cupboard,Magnetic,Kitchen,Breakfast,0:00:07,10,Monday
+10,Cooktop,PIR,Kitchen,Breakfast,0:00:16,10,Monday
+11,Microwave,Electric,Kitchen,Breakfast,0:00:56,10,Monday
+12,Basin,PIR,Bathroom,Grooming,0:01:25,10,Monday
+13,Seat,Pressure,Living,Spare_Time/TV,2:13:26,10,Monday
+14,Basin,PIR,Bathroom,Toileting,0:00:02,13,Monday
+15,Toilet,Flush,Bathroom,Toileting,0:00:24,13,Monday
+16,Maindoor,Magnetic,Entrance,Leaving,0:00:04,13,Monday
+17,Maindoor,Magnetic,Entrance,Leaving,0:00:10,13,Monday
+18,Fridge,Magnetic,Kitchen,No Activity,0:04:51,13,Monday
+19,Seat,Pressure,Living,Spare_Time/TV,0:43:00,13,Monday
+20,Toilet,Flush,Bathroom,Toileting,0:00:29,14,Monday
+21,Fridge,Magnetic,Kitchen,Lunch,0:01:35,14,Monday
+22,Cupboard,Magnetic,Kitchen,Lunch,0:00:07,14,Monday
+23,Cooktop,PIR,Kitchen,Lunch,0:10:48,14,Monday
+24,Cupboard,Magnetic,Kitchen,Lunch,0:00:12,14,Monday
+25,Fridge,Magnetic,Kitchen,Lunch,0:00:05,14,Monday
+26,Basin,PIR,Bathroom,Grooming,0:01:30,15,Monday
+27,Seat,Pressure,Living,Spare_Time/TV,1:02:56,15,Monday
+28,Basin,PIR,Bathroom,Spare_Time/TV,0:00:00,16,Monday
+29,Seat,Pressure,Living,Spare_Time/TV,4:08:49,16,Monday
+30,Fridge,Magnetic,Kitchen,Snack,0:00:04,20,Monday
+31,Seat,Pressure,Living,No Activity,5:45:36,20,Monday
+32,Bed,Pressure,Bedroom,No Activity,9:14:59,2,Tuesday
+33,Toilet,Flush,Bathroom,No Activity,0:00:11,11,Tuesday
+34,Basin,PIR,Bathroom,Grooming,0:10:51,11,Tuesday
+35,Cabinet,Magnetic,Bathroom,Grooming,0:00:21,11,Tuesday
+36,Cabinet,Magnetic,Bathroom,Grooming,0:00:02,11,Tuesday
+37,Shower,PIR,Bathroom,Showering,0:01:16,11,Tuesday
+38,Cupboard,Magnetic,Kitchen,Breakfast,0:00:53,12,Tuesday
+39,Toaster,Electric,Kitchen,Breakfast,0:03:53,12,Tuesday
+40,Fridge,Magnetic,Kitchen,Breakfast,0:00:13,12,Tuesday
+41,Microwave,Electric,Kitchen,Breakfast,0:00:55,12,Tuesday
+42,Cabinet,Magnetic,Bathroom,Grooming,0:00:03,12,Tuesday
+43,Basin,PIR,Bathroom,Grooming,0:01:47,12,Tuesday
+44,Toilet,Flush,Bathroom,Grooming,0:00:02,12,Tuesday
+45,Seat,Pressure,Living,No Activity,1:02:37,12,Tuesday
+46,Fridge,Magnetic,Kitchen,Snack,0:00:03,13,Tuesday
+47,Seat,Pressure,Living,Spare_Time/TV,1:46:48,13,Tuesday
+48,Toilet,Flush,Bathroom,Toileting,0:00:29,15,Tuesday
+49,Basin,PIR,Bathroom,Toileting,0:00:02,15,Tuesday
+50,Cupboard,Magnetic,Kitchen,Lunch,0:00:36,15,Tuesday
+51,Cooktop,PIR,Kitchen,Lunch,0:21:12,15,Tuesday
+52,Microwave,Electric,Kitchen,Lunch,0:07:40,15,Tuesday
+53,Cupboard,Magnetic,Kitchen,Lunch,0:01:12,15,Tuesday
+54,Fridge,Magnetic,Kitchen,Lunch,0:00:28,15,Tuesday
+55,Cupboard,Magnetic,Kitchen,Lunch,0:00:06,15,Tuesday
+56,Fridge,Magnetic,Kitchen,Lunch,0:00:05,15,Tuesday
+57,Basin,PIR,Bathroom,Grooming,0:01:03,15,Tuesday
+58,Seat,Pressure,Living,Spare_Time/TV,0:25:54,15,Tuesday
+59,Toilet,Flush,Bathroom,Toileting,0:00:11,16,Tuesday
+60,Cupboard,Magnetic,Kitchen,No Activity,0:00:03,16,Tuesday
+61,Seat,Pressure,Living,Spare_Time/TV,0:33:50,16,Tuesday
+62,Basin,PIR,Bathroom,Toileting,0:00:02,17,Tuesday
+63,Toilet,Flush,Bathroom,Toileting,0:00:25,17,Tuesday
+64,Seat,Pressure,Living,No Activity,1:48:13,17,Tuesday
+65,Maindoor,Magnetic,Entrance,Leaving,0:00:06,19,Tuesday
+66,Maindoor,Magnetic,Entrance,Leaving,0:00:06,20,Tuesday
+67,Seat,Pressure,Living,Spare_Time/TV,4:51:39,20,Tuesday
+68,Bed,Pressure,Bedroom,Sleeping,8:44:58,1,Wednesday
+69,Toilet,Flush,Bathroom,No Activity,0:00:27,10,Wednesday
+70,Shower,PIR,Bathroom,Showering,0:03:48,10,Wednesday
+71,Cupboard,Magnetic,Kitchen,Breakfast,0:00:15,10,Wednesday
+72,Fridge,Magnetic,Kitchen,Breakfast,0:00:15,10,Wednesday
+73,Microwave,Electric,Kitchen,Breakfast,0:04:52,10,Wednesday
+74,Toaster,Electric,Kitchen,Breakfast,0:03:48,10,Wednesday
+75,Basin,PIR,Bathroom,Grooming,0:01:43,10,Wednesday
+76,Cabinet,Magnetic,Bathroom,Grooming,0:00:03,10,Wednesday
+77,Seat,Pressure,Living,No Activity,2:23:23,10,Wednesday
+78,Fridge,Magnetic,Kitchen,Snack,0:00:04,13,Wednesday
+79,Seat,Pressure,Living,Spare_Time/TV,1:03:56,13,Wednesday
+80,Toilet,Flush,Bathroom,Toileting,0:00:32,14,Wednesday
+81,Basin,PIR,Bathroom,Toileting,0:00:02,14,Wednesday
+82,Seat,Pressure,Living,Spare_Time/TV,0:20:24,14,Wednesday
+83,Cooktop,PIR,Kitchen,Lunch,0:15:42,14,Wednesday
+84,Cupboard,Magnetic,Kitchen,Lunch,0:00:10,14,Wednesday
+85,Fridge,Magnetic,Kitchen,Lunch,0:00:15,14,Wednesday
+86,Fridge,Magnetic,Kitchen,Lunch,0:00:04,14,Wednesday
+87,Fridge,Magnetic,Kitchen,Lunch,0:00:14,14,Wednesday
+88,Seat,Pressure,Living,Spare_Time/TV,1:27:23,15,Wednesday
+89,Toilet,Flush,Bathroom,No Activity,0:00:24,16,Wednesday
+90,Basin,PIR,Bathroom,Toileting,0:00:05,16,Wednesday
+91,Fridge,Magnetic,Kitchen,Snack,0:00:04,16,Wednesday
+92,Seat,Pressure,Living,Spare_Time/TV,1:19:23,16,Wednesday
+93,Basin,PIR,Bathroom,Toileting,0:00:03,18,Wednesday
+94,Toilet,Flush,Bathroom,No Activity,0:00:25,18,Wednesday
+95,Seat,Pressure,Living,Spare_Time/TV,0:41:26,18,Wednesday
+96,Toilet,Flush,Bathroom,Toileting,0:00:26,18,Wednesday
+97,Seat,Pressure,Living,Spare_Time/TV,0:39:31,18,Wednesday
+98,Toilet,Flush,Bathroom,Toileting,0:00:25,19,Wednesday
+99,Basin,PIR,Bathroom,Toileting,0:00:06,19,Wednesday
+100,Maindoor,Magnetic,Entrance,Leaving,0:00:05,19,Wednesday
+101,Maindoor,Magnetic,Entrance,Leaving,0:00:05,20,Wednesday
+102,Seat,Pressure,Living,No Activity,0:00:05,20,Wednesday
+103,Fridge,Magnetic,Kitchen,No Activity,0:04:11,20,Wednesday
+104,Basin,PIR,Bathroom,Grooming,0:00:09,20,Wednesday
+105,Seat,Pressure,Living,Spare_Time/TV,5:20:24,20,Wednesday
+106,Bed,Pressure,Bedroom,Sleeping,9:12:53,1,Thursday
+107,Toilet,Flush,Bathroom,Grooming,0:00:29,10,Thursday
+108,Cabinet,Magnetic,Bathroom,Grooming,0:00:05,10,Thursday
+109,Basin,PIR,Bathroom,Grooming,0:00:09,10,Thursday
+110,Shower,PIR,Bathroom,Showering,0:13:45,10,Thursday
+111,Toaster,Electric,Kitchen,Breakfast,0:02:44,11,Thursday
+112,Cupboard,Magnetic,Kitchen,Breakfast,0:00:12,11,Thursday
+113,Fridge,Magnetic,Kitchen,Breakfast,0:00:14,11,Thursday
+114,Microwave,Electric,Kitchen,Breakfast,0:01:54,11,Thursday
+115,Seat,Pressure,Living,Spare_Time/TV,2:58:56,11,Thursday
+116,Basin,PIR,Bathroom,Spare_Time/TV,0:00:03,14,Thursday
+117,Cooktop,PIR,Kitchen,Lunch,0:22:25,14,Thursday
+118,Microwave,Electric,Kitchen,Lunch,0:06:50,14,Thursday
+119,Fridge,Magnetic,Kitchen,Lunch,0:00:29,14,Thursday
+120,Fridge,Magnetic,Kitchen,Lunch,0:00:04,14,Thursday
+121,Seat,Pressure,Living,Spare_Time/TV,1:17:17,15,Thursday
+122,Toilet,Flush,Bathroom,Toileting,0:00:29,16,Thursday
+123,Basin,PIR,Bathroom,No Activity,1:00:37,16,Thursday
+124,Maindoor,Magnetic,Entrance,Leaving,0:00:29,17,Thursday
+125,Maindoor,Magnetic,Entrance,Leaving,0:00:05,18,Thursday
+126,Fridge,Magnetic,Kitchen,No Activity,0:00:04,18,Thursday
+127,Seat,Pressure,Living,Spare_Time/TV,0:15:31,18,Thursday
+128,Toilet,Flush,Bathroom,No Activity,0:00:26,19,Thursday
+129,Seat,Pressure,Living,No Activity,4:23:39,19,Thursday
+130,Basin,PIR,Bathroom,Grooming,0:00:28,23,Thursday
+131,Seat,Pressure,Living,Spare_Time/TV,1:24:00,23,Thursday
+132,Basin,PIR,Bathroom,Grooming,0:00:13,1,Friday
+133,Seat,Pressure,Living,Spare_Time/TV,0:49:08,1,Friday
+134,Basin,PIR,Bathroom,Grooming,0:04:23,2,Friday
+135,Bed,Pressure,Bedroom,Sleeping,9:59:24,2,Friday
+136,Toilet,Flush,Bathroom,No Activity,0:00:29,12,Friday
+137,Basin,PIR,Bathroom,No Activity,0:00:05,12,Friday
+138,Cabinet,Magnetic,Bathroom,No Activity,0:00:04,12,Friday
+139,Shower,PIR,Bathroom,Showering,0:04:21,12,Friday
+140,Cupboard,Magnetic,Kitchen,No Activity,0:00:16,12,Friday
+141,Fridge,Magnetic,Kitchen,No Activity,0:00:17,12,Friday
+142,Toaster,Electric,Kitchen,No Activity,0:02:42,12,Friday
+143,Microwave,Electric,Kitchen,No Activity,0:01:45,12,Friday
+144,Seat,Pressure,Living,Spare_Time/TV,2:08:42,12,Friday
+145,Fridge,Magnetic,Kitchen,No Activity,0:00:09,14,Friday
+146,Cooktop,PIR,Kitchen,Lunch,0:17:48,14,Friday
+147,Microwave,Electric,Kitchen,Lunch,0:02:57,14,Friday
+148,Fridge,Magnetic,Kitchen,Lunch,0:00:05,14,Friday
+149,Fridge,Magnetic,Kitchen,Lunch,0:00:04,14,Friday
+150,Seat,Pressure,Living,Spare_Time/TV,0:31:07,15,Friday
+151,Basin,PIR,Bathroom,Grooming,0:01:53,15,Friday
+152,Seat,Pressure,Living,No Activity,0:38:09,15,Friday
+153,Toilet,Flush,Bathroom,No Activity,0:00:28,16,Friday
+154,Seat,Pressure,Living,Spare_Time/TV,2:51:29,16,Friday
+155,Fridge,Magnetic,Kitchen,Snack,0:00:06,19,Friday
+156,Seat,Pressure,Living,Spare_Time/TV,1:44:55,19,Friday
+157,Toilet,Flush,Bathroom,No Activity,0:00:26,21,Friday
+158,Seat,Pressure,Living,Spare_Time/TV,3:54:37,21,Friday
+159,Bed,Pressure,Bedroom,Sleeping,10:09:18,1,Saturday
+160,Toilet,Flush,Bathroom,No Activity,0:00:30,11,Saturday
+161,Cabinet,Magnetic,Bathroom,Grooming,0:00:03,11,Saturday
+162,Basin,PIR,Bathroom,Grooming,0:01:52,11,Saturday
+163,Shower,PIR,Bathroom,Showering,0:02:50,12,Saturday
+164,Basin,PIR,Bathroom,No Activity,0:00:02,12,Saturday
+165,Toaster,Electric,Kitchen,Breakfast,0:03:16,12,Saturday
+166,Cupboard,Magnetic,Kitchen,Breakfast,0:00:09,12,Saturday
+167,Fridge,Magnetic,Kitchen,Breakfast,0:00:21,12,Saturday
+168,Microwave,Electric,Kitchen,Breakfast,0:02:22,12,Saturday
+169,Seat,Pressure,Living,Spare_Time/TV,1:07:06,12,Saturday
+170,Basin,PIR,Bathroom,Grooming,0:00:10,13,Saturday
+171,Seat,Pressure,Living,Spare_Time/TV,0:31:32,13,Saturday
+172,Basin,PIR,Bathroom,Grooming,0:03:33,14,Saturday
+173,Maindoor,Magnetic,Entrance,Leaving,0:00:12,14,Saturday
+174,Maindoor,Magnetic,Entrance,Leaving,0:00:04,17,Saturday
+175,Seat,Pressure,Living,Spare_Time/TV,2:47:27,17,Saturday
+176,Maindoor,Magnetic,Entrance,Spare_Time/TV,0:00:18,20,Saturday
+177,Seat,Pressure,Living,Spare_Time/TV,3:15:09,20,Saturday
+178,Toilet,Flush,Bathroom,No Activity,0:00:30,23,Saturday
+179,Seat,Pressure,Living,Spare_Time/TV,3:20:55,23,Saturday
+180,Bed,Pressure,Bedroom,Sleeping,9:18:32,3,Sunday
+181,Toilet,Flush,Bathroom,No Activity,0:00:31,12,Sunday
+182,Cabinet,Magnetic,Bathroom,Grooming,0:00:04,12,Sunday
+183,Basin,PIR,Bathroom,Grooming,0:01:08,12,Sunday
+184,Shower,PIR,Bathroom,Showering,0:03:59,12,Sunday
+185,Fridge,Magnetic,Kitchen,Breakfast,0:00:12,12,Sunday
+186,Cupboard,Magnetic,Kitchen,Breakfast,0:00:12,12,Sunday
+187,Microwave,Electric,Kitchen,Breakfast,0:02:05,12,Sunday
+188,Toaster,Electric,Kitchen,Breakfast,0:01:50,12,Sunday
+189,Seat,Pressure,Living,Spare_Time/TV,0:57:17,13,Sunday
+190,Toilet,Flush,Bathroom,No Activity,0:00:31,14,Sunday
+191,Maindoor,Magnetic,Entrance,Leaving,0:00:04,14,Sunday
+192,Maindoor,Magnetic,Entrance,Leaving,0:00:04,16,Sunday
+193,Seat,Pressure,Living,Spare_Time/TV,0:51:39,16,Sunday
+194,Fridge,Magnetic,Kitchen,Snack,0:00:05,17,Sunday
+195,Seat,Pressure,Living,Spare_Time/TV,0:16:40,17,Sunday
+196,Basin,PIR,Bathroom,Grooming,0:00:04,17,Sunday
+197,Seat,Pressure,Living,Spare_Time/TV,0:49:24,18,Sunday
+198,Toilet,Flush,Bathroom,Toileting,0:00:27,18,Sunday
+199,Basin,PIR,Bathroom,Toileting,0:00:03,18,Sunday
+200,Fridge,Magnetic,Kitchen,Snack,0:00:06,18,Sunday
+201,Seat,Pressure,Living,Spare_Time/TV,3:20:55,19,Sunday
+202,Toilet,Flush,Bathroom,Toileting,0:00:28,22,Sunday
+203,Basin,PIR,Bathroom,Toileting,0:00:12,22,Sunday
+204,Seat,Pressure,Living,Spare_Time/TV,3:05:50,22,Sunday
+205,Basin,PIR,Bathroom,Grooming,0:00:05,1,Monday
+206,Bed,Pressure,Bedroom,Sleeping,10:13:45,1,Monday
+207,Toilet,Flush,Bathroom,Toileting,0:00:30,11,Monday
+208,Basin,PIR,Bathroom,Grooming,0:00:08,11,Monday
+209,Shower,PIR,Bathroom,Showering,0:07:33,12,Monday
+210,Seat,Pressure,Living,No Activity,0:04:13,12,Monday
+211,Cupboard,Magnetic,Kitchen,Breakfast,0:00:06,12,Monday
+212,Fridge,Magnetic,Kitchen,Breakfast,0:00:31,12,Monday
+213,Toaster,Electric,Kitchen,Breakfast,0:01:56,12,Monday
+214,Microwave,Electric,Kitchen,Breakfast,0:02:03,12,Monday
+215,Fridge,Magnetic,Kitchen,Breakfast,0:00:04,12,Monday
+216,Seat,Pressure,Living,No Activity,2:00:09,12,Monday
+217,Basin,PIR,Bathroom,Grooming,0:00:06,14,Monday
+218,Maindoor,Magnetic,Entrance,Leaving,0:00:25,14,Monday
+219,Maindoor,Magnetic,Entrance,Leaving,0:00:06,14,Monday
+220,Fridge,Magnetic,Kitchen,Lunch,0:03:03,14,Monday
+221,Cupboard,Magnetic,Kitchen,Lunch,0:00:15,15,Monday
+222,Cooktop,PIR,Kitchen,Lunch,0:20:35,15,Monday
+223,Microwave,Electric,Kitchen,Lunch,0:12:57,15,Monday
+224,Fridge,Magnetic,Kitchen,Lunch,0:00:04,15,Monday
+225,Fridge,Magnetic,Kitchen,Lunch,0:00:06,15,Monday
+226,Fridge,Magnetic,Kitchen,Lunch,0:00:04,15,Monday
+227,Fridge,Magnetic,Kitchen,Lunch,0:00:10,15,Monday
+228,Cupboard,Magnetic,Kitchen,Lunch,0:00:04,15,Monday
+229,Basin,PIR,Bathroom,No Activity,0:01:40,15,Monday
+230,Toilet,Flush,Bathroom,No Activity,0:00:53,15,Monday
+231,Seat,Pressure,Living,Spare_Time/TV,0:17:14,15,Monday
+232,Toilet,Flush,Bathroom,No Activity,0:00:28,16,Monday
+233,Seat,Pressure,Living,Spare_Time/TV,0:37:17,16,Monday
+234,Maindoor,Magnetic,Entrance,Leaving,0:00:06,17,Monday
+235,Maindoor,Magnetic,Entrance,Leaving,0:00:05,18,Monday
+236,Seat,Pressure,Living,Spare_Time/TV,0:22:20,19,Monday
+237,Fridge,Magnetic,Kitchen,Snack,0:00:05,19,Monday
+238,Seat,Pressure,Living,Spare_Time/TV,0:42:57,19,Monday
+239,Basin,PIR,Bathroom,Grooming,0:00:15,20,Monday
+240,Toilet,Flush,Bathroom,No Activity,0:00:27,20,Monday
+241,Seat,Pressure,Living,Spare_Time/TV,0:46:05,20,Monday
+242,Basin,PIR,Bathroom,Toileting,0:00:06,21,Monday
+243,Toilet,Flush,Bathroom,No Activity,0:00:25,21,Monday
+244,Basin,PIR,Bathroom,Grooming,0:00:16,21,Monday
+245,Seat,Pressure,Living,Spare_Time/TV,3:31:10,21,Monday
+246,Toilet,Flush,Bathroom,Toileting,0:00:27,0,Tuesday
+247,Basin,PIR,Bathroom,Toileting,0:00:06,0,Tuesday
+248,Bed,Pressure,Bedroom,Sleeping,9:24:43,0,Tuesday
+249,Toilet,Flush,Bathroom,No Activity,0:00:33,11,Tuesday
+250,Basin,PIR,Bathroom,Grooming,0:00:03,11,Tuesday
+251,Cabinet,Magnetic,Bathroom,Grooming,0:00:03,11,Tuesday
+252,Basin,PIR,Bathroom,Grooming,0:01:37,11,Tuesday
+253,Shower,PIR,Bathroom,Showering,0:13:38,11,Tuesday
+254,Toaster,Electric,Kitchen,Breakfast,0:03:07,11,Tuesday
+255,Cupboard,Magnetic,Kitchen,Breakfast,0:00:24,11,Tuesday
+256,Fridge,Magnetic,Kitchen,Breakfast,0:00:31,11,Tuesday
+257,Microwave,Electric,Kitchen,Breakfast,0:01:15,11,Tuesday
+258,Seat,Pressure,Living,Spare_Time/TV,2:58:16,11,Tuesday
+259,Cupboard,Magnetic,Kitchen,Lunch,0:00:21,14,Tuesday
+260,Cooktop,PIR,Kitchen,Lunch,0:19:42,14,Tuesday
+261,Microwave,Electric,Kitchen,Lunch,0:09:49,14,Tuesday
+262,Fridge,Magnetic,Kitchen,Lunch,0:00:05,14,Tuesday
+263,Fridge,Magnetic,Kitchen,Lunch,0:00:05,14,Tuesday
+264,Fridge,Magnetic,Kitchen,Lunch,0:00:04,14,Tuesday
+265,Seat,Pressure,Living,No Activity,0:00:29,15,Tuesday
+266,Basin,PIR,Bathroom,Grooming,0:01:57,15,Tuesday
+267,Seat,Pressure,Living,Spare_Time/TV,1:49:18,15,Tuesday
+268,Toilet,Flush,Bathroom,Toileting,0:00:27,17,Tuesday
+269,Basin,PIR,Bathroom,No Activity,0:00:10,17,Tuesday
+270,Seat,Pressure,Living,Spare_Time/TV,0:46:52,17,Tuesday
+271,Basin,PIR,Bathroom,Grooming,0:00:12,18,Tuesday
+272,Seat,Pressure,Living,Spare_Time/TV,1:14:57,18,Tuesday
+273,Fridge,Magnetic,Kitchen,Snack,0:00:05,19,Tuesday
+274,Basin,PIR,Bathroom,Grooming,0:00:24,19,Tuesday
+275,Seat,Pressure,Living,Spare_Time/TV,4:27:10,19,Tuesday
+276,Basin,PIR,Bathroom,Grooming,0:00:10,0,Wednesday
+277,Seat,Pressure,Living,Spare_Time/TV,0:46:40,0,Wednesday
+278,Toilet,Flush,Bathroom,Toileting,0:00:24,0,Wednesday
+279,Bed,Pressure,Bedroom,Sleeping,9:45:44,0,Wednesday
+280,Toilet,Flush,Bathroom,No Activity,0:00:28,10,Wednesday
+281,Cabinet,Magnetic,Bathroom,Grooming,0:00:05,10,Wednesday
+282,Basin,PIR,Bathroom,Grooming,0:13:29,10,Wednesday
+283,Cabinet,Magnetic,Bathroom,No Activity,0:00:06,11,Wednesday
+284,Shower,PIR,Bathroom,Showering,0:05:41,11,Wednesday
+285,Toaster,Electric,Kitchen,Breakfast,0:02:49,11,Wednesday
+286,Cupboard,Magnetic,Kitchen,Breakfast,0:00:17,11,Wednesday
+287,Fridge,Magnetic,Kitchen,Breakfast,0:00:14,11,Wednesday
+288,Microwave,Electric,Kitchen,Breakfast,0:03:54,11,Wednesday
+289,Seat,Pressure,Living,Spare_Time/TV,2:33:12,11,Wednesday
+290,Cupboard,Magnetic,Kitchen,Lunch,0:00:08,14,Wednesday
+291,Cooktop,PIR,Kitchen,Lunch,0:17:40,14,Wednesday
+292,Microwave,Electric,Kitchen,Lunch,0:08:55,14,Wednesday
+293,Fridge,Magnetic,Kitchen,Lunch,0:00:06,14,Wednesday
+294,Fridge,Magnetic,Kitchen,Lunch,0:00:05,14,Wednesday
+295,Cupboard,Magnetic,Kitchen,Lunch,0:00:04,14,Wednesday
+296,Fridge,Magnetic,Kitchen,Lunch,0:00:05,14,Wednesday
+297,Seat,Pressure,Living,Spare_Time/TV,0:46:04,14,Wednesday
+298,Basin,PIR,Bathroom,Grooming,0:00:18,15,Wednesday
+299,Toilet,Flush,Bathroom,No Activity,0:00:32,15,Wednesday
+300,Seat,Pressure,Living,Spare_Time/TV,0:39:13,15,Wednesday
+301,Basin,PIR,Bathroom,Grooming,0:05:43,16,Wednesday
+302,Maindoor,Magnetic,Entrance,Leaving,0:00:07,16,Wednesday
+303,Maindoor,Magnetic,Entrance,Leaving,0:00:06,18,Wednesday
+304,Basin,PIR,Bathroom,Grooming,0:00:03,18,Wednesday
+305,Toilet,Flush,Bathroom,No Activity,0:00:26,18,Wednesday
+306,Seat,Pressure,Living,Spare_Time/TV,1:05:55,18,Wednesday
+307,Maindoor,Magnetic,Entrance,No Activity,0:00:07,19,Wednesday
+308,Fridge,Magnetic,Kitchen,Snack,0:00:05,19,Wednesday
+309,Cupboard,Magnetic,Kitchen,Snack,0:00:03,19,Wednesday
+310,Fridge,Magnetic,Kitchen,Snack,0:00:05,19,Wednesday
+311,Cupboard,Magnetic,Kitchen,Snack,0:00:01,20,Wednesday
+312,Fridge,Magnetic,Kitchen,Snack,0:00:05,20,Wednesday
+313,Toilet,Flush,Bathroom,Toileting,0:00:28,20,Wednesday
+314,Seat,Pressure,Living,Spare_Time/TV,0:02:06,20,Wednesday
+315,Maindoor,Magnetic,Entrance,No Activity,0:00:35,20,Wednesday
+316,Seat,Pressure,Living,Spare_Time/TV,2:27:07,20,Wednesday
+317,Basin,PIR,Bathroom,Toileting,0:00:16,23,Wednesday
+318,Seat,Pressure,Living,Spare_Time/TV,2:12:16,23,Wednesday
+319,Bed,Pressure,Bedroom,Sleeping,9:34:48,1,Thursday
+320,Basin,PIR,Bathroom,Grooming,0:00:11,11,Thursday
+321,Toilet,Flush,Bathroom,No Activity,0:00:32,11,Thursday
+322,Cabinet,Magnetic,Bathroom,Grooming,0:00:03,11,Thursday
+323,Basin,PIR,Bathroom,Grooming,0:00:03,11,Thursday
+324,Shower,PIR,Bathroom,Showering,0:04:55,11,Thursday
+325,Toaster,Electric,Kitchen,Breakfast,0:03:13,11,Thursday
+326,Cupboard,Magnetic,Kitchen,Breakfast,0:00:21,11,Thursday
+327,Fridge,Magnetic,Kitchen,Breakfast,0:00:21,11,Thursday
+328,Cooktop,PIR,Kitchen,Breakfast,0:01:57,11,Thursday
+329,Microwave,Electric,Kitchen,Breakfast,0:01:49,11,Thursday
+330,Seat,Pressure,Living,Spare_Time/TV,2:05:10,11,Thursday
+331,Basin,PIR,Bathroom,Grooming,0:00:12,14,Thursday
+332,Maindoor,Magnetic,Entrance,Leaving,0:00:04,14,Thursday
+333,Maindoor,Magnetic,Entrance,Leaving,0:00:04,16,Thursday
+334,Seat,Pressure,Living,Spare_Time/TV,5:48:56,16,Thursday
+335,Basin,PIR,Bathroom,Grooming,0:00:14,22,Thursday
+336,Seat,Pressure,Living,Spare_Time/TV,0:58:23,22,Thursday
+337,Basin,PIR,Bathroom,Grooming,0:00:18,23,Thursday
+338,Seat,Pressure,Living,Spare_Time/TV,1:48:32,23,Thursday
+339,Basin,PIR,Bathroom,Grooming,0:01:19,1,Friday
+340,Bed,Pressure,Bedroom,Sleeping,9:32:25,1,Friday
+341,Toilet,Flush,Bathroom,Toileting,0:00:31,10,Friday
+342,Cabinet,Magnetic,Bathroom,Grooming,0:00:06,10,Friday
+343,Basin,PIR,Bathroom,Grooming,0:00:10,10,Friday
+344,Shower,PIR,Bathroom,Showering,0:03:23,10,Friday
+345,Toaster,Electric,Kitchen,Breakfast,0:02:35,11,Friday
+346,Cupboard,Magnetic,Kitchen,Breakfast,0:00:04,11,Friday
+347,Fridge,Magnetic,Kitchen,Breakfast,0:00:23,11,Friday
+348,Cooktop,PIR,Kitchen,Breakfast,0:00:03,11,Friday
+349,Microwave,Electric,Kitchen,Breakfast,0:01:38,11,Friday
+350,Seat,Pressure,Living,Spare_Time/TV,1:23:22,11,Friday
+351,Basin,PIR,Bathroom,Grooming,0:08:54,12,Friday
+352,Maindoor,Magnetic,Entrance,Leaving,0:00:04,12,Friday
+353,Maindoor,Magnetic,Entrance,Leaving,0:00:04,16,Friday
+354,Seat,Pressure,Living,Spare_Time/TV,0:13:59,16,Friday
+355,Toilet,Flush,Bathroom,No Activity,0:00:26,17,Friday
+356,Seat,Pressure,Living,Spare_Time/TV,0:52:41,17,Friday
+357,Basin,PIR,Bathroom,Grooming,0:00:02,17,Friday
+358,Seat,Pressure,Living,No Activity,0:17:17,18,Friday
+359,Maindoor,Magnetic,Entrance,Leaving,0:00:05,18,Friday
+360,Maindoor,Magnetic,Entrance,Leaving,0:00:06,18,Friday
+361,Fridge,Magnetic,Kitchen,No Activity,0:00:12,18,Friday
+362,Seat,Pressure,Living,Spare_Time/TV,1:44:37,19,Friday
+363,Basin,PIR,Bathroom,Grooming,0:00:13,21,Friday
+364,Seat,Pressure,Living,Spare_Time/TV,3:11:22,21,Friday
+365,Basin,PIR,Bathroom,Grooming,0:00:18,0,Saturday
+366,Seat,Pressure,Living,Spare_Time/TV,0:29:08,0,Saturday
+367,Bed,Pressure,Bedroom,Sleeping,8:35:30,0,Saturday
+368,Toilet,Flush,Bathroom,No Activity,0:00:30,9,Saturday
+369,Cabinet,Magnetic,Bathroom,Grooming,0:00:05,9,Saturday
+370,Basin,PIR,Bathroom,Grooming,0:08:27,9,Saturday
+371,Cabinet,Magnetic,Bathroom,Grooming,0:00:05,9,Saturday
+372,Basin,PIR,Bathroom,Grooming,0:00:04,9,Saturday
+373,Shower,PIR,Bathroom,Showering,0:04:58,9,Saturday
+374,Cupboard,Magnetic,Kitchen,Breakfast,0:00:08,9,Saturday
+375,Toaster,Electric,Kitchen,Breakfast,0:03:13,9,Saturday
+376,Cupboard,Magnetic,Kitchen,Breakfast,0:00:02,9,Saturday
+377,Fridge,Magnetic,Kitchen,Breakfast,0:00:17,9,Saturday
+378,Microwave,Electric,Kitchen,Breakfast,0:01:20,9,Saturday
+379,Cooktop,PIR,Kitchen,Breakfast,0:00:03,9,Saturday
+380,Seat,Pressure,Living,Spare_Time/TV,2:30:49,10,Saturday
+381,Basin,PIR,Bathroom,Grooming,0:00:45,12,Saturday
+382,Maindoor,Magnetic,Entrance,Leaving,0:00:05,13,Saturday
+383,Maindoor,Magnetic,Entrance,Leaving,0:00:05,17,Saturday
+384,Seat,Pressure,Living,Spare_Time/TV,3:05:28,17,Saturday
+385,Basin,PIR,Bathroom,Grooming,0:01:22,20,Saturday
+386,Maindoor,Magnetic,Entrance,No Activity,0:00:06,20,Saturday
+387,Maindoor,Magnetic,Entrance,No Activity,0:00:04,0,Sunday
+388,Seat,Pressure,Living,Spare_Time/TV,1:24:27,1,Sunday
+389,Basin,PIR,Bathroom,No Activity,0:01:23,2,Sunday
+390,Bed,Pressure,Bedroom,Sleeping,9:26:19,2,Sunday
+391,Toilet,Flush,Bathroom,No Activity,0:00:32,12,Sunday
+392,Basin,PIR,Bathroom,Grooming,0:00:14,12,Sunday
+393,Shower,PIR,Bathroom,Showering,0:15:46,12,Sunday
+394,Toaster,Electric,Kitchen,Breakfast,0:03:12,12,Sunday
+395,Cupboard,Magnetic,Kitchen,Breakfast,0:00:02,12,Sunday
+396,Fridge,Magnetic,Kitchen,Breakfast,0:00:57,12,Sunday
+397,Microwave,Electric,Kitchen,Breakfast,0:01:58,12,Sunday
+398,Seat,Pressure,Living,Spare_Time/TV,1:53:29,12,Sunday
+399,Cupboard,Magnetic,Kitchen,Lunch,0:00:47,14,Sunday
+400,Cooktop,PIR,Kitchen,Lunch,0:23:39,14,Sunday
+401,Cupboard,Magnetic,Kitchen,Lunch,0:00:10,14,Sunday
+402,Cupboard,Magnetic,Kitchen,Lunch,0:01:18,14,Sunday
+403,Cupboard,Magnetic,Kitchen,Lunch,0:00:15,14,Sunday
+404,Fridge,Magnetic,Kitchen,Lunch,0:00:05,15,Sunday
+405,Toilet,Flush,Bathroom,Toileting,0:01:11,15,Sunday
+406,Basin,PIR,Bathroom,Grooming,0:01:56,15,Sunday
+407,Seat,Pressure,Living,No Activity,8:38:59,15,Sunday
+408,Bed,Pressure,Bedroom,No Activity,6:50:46,0,Monday
+0,Seat,Pressure,Living,Spare_Time/TV,3:07:28,21,Sunday
+1,Door,PIR,Living,No Activity,0:00:02,0,Monday
+2,Door,PIR,Kitchen,No Activity,0:00:03,0,Monday
+3,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,0,Monday
+4,Door,PIR,Living,Spare_Time/TV,0:00:12,0,Monday
+5,Seat,Pressure,Living,Spare_Time/TV,0:17:21,0,Monday
+6,Door,PIR,Living,Spare_Time/TV,0:00:03,0,Monday
+7,Door,PIR,Bedroom,No Activity,0:00:03,0,Monday
+8,Door,PIR,Bedroom,No Activity,0:00:03,0,Monday
+9,Basin,PIR,Bathroom,No Activity,0:01:34,0,Monday
+10,Door,PIR,Living,Spare_Time/TV,0:00:03,0,Monday
+11,Seat,Pressure,Living,No Activity,1:00:54,0,Monday
+12,Door,PIR,Living,Toileting,0:00:03,1,Monday
+13,Basin,PIR,Bathroom,Toileting,0:00:08,1,Monday
+14,Toilet,Flush,Bathroom,No Activity,0:00:48,1,Monday
+15,Door,PIR,Bedroom,Toileting,0:00:04,1,Monday
+16,Bed,Pressure,Bedroom,Sleeping,7:35:26,1,Monday
+17,Door,PIR,Bedroom,Sleeping,0:00:03,9,Monday
+18,Toilet,Flush,Bathroom,Toileting,0:01:17,9,Monday
+19,Door,PIR,Living,No Activity,0:00:05,9,Monday
+20,Door,PIR,Living,No Activity,0:00:03,9,Monday
+21,Door,PIR,Kitchen,Breakfast,0:00:03,9,Monday
+22,Fridge,Magnetic,Kitchen,Breakfast,0:00:15,9,Monday
+23,Microwave,Electric,Kitchen,Breakfast,0:01:41,9,Monday
+24,Door,PIR,Kitchen,Breakfast,0:00:02,9,Monday
+25,Door,PIR,Bedroom,No Activity,0:00:03,9,Monday
+26,Door,PIR,Bedroom,Spare_Time/TV,0:00:04,9,Monday
+27,Door,PIR,Living,Spare_Time/TV,0:00:03,9,Monday
+28,Seat,Pressure,Living,Spare_Time/TV,0:17:14,9,Monday
+29,Door,PIR,Living,Spare_Time/TV,0:00:03,10,Monday
+30,Door,PIR,Bedroom,No Activity,0:00:03,10,Monday
+31,Door,PIR,Bedroom,No Activity,0:00:04,10,Monday
+32,Basin,PIR,Bathroom,Grooming,0:01:56,10,Monday
+33,Shower,PIR,Bathroom,Showering,0:08:06,10,Monday
+34,Door,PIR,Living,No Activity,0:00:13,10,Monday
+35,Door,PIR,Living,Grooming,0:00:01,10,Monday
+36,Door,PIR,Kitchen,Grooming,0:00:02,10,Monday
+37,Door,PIR,Kitchen,Grooming,0:00:15,10,Monday
+38,Basin,PIR,Bathroom,Grooming,0:00:23,10,Monday
+39,Toilet,Flush,Bathroom,No Activity,0:00:51,10,Monday
+40,Basin,PIR,Bathroom,No Activity,0:04:47,10,Monday
+41,Door,PIR,Kitchen,Grooming,0:00:02,10,Monday
+42,Door,PIR,Kitchen,No Activity,0:00:02,10,Monday
+43,Door,PIR,Living,No Activity,0:00:02,10,Monday
+44,Door,PIR,Living,No Activity,0:00:02,10,Monday
+45,Basin,PIR,Bathroom,Grooming,0:00:02,10,Monday
+46,Door,PIR,Living,Spare_Time/TV,0:00:07,10,Monday
+47,Door,PIR,Living,Spare_Time/TV,0:00:03,11,Monday
+48,Door,PIR,Kitchen,Snack,0:00:03,11,Monday
+49,Fridge,Magnetic,Kitchen,Snack,0:00:23,11,Monday
+50,Microwave,Electric,Kitchen,Snack,0:00:58,11,Monday
+51,Door,PIR,Kitchen,Snack,0:00:05,11,Monday
+52,Door,PIR,Living,No Activity,0:00:04,11,Monday
+53,Door,PIR,Living,No Activity,0:00:03,11,Monday
+54,Door,PIR,Bedroom,No Activity,0:00:05,11,Monday
+55,Door,PIR,Bedroom,No Activity,0:00:02,11,Monday
+56,Door,PIR,Kitchen,No Activity,0:00:02,11,Monday
+57,Door,PIR,Kitchen,No Activity,0:00:02,11,Monday
+58,Door,PIR,Bedroom,No Activity,0:00:02,11,Monday
+59,Door,PIR,Bedroom,No Activity,0:00:07,11,Monday
+60,Door,PIR,Kitchen,Snack,0:00:03,11,Monday
+61,Fridge,Magnetic,Kitchen,Snack,0:01:39,11,Monday
+62,Fridge,Magnetic,Kitchen,Snack,0:00:03,11,Monday
+63,Door,PIR,Kitchen,Snack,0:00:14,11,Monday
+64,Door,PIR,Living,Snack,0:00:10,11,Monday
+65,Door,PIR,Living,No Activity,0:00:02,12,Monday
+66,Door,PIR,Bedroom,No Activity,0:00:02,12,Monday
+67,Door,PIR,Bedroom,No Activity,0:00:07,12,Monday
+68,Door,PIR,Kitchen,No Activity,0:00:15,12,Monday
+69,Door,PIR,Kitchen,No Activity,0:00:03,12,Monday
+70,Door,PIR,Bedroom,No Activity,0:00:07,12,Monday
+71,Door,PIR,Bedroom,Toileting,0:00:02,12,Monday
+72,Toilet,Flush,Bathroom,Toileting,0:00:40,12,Monday
+73,Door,PIR,Bedroom,No Activity,0:00:02,12,Monday
+74,Door,PIR,Bedroom,No Activity,0:00:02,12,Monday
+75,Door,PIR,Living,No Activity,0:00:04,12,Monday
+76,Door,PIR,Living,No Activity,0:00:03,12,Monday
+77,Toilet,Flush,Bathroom,Toileting,0:02:14,12,Monday
+78,Basin,PIR,Bathroom,Grooming,0:07:09,13,Monday
+79,Basin,PIR,Bathroom,Grooming,0:05:37,13,Monday
+80,Door,PIR,Living,Spare_Time/TV,0:00:51,13,Monday
+81,Door,PIR,Living,Spare_Time/TV,0:00:04,13,Monday
+82,Door,PIR,Kitchen,No Activity,0:00:04,13,Monday
+83,Door,PIR,Kitchen,No Activity,0:00:04,13,Monday
+84,Door,PIR,Kitchen,Lunch,0:00:02,13,Monday
+85,Fridge,Magnetic,Kitchen,Lunch,0:03:08,13,Monday
+86,Door,PIR,Kitchen,Lunch,0:00:03,14,Monday
+87,Door,PIR,Living,Lunch,0:00:03,14,Monday
+88,Door,PIR,Living,Lunch,0:00:02,14,Monday
+89,Door,PIR,Kitchen,Lunch,0:00:03,14,Monday
+90,Cupboard,Magnetic,Kitchen,Lunch,0:00:07,14,Monday
+91,Cupboard,Magnetic,Kitchen,Lunch,0:00:06,14,Monday
+92,Door,PIR,Kitchen,Lunch,0:00:03,14,Monday
+93,Door,PIR,Living,Lunch,0:00:03,14,Monday
+94,Door,PIR,Living,Lunch,0:00:03,14,Monday
+95,Door,PIR,Kitchen,Lunch,0:00:03,14,Monday
+96,Cupboard,Magnetic,Kitchen,Lunch,0:00:07,14,Monday
+97,Door,PIR,Kitchen,Lunch,0:00:02,14,Monday
+98,Door,PIR,Living,Spare_Time/TV,0:00:02,14,Monday
+99,Door,PIR,Living,Spare_Time/TV,0:00:03,15,Monday
+100,Door,PIR,Kitchen,Snack,0:00:02,15,Monday
+101,Cupboard,Magnetic,Kitchen,Snack,0:00:12,15,Monday
+102,Door,PIR,Kitchen,Snack,0:00:04,15,Monday
+103,Toilet,Flush,Bathroom,No Activity,0:00:58,15,Monday
+104,Basin,PIR,Bathroom,Grooming,0:01:34,15,Monday
+105,Door,PIR,Living,Spare_Time/TV,0:00:03,15,Monday
+106,Seat,Pressure,Living,Spare_Time/TV,0:27:20,15,Monday
+107,Door,PIR,Living,Spare_Time/TV,0:00:06,16,Monday
+108,Maindoor,Magnetic,Entrance,Leaving,0:00:07,16,Monday
+109,Maindoor,Magnetic,Entrance,Leaving,0:00:03,17,Monday
+110,Door,PIR,Living,Spare_Time/TV,0:00:03,17,Monday
+111,Door,PIR,Living,Spare_Time/TV,0:00:04,17,Monday
+112,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,17,Monday
+113,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,17,Monday
+114,Door,PIR,Living,No Activity,0:00:08,17,Monday
+115,Door,PIR,Living,No Activity,0:00:04,17,Monday
+116,Toilet,Flush,Bathroom,No Activity,0:00:58,17,Monday
+117,Basin,PIR,Bathroom,No Activity,0:00:12,17,Monday
+118,Door,PIR,Living,Grooming,0:00:03,17,Monday
+119,Seat,Pressure,Living,Spare_Time/TV,1:01:36,17,Monday
+120,Door,PIR,Living,Snack,0:00:03,18,Monday
+121,Door,PIR,Kitchen,Snack,0:00:04,18,Monday
+122,Fridge,Magnetic,Kitchen,Snack,0:00:16,18,Monday
+123,Microwave,Electric,Kitchen,Snack,0:01:01,18,Monday
+124,Door,PIR,Kitchen,Snack,0:00:03,18,Monday
+125,Door,PIR,Bedroom,No Activity,0:00:05,19,Monday
+126,Door,PIR,Bedroom,Spare_Time/TV,0:00:03,19,Monday
+127,Door,PIR,Living,Spare_Time/TV,0:00:04,19,Monday
+128,Seat,Pressure,Living,Spare_Time/TV,1:53:39,19,Monday
+129,Door,PIR,Living,Spare_Time/TV,0:00:02,20,Monday
+130,Door,PIR,Bedroom,Spare_Time/TV,0:00:12,20,Monday
+131,Door,PIR,Bedroom,No Activity,0:00:03,20,Monday
+132,Door,PIR,Living,Spare_Time/TV,0:00:03,21,Monday
+133,Door,PIR,Living,Spare_Time/TV,0:00:19,21,Monday
+134,Basin,PIR,Bathroom,Grooming,0:00:07,21,Monday
+135,Door,PIR,Living,Grooming,0:00:04,21,Monday
+136,Door,PIR,Living,No Activity,0:00:03,22,Monday
+137,Door,PIR,Bedroom,No Activity,0:00:03,22,Monday
+138,Door,PIR,Bedroom,No Activity,0:00:02,22,Monday
+139,Door,PIR,Kitchen,Dinner,0:00:04,22,Monday
+140,Cupboard,Magnetic,Kitchen,Dinner,0:00:35,22,Monday
+141,Door,PIR,Kitchen,Dinner,0:00:03,22,Monday
+142,Basin,PIR,Bathroom,Grooming,0:00:08,22,Monday
+143,Door,PIR,Living,Spare_Time/TV,0:00:04,22,Monday
+144,Seat,Pressure,Living,Spare_Time/TV,0:38:43,22,Monday
+145,Door,PIR,Living,Spare_Time/TV,0:00:03,23,Monday
+146,Door,PIR,Bedroom,Spare_Time/TV,0:00:03,23,Monday
+147,Door,PIR,Bedroom,Toileting,0:00:02,23,Monday
+148,Toilet,Flush,Bathroom,Toileting,0:01:08,23,Monday
+149,Door,PIR,Living,No Activity,0:00:04,23,Monday
+150,Door,PIR,Living,No Activity,0:00:03,23,Monday
+151,Door,PIR,Kitchen,No Activity,0:00:03,23,Monday
+152,Door,PIR,Kitchen,No Activity,0:00:02,23,Monday
+153,Door,PIR,Living,No Activity,0:00:03,23,Monday
+154,Seat,Pressure,Living,Spare_Time/TV,1:39:14,23,Monday
+155,Door,PIR,Living,No Activity,0:00:36,1,Tuesday
+156,Basin,PIR,Bathroom,Grooming,0:00:33,1,Tuesday
+157,Door,PIR,Bedroom,Grooming,0:00:04,1,Tuesday
+158,Bed,Pressure,Bedroom,Sleeping,7:20:43,1,Tuesday
+159,Door,PIR,Bedroom,Sleeping,0:00:03,8,Tuesday
+160,Door,PIR,Living,No Activity,0:00:02,8,Tuesday
+161,Door,PIR,Living,Breakfast,0:00:03,8,Tuesday
+162,Door,PIR,Kitchen,Breakfast,0:00:05,8,Tuesday
+163,Fridge,Magnetic,Kitchen,Breakfast,0:00:04,8,Tuesday
+164,Microwave,Electric,Kitchen,Breakfast,0:01:41,8,Tuesday
+165,Fridge,Magnetic,Kitchen,Breakfast,0:00:03,8,Tuesday
+166,Door,PIR,Kitchen,Breakfast,0:00:02,9,Tuesday
+167,Door,PIR,Bedroom,No Activity,0:00:04,9,Tuesday
+168,Door,PIR,Bedroom,No Activity,0:00:02,9,Tuesday
+169,Basin,PIR,Bathroom,Grooming,0:00:03,9,Tuesday
+170,Toilet,Flush,Bathroom,Toileting,0:01:05,9,Tuesday
+171,Basin,PIR,Bathroom,Grooming,0:03:02,9,Tuesday
+172,Basin,PIR,Bathroom,Grooming,0:00:49,9,Tuesday
+173,Basin,PIR,Bathroom,Grooming,0:01:55,9,Tuesday
+174,Door,PIR,Bedroom,No Activity,0:00:04,9,Tuesday
+175,Door,PIR,Bedroom,No Activity,0:00:03,9,Tuesday
+176,Maindoor,Magnetic,Entrance,Leaving,0:00:06,9,Tuesday
+177,Maindoor,Magnetic,Entrance,Leaving,0:00:03,10,Tuesday
+178,Door,PIR,Kitchen,Leaving,0:00:03,10,Tuesday
+179,Fridge,Magnetic,Kitchen,No Activity,0:00:03,10,Tuesday
+180,Door,PIR,Kitchen,No Activity,0:00:02,10,Tuesday
+181,Door,PIR,Kitchen,Snack,0:00:03,10,Tuesday
+182,Door,PIR,Kitchen,Snack,0:00:04,10,Tuesday
+183,Door,PIR,Bedroom,No Activity,0:00:03,10,Tuesday
+184,Door,PIR,Bedroom,No Activity,0:00:03,10,Tuesday
+185,Maindoor,Magnetic,Entrance,Leaving,0:00:03,10,Tuesday
+186,Maindoor,Magnetic,Entrance,Leaving,0:00:04,13,Tuesday
+187,Door,PIR,Kitchen,No Activity,0:00:04,13,Tuesday
+188,Door,PIR,Kitchen,No Activity,0:00:03,13,Tuesday
+189,Door,PIR,Bedroom,No Activity,0:00:01,13,Tuesday
+190,Door,PIR,Bedroom,No Activity,0:00:02,13,Tuesday
+191,Door,PIR,Kitchen,Snack,0:00:03,13,Tuesday
+192,Fridge,Magnetic,Kitchen,Snack,0:00:05,13,Tuesday
+193,Fridge,Magnetic,Kitchen,Snack,0:00:03,13,Tuesday
+194,Door,PIR,Kitchen,Snack,0:00:02,13,Tuesday
+195,Door,PIR,Kitchen,No Activity,0:00:10,14,Tuesday
+196,Door,PIR,Kitchen,No Activity,0:00:02,14,Tuesday
+197,Toilet,Flush,Bathroom,Toileting,0:00:45,14,Tuesday
+198,Door,PIR,Kitchen,Lunch,0:00:04,14,Tuesday
+199,Door,PIR,Kitchen,Lunch,0:00:04,14,Tuesday
+200,Door,PIR,Kitchen,Lunch,0:00:03,14,Tuesday
+201,Cupboard,Magnetic,Kitchen,Lunch,0:00:02,14,Tuesday
+202,Fridge,Magnetic,Kitchen,Lunch,0:00:04,14,Tuesday
+203,Cupboard,Magnetic,Kitchen,Lunch,0:00:03,14,Tuesday
+204,Door,PIR,Kitchen,Lunch,0:00:03,14,Tuesday
+205,Door,PIR,Living,Lunch,0:00:03,14,Tuesday
+206,Door,PIR,Living,Lunch,0:00:02,14,Tuesday
+207,Door,PIR,Kitchen,Lunch,0:00:03,14,Tuesday
+208,Door,PIR,Kitchen,Lunch,0:00:03,14,Tuesday
+209,Door,PIR,Living,Spare_Time/TV,0:00:02,14,Tuesday
+210,Seat,Pressure,Living,Spare_Time/TV,1:06:29,14,Tuesday
+211,Door,PIR,Living,Spare_Time/TV,0:00:03,15,Tuesday
+212,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,15,Tuesday
+213,Door,PIR,Kitchen,No Activity,0:00:02,16,Tuesday
+214,Door,PIR,Living,No Activity,0:00:03,16,Tuesday
+215,Door,PIR,Living,No Activity,0:00:02,16,Tuesday
+216,Toilet,Flush,Bathroom,No Activity,0:00:54,16,Tuesday
+217,Door,PIR,Living,Toileting,0:00:03,16,Tuesday
+218,Door,PIR,Living,Spare_Time/TV,0:00:03,16,Tuesday
+219,Door,PIR,Bedroom,No Activity,0:00:03,16,Tuesday
+220,Door,PIR,Bedroom,No Activity,0:00:03,16,Tuesday
+221,Door,PIR,Living,Spare_Time/TV,0:00:04,16,Tuesday
+222,Seat,Pressure,Living,Spare_Time/TV,0:54:02,16,Tuesday
+223,Door,PIR,Living,Spare_Time/TV,0:00:03,17,Tuesday
+224,Door,PIR,Bedroom,No Activity,0:00:03,17,Tuesday
+225,Door,PIR,Bedroom,Snack,0:00:04,17,Tuesday
+226,Door,PIR,Kitchen,Snack,0:00:03,17,Tuesday
+227,Door,PIR,Kitchen,Snack,0:00:02,17,Tuesday
+228,Door,PIR,Living,Spare_Time/TV,0:00:04,17,Tuesday
+229,Seat,Pressure,Living,Spare_Time/TV,0:16:43,17,Tuesday
+230,Door,PIR,Living,Spare_Time/TV,0:00:03,17,Tuesday
+231,Door,PIR,Living,Spare_Time/TV,0:00:03,17,Tuesday
+232,Seat,Pressure,Living,Spare_Time/TV,0:22:21,17,Tuesday
+233,Door,PIR,Living,Spare_Time/TV,0:00:03,18,Tuesday
+234,Door,PIR,Living,Spare_Time/TV,0:00:04,18,Tuesday
+235,Seat,Pressure,Living,Spare_Time/TV,0:22:02,18,Tuesday
+236,Door,PIR,Living,Spare_Time/TV,0:00:02,18,Tuesday
+237,Door,PIR,Kitchen,Snack,0:00:02,18,Tuesday
+238,Door,PIR,Kitchen,Snack,0:00:11,19,Tuesday
+239,Door,PIR,Kitchen,Snack,0:00:03,19,Tuesday
+240,Door,PIR,Kitchen,No Activity,0:00:04,19,Tuesday
+241,Door,PIR,Living,No Activity,0:00:25,19,Tuesday
+242,Door,PIR,Living,No Activity,0:00:02,19,Tuesday
+243,Toilet,Flush,Bathroom,Toileting,0:00:57,19,Tuesday
+244,Door,PIR,Bedroom,No Activity,0:00:02,19,Tuesday
+245,Door,PIR,Bedroom,No Activity,0:00:03,19,Tuesday
+246,Door,PIR,Living,Spare_Time/TV,0:00:01,19,Tuesday
+247,Seat,Pressure,Living,Spare_Time/TV,3:04:31,19,Tuesday
+248,Door,PIR,Living,Spare_Time/TV,0:00:04,22,Tuesday
+249,Door,PIR,Bedroom,Spare_Time/TV,0:00:04,22,Tuesday
+250,Door,PIR,Bedroom,Spare_Time/TV,0:00:02,22,Tuesday
+251,Door,PIR,Living,Spare_Time/TV,0:00:04,23,Tuesday
+252,Door,PIR,Living,Dinner,0:00:03,23,Tuesday
+253,Door,PIR,Kitchen,Dinner,0:00:05,23,Tuesday
+254,Microwave,Electric,Kitchen,Dinner,0:03:46,23,Tuesday
+255,Door,PIR,Kitchen,Dinner,0:00:02,23,Tuesday
+256,Door,PIR,Living,Dinner,0:00:08,23,Tuesday
+257,Door,PIR,Living,No Activity,0:00:05,23,Tuesday
+258,Door,PIR,Bedroom,No Activity,0:00:11,23,Tuesday
+259,Door,PIR,Bedroom,No Activity,0:00:02,23,Tuesday
+260,Basin,PIR,Bathroom,Grooming,0:00:31,23,Tuesday
+261,Door,PIR,Living,Grooming,0:00:06,23,Tuesday
+262,Door,PIR,Living,No Activity,0:00:03,23,Tuesday
+263,Door,PIR,Kitchen,No Activity,0:00:03,23,Tuesday
+264,Door,PIR,Kitchen,No Activity,0:00:02,23,Tuesday
+265,Door,PIR,Living,No Activity,0:00:04,23,Tuesday
+266,Seat,Pressure,Living,Spare_Time/TV,0:34:34,23,Tuesday
+267,Door,PIR,Living,No Activity,0:00:03,0,Wednesday
+268,Basin,PIR,Bathroom,No Activity,0:01:09,0,Wednesday
+269,Toilet,Flush,Bathroom,Toileting,0:00:48,0,Wednesday
+270,Door,PIR,Bedroom,Toileting,0:00:05,0,Wednesday
+271,Bed,Pressure,Bedroom,Sleeping,4:41:34,0,Wednesday
+272,Door,PIR,Bedroom,Sleeping,0:00:03,5,Wednesday
+273,Basin,PIR,Bathroom,Grooming,0:00:33,5,Wednesday
+274,Door,PIR,Bedroom,Grooming,0:00:04,5,Wednesday
+275,Bed,Pressure,Bedroom,Sleeping,3:43:23,5,Wednesday
+276,Door,PIR,Bedroom,Sleeping,0:00:05,9,Wednesday
+277,Toilet,Flush,Bathroom,Toileting,0:01:00,9,Wednesday
+278,Door,PIR,Bedroom,Toileting,0:00:04,9,Wednesday
+279,Door,PIR,Bedroom,Breakfast,0:00:02,9,Wednesday
+280,Door,PIR,Kitchen,Breakfast,0:00:04,9,Wednesday
+281,Fridge,Magnetic,Kitchen,Breakfast,0:00:18,9,Wednesday
+282,Microwave,Electric,Kitchen,Breakfast,0:01:29,9,Wednesday
+283,Microwave,Electric,Kitchen,Breakfast,0:00:15,9,Wednesday
+284,Door,PIR,Kitchen,Breakfast,0:00:03,9,Wednesday
+285,Door,PIR,Living,No Activity,0:00:04,9,Wednesday
+286,Door,PIR,Living,No Activity,0:00:03,9,Wednesday
+287,Door,PIR,Bedroom,Spare_Time/TV,0:00:05,9,Wednesday
+288,Door,PIR,Bedroom,Spare_Time/TV,0:00:05,9,Wednesday
+289,Door,PIR,Living,Spare_Time/TV,0:00:03,9,Wednesday
+290,Seat,Pressure,Living,Spare_Time/TV,1:13:38,9,Wednesday
+291,Door,PIR,Living,Spare_Time/TV,0:00:03,10,Wednesday
+292,Door,PIR,Kitchen,Breakfast,0:00:03,10,Wednesday
+293,Fridge,Magnetic,Kitchen,Breakfast,0:00:06,10,Wednesday
+294,Door,PIR,Kitchen,Breakfast,0:00:14,10,Wednesday
+295,Door,PIR,Kitchen,Breakfast,0:00:02,10,Wednesday
+296,Cupboard,Magnetic,Kitchen,Breakfast,0:00:02,10,Wednesday
+297,Door,PIR,Kitchen,Breakfast,0:00:03,11,Wednesday
+298,Door,PIR,Bedroom,No Activity,0:00:04,11,Wednesday
+299,Door,PIR,Bedroom,No Activity,0:00:02,11,Wednesday
+300,Door,PIR,Living,Spare_Time/TV,0:00:03,11,Wednesday
+301,Seat,Pressure,Living,Spare_Time/TV,0:07:12,11,Wednesday
+302,Door,PIR,Living,Spare_Time/TV,0:00:05,11,Wednesday
+303,Door,PIR,Living,Spare_Time/TV,0:00:03,11,Wednesday
+304,Seat,Pressure,Living,Spare_Time/TV,0:14:42,11,Wednesday
+305,Door,PIR,Living,Spare_Time/TV,0:00:03,11,Wednesday
+306,Door,PIR,Kitchen,No Activity,0:00:23,11,Wednesday
+307,Door,PIR,Kitchen,No Activity,0:00:03,11,Wednesday
+308,Basin,PIR,Bathroom,Grooming,0:04:38,11,Wednesday
+309,Shower,PIR,Bathroom,Showering,0:02:52,11,Wednesday
+310,Basin,PIR,Bathroom,Grooming,0:02:26,12,Wednesday
+311,Basin,PIR,Bathroom,Grooming,0:01:03,12,Wednesday
+312,Door,PIR,Bedroom,No Activity,0:00:04,12,Wednesday
+313,Door,PIR,Bedroom,No Activity,0:00:04,12,Wednesday
+314,Basin,PIR,Bathroom,Grooming,0:01:24,12,Wednesday
+315,Door,PIR,Living,Spare_Time/TV,0:00:15,12,Wednesday
+316,Door,PIR,Living,Spare_Time/TV,0:00:02,12,Wednesday
+317,Door,PIR,Bedroom,Spare_Time/TV,0:00:04,12,Wednesday
+318,Door,PIR,Bedroom,Spare_Time/TV,0:00:14,12,Wednesday
+319,Door,PIR,Living,Spare_Time/TV,0:00:03,12,Wednesday
+320,Seat,Pressure,Living,Spare_Time/TV,0:04:35,12,Wednesday
+321,Door,PIR,Living,Spare_Time/TV,0:00:05,12,Wednesday
+322,Maindoor,Magnetic,Entrance,Spare_Time/TV,0:00:05,12,Wednesday
+323,Maindoor,Magnetic,Entrance,Leaving,0:00:08,12,Wednesday
+324,Door,PIR,Living,Leaving,0:00:03,12,Wednesday
+325,Door,PIR,Living,Leaving,0:00:03,12,Wednesday
+326,Door,PIR,Kitchen,Leaving,0:00:04,12,Wednesday
+327,Door,PIR,Kitchen,No Activity,0:00:03,12,Wednesday
+328,Door,PIR,Living,No Activity,0:00:04,12,Wednesday
+329,Door,PIR,Living,No Activity,0:00:03,12,Wednesday
+330,Maindoor,Magnetic,Entrance,Leaving,0:00:07,12,Wednesday
+331,Maindoor,Magnetic,Entrance,Leaving,0:00:06,14,Wednesday
+332,Toilet,Flush,Bathroom,No Activity,0:00:50,14,Wednesday
+333,Basin,PIR,Bathroom,No Activity,0:00:51,14,Wednesday
+334,Door,PIR,Living,Grooming,0:00:14,14,Wednesday
+335,Door,PIR,Living,No Activity,0:00:06,14,Wednesday
+336,Door,PIR,Bedroom,No Activity,0:00:04,14,Wednesday
+337,Door,PIR,Bedroom,No Activity,0:00:04,14,Wednesday
+338,Maindoor,Magnetic,Entrance,Leaving,0:00:07,14,Wednesday
+339,Maindoor,Magnetic,Entrance,Leaving,0:00:06,15,Wednesday
+340,Door,PIR,Living,No Activity,0:00:03,15,Wednesday
+341,Door,PIR,Living,No Activity,0:00:03,15,Wednesday
+342,Door,PIR,Living,Spare_Time/TV,0:00:04,15,Wednesday
+343,Seat,Pressure,Living,Spare_Time/TV,3:48:44,15,Wednesday
+344,Door,PIR,Living,Spare_Time/TV,0:00:06,19,Wednesday
+345,Door,PIR,Living,No Activity,0:00:04,19,Wednesday
+346,Door,PIR,Living,No Activity,0:00:03,19,Wednesday
+347,Door,PIR,Bedroom,No Activity,0:00:04,19,Wednesday
+348,Door,PIR,Bedroom,No Activity,0:00:02,19,Wednesday
+349,Door,PIR,Living,No Activity,0:00:03,20,Wednesday
+350,Door,PIR,Living,No Activity,0:00:03,20,Wednesday
+351,Door,PIR,Kitchen,No Activity,0:00:03,20,Wednesday
+352,Door,PIR,Kitchen,No Activity,0:00:04,20,Wednesday
+353,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Wednesday
+354,Seat,Pressure,Living,Spare_Time/TV,0:51:51,20,Wednesday
+355,Door,PIR,Living,Spare_Time/TV,0:00:02,21,Wednesday
+356,Door,PIR,Living,Spare_Time/TV,0:00:03,21,Wednesday
+357,Door,PIR,Living,Spare_Time/TV,0:00:04,21,Wednesday
+358,Door,PIR,Kitchen,Spare_Time/TV,0:00:05,21,Wednesday
+359,Microwave,Electric,Kitchen,Dinner,0:02:00,21,Wednesday
+360,Cupboard,Magnetic,Kitchen,Dinner,0:00:06,21,Wednesday
+361,Door,PIR,Kitchen,Dinner,0:00:02,21,Wednesday
+362,Door,PIR,Living,Dinner,0:00:03,21,Wednesday
+363,Door,PIR,Living,Dinner,0:00:03,21,Wednesday
+364,Door,PIR,Kitchen,Dinner,0:00:02,21,Wednesday
+365,Microwave,Electric,Kitchen,Dinner,0:00:11,21,Wednesday
+366,Fridge,Magnetic,Kitchen,Dinner,0:00:06,21,Wednesday
+367,Fridge,Magnetic,Kitchen,Dinner,0:00:03,21,Wednesday
+368,Door,PIR,Kitchen,Dinner,0:00:03,21,Wednesday
+369,Door,PIR,Living,Dinner,0:00:03,21,Wednesday
+370,Seat,Pressure,Living,Spare_Time/TV,0:25:22,21,Wednesday
+371,Door,PIR,Living,Spare_Time/TV,0:00:03,22,Wednesday
+372,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,22,Wednesday
+373,Fridge,Magnetic,Kitchen,Snack,0:00:18,22,Wednesday
+374,Door,PIR,Kitchen,Snack,0:00:02,22,Wednesday
+375,Door,PIR,Living,Spare_Time/TV,0:00:04,22,Wednesday
+376,Seat,Pressure,Living,Spare_Time/TV,0:45:51,22,Wednesday
+377,Door,PIR,Living,Spare_Time/TV,0:00:02,23,Wednesday
+378,Door,PIR,Bedroom,No Activity,0:00:03,23,Wednesday
+379,Door,PIR,Bedroom,No Activity,0:00:06,23,Wednesday
+380,Door,PIR,Kitchen,No Activity,0:00:03,23,Wednesday
+381,Door,PIR,Kitchen,No Activity,0:00:03,23,Wednesday
+382,Door,PIR,Living,No Activity,0:00:04,23,Wednesday
+383,Seat,Pressure,Living,Spare_Time/TV,0:52:04,23,Wednesday
+384,Door,PIR,Living,No Activity,0:00:06,0,Thursday
+385,Basin,PIR,Bathroom,Grooming,0:00:08,0,Thursday
+386,Toilet,Flush,Bathroom,No Activity,0:00:48,0,Thursday
+387,Basin,PIR,Bathroom,No Activity,0:00:28,0,Thursday
+388,Door,PIR,Bedroom,Grooming,0:00:05,0,Thursday
+389,Bed,Pressure,Bedroom,Sleeping,0:28:04,0,Thursday
+390,Door,PIR,Bedroom,No Activity,0:00:04,0,Thursday
+391,Door,PIR,Bedroom,Sleeping,0:00:06,0,Thursday
+392,Bed,Pressure,Bedroom,Sleeping,0:02:02,0,Thursday
+393,Door,PIR,Bedroom,Sleeping,0:00:03,0,Thursday
+394,Door,PIR,Living,Sleeping,0:00:09,0,Thursday
+395,Seat,Pressure,Living,Spare_Time/TV,1:10:11,0,Thursday
+396,Door,PIR,Living,Spare_Time/TV,0:00:07,1,Thursday
+397,Door,PIR,Bedroom,Sleeping,0:00:02,1,Thursday
+398,Bed,Pressure,Bedroom,Sleeping,5:49:03,1,Thursday
+399,Door,PIR,Bedroom,Sleeping,0:00:03,7,Thursday
+400,Toilet,Flush,Bathroom,Toileting,0:00:41,7,Thursday
+401,Door,PIR,Bedroom,Sleeping,0:00:03,7,Thursday
+402,Bed,Pressure,Bedroom,Sleeping,1:39:36,7,Thursday
+403,Door,PIR,Bedroom,Sleeping,0:00:05,9,Thursday
+404,Door,PIR,Living,No Activity,0:00:03,9,Thursday
+405,Door,PIR,Living,Breakfast,0:00:03,9,Thursday
+406,Door,PIR,Kitchen,Breakfast,0:00:04,9,Thursday
+407,Fridge,Magnetic,Kitchen,Breakfast,0:00:18,9,Thursday
+408,Microwave,Electric,Kitchen,Breakfast,0:01:36,9,Thursday
+409,Door,PIR,Kitchen,Breakfast,0:00:04,9,Thursday
+410,Door,PIR,Living,Breakfast,0:00:03,9,Thursday
+411,Door,PIR,Living,No Activity,0:00:03,9,Thursday
+412,Toilet,Flush,Bathroom,No Activity,0:01:15,9,Thursday
+413,Basin,PIR,Bathroom,Grooming,0:00:05,9,Thursday
+414,Door,PIR,Bedroom,Grooming,0:00:03,9,Thursday
+415,Door,PIR,Bedroom,Grooming,0:00:03,9,Thursday
+416,Basin,PIR,Bathroom,Grooming,0:03:05,9,Thursday
+417,Shower,PIR,Bathroom,No Activity,0:06:35,9,Thursday
+418,Basin,PIR,Bathroom,Grooming,0:01:58,10,Thursday
+419,Door,PIR,Bedroom,No Activity,0:00:04,10,Thursday
+420,Door,PIR,Bedroom,No Activity,0:00:01,10,Thursday
+421,Door,PIR,Kitchen,Snack,0:00:06,10,Thursday
+422,Door,PIR,Kitchen,Snack,0:00:02,10,Thursday
+423,Door,PIR,Bedroom,No Activity,0:00:04,10,Thursday
+424,Door,PIR,Bedroom,No Activity,0:00:04,10,Thursday
+425,Door,PIR,Living,No Activity,0:00:04,10,Thursday
+426,Seat,Pressure,Living,Spare_Time/TV,0:53:09,10,Thursday
+427,Door,PIR,Living,No Activity,0:00:03,11,Thursday
+428,Door,PIR,Bedroom,No Activity,0:00:04,11,Thursday
+429,Door,PIR,Bedroom,No Activity,0:00:20,11,Thursday
+430,Maindoor,Magnetic,Entrance,Leaving,0:00:23,11,Thursday
+431,Maindoor,Magnetic,Entrance,Leaving,0:00:08,13,Thursday
+432,Door,PIR,Kitchen,Leaving,0:00:02,13,Thursday
+433,Door,PIR,Kitchen,No Activity,0:00:03,13,Thursday
+434,Door,PIR,Living,No Activity,0:00:02,13,Thursday
+435,Door,PIR,Living,No Activity,0:00:03,13,Thursday
+436,Door,PIR,Kitchen,No Activity,0:00:03,13,Thursday
+437,Door,PIR,Kitchen,No Activity,0:00:02,13,Thursday
+438,Door,PIR,Living,No Activity,0:00:03,13,Thursday
+439,Seat,Pressure,Living,Spare_Time/TV,1:10:34,13,Thursday
+440,Door,PIR,Living,No Activity,0:00:03,14,Thursday
+441,Door,PIR,Kitchen,No Activity,0:00:05,14,Thursday
+442,Door,PIR,Kitchen,No Activity,0:00:03,14,Thursday
+443,Door,PIR,Living,No Activity,0:00:03,14,Thursday
+444,Door,PIR,Living,Lunch,0:00:04,14,Thursday
+445,Door,PIR,Kitchen,Lunch,0:00:02,14,Thursday
+446,Cupboard,Magnetic,Kitchen,Lunch,0:00:03,14,Thursday
+447,Door,PIR,Kitchen,Lunch,0:00:04,14,Thursday
+448,Door,PIR,Living,Lunch,0:00:03,14,Thursday
+449,Door,PIR,Living,Lunch,0:00:05,15,Thursday
+450,Door,PIR,Kitchen,Lunch,0:00:02,15,Thursday
+451,Fridge,Magnetic,Kitchen,Lunch,0:00:03,15,Thursday
+452,Door,PIR,Kitchen,Lunch,0:00:03,15,Thursday
+453,Door,PIR,Living,Lunch,0:00:03,15,Thursday
+454,Door,PIR,Living,Lunch,0:00:02,15,Thursday
+455,Door,PIR,Kitchen,Lunch,0:00:03,15,Thursday
+456,Fridge,Magnetic,Kitchen,Lunch,0:00:05,15,Thursday
+457,Door,PIR,Kitchen,Lunch,0:00:03,15,Thursday
+458,Door,PIR,Living,Lunch,0:00:02,15,Thursday
+459,Door,PIR,Living,No Activity,0:00:04,15,Thursday
+460,Toilet,Flush,Bathroom,No Activity,0:01:13,15,Thursday
+461,Basin,PIR,Bathroom,No Activity,0:01:01,15,Thursday
+462,Door,PIR,Living,No Activity,0:00:04,15,Thursday
+463,Door,PIR,Living,Leaving,0:00:04,15,Thursday
+464,Maindoor,Magnetic,Entrance,Leaving,0:00:11,15,Thursday
+465,Maindoor,Magnetic,Entrance,Leaving,0:00:07,20,Thursday
+466,Door,PIR,Living,No Activity,0:00:02,20,Thursday
+467,Door,PIR,Living,No Activity,0:00:03,20,Thursday
+468,Door,PIR,Kitchen,No Activity,0:00:02,20,Thursday
+469,Door,PIR,Kitchen,No Activity,0:00:04,20,Thursday
+470,Door,PIR,Living,No Activity,0:00:04,20,Thursday
+471,Door,PIR,Living,No Activity,0:00:02,22,Thursday
+472,Door,PIR,Kitchen,Snack,0:00:03,22,Thursday
+473,Door,PIR,Kitchen,Snack,0:00:02,22,Thursday
+474,Door,PIR,Living,Snack,0:00:03,22,Thursday
+475,Door,PIR,Living,Dinner,0:00:02,22,Thursday
+476,Door,PIR,Kitchen,Dinner,0:00:02,22,Thursday
+477,Microwave,Electric,Kitchen,Dinner,0:04:01,22,Thursday
+478,Cupboard,Magnetic,Kitchen,Dinner,0:00:10,22,Thursday
+479,Door,PIR,Kitchen,Dinner,0:00:04,22,Thursday
+480,Door,PIR,Living,No Activity,0:00:03,22,Thursday
+481,Door,PIR,Living,No Activity,0:00:04,0,Friday
+482,Door,PIR,Kitchen,No Activity,0:00:03,0,Friday
+483,Door,PIR,Kitchen,No Activity,0:00:03,0,Friday
+484,Door,PIR,Living,No Activity,0:00:05,0,Friday
+485,Door,PIR,Living,Grooming,0:00:03,0,Friday
+486,Basin,PIR,Bathroom,No Activity,0:02:53,0,Friday
+487,Toilet,Flush,Bathroom,No Activity,0:00:43,0,Friday
+488,Basin,PIR,Bathroom,Grooming,0:00:07,0,Friday
+489,Door,PIR,Living,Grooming,0:00:02,0,Friday
+490,Door,PIR,Living,No Activity,0:00:03,0,Friday
+491,Door,PIR,Bedroom,Sleeping,0:00:02,0,Friday
+492,Bed,Pressure,Bedroom,Sleeping,9:37:21,0,Friday
+493,Door,PIR,Bedroom,Sleeping,0:00:03,10,Friday
+494,Door,PIR,Living,No Activity,0:00:03,10,Friday
+495,Door,PIR,Living,No Activity,0:00:03,10,Friday
+496,Door,PIR,Kitchen,Breakfast,0:00:04,10,Friday
+497,Fridge,Magnetic,Kitchen,Breakfast,0:00:02,10,Friday
+498,Microwave,Electric,Kitchen,Breakfast,0:00:54,10,Friday
+499,Door,PIR,Kitchen,Breakfast,0:00:02,10,Friday
+500,Shower,PIR,Bathroom,Showering,0:03:10,11,Friday
+501,Basin,PIR,Bathroom,Grooming,0:03:13,11,Friday
+502,Basin,PIR,Bathroom,Grooming,0:01:51,11,Friday
+503,Door,PIR,Bedroom,No Activity,0:00:04,11,Friday
+504,Door,PIR,Bedroom,No Activity,0:00:06,11,Friday
+505,Basin,PIR,Bathroom,Grooming,0:07:42,11,Friday
+506,Door,PIR,Living,No Activity,0:00:03,11,Friday
+507,Door,PIR,Living,Snack,0:00:02,12,Friday
+508,Door,PIR,Kitchen,Snack,0:00:01,12,Friday
+509,Fridge,Magnetic,Kitchen,Snack,0:00:06,12,Friday
+510,Door,PIR,Kitchen,Snack,0:00:02,12,Friday
+511,Maindoor,Magnetic,Entrance,Leaving,0:00:06,12,Friday
+512,Maindoor,Magnetic,Entrance,Leaving,0:00:06,12,Friday
+513,Door,PIR,Bedroom,No Activity,0:00:04,12,Friday
+514,Door,PIR,Bedroom,Spare_Time/TV,0:00:02,12,Friday
+515,Door,PIR,Living,Spare_Time/TV,0:00:03,12,Friday
+516,Seat,Pressure,Living,Spare_Time/TV,0:53:58,12,Friday
+517,Door,PIR,Living,Spare_Time/TV,0:00:04,13,Friday
+518,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,13,Friday
+519,Door,PIR,Kitchen,No Activity,0:00:04,14,Friday
+520,Door,PIR,Living,No Activity,0:00:05,14,Friday
+521,Door,PIR,Living,Lunch,0:00:05,14,Friday
+522,Door,PIR,Kitchen,Lunch,0:00:03,14,Friday
+523,Cupboard,Magnetic,Kitchen,Lunch,0:00:07,14,Friday
+524,Door,PIR,Kitchen,Lunch,0:00:04,14,Friday
+525,Door,PIR,Living,Lunch,0:00:03,14,Friday
+526,Door,PIR,Living,Lunch,0:00:03,14,Friday
+527,Door,PIR,Kitchen,Lunch,0:00:03,14,Friday
+528,Door,PIR,Kitchen,Lunch,0:00:03,14,Friday
+529,Door,PIR,Living,Lunch,0:00:04,14,Friday
+530,Door,PIR,Living,Lunch,0:00:03,14,Friday
+531,Door,PIR,Kitchen,Lunch,0:00:03,14,Friday
+532,Door,PIR,Kitchen,Lunch,0:00:02,14,Friday
+533,Door,PIR,Living,Lunch,0:00:03,14,Friday
+534,Door,PIR,Living,Lunch,0:00:03,14,Friday
+535,Door,PIR,Kitchen,Lunch,0:00:26,14,Friday
+536,Door,PIR,Kitchen,Lunch,0:00:02,14,Friday
+537,Toilet,Flush,Bathroom,Toileting,0:01:28,15,Friday
+538,Door,PIR,Bedroom,No Activity,0:00:14,15,Friday
+539,Door,PIR,Bedroom,No Activity,0:00:14,15,Friday
+540,Door,PIR,Living,No Activity,0:00:04,15,Friday
+541,Door,PIR,Living,No Activity,0:00:02,15,Friday
+542,Maindoor,Magnetic,Entrance,Leaving,0:00:07,15,Friday
+543,Maindoor,Magnetic,Entrance,Leaving,0:00:05,18,Friday
+544,Door,PIR,Living,Leaving,0:00:04,18,Friday
+545,Door,PIR,Living,Leaving,0:00:03,18,Friday
+546,Toilet,Flush,Bathroom,Toileting,0:00:57,18,Friday
+547,Door,PIR,Living,Toileting,0:00:03,18,Friday
+548,Door,PIR,Living,Snack,0:00:03,18,Friday
+549,Door,PIR,Kitchen,Snack,0:00:05,18,Friday
+550,Microwave,Electric,Kitchen,No Activity,0:01:40,18,Friday
+551,Fridge,Magnetic,Kitchen,Snack,0:00:11,18,Friday
+552,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,18,Friday
+553,Door,PIR,Living,Spare_Time/TV,0:00:03,18,Friday
+554,Seat,Pressure,Living,Spare_Time/TV,1:58:48,18,Friday
+555,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Friday
+556,Door,PIR,Kitchen,Spare_Time/TV,0:00:08,20,Friday
+557,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,20,Friday
+558,Door,PIR,Living,Spare_Time/TV,0:00:04,20,Friday
+559,Seat,Pressure,Living,Spare_Time/TV,0:08:36,20,Friday
+560,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Friday
+561,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,20,Friday
+562,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,20,Friday
+563,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Friday
+564,Seat,Pressure,Living,Spare_Time/TV,1:02:47,20,Friday
+565,Door,PIR,Living,Spare_Time/TV,0:00:05,21,Friday
+566,Door,PIR,Living,No Activity,0:00:03,22,Friday
+567,Door,PIR,Living,No Activity,0:00:02,22,Friday
+568,Basin,PIR,Bathroom,Grooming,0:00:26,22,Friday
+569,Door,PIR,Living,No Activity,0:00:03,22,Friday
+570,Door,PIR,Living,No Activity,0:00:02,22,Friday
+571,Maindoor,Magnetic,Entrance,No Activity,0:00:11,22,Friday
+572,Maindoor,Magnetic,Entrance,No Activity,0:00:06,2,Saturday
+573,Door,PIR,Bedroom,No Activity,0:00:09,2,Saturday
+574,Door,PIR,Bedroom,No Activity,0:00:02,2,Saturday
+575,Door,PIR,Living,No Activity,0:00:03,2,Saturday
+576,Door,PIR,Living,No Activity,0:00:02,2,Saturday
+577,Basin,PIR,Bathroom,Grooming,0:03:07,2,Saturday
+578,Toilet,Flush,Bathroom,No Activity,0:00:55,2,Saturday
+579,Basin,PIR,Bathroom,No Activity,0:02:26,2,Saturday
+580,Door,PIR,Bedroom,Sleeping,0:00:04,2,Saturday
+581,Bed,Pressure,Bedroom,Sleeping,7:09:21,2,Saturday
+582,Door,PIR,Bedroom,Sleeping,0:00:05,9,Saturday
+583,Toilet,Flush,Bathroom,Toileting,0:01:05,9,Saturday
+584,Door,PIR,Living,No Activity,0:00:03,9,Saturday
+585,Door,PIR,Living,Breakfast,0:00:03,9,Saturday
+586,Door,PIR,Kitchen,Breakfast,0:00:04,9,Saturday
+587,Fridge,Magnetic,Kitchen,Breakfast,0:00:06,9,Saturday
+588,Fridge,Magnetic,Kitchen,Breakfast,0:00:03,9,Saturday
+589,Microwave,Electric,Kitchen,Breakfast,0:01:30,9,Saturday
+590,Door,PIR,Kitchen,Breakfast,0:00:04,10,Saturday
+591,Door,PIR,Bedroom,No Activity,0:00:03,10,Saturday
+592,Door,PIR,Bedroom,No Activity,0:00:02,10,Saturday
+593,Shower,PIR,Bathroom,No Activity,0:03:01,10,Saturday
+594,Basin,PIR,Bathroom,Grooming,0:04:05,10,Saturday
+595,Basin,PIR,Bathroom,Grooming,0:05:10,10,Saturday
+596,Door,PIR,Bedroom,No Activity,0:00:04,10,Saturday
+597,Door,PIR,Bedroom,No Activity,0:00:02,10,Saturday
+598,Basin,PIR,Bathroom,Grooming,0:03:17,10,Saturday
+599,Door,PIR,Bedroom,No Activity,0:00:03,10,Saturday
+600,Door,PIR,Bedroom,No Activity,0:00:03,10,Saturday
+601,Maindoor,Magnetic,Entrance,Leaving,0:00:08,10,Saturday
+602,Maindoor,Magnetic,Entrance,Leaving,0:00:07,12,Saturday
+603,Door,PIR,Living,No Activity,0:00:18,12,Saturday
+604,Door,PIR,Living,No Activity,0:00:03,12,Saturday
+605,Door,PIR,Bedroom,No Activity,0:00:04,12,Saturday
+606,Door,PIR,Bedroom,No Activity,0:00:04,12,Saturday
+607,Door,PIR,Bedroom,No Activity,0:00:04,12,Saturday
+608,Door,PIR,Bedroom,No Activity,0:00:02,12,Saturday
+609,Basin,PIR,Bathroom,Grooming,0:07:50,12,Saturday
+610,Door,PIR,Bedroom,No Activity,0:00:10,12,Saturday
+611,Door,PIR,Bedroom,No Activity,0:00:04,12,Saturday
+612,Door,PIR,Living,Spare_Time/TV,0:00:03,12,Saturday
+613,Seat,Pressure,Living,Spare_Time/TV,1:21:18,12,Saturday
+614,Door,PIR,Living,Spare_Time/TV,0:00:03,14,Saturday
+615,Door,PIR,Kitchen,Spare_Time/TV,0:00:05,14,Saturday
+616,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,14,Saturday
+617,Door,PIR,Living,Spare_Time/TV,0:00:03,14,Saturday
+618,Seat,Pressure,Living,Spare_Time/TV,0:20:57,14,Saturday
+619,Door,PIR,Living,Spare_Time/TV,0:00:03,14,Saturday
+620,Door,PIR,Living,No Activity,0:00:06,14,Saturday
+621,Door,PIR,Living,No Activity,0:00:03,14,Saturday
+622,Door,PIR,Bedroom,No Activity,0:00:49,14,Saturday
+623,Door,PIR,Bedroom,No Activity,0:00:39,14,Saturday
+624,Maindoor,Magnetic,Entrance,Leaving,0:00:03,14,Saturday
+625,Maindoor,Magnetic,Entrance,Leaving,0:00:05,16,Saturday
+626,Door,PIR,Bedroom,Leaving,0:00:03,16,Saturday
+627,Door,PIR,Bedroom,No Activity,0:00:13,16,Saturday
+628,Toilet,Flush,Bathroom,No Activity,0:00:56,16,Saturday
+629,Basin,PIR,Bathroom,Toileting,0:00:09,16,Saturday
+630,Door,PIR,Living,Toileting,0:00:03,16,Saturday
+631,Door,PIR,Living,Spare_Time/TV,0:00:03,16,Saturday
+632,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,16,Saturday
+633,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,16,Saturday
+634,Door,PIR,Living,Spare_Time/TV,0:00:03,16,Saturday
+635,Seat,Pressure,Living,Spare_Time/TV,0:54:20,16,Saturday
+636,Door,PIR,Living,Spare_Time/TV,0:00:02,17,Saturday
+637,Door,PIR,Kitchen,No Activity,0:00:03,17,Saturday
+638,Door,PIR,Kitchen,No Activity,0:00:02,17,Saturday
+639,Door,PIR,Living,No Activity,0:00:03,17,Saturday
+640,Door,PIR,Living,No Activity,0:00:04,17,Saturday
+641,Door,PIR,Bedroom,No Activity,0:00:04,17,Saturday
+642,Door,PIR,Bedroom,No Activity,0:00:02,17,Saturday
+643,Door,PIR,Living,Spare_Time/TV,0:00:04,17,Saturday
+644,Door,PIR,Living,Spare_Time/TV,0:00:03,18,Saturday
+645,Door,PIR,Living,Spare_Time/TV,0:00:03,18,Saturday
+646,Door,PIR,Living,Spare_Time/TV,0:00:04,19,Saturday
+647,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,19,Saturday
+648,Door,PIR,Kitchen,Spare_Time/TV,0:00:09,19,Saturday
+649,Door,PIR,Living,Spare_Time/TV,0:00:03,19,Saturday
+650,Seat,Pressure,Living,Spare_Time/TV,0:35:20,19,Saturday
+651,Door,PIR,Living,Spare_Time/TV,0:00:03,19,Saturday
+652,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,19,Saturday
+653,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,19,Saturday
+654,Door,PIR,Living,Spare_Time/TV,0:00:03,19,Saturday
+655,Seat,Pressure,Living,Spare_Time/TV,0:42:40,19,Saturday
+656,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Saturday
+657,Door,PIR,Kitchen,Spare_Time/TV,0:00:09,20,Saturday
+658,Microwave,Electric,Kitchen,Snack,0:00:47,20,Saturday
+659,Door,PIR,Kitchen,Snack,0:00:07,20,Saturday
+660,Door,PIR,Living,Snack,0:00:04,20,Saturday
+661,Door,PIR,Living,Snack,0:00:03,20,Saturday
+662,Door,PIR,Kitchen,Snack,0:00:04,20,Saturday
+663,Microwave,Electric,Kitchen,Snack,0:00:07,20,Saturday
+664,Door,PIR,Kitchen,Snack,0:00:06,20,Saturday
+665,Door,PIR,Living,No Activity,0:00:03,20,Saturday
+666,Door,PIR,Living,No Activity,0:00:03,20,Saturday
+667,Door,PIR,Bedroom,No Activity,0:00:04,20,Saturday
+668,Door,PIR,Bedroom,No Activity,0:00:05,20,Saturday
+669,Door,PIR,Living,No Activity,0:00:01,20,Saturday
+670,Door,PIR,Living,No Activity,0:00:03,20,Saturday
+671,Toilet,Flush,Bathroom,Toileting,0:01:09,20,Saturday
+672,Basin,PIR,Bathroom,Grooming,0:00:28,20,Saturday
+673,Door,PIR,Bedroom,Grooming,0:00:01,20,Saturday
+674,Door,PIR,Bedroom,Grooming,0:00:04,20,Saturday
+675,Door,PIR,Living,No Activity,0:00:03,20,Saturday
+676,Door,PIR,Living,No Activity,0:00:04,20,Saturday
+677,Door,PIR,Bedroom,No Activity,0:00:04,20,Saturday
+678,Door,PIR,Bedroom,No Activity,0:00:04,20,Saturday
+679,Door,PIR,Living,No Activity,0:00:03,20,Saturday
+680,Door,PIR,Living,No Activity,0:00:03,20,Saturday
+681,Basin,PIR,Bathroom,Grooming,0:01:01,20,Saturday
+682,Door,PIR,Living,No Activity,0:00:03,20,Saturday
+683,Door,PIR,Living,No Activity,0:00:03,21,Saturday
+684,Maindoor,Magnetic,Entrance,No Activity,0:00:09,21,Saturday
+685,Maindoor,Magnetic,Entrance,No Activity,0:00:03,0,Sunday
+686,Door,PIR,Bedroom,No Activity,0:00:10,0,Sunday
+687,Door,PIR,Bedroom,No Activity,0:00:04,0,Sunday
+688,Door,PIR,Living,Spare_Time/TV,0:00:03,0,Sunday
+689,Seat,Pressure,Living,Spare_Time/TV,0:53:00,0,Sunday
+690,Door,PIR,Living,Spare_Time/TV,0:00:03,1,Sunday
+691,Door,PIR,Bedroom,Sleeping,0:00:07,1,Sunday
+692,Bed,Pressure,Bedroom,Sleeping,7:16:15,1,Sunday
+693,Door,PIR,Bedroom,Sleeping,0:00:04,8,Sunday
+694,Door,PIR,Living,Sleeping,0:00:04,8,Sunday
+695,Door,PIR,Living,No Activity,0:00:06,8,Sunday
+696,Door,PIR,Kitchen,No Activity,0:00:03,8,Sunday
+697,Door,PIR,Kitchen,No Activity,0:00:02,8,Sunday
+698,Toilet,Flush,Bathroom,Toileting,0:01:02,9,Sunday
+699,Door,PIR,Kitchen,Breakfast,0:00:03,9,Sunday
+700,Fridge,Magnetic,Kitchen,Breakfast,0:00:05,9,Sunday
+701,Microwave,Electric,Kitchen,Breakfast,0:01:33,9,Sunday
+702,Fridge,Magnetic,Kitchen,Breakfast,0:00:02,9,Sunday
+703,Door,PIR,Kitchen,Breakfast,0:00:02,9,Sunday
+704,Door,PIR,Bedroom,No Activity,0:00:03,9,Sunday
+705,Door,PIR,Bedroom,No Activity,0:00:04,9,Sunday
+706,Door,PIR,Kitchen,No Activity,0:00:02,9,Sunday
+707,Door,PIR,Kitchen,No Activity,0:00:02,9,Sunday
+708,Shower,PIR,Bathroom,Showering,0:07:37,9,Sunday
+709,Basin,PIR,Bathroom,Grooming,0:09:28,9,Sunday
+710,Basin,PIR,Bathroom,Grooming,0:03:37,9,Sunday
+711,Door,PIR,Bedroom,No Activity,0:00:02,9,Sunday
+712,Door,PIR,Bedroom,No Activity,0:00:02,9,Sunday
+713,Maindoor,Magnetic,Entrance,Leaving,0:00:03,9,Sunday
+714,Maindoor,Magnetic,Entrance,Leaving,0:00:05,10,Sunday
+715,Door,PIR,Bedroom,No Activity,0:00:03,10,Sunday
+716,Door,PIR,Bedroom,No Activity,0:00:02,10,Sunday
+717,Door,PIR,Kitchen,No Activity,0:00:03,10,Sunday
+718,Door,PIR,Kitchen,No Activity,0:00:03,10,Sunday
+719,Door,PIR,Bedroom,No Activity,0:00:03,10,Sunday
+720,Door,PIR,Bedroom,No Activity,0:00:03,10,Sunday
+721,Door,PIR,Living,No Activity,0:00:02,10,Sunday
+722,Door,PIR,Living,No Activity,0:00:04,10,Sunday
+723,Door,PIR,Living,Spare_Time/TV,0:00:03,10,Sunday
+724,Seat,Pressure,Living,Spare_Time/TV,0:11:24,10,Sunday
+725,Door,PIR,Living,Spare_Time/TV,0:00:03,10,Sunday
+726,Maindoor,Magnetic,Entrance,Leaving,0:00:02,10,Sunday
+727,Maindoor,Magnetic,Entrance,Leaving,0:00:04,14,Sunday
+728,Door,PIR,Living,Leaving,0:00:02,14,Sunday
+729,Door,PIR,Living,No Activity,0:00:03,14,Sunday
+730,Door,PIR,Kitchen,No Activity,0:00:03,14,Sunday
+731,Door,PIR,Kitchen,No Activity,0:00:02,14,Sunday
+732,Door,PIR,Living,Lunch,0:00:03,14,Sunday
+733,Door,PIR,Living,Lunch,0:00:03,14,Sunday
+734,Door,PIR,Kitchen,Lunch,0:00:03,14,Sunday
+735,Cupboard,Magnetic,Kitchen,Lunch,0:00:10,14,Sunday
+736,Door,PIR,Kitchen,Lunch,0:00:04,14,Sunday
+737,Door,PIR,Living,Lunch,0:00:03,14,Sunday
+738,Door,PIR,Living,Lunch,0:00:03,14,Sunday
+739,Door,PIR,Kitchen,Lunch,0:00:06,14,Sunday
+740,Door,PIR,Kitchen,Lunch,0:00:03,14,Sunday
+741,Door,PIR,Living,Lunch,0:00:04,14,Sunday
+742,Door,PIR,Living,No Activity,0:00:03,15,Sunday
+743,Door,PIR,Kitchen,No Activity,0:00:04,15,Sunday
+744,Door,PIR,Kitchen,No Activity,0:00:01,15,Sunday
+745,Door,PIR,Living,No Activity,0:00:03,15,Sunday
+746,Door,PIR,Living,No Activity,0:00:05,15,Sunday
+747,Door,PIR,Kitchen,No Activity,0:00:04,15,Sunday
+748,Door,PIR,Kitchen,No Activity,0:00:06,16,Sunday
+749,Door,PIR,Living,No Activity,0:00:04,16,Sunday
+750,Door,PIR,Living,Snack,0:00:03,17,Sunday
+751,Door,PIR,Kitchen,Snack,0:00:03,17,Sunday
+752,Door,PIR,Kitchen,Snack,0:00:02,17,Sunday
+753,Toilet,Flush,Bathroom,No Activity,0:01:05,17,Sunday
+754,Basin,PIR,Bathroom,No Activity,0:04:35,17,Sunday
+755,Door,PIR,Living,No Activity,0:00:02,17,Sunday
+756,Door,PIR,Living,Grooming,0:00:02,17,Sunday
+757,Basin,PIR,Bathroom,No Activity,0:00:46,17,Sunday
+758,Door,PIR,Living,Spare_Time/TV,0:00:03,17,Sunday
+759,Seat,Pressure,Living,Spare_Time/TV,0:37:45,17,Sunday
+760,Door,PIR,Living,Spare_Time/TV,0:00:03,18,Sunday
+761,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,18,Sunday
+762,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,18,Sunday
+763,Door,PIR,Living,Spare_Time/TV,0:00:06,18,Sunday
+764,Door,PIR,Living,Spare_Time/TV,0:00:02,18,Sunday
+765,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,18,Sunday
+766,Door,PIR,Kitchen,Spare_Time/TV,0:00:07,18,Sunday
+767,Door,PIR,Living,Spare_Time/TV,0:00:03,18,Sunday
+768,Seat,Pressure,Living,Spare_Time/TV,0:14:50,18,Sunday
+769,Door,PIR,Living,Spare_Time/TV,0:00:03,18,Sunday
+770,Door,PIR,Living,Spare_Time/TV,0:00:04,18,Sunday
+771,Seat,Pressure,Living,Spare_Time/TV,0:45:33,18,Sunday
+772,Door,PIR,Living,Spare_Time/TV,0:00:03,19,Sunday
+773,Door,PIR,Kitchen,Spare_Time/TV,0:00:07,19,Sunday
+774,Door,PIR,Kitchen,No Activity,0:00:06,19,Sunday
+775,Door,PIR,Living,No Activity,0:00:03,19,Sunday
+776,Door,PIR,Living,No Activity,0:00:02,19,Sunday
+777,Maindoor,Magnetic,Entrance,Leaving,0:00:08,19,Sunday
+778,Maindoor,Magnetic,Entrance,Leaving,0:00:07,22,Sunday
+779,Door,PIR,Kitchen,Dinner,0:00:02,22,Sunday
+780,Fridge,Magnetic,Kitchen,Dinner,0:00:06,22,Sunday
+781,Fridge,Magnetic,Kitchen,Dinner,0:00:04,22,Sunday
+782,Door,PIR,Kitchen,Dinner,0:00:02,22,Sunday
+783,Door,PIR,Living,Dinner,0:00:03,22,Sunday
+784,Door,PIR,Living,Dinner,0:00:03,22,Sunday
+785,Door,PIR,Bedroom,Dinner,0:00:09,22,Sunday
+786,Door,PIR,Bedroom,No Activity,0:00:03,22,Sunday
+787,Basin,PIR,Bathroom,Grooming,0:03:59,22,Sunday
+788,Basin,PIR,Bathroom,Grooming,0:02:05,22,Sunday
+789,Door,PIR,Living,Spare_Time/TV,0:00:03,22,Sunday
+790,Door,PIR,Living,Snack,0:00:03,23,Sunday
+791,Door,PIR,Kitchen,Snack,0:00:06,23,Sunday
+792,Microwave,Electric,Kitchen,No Activity,0:03:49,23,Sunday
+793,Door,PIR,Kitchen,Snack,0:00:04,23,Sunday
+794,Door,PIR,Living,Snack,0:00:03,23,Sunday
+795,Door,PIR,Living,Grooming,0:00:02,23,Sunday
+796,Basin,PIR,Bathroom,Grooming,0:00:02,23,Sunday
+797,Door,PIR,Living,Grooming,0:00:03,23,Sunday
+798,Door,PIR,Living,No Activity,0:00:03,23,Sunday
+799,Door,PIR,Kitchen,No Activity,0:00:02,23,Sunday
+800,Door,PIR,Kitchen,No Activity,0:00:02,23,Sunday
+801,Door,PIR,Living,No Activity,0:00:03,23,Sunday
+802,Seat,Pressure,Living,Spare_Time/TV,1:00:46,23,Sunday
+803,Door,PIR,Living,No Activity,0:00:03,0,Monday
+804,Door,PIR,Kitchen,No Activity,0:00:05,0,Monday
+805,Door,PIR,Kitchen,No Activity,0:00:03,0,Monday
+806,Toilet,Flush,Bathroom,Toileting,0:00:41,0,Monday
+807,Door,PIR,Bedroom,Toileting,0:00:04,0,Monday
+808,Bed,Pressure,Bedroom,Sleeping,9:53:34,0,Monday
+809,Door,PIR,Bedroom,Sleeping,0:00:07,10,Monday
+810,Toilet,Flush,Bathroom,Toileting,0:01:10,10,Monday
+811,Door,PIR,Kitchen,Breakfast,0:00:04,10,Monday
+812,Fridge,Magnetic,Kitchen,Breakfast,0:00:04,10,Monday
+813,Fridge,Magnetic,Kitchen,Breakfast,0:00:04,10,Monday
+814,Microwave,Electric,Kitchen,Breakfast,0:02:21,10,Monday
+815,Fridge,Magnetic,Kitchen,Breakfast,0:00:18,10,Monday
+816,Door,PIR,Kitchen,Breakfast,0:00:03,10,Monday
+817,Door,PIR,Living,Breakfast,0:00:14,10,Monday
+818,Door,PIR,Living,No Activity,0:00:03,10,Monday
+819,Door,PIR,Kitchen,No Activity,0:00:04,10,Monday
+820,Door,PIR,Kitchen,No Activity,0:00:02,10,Monday
+821,Door,PIR,Living,Spare_Time/TV,0:00:03,10,Monday
+822,Seat,Pressure,Living,Spare_Time/TV,0:51:16,10,Monday
+823,Door,PIR,Living,Spare_Time/TV,0:00:05,11,Monday
+824,Door,PIR,Kitchen,No Activity,0:00:07,11,Monday
+825,Door,PIR,Kitchen,No Activity,0:00:02,11,Monday
+826,Door,PIR,Living,No Activity,0:00:03,11,Monday
+827,Door,PIR,Living,No Activity,0:00:03,11,Monday
+828,Door,PIR,Bedroom,No Activity,0:00:05,11,Monday
+829,Door,PIR,Bedroom,No Activity,0:00:01,11,Monday
+830,Door,PIR,Living,No Activity,0:00:04,11,Monday
+831,Door,PIR,Living,No Activity,0:00:03,11,Monday
+832,Door,PIR,Kitchen,No Activity,0:00:04,11,Monday
+833,Door,PIR,Kitchen,No Activity,0:00:02,11,Monday
+834,Door,PIR,Bedroom,No Activity,0:00:02,11,Monday
+835,Door,PIR,Bedroom,No Activity,0:00:02,11,Monday
+836,Door,PIR,Living,No Activity,0:00:03,11,Monday
+837,Door,PIR,Living,No Activity,0:00:03,11,Monday
+838,Door,PIR,Kitchen,No Activity,0:00:05,11,Monday
+839,Door,PIR,Kitchen,No Activity,0:00:02,11,Monday
+840,Basin,PIR,Bathroom,Grooming,0:01:22,11,Monday
+841,Basin,PIR,Bathroom,Grooming,0:02:38,11,Monday
+842,Shower,PIR,Bathroom,Showering,0:06:56,12,Monday
+843,Toilet,Flush,Bathroom,Toileting,0:00:54,12,Monday
+844,Basin,PIR,Bathroom,Grooming,0:00:19,12,Monday
+845,Door,PIR,Living,No Activity,0:00:03,12,Monday
+846,Door,PIR,Living,Grooming,0:00:03,12,Monday
+847,Basin,PIR,Bathroom,Grooming,0:03:45,12,Monday
+848,Door,PIR,Bedroom,No Activity,0:00:05,12,Monday
+849,Door,PIR,Bedroom,No Activity,0:00:02,12,Monday
+850,Door,PIR,Living,No Activity,0:00:03,12,Monday
+851,Door,PIR,Living,No Activity,0:00:02,12,Monday
+852,Door,PIR,Kitchen,No Activity,0:00:04,12,Monday
+853,Door,PIR,Kitchen,No Activity,0:00:02,12,Monday
+854,Door,PIR,Living,Spare_Time/TV,0:00:03,12,Monday
+855,Seat,Pressure,Living,Spare_Time/TV,1:43:25,12,Monday
+856,Door,PIR,Living,Grooming,0:00:02,14,Monday
+857,Basin,PIR,Bathroom,Grooming,0:00:23,14,Monday
+858,Door,PIR,Living,Grooming,0:00:03,14,Monday
+859,Door,PIR,Living,No Activity,0:00:02,14,Monday
+860,Toilet,Flush,Bathroom,No Activity,0:01:04,14,Monday
+861,Basin,PIR,Bathroom,Grooming,0:00:01,14,Monday
+862,Door,PIR,Bedroom,Toileting,0:00:10,14,Monday
+863,Door,PIR,Bedroom,Toileting,0:00:02,14,Monday
+864,Maindoor,Magnetic,Entrance,Leaving,0:00:03,14,Monday
+865,Maindoor,Magnetic,Entrance,Leaving,0:00:04,15,Monday
+866,Door,PIR,Living,Leaving,0:00:02,15,Monday
+867,Door,PIR,Living,Toileting,0:00:03,15,Monday
+868,Toilet,Flush,Bathroom,Toileting,0:00:40,15,Monday
+869,Door,PIR,Living,Toileting,0:00:02,15,Monday
+870,Door,PIR,Living,Snack,0:00:02,15,Monday
+871,Door,PIR,Kitchen,Snack,0:00:04,15,Monday
+872,Fridge,Magnetic,Kitchen,Snack,0:00:02,15,Monday
+873,Microwave,Electric,Kitchen,Snack,0:01:54,16,Monday
+874,Microwave,Electric,Kitchen,Snack,0:02:19,16,Monday
+875,Fridge,Magnetic,Kitchen,Snack,0:00:02,16,Monday
+876,Door,PIR,Kitchen,Snack,0:00:02,16,Monday
+877,Door,PIR,Living,Spare_Time/TV,0:00:02,16,Monday
+878,Seat,Pressure,Living,Spare_Time/TV,3:33:00,16,Monday
+879,Door,PIR,Living,Spare_Time/TV,0:00:04,19,Monday
+880,Door,PIR,Living,No Activity,0:00:03,19,Monday
+881,Door,PIR,Living,No Activity,0:00:03,19,Monday
+882,Door,PIR,Kitchen,No Activity,0:00:04,19,Monday
+883,Door,PIR,Kitchen,No Activity,0:00:04,19,Monday
+884,Door,PIR,Living,Spare_Time/TV,0:00:06,19,Monday
+885,Seat,Pressure,Living,Spare_Time/TV,1:32:39,19,Monday
+886,Door,PIR,Living,Spare_Time/TV,0:00:03,21,Monday
+887,Door,PIR,Living,Spare_Time/TV,0:00:03,21,Monday
+888,Door,PIR,Living,Spare_Time/TV,0:00:04,21,Monday
+889,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,21,Monday
+890,Microwave,Electric,Kitchen,Dinner,0:02:00,22,Monday
+891,Fridge,Magnetic,Kitchen,Dinner,0:00:11,22,Monday
+892,Cupboard,Magnetic,Kitchen,Dinner,0:00:06,22,Monday
+893,Door,PIR,Kitchen,Dinner,0:00:02,22,Monday
+894,Door,PIR,Living,No Activity,0:00:03,22,Monday
+895,Door,PIR,Living,No Activity,0:00:08,22,Monday
+896,Door,PIR,Kitchen,No Activity,0:00:05,22,Monday
+897,Door,PIR,Kitchen,No Activity,0:00:03,22,Monday
+898,Door,PIR,Living,No Activity,0:00:02,22,Monday
+899,Door,PIR,Living,No Activity,0:00:04,22,Monday
+900,Basin,PIR,Bathroom,Grooming,0:04:45,22,Monday
+901,Door,PIR,Living,No Activity,0:00:03,22,Monday
+902,Door,PIR,Living,No Activity,0:00:03,22,Monday
+903,Door,PIR,Kitchen,Snack,0:00:19,22,Monday
+904,Fridge,Magnetic,Kitchen,Snack,0:00:04,22,Monday
+905,Door,PIR,Kitchen,Snack,0:00:02,22,Monday
+906,Door,PIR,Living,Snack,0:00:08,22,Monday
+907,Seat,Pressure,Living,Spare_Time/TV,1:47:26,22,Monday
+908,Door,PIR,Living,No Activity,0:00:03,0,Tuesday
+909,Door,PIR,Kitchen,No Activity,0:00:02,0,Tuesday
+910,Door,PIR,Kitchen,No Activity,0:00:01,0,Tuesday
+911,Door,PIR,Living,No Activity,0:00:35,0,Tuesday
+912,Seat,Pressure,Living,No Activity,0:55:50,0,Tuesday
+913,Door,PIR,Living,No Activity,0:00:03,1,Tuesday
+914,Toilet,Flush,Bathroom,Toileting,0:00:55,1,Tuesday
+915,Door,PIR,Bedroom,Sleeping,0:00:02,1,Tuesday
+916,Bed,Pressure,Bedroom,Sleeping,8:29:02,1,Tuesday
+917,Door,PIR,Bedroom,Sleeping,0:00:03,9,Tuesday
+918,Door,PIR,Living,No Activity,0:00:03,9,Tuesday
+919,Door,PIR,Living,No Activity,0:00:03,10,Tuesday
+920,Door,PIR,Kitchen,No Activity,0:00:02,10,Tuesday
+921,Door,PIR,Kitchen,No Activity,0:00:04,10,Tuesday
+922,Door,PIR,Living,No Activity,0:00:02,10,Tuesday
+923,Door,PIR,Living,No Activity,0:00:03,10,Tuesday
+924,Door,PIR,Bedroom,No Activity,0:00:04,10,Tuesday
+925,Door,PIR,Bedroom,No Activity,0:00:02,10,Tuesday
+926,Toilet,Flush,Bathroom,No Activity,0:01:16,10,Tuesday
+927,Door,PIR,Living,Breakfast,0:00:04,10,Tuesday
+928,Door,PIR,Living,Breakfast,0:00:03,10,Tuesday
+929,Door,PIR,Kitchen,Breakfast,0:00:06,10,Tuesday
+930,Fridge,Magnetic,Kitchen,Breakfast,0:00:05,10,Tuesday
+931,Door,PIR,Kitchen,Breakfast,0:00:02,10,Tuesday
+932,Door,PIR,Living,No Activity,0:00:03,10,Tuesday
+933,Door,PIR,Living,No Activity,0:00:03,10,Tuesday
+934,Door,PIR,Bedroom,No Activity,0:00:10,10,Tuesday
+935,Door,PIR,Bedroom,No Activity,0:00:02,10,Tuesday
+936,Basin,PIR,Bathroom,Grooming,0:07:43,10,Tuesday
+937,Basin,PIR,Bathroom,Grooming,0:04:48,10,Tuesday
+938,Door,PIR,Kitchen,Snack,0:00:02,11,Tuesday
+939,Fridge,Magnetic,Kitchen,Snack,0:00:04,11,Tuesday
+940,Door,PIR,Kitchen,Snack,0:00:02,11,Tuesday
+941,Door,PIR,Living,Spare_Time/TV,0:00:02,11,Tuesday
+942,Seat,Pressure,Living,Spare_Time/TV,1:36:56,11,Tuesday
+943,Door,PIR,Living,Spare_Time/TV,0:00:02,12,Tuesday
+944,Toilet,Flush,Bathroom,No Activity,0:01:14,13,Tuesday
+945,Door,PIR,Kitchen,Snack,0:00:03,13,Tuesday
+946,Fridge,Magnetic,Kitchen,Snack,0:00:16,13,Tuesday
+947,Door,PIR,Kitchen,Snack,0:00:02,13,Tuesday
+948,Door,PIR,Living,No Activity,0:00:03,13,Tuesday
+949,Door,PIR,Living,No Activity,0:00:03,13,Tuesday
+950,Door,PIR,Kitchen,No Activity,0:00:02,13,Tuesday
+951,Door,PIR,Kitchen,No Activity,0:00:03,13,Tuesday
+952,Door,PIR,Living,No Activity,0:00:03,13,Tuesday
+953,Door,PIR,Living,No Activity,0:00:03,13,Tuesday
+954,Door,PIR,Kitchen,No Activity,0:00:02,13,Tuesday
+955,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,13,Tuesday
+956,Door,PIR,Living,Spare_Time/TV,0:00:02,13,Tuesday
+957,Door,PIR,Living,Spare_Time/TV,0:00:03,13,Tuesday
+958,Door,PIR,Living,Spare_Time/TV,0:00:03,14,Tuesday
+959,Door,PIR,Living,Spare_Time/TV,0:00:03,14,Tuesday
+960,Door,PIR,Kitchen,Lunch,0:00:03,14,Tuesday
+961,Cupboard,Magnetic,Kitchen,Lunch,0:00:20,14,Tuesday
+962,Door,PIR,Kitchen,Lunch,0:00:03,14,Tuesday
+963,Door,PIR,Living,Lunch,0:00:03,14,Tuesday
+964,Door,PIR,Living,Lunch,0:00:03,14,Tuesday
+965,Door,PIR,Kitchen,Lunch,0:00:11,14,Tuesday
+966,Fridge,Magnetic,Kitchen,Lunch,0:00:45,14,Tuesday
+967,Door,PIR,Kitchen,Lunch,0:00:02,14,Tuesday
+968,Door,PIR,Living,Lunch,0:00:04,14,Tuesday
+969,Door,PIR,Living,Lunch,0:00:03,14,Tuesday
+970,Door,PIR,Kitchen,No Activity,0:00:06,14,Tuesday
+971,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,15,Tuesday
+972,Door,PIR,Living,Spare_Time/TV,0:00:04,15,Tuesday
+973,Seat,Pressure,Living,Spare_Time/TV,0:28:30,15,Tuesday
+974,Door,PIR,Living,Spare_Time/TV,0:00:02,15,Tuesday
+975,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,15,Tuesday
+976,Door,PIR,Kitchen,No Activity,0:00:02,15,Tuesday
+977,Door,PIR,Living,No Activity,0:00:02,15,Tuesday
+978,Door,PIR,Living,No Activity,0:00:04,15,Tuesday
+979,Door,PIR,Kitchen,No Activity,0:00:03,15,Tuesday
+980,Door,PIR,Kitchen,No Activity,0:00:02,15,Tuesday
+981,Toilet,Flush,Bathroom,Toileting,0:01:00,15,Tuesday
+982,Door,PIR,Living,Toileting,0:00:03,15,Tuesday
+983,Door,PIR,Living,No Activity,0:00:03,15,Tuesday
+984,Maindoor,Magnetic,Entrance,Leaving,0:00:04,15,Tuesday
+985,Maindoor,Magnetic,Entrance,Leaving,0:00:07,20,Tuesday
+986,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Tuesday
+987,Seat,Pressure,Living,Spare_Time/TV,0:01:50,20,Tuesday
+988,Door,PIR,Living,Spare_Time/TV,0:00:02,20,Tuesday
+989,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Tuesday
+990,Seat,Pressure,Living,Spare_Time/TV,1:12:16,20,Tuesday
+991,Door,PIR,Living,Spare_Time/TV,0:00:03,21,Tuesday
+992,Door,PIR,Kitchen,Spare_Time/TV,0:00:08,21,Tuesday
+993,Door,PIR,Kitchen,No Activity,0:00:03,21,Tuesday
+994,Door,PIR,Living,No Activity,0:00:03,21,Tuesday
+995,Seat,Pressure,Living,Spare_Time/TV,2:03:06,21,Tuesday
+996,Door,PIR,Living,Grooming,0:00:02,0,Wednesday
+997,Basin,PIR,Bathroom,Grooming,0:00:15,0,Wednesday
+998,Door,PIR,Living,No Activity,0:00:01,0,Wednesday
+999,Door,PIR,Living,No Activity,0:00:03,0,Wednesday
+1000,Toilet,Flush,Bathroom,No Activity,0:00:56,0,Wednesday
+1001,Basin,PIR,Bathroom,No Activity,0:00:34,0,Wednesday
+1002,Door,PIR,Living,Grooming,0:00:03,0,Wednesday
+1003,Door,PIR,Living,No Activity,0:00:03,0,Wednesday
+1004,Door,PIR,Bedroom,Sleeping,0:00:02,0,Wednesday
+1005,Bed,Pressure,Bedroom,Sleeping,9:39:53,0,Wednesday
+1006,Door,PIR,Bedroom,Sleeping,0:00:02,9,Wednesday
+1007,Toilet,Flush,Bathroom,Toileting,0:01:07,9,Wednesday
+1008,Door,PIR,Living,Toileting,0:00:03,10,Wednesday
+1009,Door,PIR,Living,Breakfast,0:00:03,10,Wednesday
+1010,Door,PIR,Kitchen,Breakfast,0:00:02,10,Wednesday
+1011,Fridge,Magnetic,Kitchen,Breakfast,0:00:03,10,Wednesday
+1012,Fridge,Magnetic,Kitchen,Breakfast,0:00:03,10,Wednesday
+1013,Fridge,Magnetic,Kitchen,Breakfast,0:00:06,10,Wednesday
+1014,Door,PIR,Kitchen,Breakfast,0:00:02,10,Wednesday
+1015,Door,PIR,Living,Spare_Time/TV,0:00:03,10,Wednesday
+1016,Seat,Pressure,Living,Spare_Time/TV,1:21:22,10,Wednesday
+1017,Door,PIR,Living,Spare_Time/TV,0:00:03,11,Wednesday
+1018,Door,PIR,Living,No Activity,0:00:03,11,Wednesday
+1019,Door,PIR,Living,No Activity,0:00:02,11,Wednesday
+1020,Basin,PIR,Bathroom,Grooming,0:06:29,11,Wednesday
+1021,Toilet,Flush,Bathroom,No Activity,0:01:13,11,Wednesday
+1022,Basin,PIR,Bathroom,Grooming,0:02:54,11,Wednesday
+1023,Maindoor,Magnetic,Entrance,Leaving,0:00:03,12,Wednesday
+1024,Maindoor,Magnetic,Entrance,Leaving,0:00:05,12,Wednesday
+1025,Door,PIR,Kitchen,No Activity,0:00:02,12,Wednesday
+1026,Door,PIR,Kitchen,No Activity,0:00:02,12,Wednesday
+1027,Door,PIR,Living,Spare_Time/TV,0:00:03,12,Wednesday
+1028,Seat,Pressure,Living,Spare_Time/TV,0:40:11,12,Wednesday
+1029,Door,PIR,Living,Spare_Time/TV,0:00:03,13,Wednesday
+1030,Door,PIR,Kitchen,No Activity,0:00:02,13,Wednesday
+1031,Door,PIR,Kitchen,No Activity,0:00:03,13,Wednesday
+1032,Door,PIR,Living,No Activity,0:00:03,13,Wednesday
+1033,Door,PIR,Living,No Activity,0:00:03,13,Wednesday
+1034,Door,PIR,Bedroom,No Activity,0:00:05,13,Wednesday
+1035,Door,PIR,Bedroom,No Activity,0:00:02,13,Wednesday
+1036,Door,PIR,Living,No Activity,0:00:03,13,Wednesday
+1037,Door,PIR,Living,No Activity,0:00:02,13,Wednesday
+1038,Door,PIR,Bedroom,No Activity,0:00:03,13,Wednesday
+1039,Door,PIR,Bedroom,No Activity,0:00:06,13,Wednesday
+1040,Door,PIR,Living,No Activity,0:00:04,13,Wednesday
+1041,Door,PIR,Living,No Activity,0:00:03,13,Wednesday
+1042,Door,PIR,Kitchen,No Activity,0:00:11,13,Wednesday
+1043,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,14,Wednesday
+1044,Door,PIR,Living,Spare_Time/TV,0:00:03,14,Wednesday
+1045,Seat,Pressure,Living,Spare_Time/TV,0:48:40,14,Wednesday
+1046,Door,PIR,Living,Spare_Time/TV,0:00:04,15,Wednesday
+1047,Door,PIR,Kitchen,Lunch,0:00:03,15,Wednesday
+1048,Cupboard,Magnetic,Kitchen,Lunch,0:00:04,15,Wednesday
+1049,Door,PIR,Kitchen,Lunch,0:00:03,15,Wednesday
+1050,Door,PIR,Living,Lunch,0:00:03,15,Wednesday
+1051,Door,PIR,Living,Lunch,0:00:03,15,Wednesday
+1052,Door,PIR,Living,Lunch,0:00:03,15,Wednesday
+1053,Door,PIR,Living,Lunch,0:00:02,15,Wednesday
+1054,Door,PIR,Kitchen,Lunch,0:00:04,15,Wednesday
+1055,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,15,Wednesday
+1056,Door,PIR,Living,Spare_Time/TV,0:00:03,15,Wednesday
+1057,Door,PIR,Living,Spare_Time/TV,0:00:03,15,Wednesday
+1058,Door,PIR,Kitchen,No Activity,0:00:03,15,Wednesday
+1059,Door,PIR,Kitchen,No Activity,0:00:02,15,Wednesday
+1060,Door,PIR,Living,No Activity,0:00:02,15,Wednesday
+1061,Door,PIR,Living,No Activity,0:00:03,15,Wednesday
+1062,Door,PIR,Kitchen,No Activity,0:00:05,15,Wednesday
+1063,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,15,Wednesday
+1064,Door,PIR,Living,Spare_Time/TV,0:00:03,15,Wednesday
+1065,Seat,Pressure,Living,Spare_Time/TV,1:50:06,15,Wednesday
+1066,Door,PIR,Living,Snack,0:00:03,17,Wednesday
+1067,Door,PIR,Kitchen,Snack,0:00:04,17,Wednesday
+1068,Fridge,Magnetic,Kitchen,Snack,0:00:13,17,Wednesday
+1069,Door,PIR,Kitchen,Snack,0:00:02,17,Wednesday
+1070,Door,PIR,Living,Spare_Time/TV,0:00:03,17,Wednesday
+1071,Seat,Pressure,Living,Spare_Time/TV,1:08:17,17,Wednesday
+1072,Door,PIR,Living,Spare_Time/TV,0:00:03,19,Wednesday
+1073,Door,PIR,Living,Spare_Time/TV,0:00:03,19,Wednesday
+1074,Seat,Pressure,Living,Spare_Time/TV,0:58:38,19,Wednesday
+1075,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Wednesday
+1076,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Wednesday
+1077,Door,PIR,Living,Spare_Time/TV,0:00:02,21,Wednesday
+1078,Door,PIR,Bedroom,Spare_Time/TV,0:00:04,21,Wednesday
+1079,Door,PIR,Bedroom,No Activity,0:00:03,21,Wednesday
+1080,Door,PIR,Living,No Activity,0:00:02,21,Wednesday
+1081,Door,PIR,Living,No Activity,0:00:07,21,Wednesday
+1082,Door,PIR,Bedroom,No Activity,0:00:03,21,Wednesday
+1083,Door,PIR,Bedroom,No Activity,0:00:02,21,Wednesday
+1084,Door,PIR,Living,No Activity,0:00:03,21,Wednesday
+1085,Door,PIR,Living,Toileting,0:00:02,21,Wednesday
+1086,Toilet,Flush,Bathroom,Toileting,0:00:40,21,Wednesday
+1087,Door,PIR,Bedroom,No Activity,0:00:03,21,Wednesday
+1088,Door,PIR,Bedroom,No Activity,0:00:02,21,Wednesday
+1089,Door,PIR,Living,No Activity,0:00:03,21,Wednesday
+1090,Door,PIR,Living,No Activity,0:00:03,21,Wednesday
+1091,Door,PIR,Kitchen,No Activity,0:00:03,21,Wednesday
+1092,Door,PIR,Kitchen,No Activity,0:00:02,21,Wednesday
+1093,Door,PIR,Living,No Activity,0:00:03,21,Wednesday
+1094,Door,PIR,Living,No Activity,0:00:04,21,Wednesday
+1095,Maindoor,Magnetic,Entrance,No Activity,0:00:09,21,Wednesday
+1096,Maindoor,Magnetic,Entrance,Snack,0:00:07,1,Thursday
+1097,Door,PIR,Kitchen,Snack,0:00:02,1,Thursday
+1098,Fridge,Magnetic,Kitchen,Snack,0:00:18,1,Thursday
+1099,Door,PIR,Kitchen,Snack,0:00:02,1,Thursday
+1100,Door,PIR,Bedroom,No Activity,0:00:05,1,Thursday
+1101,Door,PIR,Bedroom,Grooming,0:00:04,1,Thursday
+1102,Basin,PIR,Bathroom,Grooming,0:00:19,1,Thursday
+1103,Door,PIR,Living,No Activity,0:00:03,1,Thursday
+1104,Door,PIR,Living,No Activity,0:00:03,1,Thursday
+1105,Door,PIR,Bedroom,Sleeping,0:00:03,1,Thursday
+1106,Bed,Pressure,Bedroom,Sleeping,4:27:01,1,Thursday
+1107,Door,PIR,Bedroom,Sleeping,0:00:03,6,Thursday
+1108,Door,PIR,Bedroom,Sleeping,0:00:08,6,Thursday
+1109,Bed,Pressure,Bedroom,Sleeping,0:40:35,9,Thursday
+1110,Door,PIR,Bedroom,Sleeping,0:00:03,10,Thursday
+1111,Toilet,Flush,Bathroom,Toileting,0:01:09,10,Thursday
+1112,Door,PIR,Living,Toileting,0:00:03,10,Thursday
+1113,Door,PIR,Living,Breakfast,0:00:03,10,Thursday
+1114,Door,PIR,Kitchen,Breakfast,0:00:03,10,Thursday
+1115,Fridge,Magnetic,Kitchen,Breakfast,0:00:23,10,Thursday
+1116,Fridge,Magnetic,Kitchen,Breakfast,0:00:29,10,Thursday
+1117,Cupboard,Magnetic,Kitchen,Breakfast,0:00:59,10,Thursday
+1118,Door,PIR,Kitchen,Breakfast,0:00:09,10,Thursday
+1119,Door,PIR,Living,No Activity,0:00:03,10,Thursday
+1120,Door,PIR,Living,No Activity,0:00:03,10,Thursday
+1121,Door,PIR,Bedroom,No Activity,0:00:03,10,Thursday
+1122,Door,PIR,Bedroom,No Activity,0:00:02,10,Thursday
+1123,Door,PIR,Kitchen,Snack,0:00:02,11,Thursday
+1124,Cupboard,Magnetic,Kitchen,Snack,0:00:10,11,Thursday
+1125,Door,PIR,Kitchen,Snack,0:00:03,11,Thursday
+1126,Door,PIR,Living,Spare_Time/TV,0:00:04,11,Thursday
+1127,Seat,Pressure,Living,Spare_Time/TV,0:43:53,11,Thursday
+1128,Door,PIR,Living,Spare_Time/TV,0:00:03,11,Thursday
+1129,Door,PIR,Kitchen,Spare_Time/TV,0:00:01,11,Thursday
+1130,Fridge,Magnetic,Kitchen,Spare_Time/TV,0:00:05,11,Thursday
+1131,Door,PIR,Kitchen,Snack,0:00:02,12,Thursday
+1132,Basin,PIR,Bathroom,Grooming,0:11:00,12,Thursday
+1133,Door,PIR,Living,Spare_Time/TV,0:00:03,12,Thursday
+1134,Seat,Pressure,Living,Spare_Time/TV,0:06:26,12,Thursday
+1135,Door,PIR,Living,Spare_Time/TV,0:00:02,12,Thursday
+1136,Door,PIR,Living,Spare_Time/TV,0:00:02,12,Thursday
+1137,Door,PIR,Living,Spare_Time/TV,0:00:03,13,Thursday
+1138,Door,PIR,Living,Spare_Time/TV,0:00:05,13,Thursday
+1139,Seat,Pressure,Living,Spare_Time/TV,1:37:42,13,Thursday
+1140,Door,PIR,Living,Spare_Time/TV,0:00:02,14,Thursday
+1141,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,14,Thursday
+1142,Door,PIR,Kitchen,No Activity,0:00:02,15,Thursday
+1143,Toilet,Flush,Bathroom,No Activity,0:00:58,15,Thursday
+1144,Door,PIR,Kitchen,Lunch,0:00:02,15,Thursday
+1145,Fridge,Magnetic,Kitchen,Lunch,0:00:59,15,Thursday
+1146,Door,PIR,Kitchen,Lunch,0:00:03,15,Thursday
+1147,Door,PIR,Living,Lunch,0:00:04,15,Thursday
+1148,Door,PIR,Living,Lunch,0:00:03,15,Thursday
+1149,Door,PIR,Kitchen,Lunch,0:00:02,15,Thursday
+1150,Fridge,Magnetic,Kitchen,Lunch,0:00:05,15,Thursday
+1151,Door,PIR,Kitchen,Lunch,0:00:02,15,Thursday
+1152,Door,PIR,Living,Lunch,0:00:04,15,Thursday
+1153,Door,PIR,Living,Spare_Time/TV,0:00:03,16,Thursday
+1154,Door,PIR,Kitchen,Snack,0:00:24,16,Thursday
+1155,Cupboard,Magnetic,Kitchen,Snack,0:00:10,16,Thursday
+1156,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,16,Thursday
+1157,Door,PIR,Living,Spare_Time/TV,0:00:04,16,Thursday
+1158,Seat,Pressure,Living,Spare_Time/TV,1:18:50,16,Thursday
+1159,Door,PIR,Living,Spare_Time/TV,0:00:02,18,Thursday
+1160,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,18,Thursday
+1161,Fridge,Magnetic,Kitchen,Snack,0:00:13,18,Thursday
+1162,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,18,Thursday
+1163,Door,PIR,Living,Spare_Time/TV,0:00:03,18,Thursday
+1164,Seat,Pressure,Living,Spare_Time/TV,2:00:01,18,Thursday
+1165,Door,PIR,Living,Spare_Time/TV,0:00:02,20,Thursday
+1166,Door,PIR,Kitchen,No Activity,0:00:03,20,Thursday
+1167,Door,PIR,Kitchen,No Activity,0:00:06,20,Thursday
+1168,Door,PIR,Living,No Activity,0:00:04,20,Thursday
+1169,Door,PIR,Living,No Activity,0:00:02,20,Thursday
+1170,Door,PIR,Kitchen,No Activity,0:00:04,20,Thursday
+1171,Door,PIR,Kitchen,No Activity,0:00:02,20,Thursday
+1172,Door,PIR,Living,No Activity,0:00:03,20,Thursday
+1173,Door,PIR,Living,No Activity,0:00:03,20,Thursday
+1174,Door,PIR,Bedroom,No Activity,0:00:03,20,Thursday
+1175,Door,PIR,Bedroom,No Activity,0:00:02,20,Thursday
+1176,Basin,PIR,Bathroom,Grooming,0:00:55,21,Thursday
+1177,Toilet,Flush,Bathroom,No Activity,0:00:47,21,Thursday
+1178,Door,PIR,Living,No Activity,0:00:04,21,Thursday
+1179,Door,PIR,Living,No Activity,0:00:02,21,Thursday
+1180,Door,PIR,Bedroom,No Activity,0:00:03,21,Thursday
+1181,Door,PIR,Bedroom,No Activity,0:00:02,21,Thursday
+1182,Door,PIR,Living,No Activity,0:00:03,21,Thursday
+1183,Door,PIR,Living,No Activity,0:00:04,21,Thursday
+1184,Maindoor,Magnetic,Entrance,No Activity,0:00:02,21,Thursday
+1185,Maindoor,Magnetic,Entrance,No Activity,0:00:03,0,Friday
+1186,Door,PIR,Bedroom,No Activity,0:00:04,0,Friday
+1187,Door,PIR,Bedroom,Snack,0:00:02,0,Friday
+1188,Door,PIR,Living,Snack,0:00:04,0,Friday
+1189,Door,PIR,Living,Snack,0:00:02,0,Friday
+1190,Door,PIR,Kitchen,Snack,0:00:04,0,Friday
+1191,Fridge,Magnetic,Kitchen,Snack,0:00:48,0,Friday
+1192,Door,PIR,Kitchen,Snack,0:00:02,0,Friday
+1193,Door,PIR,Bedroom,No Activity,0:00:03,0,Friday
+1194,Door,PIR,Bedroom,No Activity,0:00:03,0,Friday
+1195,Toilet,Flush,Bathroom,No Activity,0:01:09,0,Friday
+1196,Basin,PIR,Bathroom,Grooming,0:00:38,0,Friday
+1197,Door,PIR,Living,Grooming,0:00:04,0,Friday
+1198,Door,PIR,Living,No Activity,0:00:05,0,Friday
+1199,Door,PIR,Bedroom,No Activity,0:00:04,0,Friday
+1200,Door,PIR,Bedroom,Spare_Time/TV,0:00:03,0,Friday
+1201,Door,PIR,Living,Spare_Time/TV,0:00:02,0,Friday
+1202,Seat,Pressure,Living,Spare_Time/TV,0:42:17,0,Friday
+1203,Door,PIR,Living,Spare_Time/TV,0:00:03,1,Friday
+1204,Basin,PIR,Bathroom,Grooming,0:00:02,1,Friday
+1205,Door,PIR,Bedroom,Grooming,0:00:02,1,Friday
+1206,Bed,Pressure,Bedroom,Sleeping,7:38:50,1,Friday
+1207,Door,PIR,Bedroom,Sleeping,0:00:04,9,Friday
+1208,Toilet,Flush,Bathroom,Toileting,0:01:02,9,Friday
+1209,Door,PIR,Living,Toileting,0:00:04,9,Friday
+1210,Door,PIR,Living,No Activity,0:00:02,9,Friday
+1211,Door,PIR,Bedroom,No Activity,0:00:04,9,Friday
+1212,Door,PIR,Bedroom,Breakfast,0:00:02,9,Friday
+1213,Door,PIR,Kitchen,Breakfast,0:00:01,9,Friday
+1214,Fridge,Magnetic,Kitchen,Breakfast,0:00:02,9,Friday
+1215,Door,PIR,Kitchen,Breakfast,0:00:03,9,Friday
+1216,Door,PIR,Living,No Activity,0:00:04,10,Friday
+1217,Door,PIR,Living,No Activity,0:00:04,10,Friday
+1218,Door,PIR,Kitchen,No Activity,0:00:02,10,Friday
+1219,Door,PIR,Kitchen,No Activity,0:00:02,10,Friday
+1220,Door,PIR,Living,No Activity,0:00:03,10,Friday
+1221,Door,PIR,Living,No Activity,0:00:03,10,Friday
+1222,Basin,PIR,Bathroom,Grooming,0:05:38,10,Friday
+1223,Basin,PIR,Bathroom,Grooming,0:04:20,10,Friday
+1224,Door,PIR,Bedroom,Grooming,0:00:03,10,Friday
+1225,Door,PIR,Bedroom,Grooming,0:00:04,10,Friday
+1226,Basin,PIR,Bathroom,Grooming,0:00:02,10,Friday
+1227,Basin,PIR,Bathroom,Grooming,0:00:02,10,Friday
+1228,Door,PIR,Bedroom,Grooming,0:00:03,10,Friday
+1229,Door,PIR,Bedroom,No Activity,0:00:02,10,Friday
+1230,Maindoor,Magnetic,Entrance,Sleeping,0:00:05,10,Friday
+1231,Maindoor,Magnetic,Entrance,Sleeping,0:00:05,12,Friday
+1232,Door,PIR,Kitchen,No Activity,0:00:02,12,Friday
+1233,Door,PIR,Kitchen,No Activity,0:00:02,12,Friday
+1234,Door,PIR,Bedroom,No Activity,0:00:03,12,Friday
+1235,Door,PIR,Bedroom,No Activity,0:00:03,12,Friday
+1236,Door,PIR,Living,No Activity,0:00:03,12,Friday
+1237,Door,PIR,Living,Snack,0:00:03,12,Friday
+1238,Door,PIR,Kitchen,Snack,0:00:02,12,Friday
+1239,Fridge,Magnetic,Kitchen,Snack,0:00:04,12,Friday
+1240,Door,PIR,Kitchen,Snack,0:00:02,12,Friday
+1241,Door,PIR,Living,No Activity,0:00:05,12,Friday
+1242,Door,PIR,Living,No Activity,0:00:05,12,Friday
+1243,Door,PIR,Bedroom,No Activity,0:00:03,12,Friday
+1244,Door,PIR,Bedroom,Grooming,0:00:08,13,Friday
+1245,Basin,PIR,Bathroom,Grooming,0:00:03,13,Friday
+1246,Door,PIR,Bedroom,No Activity,0:00:03,13,Friday
+1247,Door,PIR,Bedroom,Spare_Time/TV,0:00:02,13,Friday
+1248,Door,PIR,Living,Spare_Time/TV,0:00:04,13,Friday
+1249,Seat,Pressure,Living,Spare_Time/TV,0:51:02,13,Friday
+1250,Door,PIR,Living,Spare_Time/TV,0:00:03,14,Friday
+1251,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,14,Friday
+1252,Door,PIR,Kitchen,Lunch,0:00:03,14,Friday
+1253,Door,PIR,Living,Lunch,0:00:03,14,Friday
+1254,Door,PIR,Living,Lunch,0:00:02,14,Friday
+1255,Toilet,Flush,Bathroom,Toileting,0:00:52,14,Friday
+1256,Door,PIR,Living,Toileting,0:00:05,14,Friday
+1257,Door,PIR,Living,Toileting,0:00:04,14,Friday
+1258,Door,PIR,Kitchen,Toileting,0:00:03,14,Friday
+1259,Door,PIR,Kitchen,No Activity,0:00:02,14,Friday
+1260,Door,PIR,Living,No Activity,0:00:02,14,Friday
+1261,Door,PIR,Living,No Activity,0:00:08,14,Friday
+1262,Door,PIR,Kitchen,No Activity,0:00:03,14,Friday
+1263,Door,PIR,Kitchen,No Activity,0:00:02,14,Friday
+1264,Door,PIR,Living,Spare_Time/TV,0:00:03,14,Friday
+1265,Seat,Pressure,Living,Spare_Time/TV,1:55:12,14,Friday
+1266,Door,PIR,Living,Spare_Time/TV,0:00:05,16,Friday
+1267,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,16,Friday
+1268,Door,PIR,Kitchen,No Activity,0:00:03,16,Friday
+1269,Toilet,Flush,Bathroom,Toileting,0:01:08,16,Friday
+1270,Door,PIR,Living,Toileting,0:00:05,16,Friday
+1271,Door,PIR,Living,Snack,0:00:03,16,Friday
+1272,Door,PIR,Kitchen,Snack,0:00:04,16,Friday
+1273,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,17,Friday
+1274,Door,PIR,Living,Spare_Time/TV,0:00:06,17,Friday
+1275,Seat,Pressure,Living,Spare_Time/TV,0:44:23,17,Friday
+1276,Door,PIR,Living,Spare_Time/TV,0:00:04,17,Friday
+1277,Door,PIR,Kitchen,Snack,0:00:02,17,Friday
+1278,Fridge,Magnetic,Kitchen,Snack,0:00:14,17,Friday
+1279,Door,PIR,Kitchen,Snack,0:00:04,18,Friday
+1280,Door,PIR,Living,No Activity,0:00:03,18,Friday
+1281,Door,PIR,Living,No Activity,0:00:02,18,Friday
+1282,Door,PIR,Kitchen,No Activity,0:00:03,18,Friday
+1283,Door,PIR,Kitchen,No Activity,0:00:02,18,Friday
+1284,Door,PIR,Living,Spare_Time/TV,0:00:04,18,Friday
+1285,Seat,Pressure,Living,Spare_Time/TV,1:41:52,18,Friday
+1286,Door,PIR,Living,Spare_Time/TV,0:00:23,19,Friday
+1287,Maindoor,Magnetic,Entrance,Leaving,0:00:04,19,Friday
+1288,Maindoor,Magnetic,Entrance,Leaving,0:00:08,22,Friday
+1289,Toilet,Flush,Bathroom,Toileting,0:01:00,22,Friday
+1290,Door,PIR,Kitchen,No Activity,0:00:02,22,Friday
+1291,Door,PIR,Kitchen,No Activity,0:00:05,22,Friday
+1292,Door,PIR,Bedroom,No Activity,0:00:03,22,Friday
+1293,Door,PIR,Bedroom,No Activity,0:00:02,22,Friday
+1294,Door,PIR,Kitchen,No Activity,0:00:03,22,Friday
+1295,Door,PIR,Kitchen,No Activity,0:00:03,22,Friday
+1296,Door,PIR,Living,Spare_Time/TV,2:07:17,22,Friday
+1297,Seat,Pressure,Living,No Activity,0:01:07,0,Saturday
+1298,Door,PIR,Living,Grooming,0:00:02,0,Saturday
+1299,Basin,PIR,Bathroom,Grooming,0:04:45,0,Saturday
+1300,Door,PIR,Bedroom,Sleeping,0:00:03,0,Saturday
+1301,Bed,Pressure,Bedroom,Sleeping,9:24:13,0,Saturday
+1302,Door,PIR,Bedroom,Sleeping,0:00:02,10,Saturday
+1303,Door,PIR,Living,Sleeping,0:00:04,10,Saturday
+1304,Door,PIR,Living,Breakfast,0:00:02,10,Saturday
+1305,Door,PIR,Kitchen,Breakfast,0:00:03,10,Saturday
+1306,Fridge,Magnetic,Kitchen,Breakfast,0:00:19,10,Saturday
+1307,Fridge,Magnetic,Kitchen,Breakfast,0:00:12,10,Saturday
+1308,Door,PIR,Kitchen,Breakfast,0:00:07,10,Saturday
+1309,Door,PIR,Living,No Activity,0:00:03,10,Saturday
+1310,Door,PIR,Living,No Activity,0:00:03,10,Saturday
+1311,Toilet,Flush,Bathroom,No Activity,0:01:21,10,Saturday
+1312,Door,PIR,Living,Spare_Time/TV,0:00:04,10,Saturday
+1313,Seat,Pressure,Living,Spare_Time/TV,0:52:19,10,Saturday
+1314,Door,PIR,Living,Spare_Time/TV,0:00:02,11,Saturday
+1315,Door,PIR,Kitchen,Snack,0:00:10,11,Saturday
+1316,Fridge,Magnetic,Kitchen,Snack,0:00:06,11,Saturday
+1317,Door,PIR,Kitchen,Snack,0:00:13,11,Saturday
+1318,Door,PIR,Living,Snack,0:00:04,11,Saturday
+1319,Door,PIR,Living,No Activity,0:00:03,11,Saturday
+1320,Door,PIR,Bedroom,No Activity,0:00:03,11,Saturday
+1321,Door,PIR,Bedroom,No Activity,0:00:02,11,Saturday
+1322,Shower,PIR,Bathroom,Showering,0:08:21,11,Saturday
+1323,Basin,PIR,Bathroom,Grooming,0:05:28,11,Saturday
+1324,Basin,PIR,Bathroom,Grooming,0:00:39,11,Saturday
+1325,Door,PIR,Bedroom,No Activity,0:00:04,11,Saturday
+1326,Door,PIR,Bedroom,No Activity,0:00:03,11,Saturday
+1327,Basin,PIR,Bathroom,Grooming,0:00:15,11,Saturday
+1328,Toilet,Flush,Bathroom,Toileting,0:01:04,12,Saturday
+1329,Door,PIR,Bedroom,No Activity,0:00:03,12,Saturday
+1330,Door,PIR,Bedroom,No Activity,0:00:02,12,Saturday
+1331,Door,PIR,Living,No Activity,0:00:03,12,Saturday
+1332,Door,PIR,Living,No Activity,0:00:02,12,Saturday
+1333,Door,PIR,Kitchen,Snack,0:00:04,12,Saturday
+1334,Door,PIR,Kitchen,Snack,0:00:05,12,Saturday
+1335,Door,PIR,Living,No Activity,0:00:03,12,Saturday
+1336,Door,PIR,Living,No Activity,0:00:08,12,Saturday
+1337,Door,PIR,Kitchen,No Activity,0:00:04,12,Saturday
+1338,Door,PIR,Kitchen,No Activity,0:00:03,12,Saturday
+1339,Door,PIR,Living,Spare_Time/TV,0:00:04,12,Saturday
+1340,Seat,Pressure,Living,Spare_Time/TV,0:46:29,12,Saturday
+1341,Door,PIR,Living,Spare_Time/TV,0:00:03,13,Saturday
+1342,Door,PIR,Bedroom,No Activity,0:00:06,13,Saturday
+1343,Door,PIR,Bedroom,No Activity,0:00:03,13,Saturday
+1344,Door,PIR,Living,No Activity,0:00:02,13,Saturday
+1345,Door,PIR,Living,No Activity,0:00:11,13,Saturday
+1346,Door,PIR,Kitchen,No Activity,0:00:03,13,Saturday
+1347,Door,PIR,Kitchen,No Activity,0:00:05,13,Saturday
+1348,Door,PIR,Living,No Activity,0:00:03,13,Saturday
+1349,Door,PIR,Living,No Activity,0:00:02,13,Saturday
+1350,Door,PIR,Kitchen,No Activity,0:00:02,13,Saturday
+1351,Door,PIR,Kitchen,No Activity,0:00:13,13,Saturday
+1352,Door,PIR,Living,Spare_Time/TV,0:00:05,13,Saturday
+1353,Door,PIR,Living,Spare_Time/TV,0:00:04,13,Saturday
+1354,Door,PIR,Living,Spare_Time/TV,0:00:03,13,Saturday
+1355,Door,PIR,Living,Grooming,0:00:03,14,Saturday
+1356,Door,PIR,Bedroom,Grooming,0:00:03,14,Saturday
+1357,Door,PIR,Bedroom,Grooming,0:00:03,14,Saturday
+1358,Basin,PIR,Bathroom,Grooming,0:00:08,14,Saturday
+1359,Door,PIR,Living,No Activity,0:00:03,14,Saturday
+1360,Door,PIR,Living,Leaving,0:00:08,14,Saturday
+1361,Maindoor,Magnetic,Entrance,Leaving,0:00:20,14,Saturday
+1362,Maindoor,Magnetic,Entrance,Leaving,0:00:09,15,Saturday
+1363,Door,PIR,Living,Leaving,0:00:02,15,Saturday
+1364,Door,PIR,Living,Leaving,0:00:02,15,Saturday
+1365,Door,PIR,Bedroom,Leaving,0:00:04,15,Saturday
+1366,Door,PIR,Bedroom,Toileting,0:00:05,16,Saturday
+1367,Toilet,Flush,Bathroom,No Activity,0:00:51,16,Saturday
+1368,Basin,PIR,Bathroom,Toileting,0:00:02,16,Saturday
+1369,Door,PIR,Living,Grooming,0:00:03,16,Saturday
+1370,Door,PIR,Living,Grooming,0:00:02,16,Saturday
+1371,Toilet,Flush,Bathroom,No Activity,0:01:03,16,Saturday
+1372,Basin,PIR,Bathroom,No Activity,0:00:19,16,Saturday
+1373,Door,PIR,Living,Grooming,0:00:03,16,Saturday
+1374,Seat,Pressure,Living,Spare_Time/TV,3:51:56,16,Saturday
+1375,Door,PIR,Living,Snack,0:00:03,19,Saturday
+1376,Door,PIR,Kitchen,Snack,0:00:03,19,Saturday
+1377,Fridge,Magnetic,Kitchen,Snack,0:00:04,19,Saturday
+1378,Door,PIR,Kitchen,Snack,0:00:02,19,Saturday
+1379,Door,PIR,Living,Snack,0:00:03,19,Saturday
+1380,Door,PIR,Living,No Activity,0:00:03,20,Saturday
+1381,Door,PIR,Kitchen,No Activity,0:00:02,20,Saturday
+1382,Door,PIR,Kitchen,No Activity,0:00:02,20,Saturday
+1383,Door,PIR,Living,No Activity,0:00:03,20,Saturday
+1384,Door,PIR,Living,No Activity,0:00:02,20,Saturday
+1385,Door,PIR,Kitchen,No Activity,0:00:02,20,Saturday
+1386,Door,PIR,Kitchen,No Activity,0:00:02,20,Saturday
+1387,Door,PIR,Living,Spare_Time/TV,0:00:05,20,Saturday
+1388,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Saturday
+1389,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,20,Saturday
+1390,Door,PIR,Kitchen,Spare_Time/TV,0:00:01,20,Saturday
+1391,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Saturday
+1392,Door,PIR,Living,No Activity,0:00:08,21,Saturday
+1393,Door,PIR,Bedroom,No Activity,0:00:04,21,Saturday
+1394,Door,PIR,Bedroom,No Activity,0:00:03,21,Saturday
+1395,Door,PIR,Living,No Activity,0:00:05,21,Saturday
+1396,Door,PIR,Living,No Activity,0:00:02,21,Saturday
+1397,Door,PIR,Bedroom,No Activity,0:00:04,21,Saturday
+1398,Door,PIR,Bedroom,No Activity,0:00:04,21,Saturday
+1399,Door,PIR,Living,No Activity,0:00:03,22,Saturday
+1400,Door,PIR,Living,Toileting,0:00:03,22,Saturday
+1401,Toilet,Flush,Bathroom,No Activity,0:00:55,22,Saturday
+1402,Door,PIR,Bedroom,Toileting,0:00:03,22,Saturday
+1403,Door,PIR,Bedroom,Spare_Time/TV,0:00:04,22,Saturday
+1404,Door,PIR,Living,Spare_Time/TV,0:00:05,22,Saturday
+1405,Door,PIR,Living,Dinner,0:00:05,22,Saturday
+1406,Door,PIR,Kitchen,Dinner,0:00:04,22,Saturday
+1407,Fridge,Magnetic,Kitchen,Dinner,0:00:02,22,Saturday
+1408,Fridge,Magnetic,Kitchen,Dinner,0:00:02,22,Saturday
+1409,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,22,Saturday
+1410,Door,PIR,Living,Spare_Time/TV,0:00:04,22,Saturday
+1411,Door,PIR,Living,Snack,0:00:03,23,Saturday
+1412,Door,PIR,Kitchen,Snack,0:00:04,23,Saturday
+1413,Fridge,Magnetic,Kitchen,Snack,0:00:17,23,Saturday
+1414,Door,PIR,Kitchen,No Activity,0:00:07,23,Saturday
+1415,Door,PIR,Living,No Activity,0:00:03,23,Saturday
+1416,Seat,Pressure,Living,Spare_Time/TV,1:18:44,23,Saturday
+1417,Door,PIR,Living,No Activity,0:00:05,0,Sunday
+1418,Basin,PIR,Bathroom,No Activity,0:03:07,0,Sunday
+1419,Door,PIR,Living,Spare_Time/TV,0:00:03,0,Sunday
+1420,Seat,Pressure,Living,Spare_Time/TV,0:58:02,0,Sunday
+1421,Door,PIR,Living,Spare_Time/TV,0:00:11,1,Sunday
+1422,Door,PIR,Bedroom,Sleeping,0:00:04,1,Sunday
+1423,Bed,Pressure,Bedroom,Sleeping,7:31:53,1,Sunday
+1424,Door,PIR,Bedroom,Sleeping,0:00:03,9,Sunday
+1425,Toilet,Flush,Bathroom,No Activity,0:01:02,9,Sunday
+1426,Basin,PIR,Bathroom,No Activity,0:01:10,9,Sunday
+1427,Door,PIR,Living,No Activity,0:00:03,9,Sunday
+1428,Door,PIR,Living,No Activity,0:00:02,9,Sunday
+1429,Door,PIR,Kitchen,No Activity,0:00:02,9,Sunday
+1430,Door,PIR,Kitchen,No Activity,0:00:07,9,Sunday
+1431,Toilet,Flush,Bathroom,No Activity,0:01:23,9,Sunday
+1432,Basin,PIR,Bathroom,Grooming,0:10:20,9,Sunday
+1433,Toilet,Flush,Bathroom,Toileting,0:00:33,9,Sunday
+1434,Door,PIR,Bedroom,No Activity,0:00:09,9,Sunday
+1435,Door,PIR,Bedroom,No Activity,0:00:01,10,Sunday
+1436,Door,PIR,Kitchen,Breakfast,0:00:04,10,Sunday
+1437,Fridge,Magnetic,Kitchen,Breakfast,0:00:07,10,Sunday
+1438,Fridge,Magnetic,Kitchen,Breakfast,0:00:17,10,Sunday
+1439,Door,PIR,Kitchen,Breakfast,0:00:02,10,Sunday
+1440,Door,PIR,Bedroom,No Activity,0:00:04,10,Sunday
+1441,Door,PIR,Bedroom,No Activity,0:00:02,10,Sunday
+1442,Door,PIR,Living,Spare_Time/TV,0:00:03,10,Sunday
+1443,Seat,Pressure,Living,Spare_Time/TV,0:17:12,10,Sunday
+1444,Door,PIR,Living,Spare_Time/TV,0:00:03,10,Sunday
+1445,Door,PIR,Bedroom,No Activity,0:00:03,10,Sunday
+1446,Door,PIR,Bedroom,No Activity,0:00:03,10,Sunday
+1447,Maindoor,Magnetic,Entrance,Leaving,0:00:09,10,Sunday
+1448,Maindoor,Magnetic,Entrance,Leaving,0:00:03,13,Sunday
+1449,Toilet,Flush,Bathroom,Toileting,0:03:40,13,Sunday
+1450,Door,PIR,Bedroom,Toileting,0:00:13,13,Sunday
+1451,Door,PIR,Bedroom,No Activity,0:00:06,13,Sunday
+1452,Door,PIR,Living,No Activity,0:00:04,13,Sunday
+1453,Door,PIR,Living,No Activity,0:00:03,13,Sunday
+1454,Door,PIR,Kitchen,No Activity,0:00:02,13,Sunday
+1455,Door,PIR,Kitchen,No Activity,0:00:02,13,Sunday
+1456,Door,PIR,Living,Spare_Time/TV,0:00:03,13,Sunday
+1457,Seat,Pressure,Living,Spare_Time/TV,0:36:53,14,Sunday
+1458,Door,PIR,Living,Spare_Time/TV,0:00:03,14,Sunday
+1459,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,14,Sunday
+1460,Door,PIR,Kitchen,No Activity,0:00:02,14,Sunday
+1461,Door,PIR,Living,No Activity,0:00:03,14,Sunday
+1462,Door,PIR,Living,No Activity,0:00:04,14,Sunday
+1463,Door,PIR,Kitchen,Lunch,0:00:02,14,Sunday
+1464,Fridge,Magnetic,Kitchen,Lunch,0:00:07,14,Sunday
+1465,Fridge,Magnetic,Kitchen,Lunch,0:01:33,14,Sunday
+1466,Door,PIR,Kitchen,Lunch,0:00:02,14,Sunday
+1467,Door,PIR,Living,Lunch,0:00:04,14,Sunday
+1468,Door,PIR,Living,Lunch,0:00:02,14,Sunday
+1469,Door,PIR,Kitchen,Lunch,0:00:03,14,Sunday
+1470,Door,PIR,Kitchen,Lunch,0:00:02,14,Sunday
+1471,Door,PIR,Living,No Activity,0:00:04,15,Sunday
+1472,Door,PIR,Living,Snack,0:00:03,15,Sunday
+1473,Door,PIR,Kitchen,Snack,0:00:02,15,Sunday
+1474,Fridge,Magnetic,Kitchen,Snack,0:00:02,15,Sunday
+1475,Door,PIR,Kitchen,Snack,0:00:02,15,Sunday
+1476,Door,PIR,Living,No Activity,0:00:03,15,Sunday
+1477,Door,PIR,Living,No Activity,0:00:02,15,Sunday
+1478,Door,PIR,Bedroom,No Activity,0:00:03,15,Sunday
+1479,Door,PIR,Bedroom,No Activity,0:00:02,15,Sunday
+1480,Door,PIR,Living,No Activity,0:00:05,15,Sunday
+1481,Door,PIR,Living,Leaving,0:00:03,15,Sunday
+1482,Maindoor,Magnetic,Entrance,Leaving,0:00:07,15,Sunday
+1483,Maindoor,Magnetic,Entrance,Leaving,0:00:06,20,Sunday
+1484,Door,PIR,Living,Leaving,0:00:04,20,Sunday
+1485,Door,PIR,Living,No Activity,0:00:05,20,Sunday
+1486,Toilet,Flush,Bathroom,Toileting,0:01:10,20,Sunday
+1487,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Sunday
+1488,Seat,Pressure,Living,Spare_Time/TV,1:43:46,20,Sunday
+1489,Door,PIR,Living,Spare_Time/TV,0:00:03,22,Sunday
+1490,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,22,Sunday
+1491,Door,PIR,Kitchen,No Activity,0:00:02,22,Sunday
+1492,Door,PIR,Living,No Activity,0:00:03,22,Sunday
+1493,Door,PIR,Living,No Activity,0:00:02,22,Sunday
+1494,Door,PIR,Kitchen,No Activity,0:00:04,22,Sunday
+1495,Door,PIR,Kitchen,Dinner,0:00:06,22,Sunday
+1496,Door,PIR,Living,Dinner,0:00:03,22,Sunday
+1497,Door,PIR,Living,Dinner,0:00:03,22,Sunday
+1498,Door,PIR,Kitchen,Dinner,0:00:02,22,Sunday
+1499,Fridge,Magnetic,Kitchen,Dinner,0:00:11,22,Sunday
+1500,Door,PIR,Kitchen,Dinner,0:00:02,22,Sunday
+1501,Door,PIR,Living,Dinner,0:00:03,22,Sunday
+1502,Seat,Pressure,Living,Spare_Time/TV,1:04:54,22,Sunday
+1503,Door,PIR,Living,Spare_Time/TV,0:00:03,23,Sunday
+1504,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,23,Sunday
+1505,Door,PIR,Kitchen,No Activity,0:00:04,23,Sunday
+1506,Door,PIR,Living,No Activity,0:00:03,23,Sunday
+1507,Door,PIR,Living,No Activity,0:00:03,23,Sunday
+1508,Door,PIR,Kitchen,No Activity,0:00:02,23,Sunday
+1509,Door,PIR,Kitchen,No Activity,0:00:03,23,Sunday
+1510,Door,PIR,Living,No Activity,0:00:03,23,Sunday
+1511,Seat,Pressure,Living,Spare_Time/TV,0:54:54,23,Sunday
+1512,Door,PIR,Living,No Activity,0:00:03,0,Monday
+1513,Door,PIR,Bedroom,No Activity,0:00:02,0,Monday
+1514,Door,PIR,Bedroom,No Activity,0:00:02,0,Monday
+1515,Door,PIR,Living,No Activity,0:00:04,0,Monday
+1516,Seat,Pressure,Living,No Activity,0:58:14,0,Monday
+1517,Door,PIR,Living,No Activity,0:00:03,1,Monday
+1518,Door,PIR,Kitchen,No Activity,0:00:06,1,Monday
+1519,Door,PIR,Kitchen,No Activity,0:00:02,1,Monday
+1520,Toilet,Flush,Bathroom,No Activity,0:00:55,1,Monday
+1521,Door,PIR,Bedroom,Toileting,0:00:03,1,Monday
+1522,Bed,Pressure,Bedroom,Sleeping,7:14:00,1,Monday
+1523,Door,PIR,Bedroom,Sleeping,0:00:02,8,Monday
+1524,Toilet,Flush,Bathroom,No Activity,0:01:04,8,Monday
+1525,Door,PIR,Bedroom,Toileting,0:00:04,8,Monday
+1526,Bed,Pressure,Bedroom,Sleeping,0:43:41,8,Monday
+1527,Door,PIR,Bedroom,Sleeping,0:00:04,9,Monday
+1528,Toilet,Flush,Bathroom,Toileting,0:01:13,9,Monday
+1529,Door,PIR,Living,No Activity,0:00:06,9,Monday
+1530,Door,PIR,Living,Breakfast,0:00:03,9,Monday
+1531,Door,PIR,Kitchen,Breakfast,0:00:03,9,Monday
+1532,Fridge,Magnetic,Kitchen,Breakfast,0:00:04,9,Monday
+1533,Fridge,Magnetic,Kitchen,Breakfast,0:00:02,9,Monday
+1534,Door,PIR,Kitchen,Breakfast,0:00:02,10,Monday
+1535,Door,PIR,Bedroom,No Activity,0:00:02,10,Monday
+1536,Door,PIR,Bedroom,No Activity,0:00:04,10,Monday
+1537,Door,PIR,Kitchen,No Activity,0:00:03,10,Monday
+1538,Door,PIR,Kitchen,No Activity,0:00:02,10,Monday
+1539,Door,PIR,Bedroom,No Activity,0:00:03,10,Monday
+1540,Door,PIR,Bedroom,No Activity,0:00:02,10,Monday
+1541,Shower,PIR,Bathroom,Showering,0:06:14,10,Monday
+1542,Basin,PIR,Bathroom,Grooming,0:09:00,10,Monday
+1543,Door,PIR,Bedroom,No Activity,0:00:04,11,Monday
+1544,Door,PIR,Bedroom,No Activity,0:00:03,11,Monday
+1545,Basin,PIR,Bathroom,No Activity,0:03:36,11,Monday
+1546,Toilet,Flush,Bathroom,Toileting,0:00:56,11,Monday
+1547,Door,PIR,Bedroom,No Activity,0:00:03,11,Monday
+1548,Door,PIR,Bedroom,No Activity,0:00:03,11,Monday
+1549,Maindoor,Magnetic,Entrance,Leaving,0:00:03,11,Monday
+1550,Maindoor,Magnetic,Entrance,Leaving,0:00:06,11,Monday
+1551,Door,PIR,Kitchen,Leaving,0:00:02,11,Monday
+1552,Fridge,Magnetic,Kitchen,No Activity,0:00:06,12,Monday
+1553,Door,PIR,Kitchen,No Activity,0:00:02,12,Monday
+1554,Door,PIR,Living,No Activity,0:00:03,12,Monday
+1555,Door,PIR,Living,No Activity,0:00:03,12,Monday
+1556,Door,PIR,Kitchen,No Activity,0:00:03,12,Monday
+1557,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,12,Monday
+1558,Door,PIR,Living,Spare_Time/TV,0:00:03,12,Monday
+1559,Seat,Pressure,Living,Spare_Time/TV,0:22:23,12,Monday
+1560,Door,PIR,Living,Spare_Time/TV,0:00:03,12,Monday
+1561,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,12,Monday
+1562,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,12,Monday
+1563,Door,PIR,Living,Spare_Time/TV,0:00:03,12,Monday
+1564,Seat,Pressure,Living,Spare_Time/TV,0:17:56,12,Monday
+1565,Door,PIR,Living,Spare_Time/TV,0:00:02,12,Monday
+1566,Maindoor,Magnetic,Entrance,Leaving,0:00:04,12,Monday
+1567,Maindoor,Magnetic,Entrance,Leaving,0:00:06,18,Monday
+1568,Toilet,Flush,Bathroom,Toileting,0:01:04,19,Monday
+1569,Door,PIR,Living,No Activity,0:00:03,19,Monday
+1570,Door,PIR,Living,No Activity,0:00:03,19,Monday
+1571,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,19,Monday
+1572,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,19,Monday
+1573,Door,PIR,Living,Spare_Time/TV,0:00:03,19,Monday
+1574,Seat,Pressure,Living,No Activity,1:53:28,19,Monday
+1575,Door,PIR,Living,Spare_Time/TV,0:00:03,21,Monday
+1576,Door,PIR,Kitchen,No Activity,0:00:05,21,Monday
+1577,Door,PIR,Kitchen,No Activity,0:00:02,21,Monday
+1578,Door,PIR,Living,No Activity,0:00:03,21,Monday
+1579,Door,PIR,Living,No Activity,0:00:02,21,Monday
+1580,Door,PIR,Kitchen,No Activity,0:00:04,21,Monday
+1581,Door,PIR,Kitchen,No Activity,0:00:01,21,Monday
+1582,Door,PIR,Bedroom,No Activity,0:00:06,21,Monday
+1583,Door,PIR,Bedroom,No Activity,0:00:02,21,Monday
+1584,Door,PIR,Living,No Activity,0:00:03,21,Monday
+1585,Door,PIR,Living,No Activity,0:00:03,21,Monday
+1586,Maindoor,Magnetic,Entrance,No Activity,0:00:13,21,Monday
+1587,Maindoor,Magnetic,Entrance,No Activity,0:00:03,1,Tuesday
+1588,Door,PIR,Kitchen,No Activity,0:00:02,1,Tuesday
+1589,Door,PIR,Kitchen,No Activity,0:00:02,1,Tuesday
+1590,Door,PIR,Living,No Activity,0:00:03,1,Tuesday
+1591,Door,PIR,Living,No Activity,0:00:04,1,Tuesday
+1592,Door,PIR,Bedroom,No Activity,0:00:02,1,Tuesday
+1593,Door,PIR,Bedroom,No Activity,0:00:03,1,Tuesday
+1594,Basin,PIR,Bathroom,Grooming,0:01:00,1,Tuesday
+1595,Toilet,Flush,Bathroom,No Activity,0:01:05,1,Tuesday
+1596,Basin,PIR,Bathroom,Grooming,0:01:01,1,Tuesday
+1597,Door,PIR,Bedroom,Grooming,0:00:05,1,Tuesday
+1598,Bed,Pressure,Bedroom,Sleeping,8:28:01,1,Tuesday
+1599,Door,PIR,Bedroom,Sleeping,0:00:03,10,Tuesday
+1600,Toilet,Flush,Bathroom,Toileting,0:01:19,10,Tuesday
+1601,Door,PIR,Living,Toileting,0:00:03,10,Tuesday
+1602,Door,PIR,Living,Breakfast,0:00:03,10,Tuesday
+1603,Door,PIR,Kitchen,Breakfast,0:00:02,10,Tuesday
+1604,Fridge,Magnetic,Kitchen,Breakfast,0:00:04,10,Tuesday
+1605,Fridge,Magnetic,Kitchen,Breakfast,0:00:01,10,Tuesday
+1606,Door,PIR,Kitchen,Breakfast,0:00:02,10,Tuesday
+1607,Door,PIR,Living,No Activity,0:00:04,10,Tuesday
+1608,Door,PIR,Living,No Activity,0:00:03,10,Tuesday
+1609,Door,PIR,Bedroom,No Activity,0:00:03,10,Tuesday
+1610,Door,PIR,Bedroom,No Activity,0:00:03,10,Tuesday
+1611,Door,PIR,Kitchen,No Activity,0:00:04,10,Tuesday
+1612,Door,PIR,Kitchen,No Activity,0:00:02,10,Tuesday
+1613,Door,PIR,Bedroom,No Activity,0:00:02,10,Tuesday
+1614,Door,PIR,Bedroom,Spare_Time/TV,0:00:04,10,Tuesday
+1615,Door,PIR,Living,Spare_Time/TV,0:00:02,10,Tuesday
+1616,Seat,Pressure,Living,Spare_Time/TV,0:56:49,10,Tuesday
+1617,Door,PIR,Living,Spare_Time/TV,0:00:04,11,Tuesday
+1618,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,11,Tuesday
+1619,Door,PIR,Kitchen,No Activity,0:00:02,11,Tuesday
+1620,Door,PIR,Living,No Activity,0:00:03,11,Tuesday
+1621,Door,PIR,Living,No Activity,0:00:02,11,Tuesday
+1622,Basin,PIR,Bathroom,Grooming,0:00:03,11,Tuesday
+1623,Door,PIR,Kitchen,Grooming,0:00:03,11,Tuesday
+1624,Fridge,Magnetic,Kitchen,Snack,0:00:07,11,Tuesday
+1625,Door,PIR,Kitchen,Snack,0:00:03,11,Tuesday
+1626,Door,PIR,Bedroom,Snack,0:00:04,11,Tuesday
+1627,Door,PIR,Bedroom,Spare_Time/TV,0:00:04,11,Tuesday
+1628,Door,PIR,Living,Spare_Time/TV,0:00:04,11,Tuesday
+1629,Seat,Pressure,Living,Spare_Time/TV,0:22:54,11,Tuesday
+1630,Door,PIR,Living,Spare_Time/TV,0:00:04,12,Tuesday
+1631,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,12,Tuesday
+1632,Door,PIR,Kitchen,No Activity,0:00:02,12,Tuesday
+1633,Toilet,Flush,Bathroom,No Activity,0:01:32,12,Tuesday
+1634,Door,PIR,Living,Spare_Time/TV,0:00:02,12,Tuesday
+1635,Seat,Pressure,Living,Spare_Time/TV,0:53:40,12,Tuesday
+1636,Door,PIR,Living,Spare_Time/TV,0:00:04,13,Tuesday
+1637,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,13,Tuesday
+1638,Door,PIR,Kitchen,No Activity,0:00:02,13,Tuesday
+1639,Door,PIR,Living,No Activity,0:00:01,13,Tuesday
+1640,Door,PIR,Living,No Activity,0:00:03,13,Tuesday
+1641,Door,PIR,Bedroom,No Activity,0:00:02,13,Tuesday
+1642,Door,PIR,Bedroom,No Activity,0:00:02,13,Tuesday
+1643,Door,PIR,Living,No Activity,0:00:02,13,Tuesday
+1644,Door,PIR,Living,No Activity,0:00:02,13,Tuesday
+1645,Basin,PIR,Bathroom,Grooming,0:08:22,13,Tuesday
+1646,Shower,PIR,Bathroom,Showering,0:12:00,13,Tuesday
+1647,Basin,PIR,Bathroom,Grooming,0:00:30,13,Tuesday
+1648,Door,PIR,Living,No Activity,0:00:02,13,Tuesday
+1649,Door,PIR,Living,No Activity,0:00:02,14,Tuesday
+1650,Door,PIR,Bedroom,No Activity,0:00:02,14,Tuesday
+1651,Door,PIR,Bedroom,No Activity,0:00:04,14,Tuesday
+1652,Door,PIR,Living,Spare_Time/TV,0:00:03,14,Tuesday
+1653,Seat,Pressure,Living,Spare_Time/TV,0:22:01,14,Tuesday
+1654,Door,PIR,Living,Spare_Time/TV,0:00:03,14,Tuesday
+1655,Door,PIR,Bedroom,No Activity,0:00:03,14,Tuesday
+1656,Door,PIR,Bedroom,No Activity,0:00:02,14,Tuesday
+1657,Door,PIR,Living,No Activity,0:00:03,14,Tuesday
+1658,Door,PIR,Living,No Activity,0:00:02,14,Tuesday
+1659,Maindoor,Magnetic,Entrance,Leaving,0:00:04,14,Tuesday
+1660,Maindoor,Magnetic,Entrance,Leaving,0:00:05,16,Tuesday
+1661,Door,PIR,Kitchen,No Activity,0:00:03,16,Tuesday
+1662,Door,PIR,Kitchen,No Activity,0:00:02,16,Tuesday
+1663,Door,PIR,Living,Spare_Time/TV,0:00:03,16,Tuesday
+1664,Seat,Pressure,Living,Spare_Time/TV,2:25:58,16,Tuesday
+1665,Door,PIR,Living,Spare_Time/TV,0:00:02,18,Tuesday
+1666,Door,PIR,Bedroom,No Activity,0:00:04,18,Tuesday
+1667,Door,PIR,Bedroom,No Activity,0:00:02,18,Tuesday
+1668,Door,PIR,Kitchen,No Activity,0:00:03,18,Tuesday
+1669,Door,PIR,Kitchen,No Activity,0:00:02,18,Tuesday
+1670,Door,PIR,Living,No Activity,0:00:03,18,Tuesday
+1671,Door,PIR,Living,No Activity,0:00:03,19,Tuesday
+1672,Door,PIR,Kitchen,No Activity,0:00:05,19,Tuesday
+1673,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,19,Tuesday
+1674,Door,PIR,Living,Spare_Time/TV,0:00:03,19,Tuesday
+1675,Door,PIR,Living,Spare_Time/TV,0:00:03,19,Tuesday
+1676,Door,PIR,Living,Spare_Time/TV,0:00:03,19,Tuesday
+1677,Door,PIR,Living,Spare_Time/TV,0:00:02,19,Tuesday
+1678,Door,PIR,Kitchen,Snack,0:00:03,19,Tuesday
+1679,Fridge,Magnetic,Kitchen,Snack,0:00:16,19,Tuesday
+1680,Door,PIR,Kitchen,Snack,0:00:03,19,Tuesday
+1681,Door,PIR,Living,Spare_Time/TV,0:00:02,19,Tuesday
+1682,Seat,Pressure,Living,Spare_Time/TV,0:10:16,19,Tuesday
+1683,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Tuesday
+1684,Door,PIR,Kitchen,No Activity,0:00:04,21,Tuesday
+1685,Door,PIR,Kitchen,No Activity,0:00:03,21,Tuesday
+1686,Door,PIR,Living,No Activity,0:00:03,21,Tuesday
+1687,Door,PIR,Living,Grooming,0:00:03,21,Tuesday
+1688,Basin,PIR,Bathroom,Grooming,0:00:55,21,Tuesday
+1689,Toilet,Flush,Bathroom,Toileting,0:00:54,21,Tuesday
+1690,Basin,PIR,Bathroom,Grooming,0:00:23,21,Tuesday
+1691,Door,PIR,Living,No Activity,0:00:03,21,Tuesday
+1692,Door,PIR,Living,No Activity,0:00:02,21,Tuesday
+1693,Maindoor,Magnetic,Entrance,No Activity,0:00:11,21,Tuesday
+1694,Maindoor,Magnetic,Entrance,No Activity,0:00:03,1,Wednesday
+1695,Door,PIR,Living,No Activity,0:00:03,1,Wednesday
+1696,Door,PIR,Living,No Activity,0:00:03,1,Wednesday
+1697,Door,PIR,Bedroom,No Activity,0:00:02,1,Wednesday
+1698,Door,PIR,Bedroom,Grooming,0:00:02,1,Wednesday
+1699,Basin,PIR,Bathroom,Grooming,0:00:35,1,Wednesday
+1700,Door,PIR,Bedroom,No Activity,0:00:07,1,Wednesday
+1701,Door,PIR,Bedroom,No Activity,0:00:03,1,Wednesday
+1702,Toilet,Flush,Bathroom,Toileting,0:00:55,1,Wednesday
+1703,Door,PIR,Living,Toileting,0:00:03,1,Wednesday
+1704,Door,PIR,Living,Toileting,0:00:02,1,Wednesday
+1705,Door,PIR,Bedroom,Toileting,0:00:06,1,Wednesday
+1706,Bed,Pressure,Bedroom,Sleeping,7:20:44,1,Wednesday
+1707,Door,PIR,Bedroom,Sleeping,0:00:04,9,Wednesday
+1708,Toilet,Flush,Bathroom,Toileting,0:01:23,9,Wednesday
+1709,Door,PIR,Bedroom,Toileting,0:00:03,9,Wednesday
+1710,Door,PIR,Bedroom,No Activity,0:00:04,9,Wednesday
+1711,Door,PIR,Living,No Activity,0:00:03,9,Wednesday
+1712,Door,PIR,Living,Breakfast,0:00:03,9,Wednesday
+1713,Door,PIR,Kitchen,Breakfast,0:00:04,9,Wednesday
+1714,Fridge,Magnetic,Kitchen,Breakfast,0:00:02,9,Wednesday
+1715,Fridge,Magnetic,Kitchen,Breakfast,0:00:02,9,Wednesday
+1716,Door,PIR,Kitchen,Breakfast,0:00:01,9,Wednesday
+1717,Door,PIR,Living,Breakfast,0:00:03,9,Wednesday
+1718,Door,PIR,Living,Breakfast,0:00:03,9,Wednesday
+1719,Door,PIR,Kitchen,Breakfast,0:00:03,9,Wednesday
+1720,Fridge,Magnetic,Kitchen,Breakfast,0:00:04,9,Wednesday
+1721,Door,PIR,Kitchen,Grooming,0:00:02,9,Wednesday
+1722,Basin,PIR,Bathroom,Grooming,0:00:03,9,Wednesday
+1723,Door,PIR,Bedroom,No Activity,0:00:03,9,Wednesday
+1724,Door,PIR,Bedroom,No Activity,0:00:03,9,Wednesday
+1725,Basin,PIR,Bathroom,Grooming,0:05:53,9,Wednesday
+1726,Toilet,Flush,Bathroom,Toileting,0:01:17,10,Wednesday
+1727,Basin,PIR,Bathroom,Grooming,0:01:14,10,Wednesday
+1728,Door,PIR,Bedroom,No Activity,0:00:04,10,Wednesday
+1729,Door,PIR,Bedroom,No Activity,0:00:04,10,Wednesday
+1730,Door,PIR,Kitchen,No Activity,0:00:02,10,Wednesday
+1731,Door,PIR,Kitchen,No Activity,0:00:02,10,Wednesday
+1732,Door,PIR,Living,Spare_Time/TV,0:00:02,10,Wednesday
+1733,Seat,Pressure,Living,Spare_Time/TV,0:10:02,10,Wednesday
+1734,Door,PIR,Living,Spare_Time/TV,0:00:03,10,Wednesday
+1735,Door,PIR,Bedroom,No Activity,0:00:05,10,Wednesday
+1736,Door,PIR,Bedroom,No Activity,0:00:02,10,Wednesday
+1737,Door,PIR,Kitchen,No Activity,0:00:04,10,Wednesday
+1738,Door,PIR,Kitchen,No Activity,0:00:04,10,Wednesday
+1739,Door,PIR,Living,Spare_Time/TV,0:00:04,10,Wednesday
+1740,Seat,Pressure,Living,Spare_Time/TV,0:12:41,10,Wednesday
+1741,Door,PIR,Living,Spare_Time/TV,0:00:03,11,Wednesday
+1742,Maindoor,Magnetic,Entrance,Leaving,0:00:03,11,Wednesday
+1743,Maindoor,Magnetic,Entrance,Leaving,0:00:03,12,Wednesday
+1744,Door,PIR,Kitchen,Snack,0:00:02,12,Wednesday
+1745,Fridge,Magnetic,Kitchen,Snack,0:00:03,12,Wednesday
+1746,Door,PIR,Kitchen,Snack,0:00:01,12,Wednesday
+1747,Door,PIR,Kitchen,No Activity,0:00:02,12,Wednesday
+1748,Door,PIR,Kitchen,No Activity,0:00:04,12,Wednesday
+1749,Door,PIR,Kitchen,No Activity,0:00:02,12,Wednesday
+1750,Door,PIR,Kitchen,No Activity,0:00:31,12,Wednesday
+1751,Door,PIR,Living,No Activity,0:00:03,12,Wednesday
+1752,Door,PIR,Living,No Activity,0:00:04,12,Wednesday
+1753,Door,PIR,Kitchen,No Activity,0:00:05,12,Wednesday
+1754,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,12,Wednesday
+1755,Door,PIR,Living,Spare_Time/TV,0:00:03,12,Wednesday
+1756,Seat,Pressure,Living,Spare_Time/TV,0:10:27,13,Wednesday
+1757,Door,PIR,Living,Spare_Time/TV,0:00:06,13,Wednesday
+1758,Door,PIR,Kitchen,Snack,0:00:02,13,Wednesday
+1759,Fridge,Magnetic,Kitchen,Snack,0:00:07,13,Wednesday
+1760,Door,PIR,Kitchen,Snack,0:00:07,13,Wednesday
+1761,Door,PIR,Living,Snack,0:00:03,13,Wednesday
+1762,Door,PIR,Living,No Activity,0:00:03,13,Wednesday
+1763,Door,PIR,Living,Spare_Time/TV,0:00:03,13,Wednesday
+1764,Seat,Pressure,Living,Spare_Time/TV,0:27:47,13,Wednesday
+1765,Door,PIR,Living,Spare_Time/TV,0:00:03,14,Wednesday
+1766,Toilet,Flush,Bathroom,No Activity,0:01:02,14,Wednesday
+1767,Basin,PIR,Bathroom,Toileting,0:00:11,14,Wednesday
+1768,Door,PIR,Living,Toileting,0:00:02,14,Wednesday
+1769,Door,PIR,Living,Grooming,0:00:04,14,Wednesday
+1770,Toilet,Flush,Bathroom,No Activity,0:01:20,14,Wednesday
+1771,Basin,PIR,Bathroom,No Activity,0:00:36,14,Wednesday
+1772,Maindoor,Magnetic,Entrance,Leaving,0:00:05,14,Wednesday
+1773,Maindoor,Magnetic,Entrance,Leaving,0:00:03,16,Wednesday
+1774,Door,PIR,Living,Leaving,0:00:03,16,Wednesday
+1775,Seat,Pressure,Living,Spare_Time/TV,1:30:56,16,Wednesday
+1776,Door,PIR,Living,Spare_Time/TV,0:00:03,17,Wednesday
+1777,Toilet,Flush,Bathroom,Toileting,0:05:11,17,Wednesday
+1778,Door,PIR,Living,Spare_Time/TV,0:00:03,17,Wednesday
+1779,Seat,Pressure,Living,Spare_Time/TV,1:32:44,17,Wednesday
+1780,Door,PIR,Living,Spare_Time/TV,0:00:04,19,Wednesday
+1781,Door,PIR,Kitchen,Snack,0:00:04,19,Wednesday
+1782,Fridge,Magnetic,Kitchen,Snack,0:00:04,19,Wednesday
+1783,Door,PIR,Kitchen,Snack,0:00:04,19,Wednesday
+1784,Door,PIR,Bedroom,No Activity,0:00:04,19,Wednesday
+1785,Door,PIR,Bedroom,No Activity,0:00:02,19,Wednesday
+1786,Door,PIR,Living,No Activity,0:00:03,19,Wednesday
+1787,Door,PIR,Living,No Activity,0:00:03,19,Wednesday
+1788,Door,PIR,Bedroom,No Activity,0:00:04,19,Wednesday
+1789,Door,PIR,Bedroom,No Activity,0:00:02,19,Wednesday
+1790,Maindoor,Magnetic,Entrance,Leaving,0:00:04,19,Wednesday
+1791,Maindoor,Magnetic,Entrance,Leaving,0:00:07,22,Wednesday
+1792,Door,PIR,Kitchen,Dinner,0:00:03,22,Wednesday
+1793,Fridge,Magnetic,Kitchen,Dinner,0:00:07,22,Wednesday
+1794,Fridge,Magnetic,Kitchen,Dinner,0:00:02,22,Wednesday
+1795,Door,PIR,Kitchen,Dinner,0:00:04,22,Wednesday
+1796,Door,PIR,Living,Dinner,0:00:03,22,Wednesday
+1797,Door,PIR,Living,Dinner,0:00:05,22,Wednesday
+1798,Door,PIR,Bedroom,Dinner,0:00:03,22,Wednesday
+1799,Door,PIR,Bedroom,Dinner,0:00:04,22,Wednesday
+1800,Door,PIR,Living,Spare_Time/TV,0:00:02,22,Wednesday
+1801,Seat,Pressure,Living,Spare_Time/TV,1:17:37,22,Wednesday
+1802,Door,PIR,Living,Spare_Time/TV,0:00:04,23,Wednesday
+1803,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,23,Wednesday
+1804,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,23,Wednesday
+1805,Door,PIR,Living,No Activity,0:00:03,23,Wednesday
+1806,Door,PIR,Living,No Activity,0:00:04,23,Wednesday
+1807,Door,PIR,Kitchen,No Activity,0:00:02,23,Wednesday
+1808,Door,PIR,Kitchen,No Activity,0:00:02,23,Wednesday
+1809,Door,PIR,Living,No Activity,0:00:03,23,Wednesday
+1810,Door,PIR,Living,No Activity,0:00:03,23,Wednesday
+1811,Door,PIR,Bedroom,No Activity,0:00:03,23,Wednesday
+1812,Door,PIR,Bedroom,No Activity,0:00:03,23,Wednesday
+1813,Toilet,Flush,Bathroom,No Activity,0:01:32,23,Wednesday
+1814,Door,PIR,Living,Toileting,0:00:02,23,Wednesday
+1815,Door,PIR,Living,Toileting,0:00:05,23,Wednesday
+1816,Basin,PIR,Bathroom,No Activity,0:00:36,23,Wednesday
+1817,Door,PIR,Bedroom,Grooming,0:00:04,23,Wednesday
+1818,Door,PIR,Bedroom,No Activity,0:00:03,23,Wednesday
+1819,Door,PIR,Living,No Activity,0:00:03,23,Wednesday
+1820,Door,PIR,Living,No Activity,0:00:03,23,Wednesday
+1821,Basin,PIR,Bathroom,Grooming,0:01:35,23,Wednesday
+1822,Door,PIR,Bedroom,Sleeping,0:00:05,0,Thursday
+1823,Bed,Pressure,Bedroom,No Activity,0:57:09,0,Thursday
+1824,Door,PIR,Bedroom,Grooming,0:00:04,0,Thursday
+1825,Basin,PIR,Bathroom,No Activity,0:00:18,0,Thursday
+1826,Door,PIR,Bedroom,Sleeping,0:00:04,0,Thursday
+1827,Bed,Pressure,Bedroom,Sleeping,8:34:10,1,Thursday
+1828,Door,PIR,Bedroom,Sleeping,0:00:02,9,Thursday
+1829,Door,PIR,Living,No Activity,0:00:03,9,Thursday
+1830,Door,PIR,Living,Breakfast,0:00:03,9,Thursday
+1831,Door,PIR,Kitchen,Breakfast,0:00:02,9,Thursday
+1832,Fridge,Magnetic,Kitchen,Breakfast,0:00:02,9,Thursday
+1833,Fridge,Magnetic,Kitchen,Breakfast,0:00:02,9,Thursday
+1834,Fridge,Magnetic,Kitchen,Breakfast,0:00:04,9,Thursday
+1835,Door,PIR,Kitchen,Breakfast,0:00:07,9,Thursday
+1836,Door,PIR,Bedroom,Breakfast,0:00:04,9,Thursday
+1837,Door,PIR,Bedroom,No Activity,0:00:04,9,Thursday
+1838,Toilet,Flush,Bathroom,Toileting,0:06:21,9,Thursday
+1839,Door,PIR,Kitchen,Toileting,0:00:02,9,Thursday
+1840,Door,PIR,Kitchen,Toileting,0:00:03,9,Thursday
+1841,Door,PIR,Living,Toileting,0:00:03,9,Thursday
+1842,Door,PIR,Living,Toileting,0:00:03,9,Thursday
+1843,Door,PIR,Bedroom,No Activity,0:00:04,10,Thursday
+1844,Door,PIR,Bedroom,No Activity,0:00:04,10,Thursday
+1845,Basin,PIR,Bathroom,Grooming,0:00:24,10,Thursday
+1846,Door,PIR,Living,Grooming,0:00:03,10,Thursday
+1847,Door,PIR,Living,Grooming,0:00:03,10,Thursday
+1848,Basin,PIR,Bathroom,Grooming,0:00:42,10,Thursday
+1849,Door,PIR,Bedroom,No Activity,0:00:03,10,Thursday
+1850,Door,PIR,Bedroom,No Activity,0:00:03,10,Thursday
+1851,Basin,PIR,Bathroom,Grooming,0:05:31,10,Thursday
+1852,Door,PIR,Living,No Activity,0:00:04,10,Thursday
+1853,Door,PIR,Living,No Activity,0:00:02,10,Thursday
+1854,Basin,PIR,Bathroom,Grooming,0:01:04,10,Thursday
+1855,Toilet,Flush,Bathroom,Toileting,0:01:17,10,Thursday
+1856,Door,PIR,Bedroom,No Activity,0:00:04,10,Thursday
+1857,Door,PIR,Bedroom,No Activity,0:00:02,10,Thursday
+1858,Maindoor,Magnetic,Entrance,Leaving,0:00:04,10,Thursday
+1859,Maindoor,Magnetic,Entrance,Leaving,0:00:05,13,Thursday
+1860,Door,PIR,Living,No Activity,0:00:02,13,Thursday
+1861,Door,PIR,Living,No Activity,0:00:03,13,Thursday
+1862,Door,PIR,Bedroom,No Activity,0:00:04,13,Thursday
+1863,Door,PIR,Bedroom,No Activity,0:00:03,13,Thursday
+1864,Door,PIR,Kitchen,No Activity,0:00:02,13,Thursday
+1865,Door,PIR,Kitchen,No Activity,0:00:02,13,Thursday
+1866,Door,PIR,Living,No Activity,0:00:03,13,Thursday
+1867,Door,PIR,Living,No Activity,0:00:03,13,Thursday
+1868,Door,PIR,Kitchen,No Activity,0:00:03,13,Thursday
+1869,Fridge,Magnetic,Kitchen,No Activity,0:00:10,14,Thursday
+1870,Door,PIR,Kitchen,No Activity,0:00:02,14,Thursday
+1871,Door,PIR,Living,No Activity,0:00:03,14,Thursday
+1872,Door,PIR,Living,No Activity,0:00:03,14,Thursday
+1873,Door,PIR,Bedroom,No Activity,0:00:07,14,Thursday
+1874,Door,PIR,Bedroom,No Activity,0:00:03,14,Thursday
+1875,Door,PIR,Living,Spare_Time/TV,0:00:06,14,Thursday
+1876,Door,PIR,Living,Spare_Time/TV,0:00:03,15,Thursday
+1877,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,15,Thursday
+1878,Door,PIR,Kitchen,No Activity,0:00:02,15,Thursday
+1879,Door,PIR,Living,Spare_Time/TV,0:00:04,15,Thursday
+1880,Seat,Pressure,Living,Spare_Time/TV,0:22:33,15,Thursday
+1881,Door,PIR,Living,Spare_Time/TV,0:00:13,15,Thursday
+1882,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,15,Thursday
+1883,Door,PIR,Kitchen,No Activity,0:00:05,15,Thursday
+1884,Door,PIR,Living,No Activity,0:00:04,15,Thursday
+1885,Door,PIR,Living,No Activity,0:00:04,15,Thursday
+1886,Door,PIR,Kitchen,No Activity,0:00:03,15,Thursday
+1887,Door,PIR,Kitchen,No Activity,0:00:02,15,Thursday
+1888,Door,PIR,Living,No Activity,0:00:02,15,Thursday
+1889,Door,PIR,Living,No Activity,0:00:04,15,Thursday
+1890,Door,PIR,Kitchen,No Activity,0:00:02,15,Thursday
+1891,Door,PIR,Kitchen,No Activity,0:00:18,15,Thursday
+1892,Door,PIR,Living,No Activity,0:00:04,15,Thursday
+1893,Door,PIR,Living,No Activity,0:00:03,16,Thursday
+1894,Toilet,Flush,Bathroom,No Activity,0:05:34,16,Thursday
+1895,Basin,PIR,Bathroom,Grooming,0:00:12,16,Thursday
+1896,Door,PIR,Living,Toileting,0:00:02,16,Thursday
+1897,Door,PIR,Living,Toileting,0:00:03,16,Thursday
+1898,Door,PIR,Kitchen,Toileting,0:00:02,16,Thursday
+1899,Door,PIR,Kitchen,Toileting,0:00:02,16,Thursday
+1900,Door,PIR,Living,Spare_Time/TV,0:00:03,16,Thursday
+1901,Seat,Pressure,Living,Spare_Time/TV,1:55:41,16,Thursday
+1902,Door,PIR,Living,Spare_Time/TV,0:00:03,18,Thursday
+1903,Door,PIR,Kitchen,Snack,0:00:03,18,Thursday
+1904,Fridge,Magnetic,Kitchen,Snack,0:00:22,18,Thursday
+1905,Door,PIR,Kitchen,Snack,0:00:08,18,Thursday
+1906,Door,PIR,Living,No Activity,0:00:06,18,Thursday
+1907,Door,PIR,Living,No Activity,0:00:04,18,Thursday
+1908,Door,PIR,Kitchen,No Activity,0:00:02,18,Thursday
+1909,Door,PIR,Kitchen,No Activity,0:00:02,18,Thursday
+1910,Door,PIR,Living,No Activity,0:00:04,18,Thursday
+1911,Door,PIR,Living,No Activity,0:00:02,18,Thursday
+1912,Door,PIR,Living,Spare_Time/TV,0:00:03,18,Thursday
+1913,Seat,Pressure,Living,Spare_Time/TV,0:50:23,18,Thursday
+1914,Door,PIR,Living,Spare_Time/TV,0:00:02,19,Thursday
+1915,Door,PIR,Living,Spare_Time/TV,0:00:03,19,Thursday
+1916,Seat,Pressure,Living,Spare_Time/TV,1:20:07,19,Thursday
+1917,Door,PIR,Living,Spare_Time/TV,0:00:04,20,Thursday
+1918,Toilet,Flush,Bathroom,No Activity,0:01:10,21,Thursday
+1919,Basin,PIR,Bathroom,Grooming,0:00:03,21,Thursday
+1920,Door,PIR,Bedroom,Grooming,0:00:05,21,Thursday
+1921,Door,PIR,Bedroom,Grooming,0:00:04,21,Thursday
+1922,Door,PIR,Living,Grooming,0:00:03,21,Thursday
+1923,Seat,Pressure,Living,Spare_Time/TV,0:28:50,21,Thursday
+1924,Door,PIR,Living,Spare_Time/TV,0:00:03,21,Thursday
+1925,Door,PIR,Kitchen,No Activity,0:00:04,21,Thursday
+1926,Door,PIR,Kitchen,No Activity,0:00:03,21,Thursday
+1927,Door,PIR,Living,No Activity,0:00:03,21,Thursday
+1928,Door,PIR,Living,No Activity,0:00:03,21,Thursday
+1929,Door,PIR,Kitchen,No Activity,0:00:01,21,Thursday
+1930,Door,PIR,Kitchen,No Activity,0:00:02,21,Thursday
+1931,Door,PIR,Living,No Activity,0:00:03,21,Thursday
+1932,Door,PIR,Living,No Activity,0:00:03,21,Thursday
+1933,Door,PIR,Kitchen,No Activity,0:00:03,22,Thursday
+1934,Door,PIR,Kitchen,No Activity,0:00:02,22,Thursday
+1935,Door,PIR,Living,No Activity,0:00:03,22,Thursday
+1936,Door,PIR,Living,No Activity,0:00:03,22,Thursday
+1937,Door,PIR,Kitchen,No Activity,0:00:09,22,Thursday
+1938,Door,PIR,Kitchen,No Activity,0:00:03,22,Thursday
+1939,Door,PIR,Living,No Activity,0:00:05,22,Thursday
+1940,Door,PIR,Living,No Activity,0:00:03,22,Thursday
+1941,Door,PIR,Kitchen,Dinner,0:00:03,22,Thursday
+1942,Fridge,Magnetic,Kitchen,Dinner,0:00:05,22,Thursday
+1943,Door,PIR,Kitchen,Dinner,0:00:03,22,Thursday
+1944,Door,PIR,Living,Dinner,0:00:03,22,Thursday
+1945,Door,PIR,Living,Dinner,0:00:03,23,Thursday
+1946,Door,PIR,Bedroom,Dinner,0:00:03,23,Thursday
+1947,Door,PIR,Bedroom,No Activity,0:00:03,23,Thursday
+1948,Door,PIR,Living,No Activity,0:00:03,23,Thursday
+1949,Door,PIR,Living,No Activity,0:00:02,23,Thursday
+1950,Door,PIR,Kitchen,No Activity,0:00:03,23,Thursday
+1951,Door,PIR,Kitchen,No Activity,0:00:05,23,Thursday
+1952,Door,PIR,Living,No Activity,0:00:04,23,Thursday
+1953,Door,PIR,Living,No Activity,0:00:02,0,Friday
+1954,Door,PIR,Bedroom,No Activity,0:00:02,0,Friday
+1955,Door,PIR,Bedroom,Spare_Time/TV,0:00:02,0,Friday
+1956,Door,PIR,Living,Spare_Time/TV,0:00:03,0,Friday
+1957,Door,PIR,Living,Spare_Time/TV,0:00:03,0,Friday
+1958,Door,PIR,Living,Spare_Time/TV,0:00:03,0,Friday
+1959,Door,PIR,Living,Spare_Time/TV,0:00:03,1,Friday
+1960,Toilet,Flush,Bathroom,No Activity,0:00:52,1,Friday
+1961,Door,PIR,Bedroom,Toileting,0:00:05,1,Friday
+1962,Bed,Pressure,Bedroom,No Activity,5:59:01,1,Friday
+1963,Door,PIR,Bedroom,Sleeping,0:00:03,7,Friday
+1964,Door,PIR,Bedroom,Sleeping,0:00:05,7,Friday
+1965,Bed,Pressure,Bedroom,Sleeping,1:35:02,7,Friday
+1966,Door,PIR,Bedroom,Sleeping,0:00:03,10,Friday
+1967,Toilet,Flush,Bathroom,Toileting,0:05:51,10,Friday
+1968,Door,PIR,Living,Toileting,0:00:04,10,Friday
+1969,Door,PIR,Living,Toileting,0:00:02,10,Friday
+1970,Basin,PIR,Bathroom,Toileting,0:01:33,10,Friday
+1971,Door,PIR,Living,Toileting,0:00:03,10,Friday
+1972,Door,PIR,Living,No Activity,0:00:03,10,Friday
+1973,Door,PIR,Kitchen,No Activity,0:00:02,10,Friday
+1974,Door,PIR,Kitchen,No Activity,0:00:02,10,Friday
+1975,Door,PIR,Bedroom,No Activity,0:00:02,10,Friday
+1976,Door,PIR,Bedroom,No Activity,0:00:02,10,Friday
+1977,Door,PIR,Living,No Activity,0:00:03,10,Friday
+1978,Door,PIR,Living,Breakfast,0:00:03,10,Friday
+1979,Door,PIR,Kitchen,Breakfast,0:00:01,10,Friday
+1980,Fridge,Magnetic,Kitchen,Breakfast,0:00:03,10,Friday
+1981,Fridge,Magnetic,Kitchen,Breakfast,0:00:02,10,Friday
+1982,Fridge,Magnetic,Kitchen,Breakfast,0:00:10,10,Friday
+1983,Fridge,Magnetic,Kitchen,Breakfast,0:00:10,11,Friday
+1984,Cupboard,Magnetic,Kitchen,Breakfast,0:00:08,11,Friday
+1985,Door,PIR,Kitchen,Breakfast,0:00:02,11,Friday
+1986,Door,PIR,Living,Breakfast,0:00:03,11,Friday
+1987,Door,PIR,Living,Breakfast,0:00:03,11,Friday
+1988,Door,PIR,Bedroom,Breakfast,0:00:04,11,Friday
+1989,Door,PIR,Bedroom,Breakfast,0:00:02,11,Friday
+1990,Door,PIR,Kitchen,Breakfast,0:00:02,11,Friday
+1991,Fridge,Magnetic,Kitchen,Breakfast,0:00:07,11,Friday
+1992,Door,PIR,Kitchen,Breakfast,0:00:02,11,Friday
+1993,Door,PIR,Living,Breakfast,0:00:03,11,Friday
+1994,Door,PIR,Living,Breakfast,0:00:02,11,Friday
+1995,Basin,PIR,Bathroom,Grooming,0:04:11,11,Friday
+1996,Shower,PIR,Bathroom,Showering,0:03:28,11,Friday
+1997,Basin,PIR,Bathroom,Grooming,0:00:41,12,Friday
+1998,Door,PIR,Living,Spare_Time/TV,0:00:03,12,Friday
+1999,Seat,Pressure,Living,No Activity,0:21:10,12,Friday
+2000,Door,PIR,Living,Grooming,0:00:03,12,Friday
+2001,Basin,PIR,Bathroom,Grooming,0:04:14,12,Friday
+2002,Door,PIR,Bedroom,No Activity,0:00:03,12,Friday
+2003,Door,PIR,Bedroom,No Activity,0:00:02,12,Friday
+2004,Door,PIR,Living,No Activity,0:00:03,12,Friday
+2005,Door,PIR,Living,No Activity,0:00:02,12,Friday
+2006,Door,PIR,Kitchen,No Activity,0:00:01,12,Friday
+2007,Door,PIR,Kitchen,No Activity,0:00:02,12,Friday
+2008,Door,PIR,Living,No Activity,0:00:03,12,Friday
+2009,Door,PIR,Living,No Activity,0:00:03,12,Friday
+2010,Toilet,Flush,Bathroom,No Activity,0:00:56,12,Friday
+2011,Basin,PIR,Bathroom,Toileting,0:00:40,12,Friday
+2012,Door,PIR,Living,Grooming,0:00:03,12,Friday
+2013,Seat,Pressure,Living,Spare_Time/TV,1:37:42,12,Friday
+2014,Door,PIR,Living,Spare_Time/TV,0:00:03,14,Friday
+2015,Door,PIR,Kitchen,Spare_Time/TV,0:00:05,14,Friday
+2016,Door,PIR,Kitchen,No Activity,0:00:03,14,Friday
+2017,Door,PIR,Living,No Activity,0:00:03,14,Friday
+2018,Door,PIR,Living,Lunch,0:00:03,15,Friday
+2019,Door,PIR,Kitchen,Lunch,0:00:02,15,Friday
+2020,Door,PIR,Kitchen,Lunch,0:00:03,15,Friday
+2021,Door,PIR,Living,Lunch,0:00:04,15,Friday
+2022,Door,PIR,Living,Lunch,0:00:05,15,Friday
+2023,Door,PIR,Kitchen,Lunch,0:00:03,15,Friday
+2024,Fridge,Magnetic,Kitchen,Lunch,0:00:05,15,Friday
+2025,Fridge,Magnetic,Kitchen,Lunch,0:00:04,15,Friday
+2026,Door,PIR,Kitchen,Lunch,0:00:02,15,Friday
+2027,Door,PIR,Living,Lunch,0:00:04,15,Friday
+2028,Door,PIR,Living,Lunch,0:00:06,15,Friday
+2029,Door,PIR,Kitchen,Lunch,0:00:02,15,Friday
+2030,Door,PIR,Kitchen,Lunch,0:00:02,15,Friday
+2031,Door,PIR,Living,Lunch,0:00:03,15,Friday
+2032,Seat,Pressure,Living,Spare_Time/TV,2:07:42,15,Friday
+2033,Door,PIR,Living,Snack,0:00:04,17,Friday
+2034,Door,PIR,Kitchen,Snack,0:00:02,17,Friday
+2035,Fridge,Magnetic,Kitchen,Snack,0:00:13,17,Friday
+2036,Door,PIR,Kitchen,Snack,0:00:02,17,Friday
+2037,Toilet,Flush,Bathroom,Toileting,0:01:52,17,Friday
+2038,Door,PIR,Kitchen,No Activity,0:00:02,17,Friday
+2039,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,17,Friday
+2040,Door,PIR,Living,Spare_Time/TV,0:00:03,17,Friday
+2041,Seat,Pressure,Living,Spare_Time/TV,2:31:41,17,Friday
+2042,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Friday
+2043,Door,PIR,Kitchen,Spare_Time/TV,0:00:01,20,Friday
+2044,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,20,Friday
+2045,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Friday
+2046,Seat,Pressure,Living,Spare_Time/TV,1:44:30,20,Friday
+2047,Door,PIR,Living,Spare_Time/TV,0:00:03,22,Friday
+2048,Door,PIR,Kitchen,Spare_Time/TV,0:00:04,22,Friday
+2049,Fridge,Magnetic,Kitchen,Spare_Time/TV,0:00:12,22,Friday
+2050,Door,PIR,Kitchen,Dinner,0:00:03,22,Friday
+2051,Door,PIR,Living,Dinner,0:00:03,22,Friday
+2052,Door,PIR,Living,No Activity,0:00:04,22,Friday
+2053,Door,PIR,Kitchen,No Activity,0:00:02,22,Friday
+2054,Door,PIR,Kitchen,No Activity,0:00:03,22,Friday
+2055,Door,PIR,Living,No Activity,0:00:03,22,Friday
+2056,Door,PIR,Living,No Activity,0:00:04,22,Friday
+2057,Door,PIR,Kitchen,No Activity,0:00:04,22,Friday
+2058,Door,PIR,Kitchen,No Activity,0:00:02,22,Friday
+2059,Door,PIR,Living,No Activity,0:00:03,22,Friday
+2060,Door,PIR,Living,No Activity,0:00:04,22,Friday
+2061,Door,PIR,Kitchen,No Activity,0:00:02,22,Friday
+2062,Door,PIR,Kitchen,No Activity,0:00:02,22,Friday
+2063,Door,PIR,Living,No Activity,0:00:03,22,Friday
+2064,Seat,Pressure,Living,No Activity,11:23:13,12,Friday
+2065,Door,PIR,Living,No Activity,0:00:04,0,Saturday
+2066,Door,PIR,Kitchen,No Activity,0:00:04,0,Saturday
+2067,Door,PIR,Kitchen,No Activity,0:00:03,0,Saturday
+2068,Door,PIR,Bedroom,No Activity,0:00:04,0,Saturday
+2069,Door,PIR,Bedroom,Grooming,0:00:02,0,Saturday
+2070,Basin,PIR,Bathroom,Grooming,0:01:06,0,Saturday
+2071,Door,PIR,Bedroom,No Activity,0:00:03,0,Saturday
+2072,Door,PIR,Bedroom,No Activity,0:00:03,0,Saturday
+2073,Toilet,Flush,Bathroom,No Activity,0:00:57,0,Saturday
+2074,Basin,PIR,Bathroom,Grooming,0:00:03,0,Saturday
+2075,Door,PIR,Living,No Activity,0:00:03,0,Saturday
+2076,Door,PIR,Living,No Activity,0:00:02,0,Saturday
+2077,Door,PIR,Bedroom,Sleeping,0:00:02,0,Saturday
+2078,Bed,Pressure,Bedroom,Sleeping,9:21:42,0,Saturday
+2079,Door,PIR,Bedroom,Sleeping,0:00:03,9,Saturday
+2080,Toilet,Flush,Bathroom,Toileting,0:00:58,9,Saturday
+2081,Door,PIR,Bedroom,Toileting,0:00:02,9,Saturday
+2082,Door,PIR,Bedroom,Toileting,0:00:03,9,Saturday
+2083,Door,PIR,Living,No Activity,0:00:03,9,Saturday
+2084,Door,PIR,Living,Breakfast,0:00:03,9,Saturday
+2085,Door,PIR,Kitchen,Breakfast,0:00:02,9,Saturday
+2086,Door,PIR,Kitchen,Breakfast,0:00:04,10,Saturday
+2087,Door,PIR,Living,No Activity,0:00:03,10,Saturday
+2088,Door,PIR,Living,No Activity,0:00:03,10,Saturday
+2089,Door,PIR,Bedroom,No Activity,0:00:03,10,Saturday
+2090,Door,PIR,Bedroom,No Activity,0:00:02,10,Saturday
+2091,Door,PIR,Living,No Activity,0:00:03,10,Saturday
+2092,Door,PIR,Living,No Activity,0:00:03,10,Saturday
+2093,Door,PIR,Bedroom,No Activity,0:00:03,10,Saturday
+2094,Door,PIR,Bedroom,No Activity,0:00:02,10,Saturday
+2095,Door,PIR,Living,No Activity,0:00:03,10,Saturday
+2096,Door,PIR,Living,No Activity,0:00:03,10,Saturday
+2097,Door,PIR,Bedroom,No Activity,0:00:04,10,Saturday
+2098,Door,PIR,Bedroom,No Activity,0:00:03,10,Saturday
+2099,Door,PIR,Living,No Activity,0:00:04,10,Saturday
+2100,Door,PIR,Living,No Activity,0:00:02,10,Saturday
+2101,Door,PIR,Bedroom,No Activity,0:00:04,10,Saturday
+2102,Door,PIR,Bedroom,No Activity,0:00:02,10,Saturday
+2103,Basin,PIR,Bathroom,Grooming,0:02:26,10,Saturday
+2104,Shower,PIR,Bathroom,Showering,0:06:31,10,Saturday
+2105,Basin,PIR,Bathroom,Grooming,0:02:34,10,Saturday
+2106,Door,PIR,Bedroom,No Activity,0:00:04,10,Saturday
+2107,Door,PIR,Bedroom,No Activity,0:00:02,10,Saturday
+2108,Door,PIR,Living,No Activity,0:00:03,10,Saturday
+2109,Door,PIR,Living,No Activity,0:00:03,10,Saturday
+2110,Basin,PIR,Bathroom,Grooming,0:00:04,10,Saturday
+2111,Door,PIR,Living,Grooming,0:00:03,10,Saturday
+2112,Door,PIR,Living,No Activity,0:00:20,11,Saturday
+2113,Door,PIR,Bedroom,No Activity,0:00:04,11,Saturday
+2114,Door,PIR,Bedroom,No Activity,0:00:03,11,Saturday
+2115,Door,PIR,Living,No Activity,0:00:02,11,Saturday
+2116,Door,PIR,Living,No Activity,0:00:03,11,Saturday
+2117,Door,PIR,Kitchen,No Activity,0:00:02,11,Saturday
+2118,Door,PIR,Kitchen,No Activity,0:00:02,11,Saturday
+2119,Door,PIR,Living,No Activity,0:00:03,11,Saturday
+2120,Door,PIR,Living,Snack,0:00:02,11,Saturday
+2121,Door,PIR,Kitchen,Snack,0:00:02,11,Saturday
+2122,Fridge,Magnetic,Kitchen,Snack,0:00:19,11,Saturday
+2123,Door,PIR,Kitchen,Snack,0:00:02,11,Saturday
+2124,Door,PIR,Kitchen,No Activity,0:00:02,11,Saturday
+2125,Door,PIR,Kitchen,No Activity,0:00:04,12,Saturday
+2126,Door,PIR,Living,No Activity,0:00:03,12,Saturday
+2127,Door,PIR,Living,No Activity,0:00:02,12,Saturday
+2128,Door,PIR,Kitchen,No Activity,0:00:02,12,Saturday
+2129,Door,PIR,Kitchen,No Activity,0:00:03,12,Saturday
+2130,Maindoor,Magnetic,Entrance,Leaving,0:00:06,12,Saturday
+2131,Maindoor,Magnetic,Entrance,Leaving,0:00:06,12,Saturday
+2132,Door,PIR,Bedroom,No Activity,0:00:02,12,Saturday
+2133,Door,PIR,Bedroom,No Activity,0:00:02,12,Saturday
+2134,Toilet,Flush,Bathroom,Toileting,0:01:04,12,Saturday
+2135,Door,PIR,Living,Toileting,0:00:05,12,Saturday
+2136,Door,PIR,Living,Toileting,0:00:02,12,Saturday
+2137,Door,PIR,Kitchen,No Activity,0:00:02,13,Saturday
+2138,Door,PIR,Kitchen,No Activity,0:00:02,13,Saturday
+2139,Door,PIR,Kitchen,Lunch,0:00:03,13,Saturday
+2140,Fridge,Magnetic,Kitchen,No Activity,0:01:54,11,Saturday
+2141,Door,PIR,Kitchen,Lunch,0:00:02,14,Saturday
+2142,Door,PIR,Living,No Activity,0:00:03,14,Saturday
+2143,Door,PIR,Living,No Activity,0:00:04,14,Saturday
+2144,Door,PIR,Kitchen,No Activity,0:00:02,14,Saturday
+2145,Door,PIR,Kitchen,No Activity,0:00:04,14,Saturday
+2146,Door,PIR,Living,No Activity,0:00:05,14,Saturday
+2147,Door,PIR,Living,No Activity,0:00:03,14,Saturday
+2148,Door,PIR,Kitchen,No Activity,0:00:02,14,Saturday
+2149,Door,PIR,Kitchen,No Activity,0:00:01,14,Saturday
+2150,Door,PIR,Living,No Activity,0:00:03,14,Saturday
+2151,Door,PIR,Living,No Activity,0:00:04,15,Saturday
+2152,Door,PIR,Kitchen,No Activity,0:00:01,15,Saturday
+2153,Door,PIR,Kitchen,No Activity,0:00:02,15,Saturday
+2154,Door,PIR,Living,No Activity,0:00:03,15,Saturday
+2155,Door,PIR,Living,No Activity,0:00:02,15,Saturday
+2156,Door,PIR,Kitchen,No Activity,0:00:02,15,Saturday
+2157,Door,PIR,Kitchen,No Activity,0:00:05,15,Saturday
+2158,Door,PIR,Living,No Activity,0:00:04,15,Saturday
+2159,Door,PIR,Living,No Activity,0:00:03,15,Saturday
+2160,Door,PIR,Kitchen,No Activity,0:00:03,15,Saturday
+2161,Door,PIR,Kitchen,No Activity,0:00:04,15,Saturday
+2162,Door,PIR,Living,No Activity,0:00:03,15,Saturday
+2163,Door,PIR,Living,No Activity,0:00:03,15,Saturday
+2164,Door,PIR,Kitchen,No Activity,0:00:02,15,Saturday
+2165,Door,PIR,Kitchen,No Activity,0:00:01,15,Saturday
+2166,Door,PIR,Living,No Activity,0:00:03,15,Saturday
+2167,Door,PIR,Living,No Activity,0:00:03,15,Saturday
+2168,Door,PIR,Kitchen,No Activity,0:00:02,15,Saturday
+2169,Door,PIR,Kitchen,No Activity,0:00:04,15,Saturday
+2170,Door,PIR,Living,No Activity,0:00:04,15,Saturday
+2171,Door,PIR,Living,No Activity,0:00:04,15,Saturday
+2172,Door,PIR,Kitchen,Snack,0:00:03,15,Saturday
+2173,Fridge,Magnetic,Kitchen,Snack,0:00:04,15,Saturday
+2174,Door,PIR,Kitchen,Snack,0:00:02,15,Saturday
+2175,Door,PIR,Living,No Activity,0:00:03,15,Saturday
+2176,Door,PIR,Living,No Activity,0:00:41,16,Saturday
+2177,Door,PIR,Kitchen,No Activity,0:00:03,16,Saturday
+2178,Door,PIR,Kitchen,No Activity,0:00:02,16,Saturday
+2179,Door,PIR,Living,No Activity,0:00:03,16,Saturday
+2180,Door,PIR,Living,Snack,0:00:08,18,Saturday
+2181,Door,PIR,Kitchen,Snack,0:00:04,18,Saturday
+2182,Fridge,Magnetic,Kitchen,Snack,0:00:13,18,Saturday
+2183,Door,PIR,Kitchen,Snack,0:00:03,18,Saturday
+2184,Door,PIR,Living,No Activity,0:00:03,18,Saturday
+2185,Door,PIR,Living,No Activity,0:00:03,18,Saturday
+2186,Toilet,Flush,Bathroom,Toileting,0:00:57,18,Saturday
+2187,Door,PIR,Living,Toileting,0:00:03,18,Saturday
+2188,Seat,Pressure,Living,Spare_Time/TV,1:42:21,18,Saturday
+2189,Door,PIR,Living,Spare_Time/TV,0:00:02,20,Saturday
+2190,Door,PIR,Living,No Activity,0:00:03,20,Saturday
+2191,Door,PIR,Living,No Activity,0:00:03,21,Saturday
+2192,Door,PIR,Bedroom,No Activity,0:00:03,21,Saturday
+2193,Door,PIR,Bedroom,No Activity,0:00:03,21,Saturday
+2194,Door,PIR,Living,No Activity,0:00:03,21,Saturday
+2195,Door,PIR,Living,No Activity,0:00:03,21,Saturday
+2196,Basin,PIR,Bathroom,Grooming,0:00:04,21,Saturday
+2197,Door,PIR,Kitchen,No Activity,0:00:02,21,Saturday
+2198,Door,PIR,Kitchen,No Activity,0:00:02,21,Saturday
+2199,Door,PIR,Living,No Activity,0:00:03,21,Saturday
+2200,Door,PIR,Living,No Activity,0:00:01,21,Saturday
+2201,Door,PIR,Bedroom,No Activity,0:00:03,21,Saturday
+2202,Door,PIR,Bedroom,No Activity,0:00:01,21,Saturday
+2203,Door,PIR,Kitchen,No Activity,0:00:01,21,Saturday
+2204,Door,PIR,Kitchen,No Activity,0:00:02,21,Saturday
+2205,Door,PIR,Living,No Activity,0:00:04,21,Saturday
+2206,Door,PIR,Living,No Activity,0:00:04,21,Saturday
+2207,Maindoor,Magnetic,Entrance,No Activity,0:00:02,21,Saturday
+2208,Maindoor,Magnetic,Entrance,No Activity,0:00:06,1,Sunday
+2209,Door,PIR,Kitchen,No Activity,0:00:06,1,Sunday
+2210,Door,PIR,Kitchen,No Activity,0:00:03,1,Sunday
+2211,Door,PIR,Bedroom,No Activity,0:00:03,1,Sunday
+2212,Door,PIR,Bedroom,No Activity,0:00:02,1,Sunday
+2213,Basin,PIR,Bathroom,Grooming,0:01:17,1,Sunday
+2214,Door,PIR,Bedroom,No Activity,0:00:03,1,Sunday
+2215,Door,PIR,Bedroom,No Activity,0:00:03,1,Sunday
+2216,Toilet,Flush,Bathroom,Toileting,0:00:45,1,Sunday
+2217,Door,PIR,Living,Toileting,0:00:05,1,Sunday
+2218,Door,PIR,Living,Sleeping,0:00:02,1,Sunday
+2219,Door,PIR,Bedroom,Sleeping,0:00:04,1,Sunday
+2220,Bed,Pressure,Bedroom,Sleeping,7:37:09,1,Sunday
+2221,Door,PIR,Bedroom,Sleeping,0:00:03,9,Sunday
+2222,Toilet,Flush,Bathroom,No Activity,0:00:56,9,Sunday
+2223,Door,PIR,Bedroom,Toileting,0:00:17,9,Sunday
+2224,Bed,Pressure,Bedroom,No Activity,0:49:30,9,Sunday
+2225,Door,PIR,Bedroom,Sleeping,0:00:03,10,Sunday
+2226,Toilet,Flush,Bathroom,Toileting,0:01:20,10,Sunday
+2227,Door,PIR,Living,No Activity,0:00:03,10,Sunday
+2228,Door,PIR,Living,No Activity,0:00:02,10,Sunday
+2229,Door,PIR,Bedroom,No Activity,0:00:09,10,Sunday
+2230,Door,PIR,Bedroom,Breakfast,0:00:04,10,Sunday
+2231,Door,PIR,Kitchen,Breakfast,0:00:06,10,Sunday
+2232,Fridge,Magnetic,Kitchen,Breakfast,0:00:15,10,Sunday
+2233,Door,PIR,Kitchen,Breakfast,0:00:03,10,Sunday
+2234,Door,PIR,Bedroom,No Activity,0:00:03,10,Sunday
+2235,Door,PIR,Bedroom,No Activity,0:00:04,10,Sunday
+2236,Door,PIR,Kitchen,No Activity,0:00:02,10,Sunday
+2237,Door,PIR,Kitchen,No Activity,0:00:03,10,Sunday
+2238,Door,PIR,Kitchen,No Activity,0:00:29,11,Sunday
+2239,Door,PIR,Kitchen,No Activity,0:00:29,11,Sunday
+2240,Door,PIR,Living,No Activity,0:00:03,11,Sunday
+2241,Door,PIR,Living,No Activity,0:00:02,11,Sunday
+2242,Door,PIR,Bedroom,No Activity,0:00:03,11,Sunday
+2243,Door,PIR,Bedroom,No Activity,0:00:02,11,Sunday
+2244,Toilet,Flush,Bathroom,Toileting,0:01:21,11,Sunday
+2245,Basin,PIR,Bathroom,Grooming,0:13:35,11,Sunday
+2246,Door,PIR,Bedroom,No Activity,0:00:05,11,Sunday
+2247,Door,PIR,Bedroom,No Activity,0:00:04,11,Sunday
+2248,Basin,PIR,Bathroom,Grooming,0:00:12,11,Sunday
+2249,Door,PIR,Living,No Activity,0:00:03,11,Sunday
+2250,Door,PIR,Living,No Activity,0:00:03,11,Sunday
+2251,Door,PIR,Kitchen,No Activity,0:00:03,11,Sunday
+2252,Door,PIR,Kitchen,No Activity,0:00:02,11,Sunday
+2253,Door,PIR,Living,No Activity,0:00:03,12,Sunday
+2254,Door,PIR,Living,No Activity,0:00:03,12,Sunday
+2255,Door,PIR,Kitchen,No Activity,0:00:11,12,Sunday
+2256,Door,PIR,Kitchen,No Activity,0:00:03,12,Sunday
+2257,Door,PIR,Living,No Activity,0:00:03,12,Sunday
+2258,Door,PIR,Living,Snack,0:00:03,12,Sunday
+2259,Door,PIR,Kitchen,Snack,0:00:02,12,Sunday
+2260,Fridge,Magnetic,Kitchen,Snack,0:00:05,12,Sunday
+2261,Door,PIR,Kitchen,Snack,0:00:41,12,Sunday
+2262,Door,PIR,Living,No Activity,0:00:03,12,Sunday
+2263,Door,PIR,Living,No Activity,0:00:03,13,Sunday
+2264,Door,PIR,Kitchen,No Activity,0:00:02,13,Sunday
+2265,Door,PIR,Kitchen,No Activity,0:00:03,13,Sunday
+2266,Maindoor,Magnetic,Entrance,Leaving,0:00:12,13,Sunday
+2267,Maindoor,Magnetic,Entrance,Leaving,0:00:03,13,Sunday
+2268,Door,PIR,Kitchen,No Activity,0:00:05,14,Sunday
+2269,Door,PIR,Kitchen,No Activity,0:00:07,14,Sunday
+2270,Door,PIR,Living,No Activity,0:00:04,14,Sunday
+2271,Door,PIR,Living,No Activity,0:00:02,14,Sunday
+2272,Door,PIR,Kitchen,No Activity,0:00:02,14,Sunday
+2273,Door,PIR,Kitchen,No Activity,0:00:02,14,Sunday
+2274,Door,PIR,Living,No Activity,0:00:03,14,Sunday
+2275,Door,PIR,Living,No Activity,0:00:03,14,Sunday
+2276,Door,PIR,Kitchen,No Activity,0:00:04,14,Sunday
+2277,Door,PIR,Kitchen,No Activity,0:00:03,14,Sunday
+2278,Door,PIR,Living,No Activity,0:00:03,14,Sunday
+2279,Door,PIR,Living,No Activity,0:00:03,14,Sunday
+2280,Door,PIR,Kitchen,No Activity,0:00:03,14,Sunday
+2281,Door,PIR,Kitchen,No Activity,0:00:02,14,Sunday
+2282,Door,PIR,Living,No Activity,0:00:04,14,Sunday
+2283,Door,PIR,Living,No Activity,0:00:03,14,Sunday
+2284,Door,PIR,Kitchen,No Activity,0:00:06,14,Sunday
+2285,Door,PIR,Kitchen,No Activity,0:00:02,14,Sunday
+2286,Door,PIR,Living,No Activity,0:00:03,14,Sunday
+2287,Door,PIR,Living,Lunch,0:00:04,15,Sunday
+2288,Door,PIR,Kitchen,Lunch,0:00:02,15,Sunday
+2289,Fridge,Magnetic,Kitchen,Lunch,0:00:40,15,Sunday
+2290,Door,PIR,Kitchen,Lunch,0:00:02,15,Sunday
+2291,Door,PIR,Living,Lunch,0:00:03,15,Sunday
+2292,Door,PIR,Living,Lunch,0:00:03,15,Sunday
+2293,Door,PIR,Kitchen,Lunch,0:00:02,15,Sunday
+2294,Fridge,Magnetic,Kitchen,Lunch,0:00:02,15,Sunday
+2295,Door,PIR,Kitchen,Lunch,0:00:02,15,Sunday
+2296,Door,PIR,Living,No Activity,0:00:04,15,Sunday
+2297,Door,PIR,Living,No Activity,0:00:03,15,Sunday
+2298,Door,PIR,Kitchen,Snack,0:00:02,16,Sunday
+2299,Fridge,Magnetic,Kitchen,Snack,0:00:14,16,Sunday
+2300,Door,PIR,Kitchen,Snack,0:00:04,16,Sunday
+2301,Door,PIR,Living,No Activity,0:00:03,17,Sunday
+2302,Door,PIR,Living,No Activity,0:00:03,17,Sunday
+2303,Door,PIR,Kitchen,No Activity,0:00:14,17,Sunday
+2304,Door,PIR,Kitchen,Spare_Time/TV,0:00:02,17,Sunday
+2305,Door,PIR,Living,Spare_Time/TV,0:00:04,17,Sunday
+2306,Seat,Pressure,Living,Spare_Time/TV,1:32:49,17,Sunday
+2307,Door,PIR,Living,Spare_Time/TV,0:00:03,18,Sunday
+2308,Toilet,Flush,Bathroom,Toileting,0:00:57,18,Sunday
+2309,Door,PIR,Living,Toileting,0:00:03,18,Sunday
+2310,Door,PIR,Living,No Activity,0:00:03,18,Sunday
+2311,Door,PIR,Kitchen,No Activity,0:00:02,18,Sunday
+2312,Door,PIR,Kitchen,No Activity,0:00:06,18,Sunday
+2313,Door,PIR,Kitchen,No Activity,0:00:03,18,Sunday
+2314,Door,PIR,Kitchen,No Activity,0:00:02,19,Sunday
+2315,Toilet,Flush,Bathroom,Toileting,0:00:59,19,Sunday
+2316,Door,PIR,Kitchen,Toileting,0:00:05,19,Sunday
+2317,Door,PIR,Kitchen,No Activity,0:00:02,19,Sunday
+2318,Door,PIR,Living,Spare_Time/TV,0:00:04,19,Sunday
+2319,Seat,Pressure,Living,Spare_Time/TV,0:45:12,19,Sunday
+2320,Door,PIR,Living,Spare_Time/TV,0:00:04,20,Sunday
+2321,Door,PIR,Kitchen,No Activity,0:00:06,20,Sunday
+2322,Door,PIR,Kitchen,Spare_Time/TV,0:00:03,20,Sunday
+2323,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Sunday
+2324,Door,PIR,Living,Spare_Time/TV,0:00:03,20,Sunday
+2325,Door,PIR,Bedroom,No Activity,0:00:09,20,Sunday
+2326,Door,PIR,Bedroom,Grooming,0:00:04,20,Sunday
+2327,Basin,PIR,Bathroom,Grooming,0:00:04,20,Sunday
+2328,Door,PIR,Bedroom,No Activity,0:00:08,20,Sunday
+2329,Door,PIR,Bedroom,No Activity,0:00:09,20,Sunday
+2330,Door,PIR,Living,No Activity,0:00:03,20,Sunday
+2331,Door,PIR,Living,No Activity,0:00:03,21,Sunday
+2332,Door,PIR,Living,No Activity,0:00:03,21,Sunday
+2333,Seat,Pressure,Living,Spare_Time/TV,3:44:00,21,Sunday
