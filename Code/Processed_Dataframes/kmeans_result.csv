@@ -1,2744 +1,2744 @@
 data_index,cluster,True Classification
-0,0,Person A
-1,1,Person A
-2,1,Person A
-3,1,Person A
-4,1,Person A
-5,0,Person A
-6,0,Person A
-7,0,Person A
-8,0,Person A
-9,0,Person A
-10,1,Person A
-11,0,Person A
-12,1,Person A
-13,0,Person A
-14,1,Person A
-15,1,Person A
-16,0,Person A
-17,0,Person A
-18,0,Person A
-19,0,Person A
-20,1,Person A
-21,0,Person A
-22,0,Person A
-23,1,Person A
-24,0,Person A
-25,0,Person A
-26,1,Person A
-27,0,Person A
-28,1,Person A
-29,0,Person A
-30,0,Person A
-31,0,Person A
-32,0,Person A
-33,1,Person A
-34,1,Person A
-35,1,Person A
-36,1,Person A
-37,1,Person A
-38,0,Person A
-39,0,Person A
-40,0,Person A
-41,0,Person A
-42,1,Person A
-43,1,Person A
-44,1,Person A
-45,0,Person A
-46,0,Person A
-47,0,Person A
-48,1,Person A
-49,1,Person A
-50,0,Person A
-51,1,Person A
-52,0,Person A
-53,0,Person A
-54,0,Person A
-55,0,Person A
-56,0,Person A
-57,1,Person A
-58,0,Person A
-59,1,Person A
-60,0,Person A
-61,0,Person A
-62,1,Person A
-63,1,Person A
-64,0,Person A
-65,0,Person A
-66,0,Person A
-67,0,Person A
-68,0,Person A
-69,1,Person A
-70,1,Person A
-71,0,Person A
-72,0,Person A
-73,0,Person A
-74,0,Person A
-75,1,Person A
-76,1,Person A
-77,0,Person A
-78,0,Person A
-79,0,Person A
-80,1,Person A
-81,1,Person A
-82,0,Person A
-83,1,Person A
-84,0,Person A
-85,0,Person A
-86,0,Person A
-87,0,Person A
-88,0,Person A
-89,1,Person A
-90,1,Person A
-91,0,Person A
-92,0,Person A
-93,1,Person A
-94,1,Person A
-95,0,Person A
-96,1,Person A
-97,0,Person A
-98,1,Person A
-99,1,Person A
-100,0,Person A
-101,0,Person A
-102,0,Person A
-103,0,Person A
-104,1,Person A
-105,0,Person A
-106,0,Person A
-107,1,Person A
-108,1,Person A
-109,1,Person A
-110,1,Person A
-111,0,Person A
-112,0,Person A
-113,0,Person A
-114,0,Person A
-115,0,Person A
-116,1,Person A
-117,1,Person A
-118,0,Person A
-119,0,Person A
-120,0,Person A
-121,0,Person A
-122,1,Person A
-123,1,Person A
-124,0,Person A
-125,0,Person A
-126,0,Person A
-127,0,Person A
-128,1,Person A
-129,0,Person A
-130,1,Person A
-131,0,Person A
-132,1,Person A
-133,0,Person A
-134,1,Person A
-135,0,Person A
-136,1,Person A
-137,1,Person A
-138,1,Person A
-139,1,Person A
-140,0,Person A
-141,0,Person A
-142,0,Person A
-143,0,Person A
-144,0,Person A
-145,0,Person A
-146,1,Person A
-147,0,Person A
-148,0,Person A
-149,0,Person A
-150,0,Person A
-151,1,Person A
-152,0,Person A
-153,1,Person A
-154,0,Person A
-155,0,Person A
-156,0,Person A
-157,1,Person A
-158,0,Person A
-159,0,Person A
-160,1,Person A
-161,1,Person A
-162,1,Person A
-163,1,Person A
-164,1,Person A
-165,0,Person A
-166,0,Person A
-167,0,Person A
-168,0,Person A
-169,0,Person A
-170,1,Person A
-171,0,Person A
-172,1,Person A
-173,0,Person A
-174,0,Person A
-175,0,Person A
-176,0,Person A
-177,0,Person A
-178,1,Person A
-179,0,Person A
-180,0,Person A
-181,1,Person A
-182,1,Person A
-183,1,Person A
-184,1,Person A
-185,0,Person A
-186,0,Person A
-187,0,Person A
-188,0,Person A
-189,0,Person A
-190,1,Person A
-191,0,Person A
-192,0,Person A
-193,0,Person A
-194,0,Person A
-195,0,Person A
-196,1,Person A
-197,0,Person A
-198,1,Person A
-199,1,Person A
-200,0,Person A
-201,0,Person A
-202,1,Person A
-203,1,Person A
-204,0,Person A
-205,1,Person A
-206,0,Person A
-207,1,Person A
-208,1,Person A
-209,1,Person A
-210,0,Person A
-211,0,Person A
-212,0,Person A
-213,0,Person A
-214,0,Person A
-215,0,Person A
-216,0,Person A
-217,1,Person A
-218,0,Person A
-219,0,Person A
-220,0,Person A
-221,0,Person A
-222,1,Person A
-223,0,Person A
-224,0,Person A
-225,0,Person A
-226,0,Person A
-227,0,Person A
-228,0,Person A
-229,1,Person A
-230,1,Person A
-231,0,Person A
-232,1,Person A
-233,0,Person A
-234,0,Person A
-235,0,Person A
-236,0,Person A
-237,0,Person A
-238,0,Person A
-239,1,Person A
-240,1,Person A
-241,0,Person A
-242,1,Person A
-243,1,Person A
-244,1,Person A
-245,0,Person A
-246,1,Person A
-247,1,Person A
-248,0,Person A
-249,1,Person A
-250,1,Person A
-251,1,Person A
-252,1,Person A
-253,1,Person A
-254,0,Person A
-255,0,Person A
-256,0,Person A
-257,0,Person A
-258,0,Person A
-259,0,Person A
-260,1,Person A
-261,0,Person A
-262,0,Person A
-263,0,Person A
-264,0,Person A
-265,0,Person A
-266,1,Person A
-267,0,Person A
-268,1,Person A
-269,1,Person A
-270,0,Person A
-271,1,Person A
-272,0,Person A
-273,0,Person A
-274,1,Person A
-275,0,Person A
-276,1,Person A
-277,0,Person A
-278,1,Person A
-279,0,Person A
-280,1,Person A
-281,1,Person A
-282,1,Person A
-283,1,Person A
-284,1,Person A
-285,0,Person A
-286,0,Person A
-287,0,Person A
-288,0,Person A
-289,0,Person A
-290,0,Person A
-291,1,Person A
-292,0,Person A
-293,0,Person A
-294,0,Person A
-295,0,Person A
-296,0,Person A
-297,0,Person A
-298,1,Person A
-299,1,Person A
-300,0,Person A
-301,1,Person A
-302,0,Person A
-303,0,Person A
-304,1,Person A
-305,1,Person A
-306,0,Person A
-307,0,Person A
-308,0,Person A
-309,0,Person A
-310,0,Person A
-311,0,Person A
-312,0,Person A
-313,1,Person A
-314,0,Person A
-315,0,Person A
-316,0,Person A
-317,1,Person A
-318,0,Person A
-319,0,Person A
-320,1,Person A
-321,1,Person A
-322,1,Person A
-323,1,Person A
-324,1,Person A
-325,0,Person A
-326,0,Person A
-327,0,Person A
-328,1,Person A
-329,0,Person A
-330,0,Person A
-331,1,Person A
-332,0,Person A
-333,0,Person A
-334,0,Person A
-335,1,Person A
-336,0,Person A
-337,1,Person A
-338,0,Person A
-339,1,Person A
-340,0,Person A
-341,1,Person A
-342,1,Person A
-343,1,Person A
-344,1,Person A
-345,0,Person A
-346,0,Person A
-347,0,Person A
-348,1,Person A
-349,0,Person A
-350,0,Person A
-351,1,Person A
-352,0,Person A
-353,0,Person A
-354,0,Person A
-355,1,Person A
-356,0,Person A
-357,1,Person A
-358,0,Person A
-359,0,Person A
-360,0,Person A
-361,0,Person A
-362,0,Person A
-363,1,Person A
-364,0,Person A
-365,1,Person A
-366,0,Person A
-367,0,Person A
-368,1,Person A
-369,1,Person A
-370,1,Person A
-371,1,Person A
-372,1,Person A
-373,1,Person A
-374,0,Person A
-375,0,Person A
-376,0,Person A
-377,0,Person A
-378,0,Person A
-379,1,Person A
-380,0,Person A
-381,1,Person A
-382,0,Person A
-383,0,Person A
-384,0,Person A
-385,1,Person A
-386,0,Person A
-387,0,Person A
-388,0,Person A
-389,1,Person A
-390,0,Person A
-391,1,Person A
-392,1,Person A
-393,1,Person A
-394,0,Person A
-395,0,Person A
-396,0,Person A
-397,0,Person A
-398,0,Person A
-399,0,Person A
-400,1,Person A
-401,0,Person A
-402,0,Person A
-403,0,Person A
-404,0,Person A
-405,1,Person A
-406,1,Person A
-407,0,Person A
-408,0,Person A
-409,0,Person B
-410,1,Person B
-411,1,Person B
-412,1,Person B
-413,1,Person B
-414,0,Person B
-415,1,Person B
-416,1,Person B
-417,1,Person B
-418,1,Person B
-419,1,Person B
-420,0,Person B
-421,1,Person B
-422,1,Person B
-423,1,Person B
-424,1,Person B
-425,0,Person B
-426,1,Person B
-427,1,Person B
-428,1,Person B
-429,1,Person B
-430,1,Person B
-431,0,Person B
-432,0,Person B
-433,1,Person B
-434,1,Person B
-435,1,Person B
-436,1,Person B
-437,0,Person B
-438,1,Person B
-439,1,Person B
-440,1,Person B
-441,1,Person B
-442,1,Person B
-443,1,Person B
-444,1,Person B
-445,1,Person B
-446,1,Person B
-447,1,Person B
-448,1,Person B
-449,1,Person B
-450,1,Person B
-451,1,Person B
-452,1,Person B
-453,1,Person B
-454,1,Person B
-455,1,Person B
-456,1,Person B
-457,1,Person B
-458,0,Person B
-459,0,Person B
-460,1,Person B
-461,1,Person B
-462,1,Person B
-463,1,Person B
-464,1,Person B
-465,1,Person B
-466,1,Person B
-467,1,Person B
-468,1,Person B
-469,1,Person B
-470,0,Person B
-471,0,Person B
-472,1,Person B
-473,1,Person B
-474,1,Person B
-475,1,Person B
-476,1,Person B
-477,1,Person B
-478,1,Person B
-479,1,Person B
-480,1,Person B
-481,1,Person B
-482,1,Person B
-483,1,Person B
-484,1,Person B
-485,1,Person B
-486,1,Person B
-487,1,Person B
-488,1,Person B
-489,1,Person B
-490,1,Person B
-491,1,Person B
-492,1,Person B
-493,1,Person B
-494,0,Person B
-495,1,Person B
-496,1,Person B
-497,1,Person B
-498,1,Person B
-499,0,Person B
-500,0,Person B
-501,1,Person B
-502,1,Person B
-503,1,Person B
-504,1,Person B
-505,0,Person B
-506,1,Person B
-507,1,Person B
-508,1,Person B
-509,1,Person B
-510,0,Person B
-511,1,Person B
-512,1,Person B
-513,1,Person B
-514,1,Person B
-515,0,Person B
-516,1,Person B
-517,0,Person B
-518,0,Person B
-519,1,Person B
-520,1,Person B
-521,1,Person B
-522,1,Person B
-523,1,Person B
-524,1,Person B
-525,1,Person B
-526,1,Person B
-527,1,Person B
-528,0,Person B
-529,1,Person B
-530,1,Person B
-531,0,Person B
-532,0,Person B
-533,1,Person B
-534,1,Person B
-535,1,Person B
-536,1,Person B
-537,0,Person B
-538,1,Person B
-539,1,Person B
-540,1,Person B
-541,1,Person B
-542,1,Person B
-543,1,Person B
-544,1,Person B
-545,1,Person B
-546,1,Person B
-547,1,Person B
-548,1,Person B
-549,0,Person B
-550,1,Person B
-551,1,Person B
-552,1,Person B
-553,0,Person B
-554,1,Person B
-555,1,Person B
-556,1,Person B
-557,1,Person B
-558,1,Person B
-559,1,Person B
-560,1,Person B
-561,1,Person B
-562,1,Person B
-563,0,Person B
-564,1,Person B
-565,1,Person B
-566,1,Person B
-567,0,Person B
-568,1,Person B
-569,1,Person B
-570,1,Person B
-571,1,Person B
-572,0,Person B
-573,0,Person B
-574,0,Person B
-575,1,Person B
-576,1,Person B
-577,1,Person B
-578,1,Person B
-579,1,Person B
-580,1,Person B
-581,1,Person B
-582,1,Person B
-583,1,Person B
-584,1,Person B
-585,0,Person B
-586,0,Person B
-587,1,Person B
-588,0,Person B
-589,1,Person B
-590,1,Person B
-591,1,Person B
-592,1,Person B
-593,1,Person B
-594,0,Person B
-595,0,Person B
-596,1,Person B
-597,1,Person B
-598,1,Person B
-599,1,Person B
-600,1,Person B
-601,0,Person B
-602,0,Person B
-603,1,Person B
-604,1,Person B
-605,1,Person B
-606,1,Person B
-607,1,Person B
-608,1,Person B
-609,1,Person B
-610,0,Person B
-611,0,Person B
-612,0,Person B
-613,1,Person B
-614,1,Person B
-615,1,Person B
-616,1,Person B
-617,1,Person B
-618,1,Person B
-619,0,Person B
-620,1,Person B
-621,1,Person B
-622,1,Person B
-623,1,Person B
-624,1,Person B
-625,1,Person B
-626,1,Person B
-627,1,Person B
-628,1,Person B
-629,1,Person B
-630,1,Person B
-631,0,Person B
-632,1,Person B
-633,1,Person B
-634,1,Person B
-635,1,Person B
-636,1,Person B
-637,1,Person B
-638,0,Person B
-639,1,Person B
-640,1,Person B
-641,0,Person B
-642,1,Person B
-643,1,Person B
-644,0,Person B
-645,1,Person B
-646,1,Person B
-647,1,Person B
-648,1,Person B
-649,1,Person B
-650,1,Person B
-651,1,Person B
-652,1,Person B
-653,1,Person B
-654,1,Person B
-655,1,Person B
-656,0,Person B
-657,1,Person B
-658,1,Person B
-659,1,Person B
-660,1,Person B
-661,1,Person B
-662,1,Person B
-663,0,Person B
-664,1,Person B
-665,1,Person B
-666,1,Person B
-667,1,Person B
-668,1,Person B
-669,1,Person B
-670,1,Person B
-671,1,Person B
-672,1,Person B
-673,1,Person B
-674,1,Person B
-675,0,Person B
-676,1,Person B
-677,1,Person B
-678,1,Person B
-679,1,Person B
-680,0,Person B
-681,1,Person B
-682,1,Person B
-683,1,Person B
-684,0,Person B
-685,1,Person B
-686,1,Person B
-687,1,Person B
-688,1,Person B
-689,1,Person B
-690,0,Person B
-691,0,Person B
-692,0,Person B
-693,1,Person B
-694,1,Person B
-695,1,Person B
-696,1,Person B
-697,1,Person B
-698,1,Person B
-699,0,Person B
-700,1,Person B
-701,1,Person B
-702,0,Person B
-703,1,Person B
-704,1,Person B
-705,0,Person B
-706,1,Person B
-707,1,Person B
-708,1,Person B
-709,1,Person B
-710,0,Person B
-711,1,Person B
-712,1,Person B
-713,0,Person B
-714,1,Person B
-715,1,Person B
-716,1,Person B
-717,1,Person B
-718,1,Person B
-719,1,Person B
-720,1,Person B
-721,1,Person B
-722,1,Person B
-723,1,Person B
-724,1,Person B
-725,1,Person B
-726,1,Person B
-727,1,Person B
-728,1,Person B
-729,0,Person B
-730,1,Person B
-731,0,Person B
-732,0,Person B
-733,1,Person B
-734,1,Person B
-735,1,Person B
-736,1,Person B
-737,1,Person B
-738,1,Person B
-739,0,Person B
-740,0,Person B
-741,1,Person B
-742,1,Person B
-743,1,Person B
-744,1,Person B
-745,1,Person B
-746,1,Person B
-747,0,Person B
-748,0,Person B
-749,1,Person B
-750,1,Person B
-751,1,Person B
-752,0,Person B
-753,1,Person B
-754,1,Person B
-755,1,Person B
-756,1,Person B
-757,1,Person B
-758,1,Person B
-759,1,Person B
-760,1,Person B
-761,1,Person B
-762,1,Person B
-763,0,Person B
-764,1,Person B
-765,1,Person B
-766,1,Person B
-767,1,Person B
-768,0,Person B
-769,0,Person B
-770,1,Person B
-771,1,Person B
-772,1,Person B
-773,1,Person B
-774,0,Person B
-775,0,Person B
-776,0,Person B
-777,1,Person B
-778,1,Person B
-779,0,Person B
-780,1,Person B
-781,1,Person B
-782,0,Person B
-783,1,Person B
-784,1,Person B
-785,0,Person B
-786,1,Person B
-787,1,Person B
-788,1,Person B
-789,1,Person B
-790,1,Person B
-791,1,Person B
-792,0,Person B
-793,1,Person B
-794,1,Person B
-795,1,Person B
-796,1,Person B
-797,1,Person B
-798,0,Person B
-799,1,Person B
-800,1,Person B
-801,0,Person B
-802,1,Person B
-803,1,Person B
-804,0,Person B
-805,1,Person B
-806,1,Person B
-807,0,Person B
-808,1,Person B
-809,1,Person B
-810,1,Person B
-811,0,Person B
-812,1,Person B
-813,1,Person B
-814,1,Person B
-815,1,Person B
-816,0,Person B
-817,0,Person B
-818,1,Person B
-819,1,Person B
-820,1,Person B
-821,1,Person B
-822,1,Person B
-823,1,Person B
-824,1,Person B
-825,1,Person B
-826,1,Person B
-827,1,Person B
-828,1,Person B
-829,1,Person B
-830,1,Person B
-831,1,Person B
-832,1,Person B
-833,1,Person B
-834,1,Person B
-835,0,Person B
-836,1,Person B
-837,1,Person B
-838,1,Person B
-839,0,Person B
-840,0,Person B
-841,1,Person B
-842,1,Person B
-843,1,Person B
-844,1,Person B
-845,1,Person B
-846,1,Person B
-847,1,Person B
-848,0,Person B
-849,1,Person B
-850,1,Person B
-851,1,Person B
-852,1,Person B
-853,1,Person B
-854,1,Person B
-855,0,Person B
-856,1,Person B
-857,1,Person B
-858,1,Person B
-859,1,Person B
-860,0,Person B
-861,1,Person B
-862,1,Person B
-863,1,Person B
-864,1,Person B
-865,0,Person B
-866,1,Person B
-867,1,Person B
-868,1,Person B
-869,1,Person B
-870,1,Person B
-871,1,Person B
-872,1,Person B
-873,0,Person B
-874,0,Person B
-875,1,Person B
-876,1,Person B
-877,1,Person B
-878,1,Person B
-879,1,Person B
-880,1,Person B
-881,1,Person B
-882,1,Person B
-883,1,Person B
-884,1,Person B
-885,1,Person B
-886,0,Person B
-887,0,Person B
-888,1,Person B
-889,1,Person B
-890,1,Person B
-891,1,Person B
-892,1,Person B
-893,1,Person B
-894,1,Person B
-895,1,Person B
-896,1,Person B
-897,1,Person B
-898,1,Person B
-899,1,Person B
-900,1,Person B
-901,0,Person B
-902,1,Person B
-903,1,Person B
-904,1,Person B
-905,1,Person B
-906,0,Person B
-907,0,Person B
-908,1,Person B
-909,1,Person B
-910,1,Person B
-911,1,Person B
-912,1,Person B
-913,1,Person B
-914,1,Person B
-915,1,Person B
-916,1,Person B
-917,1,Person B
-918,0,Person B
-919,1,Person B
-920,0,Person B
-921,0,Person B
-922,1,Person B
-923,1,Person B
-924,1,Person B
-925,0,Person B
-926,1,Person B
-927,1,Person B
-928,1,Person B
-929,1,Person B
-930,1,Person B
-931,1,Person B
-932,0,Person B
-933,1,Person B
-934,1,Person B
-935,1,Person B
-936,1,Person B
-937,1,Person B
-938,1,Person B
-939,1,Person B
-940,1,Person B
-941,1,Person B
-942,1,Person B
-943,1,Person B
-944,1,Person B
-945,1,Person B
-946,1,Person B
-947,1,Person B
-948,1,Person B
-949,1,Person B
-950,1,Person B
-951,0,Person B
-952,0,Person B
-953,1,Person B
-954,1,Person B
-955,1,Person B
-956,1,Person B
-957,1,Person B
-958,1,Person B
-959,0,Person B
-960,0,Person B
-961,1,Person B
-962,1,Person B
-963,0,Person B
-964,1,Person B
-965,1,Person B
-966,1,Person B
-967,1,Person B
-968,0,Person B
-969,1,Person B
-970,1,Person B
-971,1,Person B
-972,1,Person B
-973,0,Person B
-974,1,Person B
-975,1,Person B
-976,1,Person B
-977,1,Person B
-978,1,Person B
-979,1,Person B
-980,0,Person B
-981,0,Person B
-982,1,Person B
-983,1,Person B
-984,1,Person B
-985,1,Person B
-986,1,Person B
-987,1,Person B
-988,1,Person B
-989,1,Person B
-990,0,Person B
-991,1,Person B
-992,1,Person B
-993,1,Person B
-994,1,Person B
-995,1,Person B
-996,0,Person B
-997,0,Person B
-998,0,Person B
-999,1,Person B
-1000,1,Person B
-1001,1,Person B
-1002,1,Person B
-1003,1,Person B
-1004,1,Person B
-1005,1,Person B
-1006,1,Person B
-1007,1,Person B
-1008,1,Person B
-1009,1,Person B
-1010,0,Person B
-1011,0,Person B
-1012,1,Person B
-1013,1,Person B
-1014,1,Person B
-1015,1,Person B
-1016,1,Person B
-1017,1,Person B
-1018,1,Person B
-1019,1,Person B
-1020,1,Person B
-1021,1,Person B
-1022,0,Person B
-1023,1,Person B
-1024,1,Person B
-1025,1,Person B
-1026,1,Person B
-1027,0,Person B
-1028,1,Person B
-1029,1,Person B
-1030,1,Person B
-1031,1,Person B
-1032,1,Person B
-1033,0,Person B
-1034,0,Person B
-1035,1,Person B
-1036,1,Person B
-1037,1,Person B
-1038,1,Person B
-1039,1,Person B
-1040,1,Person B
-1041,1,Person B
-1042,1,Person B
-1043,1,Person B
-1044,0,Person B
-1045,1,Person B
-1046,1,Person B
-1047,1,Person B
-1048,1,Person B
-1049,1,Person B
-1050,1,Person B
-1051,1,Person B
-1052,1,Person B
-1053,1,Person B
-1054,1,Person B
-1055,1,Person B
-1056,1,Person B
-1057,1,Person B
-1058,1,Person B
-1059,0,Person B
-1060,1,Person B
-1061,1,Person B
-1062,1,Person B
-1063,1,Person B
-1064,0,Person B
-1065,1,Person B
-1066,1,Person B
-1067,0,Person B
-1068,1,Person B
-1069,1,Person B
-1070,1,Person B
-1071,1,Person B
-1072,0,Person B
-1073,1,Person B
-1074,1,Person B
-1075,1,Person B
-1076,1,Person B
-1077,1,Person B
-1078,1,Person B
-1079,1,Person B
-1080,1,Person B
-1081,1,Person B
-1082,1,Person B
-1083,1,Person B
-1084,1,Person B
-1085,1,Person B
-1086,1,Person B
-1087,1,Person B
-1088,1,Person B
-1089,1,Person B
-1090,1,Person B
-1091,1,Person B
-1092,1,Person B
-1093,0,Person B
-1094,0,Person B
-1095,1,Person B
-1096,1,Person B
-1097,1,Person B
-1098,0,Person B
-1099,1,Person B
-1100,1,Person B
-1101,0,Person B
-1102,1,Person B
-1103,1,Person B
-1104,1,Person B
-1105,1,Person B
-1106,1,Person B
-1107,1,Person B
-1108,1,Person B
-1109,0,Person B
-1110,0,Person B
-1111,0,Person B
-1112,1,Person B
-1113,1,Person B
-1114,1,Person B
-1115,1,Person B
-1116,1,Person B
-1117,1,Person B
-1118,1,Person B
-1119,1,Person B
-1120,1,Person B
-1121,1,Person B
-1122,0,Person B
-1123,0,Person B
-1124,1,Person B
-1125,1,Person B
-1126,1,Person B
-1127,1,Person B
-1128,1,Person B
-1129,1,Person B
-1130,1,Person B
-1131,1,Person B
-1132,1,Person B
-1133,0,Person B
-1134,1,Person B
-1135,0,Person B
-1136,0,Person B
-1137,1,Person B
-1138,1,Person B
-1139,1,Person B
-1140,1,Person B
-1141,1,Person B
-1142,1,Person B
-1143,1,Person B
-1144,0,Person B
-1145,1,Person B
-1146,1,Person B
-1147,1,Person B
-1148,1,Person B
-1149,1,Person B
-1150,1,Person B
-1151,1,Person B
-1152,1,Person B
-1153,1,Person B
-1154,1,Person B
-1155,1,Person B
-1156,1,Person B
-1157,1,Person B
-1158,1,Person B
-1159,1,Person B
-1160,1,Person B
-1161,1,Person B
-1162,1,Person B
-1163,1,Person B
-1164,1,Person B
-1165,1,Person B
-1166,1,Person B
-1167,1,Person B
-1168,0,Person B
-1169,1,Person B
-1170,1,Person B
-1171,1,Person B
-1172,1,Person B
-1173,1,Person B
-1174,1,Person B
-1175,1,Person B
-1176,1,Person B
-1177,0,Person B
-1178,1,Person B
-1179,1,Person B
-1180,0,Person B
-1181,1,Person B
-1182,1,Person B
-1183,1,Person B
-1184,1,Person B
-1185,1,Person B
-1186,0,Person B
-1187,0,Person B
-1188,1,Person B
-1189,0,Person B
-1190,0,Person B
-1191,1,Person B
-1192,1,Person B
-1193,1,Person B
-1194,1,Person B
-1195,1,Person B
-1196,1,Person B
-1197,1,Person B
-1198,1,Person B
-1199,1,Person B
-1200,1,Person B
-1201,0,Person B
-1202,1,Person B
-1203,1,Person B
-1204,1,Person B
-1205,1,Person B
-1206,1,Person B
-1207,1,Person B
-1208,1,Person B
-1209,1,Person B
-1210,1,Person B
-1211,0,Person B
-1212,1,Person B
-1213,1,Person B
-1214,1,Person B
-1215,1,Person B
-1216,1,Person B
-1217,0,Person B
-1218,1,Person B
-1219,1,Person B
-1220,1,Person B
-1221,0,Person B
-1222,0,Person B
-1223,0,Person B
-1224,0,Person B
-1225,1,Person B
-1226,1,Person B
-1227,1,Person B
-1228,1,Person B
-1229,1,Person B
-1230,1,Person B
-1231,0,Person B
-1232,1,Person B
-1233,1,Person B
-1234,1,Person B
-1235,1,Person B
-1236,1,Person B
-1237,1,Person B
-1238,1,Person B
-1239,1,Person B
-1240,1,Person B
-1241,1,Person B
-1242,1,Person B
-1243,1,Person B
-1244,1,Person B
-1245,1,Person B
-1246,1,Person B
-1247,1,Person B
-1248,1,Person B
-1249,1,Person B
-1250,1,Person B
-1251,1,Person B
-1252,1,Person B
-1253,1,Person B
-1254,1,Person B
-1255,1,Person B
-1256,1,Person B
-1257,1,Person B
-1258,1,Person B
-1259,1,Person B
-1260,1,Person B
-1261,1,Person B
-1262,1,Person B
-1263,1,Person B
-1264,0,Person B
-1265,1,Person B
-1266,1,Person B
-1267,1,Person B
-1268,1,Person B
-1269,1,Person B
-1270,1,Person B
-1271,1,Person B
-1272,1,Person B
-1273,0,Person B
-1274,0,Person B
-1275,1,Person B
-1276,1,Person B
-1277,1,Person B
-1278,1,Person B
-1279,1,Person B
-1280,1,Person B
-1281,0,Person B
-1282,0,Person B
-1283,0,Person B
-1284,0,Person B
-1285,1,Person B
-1286,1,Person B
-1287,0,Person B
-1288,1,Person B
-1289,1,Person B
-1290,1,Person B
-1291,1,Person B
-1292,1,Person B
-1293,1,Person B
-1294,0,Person B
-1295,1,Person B
-1296,1,Person B
-1297,1,Person B
-1298,1,Person B
-1299,0,Person B
-1300,0,Person B
-1301,0,Person B
-1302,1,Person B
-1303,1,Person B
-1304,1,Person B
-1305,1,Person B
-1306,1,Person B
-1307,1,Person B
-1308,1,Person B
-1309,1,Person B
-1310,1,Person B
-1311,1,Person B
-1312,1,Person B
-1313,0,Person B
-1314,1,Person B
-1315,1,Person B
-1316,0,Person B
-1317,1,Person B
-1318,1,Person B
-1319,1,Person B
-1320,1,Person B
-1321,0,Person B
-1322,1,Person B
-1323,1,Person B
-1324,1,Person B
-1325,0,Person B
-1326,1,Person B
-1327,1,Person B
-1328,1,Person B
-1329,1,Person B
-1330,1,Person B
-1331,1,Person B
-1332,1,Person B
-1333,1,Person B
-1334,1,Person B
-1335,1,Person B
-1336,1,Person B
-1337,1,Person B
-1338,1,Person B
-1339,0,Person B
-1340,1,Person B
-1341,1,Person B
-1342,1,Person B
-1343,1,Person B
-1344,1,Person B
-1345,1,Person B
-1346,1,Person B
-1347,1,Person B
-1348,0,Person B
-1349,1,Person B
-1350,1,Person B
-1351,0,Person B
-1352,1,Person B
-1353,1,Person B
-1354,1,Person B
-1355,0,Person B
-1356,1,Person B
-1357,1,Person B
-1358,1,Person B
-1359,1,Person B
-1360,1,Person B
-1361,1,Person B
-1362,1,Person B
-1363,1,Person B
-1364,1,Person B
-1365,1,Person B
-1366,1,Person B
-1367,1,Person B
-1368,1,Person B
-1369,1,Person B
-1370,0,Person B
-1371,1,Person B
-1372,1,Person B
-1373,1,Person B
-1374,1,Person B
-1375,0,Person B
-1376,1,Person B
-1377,1,Person B
-1378,1,Person B
-1379,1,Person B
-1380,1,Person B
-1381,1,Person B
-1382,0,Person B
-1383,1,Person B
-1384,1,Person B
-1385,1,Person B
-1386,1,Person B
-1387,1,Person B
-1388,1,Person B
-1389,1,Person B
-1390,1,Person B
-1391,1,Person B
-1392,1,Person B
-1393,0,Person B
-1394,0,Person B
-1395,1,Person B
-1396,0,Person B
-1397,1,Person B
-1398,1,Person B
-1399,0,Person B
-1400,1,Person B
-1401,1,Person B
-1402,1,Person B
-1403,1,Person B
-1404,0,Person B
-1405,1,Person B
-1406,1,Person B
-1407,1,Person B
-1408,1,Person B
-1409,1,Person B
-1410,1,Person B
-1411,1,Person B
-1412,1,Person B
-1413,1,Person B
-1414,0,Person B
-1415,1,Person B
-1416,1,Person B
-1417,1,Person B
-1418,1,Person B
-1419,1,Person B
-1420,0,Person B
-1421,0,Person B
-1422,0,Person B
-1423,1,Person B
-1424,1,Person B
-1425,0,Person B
-1426,1,Person B
-1427,1,Person B
-1428,1,Person B
-1429,1,Person B
-1430,1,Person B
-1431,1,Person B
-1432,0,Person B
-1433,0,Person B
-1434,1,Person B
-1435,1,Person B
-1436,1,Person B
-1437,0,Person B
-1438,1,Person B
-1439,1,Person B
-1440,1,Person B
-1441,1,Person B
-1442,1,Person B
-1443,1,Person B
-1444,1,Person B
-1445,1,Person B
-1446,1,Person B
-1447,1,Person B
-1448,1,Person B
-1449,1,Person B
-1450,1,Person B
-1451,1,Person B
-1452,1,Person B
-1453,1,Person B
-1454,0,Person B
-1455,1,Person B
-1456,1,Person B
-1457,0,Person B
-1458,1,Person B
-1459,1,Person B
-1460,1,Person B
-1461,1,Person B
-1462,1,Person B
-1463,1,Person B
-1464,1,Person B
-1465,1,Person B
-1466,1,Person B
-1467,1,Person B
-1468,1,Person B
-1469,1,Person B
-1470,1,Person B
-1471,1,Person B
-1472,1,Person B
-1473,1,Person B
-1474,0,Person B
-1475,1,Person B
-1476,1,Person B
-1477,0,Person B
-1478,1,Person B
-1479,1,Person B
-1480,0,Person B
-1481,1,Person B
-1482,1,Person B
-1483,0,Person B
-1484,1,Person B
-1485,1,Person B
-1486,1,Person B
-1487,1,Person B
-1488,1,Person B
-1489,1,Person B
-1490,1,Person B
-1491,1,Person B
-1492,1,Person B
-1493,1,Person B
-1494,1,Person B
-1495,1,Person B
-1496,1,Person B
-1497,1,Person B
-1498,1,Person B
-1499,1,Person B
-1500,1,Person B
-1501,1,Person B
-1502,1,Person B
-1503,1,Person B
-1504,0,Person B
-1505,0,Person B
-1506,1,Person B
-1507,0,Person B
-1508,1,Person B
-1509,1,Person B
-1510,1,Person B
-1511,1,Person B
-1512,1,Person B
-1513,1,Person B
-1514,1,Person B
-1515,0,Person B
-1516,1,Person B
-1517,1,Person B
-1518,0,Person B
-1519,1,Person B
-1520,1,Person B
-1521,1,Person B
-1522,1,Person B
-1523,1,Person B
-1524,0,Person B
-1525,0,Person B
-1526,0,Person B
-1527,1,Person B
-1528,1,Person B
-1529,1,Person B
-1530,1,Person B
-1531,1,Person B
-1532,1,Person B
-1533,0,Person B
-1534,1,Person B
-1535,1,Person B
-1536,0,Person B
-1537,1,Person B
-1538,1,Person B
-1539,0,Person B
-1540,1,Person B
-1541,1,Person B
-1542,1,Person B
-1543,0,Person B
-1544,1,Person B
-1545,1,Person B
-1546,1,Person B
-1547,1,Person B
-1548,0,Person B
-1549,1,Person B
-1550,1,Person B
-1551,1,Person B
-1552,1,Person B
-1553,1,Person B
-1554,0,Person B
-1555,1,Person B
-1556,1,Person B
-1557,1,Person B
-1558,1,Person B
-1559,0,Person B
-1560,1,Person B
-1561,1,Person B
-1562,1,Person B
-1563,1,Person B
-1564,0,Person B
-1565,1,Person B
-1566,1,Person B
-1567,0,Person B
-1568,1,Person B
-1569,1,Person B
-1570,0,Person B
-1571,1,Person B
-1572,1,Person B
-1573,0,Person B
-1574,1,Person B
-1575,1,Person B
-1576,1,Person B
-1577,1,Person B
-1578,1,Person B
-1579,1,Person B
-1580,1,Person B
-1581,1,Person B
-1582,1,Person B
-1583,1,Person B
-1584,1,Person B
-1585,1,Person B
-1586,1,Person B
-1587,1,Person B
-1588,1,Person B
-1589,1,Person B
-1590,1,Person B
-1591,1,Person B
-1592,1,Person B
-1593,0,Person B
-1594,0,Person B
-1595,1,Person B
-1596,1,Person B
-1597,1,Person B
-1598,1,Person B
-1599,1,Person B
-1600,0,Person B
-1601,1,Person B
-1602,1,Person B
-1603,1,Person B
-1604,1,Person B
-1605,1,Person B
-1606,1,Person B
-1607,1,Person B
-1608,1,Person B
-1609,1,Person B
-1610,1,Person B
-1611,0,Person B
-1612,1,Person B
-1613,1,Person B
-1614,1,Person B
-1615,0,Person B
-1616,1,Person B
-1617,1,Person B
-1618,1,Person B
-1619,1,Person B
-1620,1,Person B
-1621,1,Person B
-1622,1,Person B
-1623,0,Person B
-1624,1,Person B
-1625,1,Person B
-1626,1,Person B
-1627,1,Person B
-1628,1,Person B
-1629,1,Person B
-1630,1,Person B
-1631,1,Person B
-1632,1,Person B
-1633,1,Person B
-1634,1,Person B
-1635,1,Person B
-1636,1,Person B
-1637,1,Person B
-1638,1,Person B
-1639,0,Person B
-1640,0,Person B
-1641,1,Person B
-1642,1,Person B
-1643,1,Person B
-1644,1,Person B
-1645,1,Person B
-1646,1,Person B
-1647,1,Person B
-1648,0,Person B
-1649,1,Person B
-1650,1,Person B
-1651,1,Person B
-1652,1,Person B
-1653,1,Person B
-1654,1,Person B
-1655,1,Person B
-1656,1,Person B
-1657,1,Person B
-1658,0,Person B
-1659,1,Person B
-1660,1,Person B
-1661,1,Person B
-1662,1,Person B
-1663,1,Person B
-1664,1,Person B
-1665,1,Person B
-1666,1,Person B
-1667,1,Person B
-1668,1,Person B
-1669,1,Person B
-1670,1,Person B
-1671,1,Person B
-1672,1,Person B
-1673,1,Person B
-1674,0,Person B
-1675,1,Person B
-1676,1,Person B
-1677,1,Person B
-1678,1,Person B
-1679,1,Person B
-1680,1,Person B
-1681,1,Person B
-1682,1,Person B
-1683,1,Person B
-1684,0,Person B
-1685,1,Person B
-1686,1,Person B
-1687,0,Person B
-1688,1,Person B
-1689,1,Person B
-1690,1,Person B
-1691,1,Person B
-1692,1,Person B
-1693,1,Person B
-1694,0,Person B
-1695,1,Person B
-1696,0,Person B
-1697,0,Person B
-1698,1,Person B
-1699,1,Person B
-1700,1,Person B
-1701,1,Person B
-1702,1,Person B
-1703,1,Person B
-1704,1,Person B
-1705,1,Person B
-1706,0,Person B
-1707,1,Person B
-1708,1,Person B
-1709,1,Person B
-1710,0,Person B
-1711,1,Person B
-1712,1,Person B
-1713,1,Person B
-1714,1,Person B
-1715,0,Person B
-1716,0,Person B
-1717,1,Person B
-1718,1,Person B
-1719,1,Person B
-1720,1,Person B
-1721,1,Person B
-1722,0,Person B
-1723,1,Person B
-1724,1,Person B
-1725,0,Person B
-1726,1,Person B
-1727,1,Person B
-1728,1,Person B
-1729,1,Person B
-1730,1,Person B
-1731,1,Person B
-1732,1,Person B
-1733,1,Person B
-1734,1,Person B
-1735,1,Person B
-1736,1,Person B
-1737,1,Person B
-1738,1,Person B
-1739,1,Person B
-1740,1,Person B
-1741,1,Person B
-1742,1,Person B
-1743,1,Person B
-1744,1,Person B
-1745,1,Person B
-1746,1,Person B
-1747,1,Person B
-1748,1,Person B
-1749,0,Person B
-1750,1,Person B
-1751,1,Person B
-1752,1,Person B
-1753,1,Person B
-1754,1,Person B
-1755,1,Person B
-1756,1,Person B
-1757,1,Person B
-1758,1,Person B
-1759,1,Person B
-1760,1,Person B
-1761,1,Person B
-1762,1,Person B
-1763,1,Person B
-1764,1,Person B
-1765,1,Person B
-1766,1,Person B
-1767,1,Person B
-1768,1,Person B
-1769,1,Person B
-1770,0,Person B
-1771,0,Person B
-1772,1,Person B
-1773,1,Person B
-1774,1,Person B
-1775,1,Person B
-1776,1,Person B
-1777,1,Person B
-1778,1,Person B
-1779,1,Person B
-1780,1,Person B
-1781,1,Person B
-1782,1,Person B
-1783,0,Person B
-1784,1,Person B
-1785,1,Person B
-1786,0,Person B
-1787,1,Person B
-1788,1,Person B
-1789,1,Person B
-1790,1,Person B
-1791,1,Person B
-1792,1,Person B
-1793,1,Person B
-1794,1,Person B
-1795,1,Person B
-1796,1,Person B
-1797,1,Person B
-1798,1,Person B
-1799,1,Person B
-1800,1,Person B
-1801,1,Person B
-1802,1,Person B
-1803,1,Person B
-1804,1,Person B
-1805,1,Person B
-1806,1,Person B
-1807,1,Person B
-1808,1,Person B
-1809,1,Person B
-1810,1,Person B
-1811,1,Person B
-1812,1,Person B
-1813,1,Person B
-1814,1,Person B
-1815,1,Person B
-1816,0,Person B
-1817,0,Person B
-1818,1,Person B
-1819,1,Person B
-1820,1,Person B
-1821,1,Person B
-1822,0,Person B
-1823,1,Person B
-1824,1,Person B
-1825,0,Person B
-1826,1,Person B
-1827,1,Person B
-1828,1,Person B
-1829,0,Person B
-1830,1,Person B
-1831,1,Person B
-1832,0,Person B
-1833,1,Person B
-1834,1,Person B
-1835,1,Person B
-1836,1,Person B
-1837,1,Person B
-1838,1,Person B
-1839,1,Person B
-1840,1,Person B
-1841,1,Person B
-1842,1,Person B
-1843,1,Person B
-1844,1,Person B
-1845,1,Person B
-1846,0,Person B
-1847,0,Person B
-1848,1,Person B
-1849,1,Person B
-1850,1,Person B
-1851,1,Person B
-1852,0,Person B
-1853,1,Person B
-1854,1,Person B
-1855,1,Person B
-1856,0,Person B
-1857,0,Person B
-1858,1,Person B
-1859,1,Person B
-1860,1,Person B
-1861,1,Person B
-1862,1,Person B
-1863,1,Person B
-1864,1,Person B
-1865,1,Person B
-1866,0,Person B
-1867,1,Person B
-1868,1,Person B
-1869,1,Person B
-1870,1,Person B
-1871,1,Person B
-1872,1,Person B
-1873,0,Person B
-1874,0,Person B
-1875,1,Person B
-1876,1,Person B
-1877,1,Person B
-1878,1,Person B
-1879,1,Person B
-1880,1,Person B
-1881,1,Person B
-1882,1,Person B
-1883,0,Person B
-1884,1,Person B
-1885,1,Person B
-1886,1,Person B
-1887,1,Person B
-1888,1,Person B
-1889,1,Person B
-1890,1,Person B
-1891,0,Person B
-1892,0,Person B
-1893,1,Person B
-1894,1,Person B
-1895,1,Person B
-1896,1,Person B
-1897,0,Person B
-1898,1,Person B
-1899,1,Person B
-1900,1,Person B
-1901,1,Person B
-1902,1,Person B
-1903,1,Person B
-1904,1,Person B
-1905,1,Person B
-1906,1,Person B
-1907,1,Person B
-1908,0,Person B
-1909,1,Person B
-1910,1,Person B
-1911,0,Person B
-1912,1,Person B
-1913,1,Person B
-1914,1,Person B
-1915,1,Person B
-1916,1,Person B
-1917,1,Person B
-1918,1,Person B
-1919,1,Person B
-1920,0,Person B
-1921,1,Person B
-1922,1,Person B
-1923,1,Person B
-1924,1,Person B
-1925,0,Person B
-1926,1,Person B
-1927,1,Person B
-1928,1,Person B
-1929,1,Person B
-1930,1,Person B
-1931,0,Person B
-1932,1,Person B
-1933,1,Person B
-1934,1,Person B
-1935,0,Person B
-1936,1,Person B
-1937,1,Person B
-1938,1,Person B
-1939,1,Person B
-1940,1,Person B
-1941,0,Person B
-1942,0,Person B
-1943,1,Person B
-1944,1,Person B
-1945,1,Person B
-1946,1,Person B
-1947,1,Person B
-1948,1,Person B
-1949,1,Person B
-1950,1,Person B
-1951,1,Person B
-1952,1,Person B
-1953,1,Person B
-1954,1,Person B
-1955,1,Person B
-1956,1,Person B
-1957,1,Person B
-1958,0,Person B
-1959,0,Person B
-1960,1,Person B
-1961,0,Person B
-1962,1,Person B
-1963,1,Person B
-1964,1,Person B
-1965,1,Person B
-1966,1,Person B
-1967,1,Person B
-1968,0,Person B
-1969,1,Person B
-1970,1,Person B
-1971,1,Person B
-1972,1,Person B
-1973,0,Person B
-1974,1,Person B
-1975,0,Person B
-1976,0,Person B
-1977,1,Person B
-1978,1,Person B
-1979,1,Person B
-1980,1,Person B
-1981,1,Person B
-1982,1,Person B
-1983,0,Person B
-1984,1,Person B
-1985,1,Person B
-1986,1,Person B
-1987,1,Person B
-1988,1,Person B
-1989,1,Person B
-1990,1,Person B
-1991,1,Person B
-1992,1,Person B
-1993,1,Person B
-1994,1,Person B
-1995,0,Person B
-1996,0,Person B
-1997,1,Person B
-1998,1,Person B
-1999,1,Person B
-2000,1,Person B
-2001,1,Person B
-2002,1,Person B
-2003,1,Person B
-2004,1,Person B
-2005,1,Person B
-2006,1,Person B
-2007,0,Person B
-2008,1,Person B
-2009,1,Person B
-2010,1,Person B
-2011,1,Person B
-2012,1,Person B
-2013,0,Person B
-2014,0,Person B
-2015,1,Person B
-2016,1,Person B
-2017,1,Person B
-2018,1,Person B
-2019,1,Person B
-2020,1,Person B
-2021,1,Person B
-2022,1,Person B
-2023,1,Person B
-2024,1,Person B
-2025,0,Person B
-2026,1,Person B
-2027,1,Person B
-2028,1,Person B
-2029,1,Person B
-2030,1,Person B
-2031,1,Person B
-2032,1,Person B
-2033,0,Person B
-2034,1,Person B
-2035,1,Person B
-2036,1,Person B
-2037,1,Person B
-2038,0,Person B
-2039,1,Person B
-2040,1,Person B
-2041,1,Person B
-2042,1,Person B
-2043,1,Person B
-2044,0,Person B
-2045,1,Person B
-2046,1,Person B
-2047,1,Person B
-2048,1,Person B
-2049,1,Person B
-2050,1,Person B
-2051,1,Person B
-2052,1,Person B
-2053,1,Person B
-2054,1,Person B
-2055,1,Person B
-2056,1,Person B
-2057,1,Person B
-2058,1,Person B
-2059,1,Person B
-2060,1,Person B
-2061,1,Person B
-2062,0,Person B
-2063,1,Person B
-2064,1,Person B
-2065,1,Person B
-2066,1,Person B
-2067,1,Person B
-2068,0,Person B
-2069,0,Person B
-2070,1,Person B
-2071,1,Person B
-2072,1,Person B
-2073,0,Person B
-2074,1,Person B
-2075,1,Person B
-2076,1,Person B
-2077,1,Person B
-2078,1,Person B
-2079,1,Person B
-2080,1,Person B
-2081,1,Person B
-2082,1,Person B
-2083,1,Person B
-2084,1,Person B
-2085,1,Person B
-2086,1,Person B
-2087,1,Person B
-2088,0,Person B
-2089,1,Person B
-2090,1,Person B
-2091,0,Person B
-2092,1,Person B
-2093,1,Person B
-2094,1,Person B
-2095,1,Person B
-2096,1,Person B
-2097,1,Person B
-2098,1,Person B
-2099,1,Person B
-2100,1,Person B
-2101,1,Person B
-2102,0,Person B
-2103,0,Person B
-2104,1,Person B
-2105,1,Person B
-2106,1,Person B
-2107,1,Person B
-2108,1,Person B
-2109,1,Person B
-2110,1,Person B
-2111,1,Person B
-2112,1,Person B
-2113,1,Person B
-2114,1,Person B
-2115,0,Person B
-2116,1,Person B
-2117,1,Person B
-2118,1,Person B
-2119,1,Person B
-2120,1,Person B
-2121,1,Person B
-2122,1,Person B
-2123,0,Person B
-2124,0,Person B
-2125,1,Person B
-2126,1,Person B
-2127,1,Person B
-2128,1,Person B
-2129,0,Person B
-2130,1,Person B
-2131,1,Person B
-2132,1,Person B
-2133,1,Person B
-2134,1,Person B
-2135,1,Person B
-2136,1,Person B
-2137,1,Person B
-2138,1,Person B
-2139,1,Person B
-2140,1,Person B
-2141,1,Person B
-2142,0,Person B
-2143,1,Person B
-2144,1,Person B
-2145,1,Person B
-2146,1,Person B
-2147,1,Person B
-2148,1,Person B
-2149,0,Person B
-2150,1,Person B
-2151,0,Person B
-2152,0,Person B
-2153,1,Person B
-2154,0,Person B
-2155,1,Person B
-2156,1,Person B
-2157,1,Person B
-2158,1,Person B
-2159,1,Person B
-2160,1,Person B
-2161,1,Person B
-2162,1,Person B
-2163,1,Person B
-2164,1,Person B
-2165,0,Person B
-2166,1,Person B
-2167,1,Person B
-2168,0,Person B
-2169,1,Person B
-2170,1,Person B
-2171,1,Person B
-2172,1,Person B
-2173,0,Person B
-2174,1,Person B
-2175,1,Person B
-2176,1,Person B
-2177,1,Person B
-2178,1,Person B
-2179,1,Person B
-2180,1,Person B
-2181,0,Person B
-2182,0,Person B
-2183,1,Person B
-2184,0,Person B
-2185,1,Person B
-2186,1,Person B
-2187,1,Person B
-2188,0,Person B
-2189,1,Person B
-2190,1,Person B
-2191,0,Person B
-2192,1,Person B
-2193,1,Person B
-2194,1,Person B
-2195,1,Person B
-2196,1,Person B
-2197,1,Person B
-2198,1,Person B
-2199,0,Person B
-2200,0,Person B
-2201,1,Person B
-2202,0,Person B
-2203,0,Person B
-2204,1,Person B
-2205,1,Person B
-2206,1,Person B
-2207,1,Person B
-2208,1,Person B
-2209,1,Person B
-2210,0,Person B
-2211,1,Person B
-2212,1,Person B
-2213,1,Person B
-2214,1,Person B
-2215,1,Person B
-2216,1,Person B
-2217,1,Person B
-2218,1,Person B
-2219,1,Person B
-2220,1,Person B
-2221,1,Person B
-2222,1,Person B
-2223,1,Person B
-2224,1,Person B
-2225,1,Person B
-2226,1,Person B
-2227,1,Person B
-2228,1,Person B
-2229,1,Person B
-2230,1,Person B
-2231,1,Person B
-2232,0,Person B
-2233,1,Person B
-2234,1,Person B
-2235,1,Person B
-2236,0,Person B
-2237,1,Person B
-2238,1,Person B
-2239,1,Person B
-2240,1,Person B
-2241,0,Person B
-2242,0,Person B
-2243,0,Person B
-2244,1,Person B
-2245,1,Person B
-2246,1,Person B
-2247,1,Person B
-2248,1,Person B
-2249,1,Person B
-2250,1,Person B
-2251,1,Person B
-2252,1,Person B
-2253,1,Person B
-2254,1,Person B
-2255,1,Person B
-2256,1,Person B
-2257,1,Person B
-2258,1,Person B
-2259,1,Person B
-2260,1,Person B
-2261,1,Person B
-2262,1,Person B
-2263,1,Person B
-2264,1,Person B
-2265,1,Person B
-2266,1,Person B
-2267,0,Person B
-2268,0,Person B
-2269,1,Person B
-2270,1,Person B
-2271,1,Person B
-2272,1,Person B
-2273,1,Person B
-2274,1,Person B
-2275,1,Person B
-2276,1,Person B
-2277,1,Person B
-2278,0,Person B
-2279,1,Person B
-2280,1,Person B
-2281,1,Person B
-2282,1,Person B
-2283,1,Person B
-2284,1,Person B
-2285,1,Person B
-2286,1,Person B
-2287,1,Person B
-2288,1,Person B
-2289,0,Person B
-2290,1,Person B
-2291,1,Person B
-2292,1,Person B
-2293,1,Person B
-2294,1,Person B
-2295,1,Person B
-2296,1,Person B
-2297,1,Person B
-2298,1,Person B
-2299,1,Person B
-2300,1,Person B
-2301,1,Person B
-2302,1,Person B
-2303,1,Person B
-2304,1,Person B
-2305,1,Person B
-2306,1,Person B
-2307,1,Person B
-2308,1,Person B
-2309,1,Person B
-2310,0,Person B
-2311,1,Person B
-2312,1,Person B
-2313,0,Person B
-2314,1,Person B
-2315,1,Person B
-2316,1,Person B
-2317,1,Person B
-2318,1,Person B
-2319,1,Person B
-2320,1,Person B
-2321,1,Person B
-2322,0,Person B
-2323,1,Person B
-2324,1,Person B
-2325,0,Person B
-2326,1,Person B
-2327,1,Person B
-2328,1,Person B
-2329,1,Person B
-2330,1,Person B
-2331,1,Person B
-2332,0,Person B
-2333,1,Person B
-2334,1,Person B
-2335,1,Person B
-2336,1,Person B
-2337,1,Person B
-2338,1,Person B
-2339,1,Person B
-2340,1,Person B
-2341,1,Person B
-2342,1,Person B
-2343,1,Person B
-2344,1,Person B
-2345,1,Person B
-2346,1,Person B
-2347,1,Person B
-2348,1,Person B
-2349,1,Person B
-2350,1,Person B
-2351,0,Person B
-2352,1,Person B
-2353,1,Person B
-2354,1,Person B
-2355,1,Person B
-2356,1,Person B
-2357,1,Person B
-2358,1,Person B
-2359,1,Person B
-2360,1,Person B
-2361,1,Person B
-2362,1,Person B
-2363,1,Person B
-2364,1,Person B
-2365,1,Person B
-2366,1,Person B
-2367,1,Person B
-2368,1,Person B
-2369,1,Person B
-2370,1,Person B
-2371,0,Person B
-2372,1,Person B
-2373,1,Person B
-2374,0,Person B
-2375,1,Person B
-2376,1,Person B
-2377,1,Person B
-2378,1,Person B
-2379,1,Person B
-2380,1,Person B
-2381,1,Person B
-2382,1,Person B
-2383,1,Person B
-2384,1,Person B
-2385,1,Person B
-2386,1,Person B
-2387,1,Person B
-2388,1,Person B
-2389,0,Person B
-2390,0,Person B
-2391,0,Person B
-2392,0,Person B
-2393,0,Person B
-2394,1,Person B
-2395,1,Person B
-2396,1,Person B
-2397,1,Person B
-2398,1,Person B
-2399,1,Person B
-2400,0,Person B
-2401,1,Person B
-2402,1,Person B
-2403,1,Person B
-2404,1,Person B
-2405,1,Person B
-2406,1,Person B
-2407,1,Person B
-2408,0,Person B
-2409,1,Person B
-2410,1,Person B
-2411,1,Person B
-2412,1,Person B
-2413,1,Person B
-2414,1,Person B
-2415,1,Person B
-2416,1,Person B
-2417,1,Person B
-2418,1,Person B
-2419,1,Person B
-2420,1,Person B
-2421,1,Person B
-2422,0,Person B
-2423,1,Person B
-2424,1,Person B
-2425,1,Person B
-2426,1,Person B
-2427,1,Person B
-2428,1,Person B
-2429,1,Person B
-2430,1,Person B
-2431,1,Person B
-2432,1,Person B
-2433,0,Person B
-2434,0,Person B
-2435,1,Person B
-2436,1,Person B
-2437,1,Person B
-2438,1,Person B
-2439,1,Person B
-2440,1,Person B
-2441,0,Person B
-2442,1,Person B
-2443,1,Person B
-2444,0,Person B
-2445,1,Person B
-2446,1,Person B
-2447,1,Person B
-2448,1,Person B
-2449,1,Person B
-2450,0,Person B
-2451,1,Person B
-2452,1,Person B
-2453,1,Person B
-2454,1,Person B
-2455,0,Person B
-2456,1,Person B
-2457,1,Person B
-2458,0,Person B
-2459,1,Person B
-2460,1,Person B
-2461,1,Person B
-2462,1,Person B
-2463,1,Person B
-2464,1,Person B
-2465,1,Person B
-2466,1,Person B
-2467,1,Person B
-2468,1,Person B
-2469,1,Person B
-2470,1,Person B
-2471,1,Person B
-2472,1,Person B
-2473,0,Person B
-2474,1,Person B
-2475,1,Person B
-2476,1,Person B
-2477,1,Person B
-2478,1,Person B
-2479,1,Person B
-2480,1,Person B
-2481,1,Person B
-2482,1,Person B
-2483,1,Person B
-2484,1,Person B
-2485,1,Person B
-2486,1,Person B
-2487,0,Person B
-2488,1,Person B
-2489,1,Person B
-2490,1,Person B
-2491,1,Person B
-2492,1,Person B
-2493,1,Person B
-2494,1,Person B
-2495,1,Person B
-2496,1,Person B
-2497,1,Person B
-2498,1,Person B
-2499,1,Person B
-2500,1,Person B
-2501,1,Person B
-2502,1,Person B
-2503,1,Person B
-2504,1,Person B
-2505,1,Person B
-2506,1,Person B
-2507,1,Person B
-2508,1,Person B
-2509,1,Person B
-2510,1,Person B
-2511,1,Person B
-2512,1,Person B
-2513,1,Person B
-2514,1,Person B
-2515,1,Person B
-2516,1,Person B
-2517,1,Person B
-2518,1,Person B
-2519,1,Person B
-2520,1,Person B
-2521,1,Person B
-2522,1,Person B
-2523,1,Person B
-2524,1,Person B
-2525,1,Person B
-2526,1,Person B
-2527,1,Person B
-2528,1,Person B
-2529,1,Person B
-2530,1,Person B
-2531,0,Person B
-2532,1,Person B
-2533,1,Person B
-2534,1,Person B
-2535,1,Person B
-2536,1,Person B
-2537,1,Person B
-2538,1,Person B
-2539,0,Person B
-2540,0,Person B
-2541,1,Person B
-2542,1,Person B
-2543,1,Person B
-2544,1,Person B
-2545,1,Person B
-2546,1,Person B
-2547,1,Person B
-2548,1,Person B
-2549,0,Person B
-2550,1,Person B
-2551,1,Person B
-2552,1,Person B
-2553,1,Person B
-2554,1,Person B
-2555,1,Person B
-2556,1,Person B
-2557,1,Person B
-2558,1,Person B
-2559,1,Person B
-2560,1,Person B
-2561,1,Person B
-2562,1,Person B
-2563,1,Person B
-2564,1,Person B
-2565,1,Person B
-2566,1,Person B
-2567,1,Person B
-2568,1,Person B
-2569,1,Person B
-2570,1,Person B
-2571,1,Person B
-2572,1,Person B
-2573,1,Person B
-2574,1,Person B
-2575,1,Person B
-2576,1,Person B
-2577,1,Person B
-2578,1,Person B
-2579,1,Person B
-2580,1,Person B
-2581,1,Person B
-2582,0,Person B
-2583,1,Person B
-2584,1,Person B
-2585,1,Person B
-2586,1,Person B
-2587,1,Person B
-2588,1,Person B
-2589,1,Person B
-2590,1,Person B
-2591,0,Person B
-2592,1,Person B
-2593,1,Person B
-2594,1,Person B
-2595,1,Person B
-2596,1,Person B
-2597,0,Person B
-2598,1,Person B
-2599,1,Person B
-2600,1,Person B
-2601,1,Person B
-2602,1,Person B
-2603,1,Person B
-2604,1,Person B
-2605,1,Person B
-2606,1,Person B
-2607,1,Person B
-2608,1,Person B
-2609,1,Person B
-2610,1,Person B
-2611,1,Person B
-2612,1,Person B
-2613,1,Person B
-2614,1,Person B
-2615,1,Person B
-2616,0,Person B
-2617,0,Person B
-2618,1,Person B
-2619,1,Person B
-2620,1,Person B
-2621,1,Person B
-2622,1,Person B
-2623,1,Person B
-2624,1,Person B
-2625,1,Person B
-2626,1,Person B
-2627,1,Person B
-2628,1,Person B
-2629,0,Person B
-2630,1,Person B
-2631,1,Person B
-2632,1,Person B
-2633,0,Person B
-2634,1,Person B
-2635,1,Person B
-2636,1,Person B
-2637,1,Person B
-2638,1,Person B
-2639,1,Person B
-2640,1,Person B
-2641,0,Person B
-2642,1,Person B
-2643,1,Person B
-2644,1,Person B
-2645,1,Person B
-2646,1,Person B
-2647,1,Person B
-2648,1,Person B
-2649,1,Person B
-2650,1,Person B
-2651,1,Person B
-2652,1,Person B
-2653,1,Person B
-2654,1,Person B
-2655,1,Person B
-2656,1,Person B
-2657,1,Person B
-2658,1,Person B
-2659,1,Person B
-2660,1,Person B
-2661,1,Person B
-2662,1,Person B
-2663,1,Person B
-2664,1,Person B
-2665,1,Person B
-2666,1,Person B
-2667,1,Person B
-2668,1,Person B
-2669,0,Person B
-2670,1,Person B
-2671,1,Person B
-2672,1,Person B
-2673,1,Person B
-2674,1,Person B
-2675,0,Person B
-2676,0,Person B
-2677,1,Person B
-2678,1,Person B
-2679,1,Person B
-2680,1,Person B
-2681,1,Person B
-2682,1,Person B
-2683,1,Person B
-2684,1,Person B
-2685,1,Person B
-2686,1,Person B
-2687,1,Person B
-2688,1,Person B
-2689,1,Person B
-2690,1,Person B
-2691,1,Person B
-2692,1,Person B
-2693,1,Person B
-2694,1,Person B
-2695,1,Person B
-2696,1,Person B
-2697,1,Person B
-2698,0,Person B
-2699,1,Person B
-2700,1,Person B
-2701,1,Person B
-2702,1,Person B
-2703,0,Person B
-2704,1,Person B
-2705,1,Person B
-2706,1,Person B
-2707,1,Person B
-2708,0,Person B
-2709,1,Person B
-2710,1,Person B
-2711,1,Person B
-2712,1,Person B
-2713,1,Person B
-2714,1,Person B
-2715,0,Person B
-2716,1,Person B
-2717,1,Person B
-2718,1,Person B
-2719,1,Person B
-2720,1,Person B
-2721,1,Person B
-2722,1,Person B
-2723,1,Person B
-2724,1,Person B
-2725,1,Person B
-2726,1,Person B
-2727,1,Person B
-2728,0,Person B
-2729,1,Person B
-2730,1,Person B
-2731,1,Person B
-2732,1,Person B
-2733,1,Person B
-2734,1,Person B
-2735,1,Person B
-2736,1,Person B
-2737,1,Person B
-2738,1,Person B
-2739,1,Person B
-2740,1,Person B
-2741,1,Person B
-2742,0,Person B
+0,0,Sleeping
+1,0,Toileting
+2,0,Toileting
+3,0,Toileting
+4,0,Showering
+5,0,Breakfast
+6,0,Breakfast
+7,0,Breakfast
+8,0,Breakfast
+9,0,Breakfast
+10,0,Breakfast
+11,0,Breakfast
+12,0,Grooming
+13,0,Spare_Time/TV
+14,0,Toileting
+15,0,Toileting
+16,0,Leaving
+17,0,Leaving
+18,0,No Activity
+19,0,Spare_Time/TV
+20,0,Toileting
+21,0,Lunch
+22,0,Lunch
+23,0,Lunch
+24,0,Lunch
+25,0,Lunch
+26,0,Grooming
+27,0,Spare_Time/TV
+28,0,Spare_Time/TV
+29,0,Spare_Time/TV
+30,0,Snack
+31,0,No Activity
+32,0,No Activity
+33,0,No Activity
+34,0,Grooming
+35,0,Grooming
+36,0,Grooming
+37,0,Showering
+38,0,Breakfast
+39,0,Breakfast
+40,0,Breakfast
+41,0,Breakfast
+42,0,Grooming
+43,0,Grooming
+44,0,Grooming
+45,0,No Activity
+46,0,Snack
+47,0,Spare_Time/TV
+48,0,Toileting
+49,0,Toileting
+50,0,Lunch
+51,0,Lunch
+52,0,Lunch
+53,0,Lunch
+54,0,Lunch
+55,0,Lunch
+56,0,Lunch
+57,0,Grooming
+58,0,Spare_Time/TV
+59,0,Toileting
+60,0,No Activity
+61,0,Spare_Time/TV
+62,0,Toileting
+63,0,Toileting
+64,0,No Activity
+65,0,Leaving
+66,0,Leaving
+67,0,Spare_Time/TV
+68,0,Sleeping
+69,0,No Activity
+70,0,Showering
+71,0,Breakfast
+72,0,Breakfast
+73,0,Breakfast
+74,0,Breakfast
+75,0,Grooming
+76,0,Grooming
+77,0,No Activity
+78,0,Snack
+79,0,Spare_Time/TV
+80,0,Toileting
+81,0,Toileting
+82,0,Spare_Time/TV
+83,0,Lunch
+84,0,Lunch
+85,0,Lunch
+86,0,Lunch
+87,0,Lunch
+88,0,Spare_Time/TV
+89,0,No Activity
+90,0,Toileting
+91,0,Snack
+92,0,Spare_Time/TV
+93,0,Toileting
+94,0,No Activity
+95,0,Spare_Time/TV
+96,0,Toileting
+97,0,Spare_Time/TV
+98,0,Toileting
+99,0,Toileting
+100,0,Leaving
+101,0,Leaving
+102,0,No Activity
+103,0,No Activity
+104,0,Grooming
+105,0,Spare_Time/TV
+106,0,Sleeping
+107,0,Grooming
+108,0,Grooming
+109,0,Grooming
+110,0,Showering
+111,0,Breakfast
+112,0,Breakfast
+113,0,Breakfast
+114,0,Breakfast
+115,0,Spare_Time/TV
+116,0,Spare_Time/TV
+117,0,Lunch
+118,0,Lunch
+119,0,Lunch
+120,0,Lunch
+121,0,Spare_Time/TV
+122,0,Toileting
+123,0,No Activity
+124,0,Leaving
+125,0,Leaving
+126,0,No Activity
+127,0,Spare_Time/TV
+128,0,No Activity
+129,0,No Activity
+130,0,Grooming
+131,0,Spare_Time/TV
+132,0,Grooming
+133,0,Spare_Time/TV
+134,0,Grooming
+135,0,Sleeping
+136,0,No Activity
+137,0,No Activity
+138,0,No Activity
+139,0,Showering
+140,0,No Activity
+141,0,No Activity
+142,0,No Activity
+143,0,No Activity
+144,0,Spare_Time/TV
+145,0,No Activity
+146,0,Lunch
+147,0,Lunch
+148,0,Lunch
+149,0,Lunch
+150,0,Spare_Time/TV
+151,0,Grooming
+152,0,No Activity
+153,0,No Activity
+154,0,Spare_Time/TV
+155,0,Snack
+156,0,Spare_Time/TV
+157,0,No Activity
+158,0,Spare_Time/TV
+159,0,Sleeping
+160,0,No Activity
+161,0,Grooming
+162,0,Grooming
+163,0,Showering
+164,0,No Activity
+165,0,Breakfast
+166,0,Breakfast
+167,0,Breakfast
+168,0,Breakfast
+169,0,Spare_Time/TV
+170,0,Grooming
+171,0,Spare_Time/TV
+172,0,Grooming
+173,0,Leaving
+174,0,Leaving
+175,0,Spare_Time/TV
+176,0,Spare_Time/TV
+177,0,Spare_Time/TV
+178,0,No Activity
+179,0,Spare_Time/TV
+180,0,Sleeping
+181,0,No Activity
+182,0,Grooming
+183,0,Grooming
+184,0,Showering
+185,0,Breakfast
+186,0,Breakfast
+187,0,Breakfast
+188,0,Breakfast
+189,0,Spare_Time/TV
+190,0,No Activity
+191,0,Leaving
+192,0,Leaving
+193,0,Spare_Time/TV
+194,0,Snack
+195,0,Spare_Time/TV
+196,0,Grooming
+197,0,Spare_Time/TV
+198,0,Toileting
+199,0,Toileting
+200,0,Snack
+201,0,Spare_Time/TV
+202,0,Toileting
+203,0,Toileting
+204,0,Spare_Time/TV
+205,0,Grooming
+206,0,Sleeping
+207,0,Toileting
+208,0,Grooming
+209,0,Showering
+210,0,No Activity
+211,0,Breakfast
+212,0,Breakfast
+213,0,Breakfast
+214,0,Breakfast
+215,0,Breakfast
+216,0,No Activity
+217,0,Grooming
+218,0,Leaving
+219,0,Leaving
+220,0,Lunch
+221,0,Lunch
+222,0,Lunch
+223,0,Lunch
+224,0,Lunch
+225,0,Lunch
+226,0,Lunch
+227,0,Lunch
+228,0,Lunch
+229,0,No Activity
+230,0,No Activity
+231,0,Spare_Time/TV
+232,0,No Activity
+233,0,Spare_Time/TV
+234,0,Leaving
+235,0,Leaving
+236,0,Spare_Time/TV
+237,0,Snack
+238,0,Spare_Time/TV
+239,0,Grooming
+240,0,No Activity
+241,0,Spare_Time/TV
+242,0,Toileting
+243,0,No Activity
+244,0,Grooming
+245,0,Spare_Time/TV
+246,0,Toileting
+247,0,Toileting
+248,0,Sleeping
+249,0,No Activity
+250,0,Grooming
+251,0,Grooming
+252,0,Grooming
+253,0,Showering
+254,0,Breakfast
+255,0,Breakfast
+256,0,Breakfast
+257,0,Breakfast
+258,0,Spare_Time/TV
+259,0,Lunch
+260,0,Lunch
+261,0,Lunch
+262,0,Lunch
+263,0,Lunch
+264,0,Lunch
+265,0,No Activity
+266,0,Grooming
+267,0,Spare_Time/TV
+268,0,Toileting
+269,0,No Activity
+270,0,Spare_Time/TV
+271,0,Grooming
+272,0,Spare_Time/TV
+273,0,Snack
+274,0,Grooming
+275,0,Spare_Time/TV
+276,0,Grooming
+277,0,Spare_Time/TV
+278,0,Toileting
+279,0,Sleeping
+280,0,No Activity
+281,0,Grooming
+282,0,Grooming
+283,0,No Activity
+284,0,Showering
+285,0,Breakfast
+286,0,Breakfast
+287,0,Breakfast
+288,0,Breakfast
+289,0,Spare_Time/TV
+290,0,Lunch
+291,0,Lunch
+292,0,Lunch
+293,0,Lunch
+294,0,Lunch
+295,0,Lunch
+296,0,Lunch
+297,0,Spare_Time/TV
+298,0,Grooming
+299,0,No Activity
+300,0,Spare_Time/TV
+301,0,Grooming
+302,0,Leaving
+303,0,Leaving
+304,0,Grooming
+305,0,No Activity
+306,0,Spare_Time/TV
+307,0,No Activity
+308,0,Snack
+309,0,Snack
+310,0,Snack
+311,0,Snack
+312,0,Snack
+313,0,Toileting
+314,0,Spare_Time/TV
+315,0,No Activity
+316,0,Spare_Time/TV
+317,0,Toileting
+318,0,Spare_Time/TV
+319,0,Sleeping
+320,0,Grooming
+321,0,No Activity
+322,0,Grooming
+323,0,Grooming
+324,0,Showering
+325,0,Breakfast
+326,0,Breakfast
+327,0,Breakfast
+328,0,Breakfast
+329,0,Breakfast
+330,0,Spare_Time/TV
+331,0,Grooming
+332,0,Leaving
+333,0,Leaving
+334,0,Spare_Time/TV
+335,0,Grooming
+336,0,Spare_Time/TV
+337,0,Grooming
+338,0,Spare_Time/TV
+339,0,Grooming
+340,0,Sleeping
+341,0,Toileting
+342,0,Grooming
+343,0,Grooming
+344,0,Showering
+345,0,Breakfast
+346,0,Breakfast
+347,0,Breakfast
+348,0,Breakfast
+349,0,Breakfast
+350,0,Spare_Time/TV
+351,0,Grooming
+352,0,Leaving
+353,0,Leaving
+354,0,Spare_Time/TV
+355,0,No Activity
+356,0,Spare_Time/TV
+357,0,Grooming
+358,0,No Activity
+359,0,Leaving
+360,0,Leaving
+361,0,No Activity
+362,0,Spare_Time/TV
+363,0,Grooming
+364,0,Spare_Time/TV
+365,0,Grooming
+366,0,Spare_Time/TV
+367,0,Sleeping
+368,0,No Activity
+369,0,Grooming
+370,0,Grooming
+371,0,Grooming
+372,0,Grooming
+373,0,Showering
+374,0,Breakfast
+375,0,Breakfast
+376,0,Breakfast
+377,0,Breakfast
+378,0,Breakfast
+379,0,Breakfast
+380,0,Spare_Time/TV
+381,0,Grooming
+382,0,Leaving
+383,0,Leaving
+384,0,Spare_Time/TV
+385,0,Grooming
+386,0,No Activity
+387,0,No Activity
+388,0,Spare_Time/TV
+389,0,No Activity
+390,0,Sleeping
+391,0,No Activity
+392,0,Grooming
+393,0,Showering
+394,0,Breakfast
+395,0,Breakfast
+396,0,Breakfast
+397,0,Breakfast
+398,0,Spare_Time/TV
+399,0,Lunch
+400,0,Lunch
+401,0,Lunch
+402,0,Lunch
+403,0,Lunch
+404,0,Lunch
+405,0,Toileting
+406,0,Grooming
+407,0,No Activity
+408,0,No Activity
+409,0,Spare_Time/TV
+410,1,No Activity
+411,1,No Activity
+412,1,Spare_Time/TV
+413,1,Spare_Time/TV
+414,0,Spare_Time/TV
+415,1,Spare_Time/TV
+416,1,No Activity
+417,1,No Activity
+418,0,No Activity
+419,1,Spare_Time/TV
+420,0,No Activity
+421,1,Toileting
+422,0,Toileting
+423,0,No Activity
+424,1,Toileting
+425,0,Sleeping
+426,1,Sleeping
+427,0,Toileting
+428,1,No Activity
+429,1,No Activity
+430,1,Breakfast
+431,0,Breakfast
+432,0,Breakfast
+433,1,Breakfast
+434,1,No Activity
+435,1,Spare_Time/TV
+436,1,Spare_Time/TV
+437,0,Spare_Time/TV
+438,1,Spare_Time/TV
+439,1,No Activity
+440,1,No Activity
+441,0,Grooming
+442,0,Showering
+443,1,No Activity
+444,1,Grooming
+445,1,Grooming
+446,1,Grooming
+447,0,Grooming
+448,0,No Activity
+449,0,No Activity
+450,1,Grooming
+451,1,No Activity
+452,1,No Activity
+453,1,No Activity
+454,0,Grooming
+455,1,Spare_Time/TV
+456,1,Spare_Time/TV
+457,1,Snack
+458,0,Snack
+459,0,Snack
+460,1,Snack
+461,1,No Activity
+462,1,No Activity
+463,1,No Activity
+464,1,No Activity
+465,1,No Activity
+466,1,No Activity
+467,1,No Activity
+468,1,No Activity
+469,1,Snack
+470,0,Snack
+471,0,Snack
+472,1,Snack
+473,1,Snack
+474,1,No Activity
+475,1,No Activity
+476,1,No Activity
+477,1,No Activity
+478,1,No Activity
+479,1,No Activity
+480,1,Toileting
+481,0,Toileting
+482,1,No Activity
+483,1,No Activity
+484,1,No Activity
+485,1,No Activity
+486,0,Toileting
+487,0,Grooming
+488,0,Grooming
+489,1,Spare_Time/TV
+490,1,Spare_Time/TV
+491,1,No Activity
+492,1,No Activity
+493,1,Lunch
+494,0,Lunch
+495,1,Lunch
+496,1,Lunch
+497,1,Lunch
+498,1,Lunch
+499,0,Lunch
+500,0,Lunch
+501,1,Lunch
+502,1,Lunch
+503,1,Lunch
+504,1,Lunch
+505,0,Lunch
+506,1,Lunch
+507,1,Spare_Time/TV
+508,1,Spare_Time/TV
+509,1,Snack
+510,0,Snack
+511,1,Snack
+512,0,No Activity
+513,0,Grooming
+514,1,Spare_Time/TV
+515,0,Spare_Time/TV
+516,1,Spare_Time/TV
+517,0,Leaving
+518,0,Leaving
+519,1,Spare_Time/TV
+520,1,Spare_Time/TV
+521,1,Spare_Time/TV
+522,1,Spare_Time/TV
+523,1,No Activity
+524,1,No Activity
+525,0,No Activity
+526,0,No Activity
+527,1,Grooming
+528,0,Spare_Time/TV
+529,1,Snack
+530,1,Snack
+531,0,Snack
+532,0,Snack
+533,1,Snack
+534,1,No Activity
+535,1,Spare_Time/TV
+536,1,Spare_Time/TV
+537,0,Spare_Time/TV
+538,1,Spare_Time/TV
+539,1,Spare_Time/TV
+540,1,No Activity
+541,1,Spare_Time/TV
+542,1,Spare_Time/TV
+543,0,Grooming
+544,1,Grooming
+545,1,No Activity
+546,1,No Activity
+547,1,No Activity
+548,1,Dinner
+549,0,Dinner
+550,1,Dinner
+551,0,Grooming
+552,1,Spare_Time/TV
+553,0,Spare_Time/TV
+554,1,Spare_Time/TV
+555,1,Spare_Time/TV
+556,1,Toileting
+557,0,Toileting
+558,1,No Activity
+559,1,No Activity
+560,1,No Activity
+561,1,No Activity
+562,1,No Activity
+563,0,Spare_Time/TV
+564,1,No Activity
+565,0,Grooming
+566,1,Grooming
+567,0,Sleeping
+568,1,Sleeping
+569,1,No Activity
+570,1,Breakfast
+571,1,Breakfast
+572,0,Breakfast
+573,0,Breakfast
+574,0,Breakfast
+575,1,Breakfast
+576,1,No Activity
+577,1,No Activity
+578,0,Grooming
+579,0,Toileting
+580,0,Grooming
+581,0,Grooming
+582,0,Grooming
+583,1,No Activity
+584,1,No Activity
+585,0,Leaving
+586,0,Leaving
+587,1,Leaving
+588,0,No Activity
+589,1,No Activity
+590,1,Snack
+591,1,Snack
+592,1,No Activity
+593,1,No Activity
+594,0,Leaving
+595,0,Leaving
+596,1,No Activity
+597,1,No Activity
+598,1,No Activity
+599,1,No Activity
+600,1,Snack
+601,0,Snack
+602,0,Snack
+603,1,Snack
+604,1,No Activity
+605,1,No Activity
+606,0,Toileting
+607,1,Lunch
+608,1,Lunch
+609,1,Lunch
+610,0,Lunch
+611,0,Lunch
+612,0,Lunch
+613,1,Lunch
+614,1,Lunch
+615,1,Lunch
+616,1,Lunch
+617,1,Lunch
+618,1,Spare_Time/TV
+619,0,Spare_Time/TV
+620,1,Spare_Time/TV
+621,1,Spare_Time/TV
+622,1,No Activity
+623,1,No Activity
+624,1,No Activity
+625,0,No Activity
+626,1,Toileting
+627,1,Spare_Time/TV
+628,1,No Activity
+629,1,No Activity
+630,1,Spare_Time/TV
+631,0,Spare_Time/TV
+632,1,Spare_Time/TV
+633,1,No Activity
+634,1,Snack
+635,1,Snack
+636,1,Snack
+637,1,Spare_Time/TV
+638,0,Spare_Time/TV
+639,1,Spare_Time/TV
+640,1,Spare_Time/TV
+641,0,Spare_Time/TV
+642,1,Spare_Time/TV
+643,1,Spare_Time/TV
+644,0,Spare_Time/TV
+645,1,Spare_Time/TV
+646,1,Snack
+647,1,Snack
+648,1,Snack
+649,1,No Activity
+650,1,No Activity
+651,1,No Activity
+652,0,Toileting
+653,1,No Activity
+654,1,No Activity
+655,1,Spare_Time/TV
+656,0,Spare_Time/TV
+657,1,Spare_Time/TV
+658,1,Spare_Time/TV
+659,1,Spare_Time/TV
+660,1,Spare_Time/TV
+661,1,Dinner
+662,1,Dinner
+663,0,Dinner
+664,1,Dinner
+665,1,Dinner
+666,1,No Activity
+667,1,No Activity
+668,1,No Activity
+669,0,Grooming
+670,1,Grooming
+671,1,No Activity
+672,1,No Activity
+673,1,No Activity
+674,1,No Activity
+675,0,Spare_Time/TV
+676,1,No Activity
+677,0,No Activity
+678,0,Toileting
+679,1,Toileting
+680,0,Sleeping
+681,1,Sleeping
+682,0,Grooming
+683,1,Grooming
+684,0,Sleeping
+685,1,Sleeping
+686,0,Toileting
+687,1,Toileting
+688,1,Breakfast
+689,1,Breakfast
+690,0,Breakfast
+691,0,Breakfast
+692,0,Breakfast
+693,1,Breakfast
+694,1,No Activity
+695,1,No Activity
+696,1,Spare_Time/TV
+697,1,Spare_Time/TV
+698,1,Spare_Time/TV
+699,0,Spare_Time/TV
+700,1,Spare_Time/TV
+701,1,Breakfast
+702,0,Breakfast
+703,1,Breakfast
+704,1,Breakfast
+705,0,Breakfast
+706,1,Breakfast
+707,1,No Activity
+708,1,No Activity
+709,1,Spare_Time/TV
+710,0,Spare_Time/TV
+711,1,Spare_Time/TV
+712,1,Spare_Time/TV
+713,0,Spare_Time/TV
+714,1,Spare_Time/TV
+715,1,No Activity
+716,1,No Activity
+717,0,Grooming
+718,0,Showering
+719,0,Grooming
+720,0,Grooming
+721,1,No Activity
+722,1,No Activity
+723,0,Grooming
+724,1,Spare_Time/TV
+725,1,Spare_Time/TV
+726,1,Spare_Time/TV
+727,1,Spare_Time/TV
+728,1,Spare_Time/TV
+729,0,Spare_Time/TV
+730,1,Spare_Time/TV
+731,0,Spare_Time/TV
+732,0,Leaving
+733,1,Leaving
+734,1,Leaving
+735,1,Leaving
+736,1,No Activity
+737,1,No Activity
+738,1,No Activity
+739,0,Leaving
+740,0,Leaving
+741,0,No Activity
+742,0,No Activity
+743,1,Grooming
+744,1,No Activity
+745,1,No Activity
+746,1,No Activity
+747,0,Leaving
+748,0,Leaving
+749,1,No Activity
+750,1,No Activity
+751,1,Spare_Time/TV
+752,0,Spare_Time/TV
+753,1,Spare_Time/TV
+754,1,No Activity
+755,1,No Activity
+756,1,No Activity
+757,1,No Activity
+758,1,No Activity
+759,1,No Activity
+760,1,No Activity
+761,1,No Activity
+762,1,Spare_Time/TV
+763,0,Spare_Time/TV
+764,1,Spare_Time/TV
+765,1,Spare_Time/TV
+766,1,Spare_Time/TV
+767,1,Spare_Time/TV
+768,0,Dinner
+769,0,Dinner
+770,1,Dinner
+771,1,Dinner
+772,1,Dinner
+773,1,Dinner
+774,0,Dinner
+775,0,Dinner
+776,0,Dinner
+777,1,Dinner
+778,1,Dinner
+779,0,Spare_Time/TV
+780,1,Spare_Time/TV
+781,1,Spare_Time/TV
+782,0,Snack
+783,1,Snack
+784,1,Spare_Time/TV
+785,0,Spare_Time/TV
+786,1,Spare_Time/TV
+787,1,No Activity
+788,1,No Activity
+789,1,No Activity
+790,1,No Activity
+791,1,No Activity
+792,0,Spare_Time/TV
+793,1,No Activity
+794,0,Grooming
+795,0,No Activity
+796,0,No Activity
+797,1,Grooming
+798,0,Sleeping
+799,1,No Activity
+800,1,Sleeping
+801,0,Sleeping
+802,1,Sleeping
+803,1,Sleeping
+804,0,Spare_Time/TV
+805,1,Spare_Time/TV
+806,1,Sleeping
+807,0,Sleeping
+808,1,Sleeping
+809,0,Toileting
+810,1,Sleeping
+811,0,Sleeping
+812,1,Sleeping
+813,1,No Activity
+814,1,Breakfast
+815,1,Breakfast
+816,0,Breakfast
+817,0,Breakfast
+818,1,Breakfast
+819,1,Breakfast
+820,1,No Activity
+821,0,No Activity
+822,0,Grooming
+823,1,Grooming
+824,1,Grooming
+825,0,Grooming
+826,0,No Activity
+827,0,Grooming
+828,1,No Activity
+829,1,No Activity
+830,1,Snack
+831,1,Snack
+832,1,No Activity
+833,1,No Activity
+834,1,No Activity
+835,0,Spare_Time/TV
+836,1,No Activity
+837,1,No Activity
+838,1,No Activity
+839,0,Leaving
+840,0,Leaving
+841,1,Leaving
+842,1,No Activity
+843,1,No Activity
+844,1,No Activity
+845,1,No Activity
+846,1,No Activity
+847,1,No Activity
+848,0,Spare_Time/TV
+849,1,No Activity
+850,1,No Activity
+851,1,No Activity
+852,1,No Activity
+853,1,Lunch
+854,1,Lunch
+855,0,Lunch
+856,1,Lunch
+857,1,Lunch
+858,1,Lunch
+859,1,Lunch
+860,0,Lunch
+861,1,Lunch
+862,1,Lunch
+863,1,Lunch
+864,1,Lunch
+865,0,Lunch
+866,1,Lunch
+867,1,Lunch
+868,1,No Activity
+869,0,No Activity
+870,0,No Activity
+871,1,No Activity
+872,1,Leaving
+873,0,Leaving
+874,0,Leaving
+875,1,No Activity
+876,1,No Activity
+877,1,No Activity
+878,1,No Activity
+879,1,No Activity
+880,1,No Activity
+881,1,Snack
+882,1,Snack
+883,1,Snack
+884,1,Dinner
+885,1,Dinner
+886,0,Dinner
+887,0,Dinner
+888,1,Dinner
+889,1,No Activity
+890,1,No Activity
+891,1,No Activity
+892,1,No Activity
+893,1,No Activity
+894,1,Grooming
+895,0,No Activity
+896,0,No Activity
+897,0,Grooming
+898,1,Grooming
+899,1,No Activity
+900,1,Sleeping
+901,0,Sleeping
+902,1,Sleeping
+903,1,No Activity
+904,1,No Activity
+905,1,Breakfast
+906,0,Breakfast
+907,0,Breakfast
+908,1,Breakfast
+909,0,Showering
+910,0,Grooming
+911,0,Grooming
+912,1,No Activity
+913,1,No Activity
+914,0,Grooming
+915,1,No Activity
+916,1,Snack
+917,1,Snack
+918,0,Snack
+919,1,Snack
+920,0,Leaving
+921,0,Leaving
+922,1,No Activity
+923,1,Spare_Time/TV
+924,1,Spare_Time/TV
+925,0,Spare_Time/TV
+926,1,Spare_Time/TV
+927,1,Spare_Time/TV
+928,1,No Activity
+929,1,No Activity
+930,1,Lunch
+931,1,Lunch
+932,0,Lunch
+933,1,Lunch
+934,1,Lunch
+935,1,Lunch
+936,1,Lunch
+937,1,Lunch
+938,1,Lunch
+939,1,Lunch
+940,1,Lunch
+941,1,Lunch
+942,1,Lunch
+943,1,Lunch
+944,1,Lunch
+945,1,Lunch
+946,0,Toileting
+947,1,No Activity
+948,1,No Activity
+949,1,No Activity
+950,1,No Activity
+951,0,Leaving
+952,0,Leaving
+953,1,Leaving
+954,1,Leaving
+955,0,Toileting
+956,1,Toileting
+957,1,Snack
+958,1,Snack
+959,0,No Activity
+960,0,Snack
+961,1,Spare_Time/TV
+962,1,Spare_Time/TV
+963,0,Spare_Time/TV
+964,1,Spare_Time/TV
+965,1,Spare_Time/TV
+966,1,Spare_Time/TV
+967,1,Spare_Time/TV
+968,0,Spare_Time/TV
+969,1,Spare_Time/TV
+970,1,Spare_Time/TV
+971,1,Spare_Time/TV
+972,1,Spare_Time/TV
+973,0,Spare_Time/TV
+974,1,Spare_Time/TV
+975,1,No Activity
+976,1,No Activity
+977,0,Grooming
+978,1,No Activity
+979,1,No Activity
+980,0,No Activity
+981,0,No Activity
+982,1,No Activity
+983,1,No Activity
+984,1,No Activity
+985,1,No Activity
+986,0,Grooming
+987,0,No Activity
+988,0,No Activity
+989,1,Sleeping
+990,0,Sleeping
+991,1,Sleeping
+992,0,Toileting
+993,1,No Activity
+994,1,Breakfast
+995,1,Breakfast
+996,0,Breakfast
+997,0,Breakfast
+998,0,Breakfast
+999,1,Breakfast
+1000,1,No Activity
+1001,1,No Activity
+1002,0,No Activity
+1003,0,Grooming
+1004,0,Grooming
+1005,1,No Activity
+1006,1,No Activity
+1007,0,Grooming
+1008,1,No Activity
+1009,1,No Activity
+1010,0,Leaving
+1011,0,Leaving
+1012,1,No Activity
+1013,1,No Activity
+1014,1,No Activity
+1015,1,No Activity
+1016,1,No Activity
+1017,1,No Activity
+1018,0,Grooming
+1019,1,No Activity
+1020,1,No Activity
+1021,1,Spare_Time/TV
+1022,0,Spare_Time/TV
+1023,1,Spare_Time/TV
+1024,1,Spare_Time/TV
+1025,1,Spare_Time/TV
+1026,1,Spare_Time/TV
+1027,0,Spare_Time/TV
+1028,1,Spare_Time/TV
+1029,1,No Activity
+1030,1,No Activity
+1031,1,No Activity
+1032,1,No Activity
+1033,0,Leaving
+1034,0,Leaving
+1035,1,Leaving
+1036,1,No Activity
+1037,0,No Activity
+1038,0,Toileting
+1039,1,Toileting
+1040,1,Spare_Time/TV
+1041,1,Spare_Time/TV
+1042,1,Spare_Time/TV
+1043,1,Spare_Time/TV
+1044,0,Spare_Time/TV
+1045,1,Spare_Time/TV
+1046,1,No Activity
+1047,1,No Activity
+1048,1,No Activity
+1049,1,No Activity
+1050,1,No Activity
+1051,1,No Activity
+1052,1,Spare_Time/TV
+1053,1,Spare_Time/TV
+1054,1,Spare_Time/TV
+1055,1,Spare_Time/TV
+1056,1,Spare_Time/TV
+1057,1,Spare_Time/TV
+1058,1,Spare_Time/TV
+1059,0,Spare_Time/TV
+1060,1,Spare_Time/TV
+1061,1,Spare_Time/TV
+1062,1,Spare_Time/TV
+1063,1,Spare_Time/TV
+1064,0,Spare_Time/TV
+1065,1,Spare_Time/TV
+1066,1,Spare_Time/TV
+1067,0,Snack
+1068,1,Snack
+1069,1,Snack
+1070,1,Snack
+1071,1,Snack
+1072,0,Snack
+1073,1,Snack
+1074,1,No Activity
+1075,1,No Activity
+1076,1,No Activity
+1077,1,No Activity
+1078,1,No Activity
+1079,1,No Activity
+1080,0,Toileting
+1081,0,Grooming
+1082,1,Grooming
+1083,1,Grooming
+1084,1,No Activity
+1085,1,No Activity
+1086,1,No Activity
+1087,1,No Activity
+1088,1,No Activity
+1089,1,No Activity
+1090,0,Grooming
+1091,1,No Activity
+1092,1,No Activity
+1093,0,No Activity
+1094,0,No Activity
+1095,1,No Activity
+1096,1,No Activity
+1097,1,Spare_Time/TV
+1098,0,Spare_Time/TV
+1099,1,Spare_Time/TV
+1100,1,Sleeping
+1101,0,Sleeping
+1102,1,Sleeping
+1103,1,Sleeping
+1104,1,No Activity
+1105,1,No Activity
+1106,1,No Activity
+1107,0,Toileting
+1108,1,Breakfast
+1109,0,Breakfast
+1110,0,Breakfast
+1111,0,Breakfast
+1112,1,Breakfast
+1113,1,No Activity
+1114,1,No Activity
+1115,1,No Activity
+1116,1,No Activity
+1117,0,Showering
+1118,0,Grooming
+1119,0,Grooming
+1120,1,No Activity
+1121,1,No Activity
+1122,0,Leaving
+1123,0,Leaving
+1124,1,No Activity
+1125,1,No Activity
+1126,1,No Activity
+1127,1,No Activity
+1128,1,No Activity
+1129,1,No Activity
+1130,1,No Activity
+1131,1,No Activity
+1132,1,Spare_Time/TV
+1133,0,Spare_Time/TV
+1134,1,Spare_Time/TV
+1135,0,Leaving
+1136,0,Leaving
+1137,1,Leaving
+1138,1,No Activity
+1139,1,No Activity
+1140,1,No Activity
+1141,1,Lunch
+1142,1,Lunch
+1143,1,Lunch
+1144,0,Lunch
+1145,1,Lunch
+1146,1,Lunch
+1147,1,Lunch
+1148,1,Lunch
+1149,1,Lunch
+1150,1,Lunch
+1151,1,No Activity
+1152,1,No Activity
+1153,1,No Activity
+1154,1,No Activity
+1155,1,No Activity
+1156,1,No Activity
+1157,1,No Activity
+1158,1,No Activity
+1159,1,Snack
+1160,1,Snack
+1161,1,Snack
+1162,0,No Activity
+1163,0,No Activity
+1164,1,No Activity
+1165,1,Grooming
+1166,0,No Activity
+1167,1,Spare_Time/TV
+1168,0,Spare_Time/TV
+1169,1,Spare_Time/TV
+1170,1,Spare_Time/TV
+1171,1,Spare_Time/TV
+1172,1,Spare_Time/TV
+1173,1,Spare_Time/TV
+1174,1,Spare_Time/TV
+1175,1,Spare_Time/TV
+1176,1,Spare_Time/TV
+1177,0,Spare_Time/TV
+1178,1,Spare_Time/TV
+1179,1,Spare_Time/TV
+1180,0,Spare_Time/TV
+1181,1,Spare_Time/TV
+1182,1,Spare_Time/TV
+1183,1,No Activity
+1184,1,No Activity
+1185,1,No Activity
+1186,0,Leaving
+1187,0,Leaving
+1188,1,Dinner
+1189,0,Dinner
+1190,0,Dinner
+1191,1,Dinner
+1192,1,Dinner
+1193,1,Dinner
+1194,1,Dinner
+1195,1,No Activity
+1196,0,Grooming
+1197,0,Grooming
+1198,1,Spare_Time/TV
+1199,1,Snack
+1200,1,Snack
+1201,0,No Activity
+1202,1,Snack
+1203,1,Snack
+1204,1,Grooming
+1205,0,Grooming
+1206,1,Grooming
+1207,1,No Activity
+1208,1,No Activity
+1209,1,No Activity
+1210,1,No Activity
+1211,0,Spare_Time/TV
+1212,1,No Activity
+1213,1,No Activity
+1214,1,No Activity
+1215,0,Toileting
+1216,1,Toileting
+1217,0,Sleeping
+1218,1,Sleeping
+1219,0,Toileting
+1220,1,Breakfast
+1221,0,Breakfast
+1222,0,Breakfast
+1223,0,Breakfast
+1224,0,Breakfast
+1225,1,Breakfast
+1226,1,Breakfast
+1227,1,No Activity
+1228,1,No Activity
+1229,1,No Activity
+1230,1,Spare_Time/TV
+1231,0,Spare_Time/TV
+1232,1,Spare_Time/TV
+1233,1,No Activity
+1234,1,No Activity
+1235,1,No Activity
+1236,1,No Activity
+1237,1,No Activity
+1238,1,No Activity
+1239,1,No Activity
+1240,1,No Activity
+1241,1,No Activity
+1242,1,No Activity
+1243,1,No Activity
+1244,1,No Activity
+1245,1,No Activity
+1246,1,No Activity
+1247,1,No Activity
+1248,1,No Activity
+1249,0,Grooming
+1250,0,Grooming
+1251,0,Showering
+1252,0,Toileting
+1253,0,Grooming
+1254,1,No Activity
+1255,1,Grooming
+1256,0,Grooming
+1257,1,No Activity
+1258,1,No Activity
+1259,1,No Activity
+1260,1,No Activity
+1261,1,No Activity
+1262,1,No Activity
+1263,1,Spare_Time/TV
+1264,0,Spare_Time/TV
+1265,1,Grooming
+1266,0,Grooming
+1267,1,Grooming
+1268,1,No Activity
+1269,0,No Activity
+1270,0,Grooming
+1271,1,Toileting
+1272,1,Toileting
+1273,0,Leaving
+1274,0,Leaving
+1275,1,Leaving
+1276,1,Toileting
+1277,0,Toileting
+1278,1,Toileting
+1279,1,Snack
+1280,1,Snack
+1281,0,Snack
+1282,0,Snack
+1283,0,Snack
+1284,0,Snack
+1285,1,Snack
+1286,1,Spare_Time/TV
+1287,0,Spare_Time/TV
+1288,1,Spare_Time/TV
+1289,1,No Activity
+1290,1,No Activity
+1291,1,No Activity
+1292,1,No Activity
+1293,1,Spare_Time/TV
+1294,0,Spare_Time/TV
+1295,1,Spare_Time/TV
+1296,1,Spare_Time/TV
+1297,1,Spare_Time/TV
+1298,1,Spare_Time/TV
+1299,0,Dinner
+1300,0,Dinner
+1301,0,Dinner
+1302,1,Dinner
+1303,1,No Activity
+1304,1,No Activity
+1305,1,No Activity
+1306,1,No Activity
+1307,1,No Activity
+1308,1,No Activity
+1309,0,Grooming
+1310,1,No Activity
+1311,1,No Activity
+1312,1,Snack
+1313,0,Snack
+1314,1,Snack
+1315,1,Snack
+1316,0,Spare_Time/TV
+1317,1,No Activity
+1318,1,No Activity
+1319,1,No Activity
+1320,1,No Activity
+1321,0,No Activity
+1322,1,No Activity
+1323,0,Toileting
+1324,1,Sleeping
+1325,0,Sleeping
+1326,1,Sleeping
+1327,1,No Activity
+1328,1,No Activity
+1329,1,No Activity
+1330,1,No Activity
+1331,1,No Activity
+1332,1,No Activity
+1333,1,No Activity
+1334,1,No Activity
+1335,0,No Activity
+1336,1,Breakfast
+1337,1,Breakfast
+1338,1,Breakfast
+1339,0,Breakfast
+1340,1,Breakfast
+1341,1,No Activity
+1342,1,No Activity
+1343,1,No Activity
+1344,1,No Activity
+1345,0,Grooming
+1346,0,Grooming
+1347,1,Snack
+1348,0,Snack
+1349,1,Snack
+1350,1,Spare_Time/TV
+1351,0,Spare_Time/TV
+1352,1,Spare_Time/TV
+1353,0,No Activity
+1354,1,Snack
+1355,0,Snack
+1356,1,Snack
+1357,1,No Activity
+1358,1,No Activity
+1359,1,No Activity
+1360,1,No Activity
+1361,1,No Activity
+1362,1,No Activity
+1363,1,No Activity
+1364,1,Spare_Time/TV
+1365,1,Spare_Time/TV
+1366,1,Spare_Time/TV
+1367,1,Spare_Time/TV
+1368,1,Spare_Time/TV
+1369,1,Lunch
+1370,0,Lunch
+1371,1,Lunch
+1372,1,Lunch
+1373,1,Lunch
+1374,1,Lunch
+1375,0,Lunch
+1376,1,Lunch
+1377,1,Lunch
+1378,1,Lunch
+1379,1,No Activity
+1380,1,Spare_Time/TV
+1381,1,Spare_Time/TV
+1382,0,Spare_Time/TV
+1383,1,Spare_Time/TV
+1384,1,Spare_Time/TV
+1385,1,No Activity
+1386,1,No Activity
+1387,1,No Activity
+1388,1,No Activity
+1389,1,No Activity
+1390,0,Toileting
+1391,1,Toileting
+1392,1,No Activity
+1393,0,Leaving
+1394,0,Leaving
+1395,1,Spare_Time/TV
+1396,0,Spare_Time/TV
+1397,1,Spare_Time/TV
+1398,1,Spare_Time/TV
+1399,0,Spare_Time/TV
+1400,1,Spare_Time/TV
+1401,1,Spare_Time/TV
+1402,1,No Activity
+1403,1,No Activity
+1404,0,Spare_Time/TV
+1405,1,Grooming
+1406,0,Grooming
+1407,1,No Activity
+1408,1,No Activity
+1409,0,No Activity
+1410,0,No Activity
+1411,1,Grooming
+1412,1,No Activity
+1413,1,Sleeping
+1414,0,Sleeping
+1415,1,Sleeping
+1416,0,Toileting
+1417,1,Toileting
+1418,1,Breakfast
+1419,1,Breakfast
+1420,0,Breakfast
+1421,0,Breakfast
+1422,0,Breakfast
+1423,1,Breakfast
+1424,1,Spare_Time/TV
+1425,0,Spare_Time/TV
+1426,1,Spare_Time/TV
+1427,1,No Activity
+1428,1,No Activity
+1429,0,Grooming
+1430,0,No Activity
+1431,0,Grooming
+1432,0,Leaving
+1433,0,Leaving
+1434,1,No Activity
+1435,1,No Activity
+1436,1,Spare_Time/TV
+1437,0,Spare_Time/TV
+1438,1,Spare_Time/TV
+1439,1,No Activity
+1440,1,No Activity
+1441,1,No Activity
+1442,1,No Activity
+1443,1,No Activity
+1444,1,No Activity
+1445,1,No Activity
+1446,1,No Activity
+1447,1,No Activity
+1448,1,No Activity
+1449,1,No Activity
+1450,1,No Activity
+1451,1,No Activity
+1452,1,Spare_Time/TV
+1453,1,Spare_Time/TV
+1454,0,Spare_Time/TV
+1455,1,Spare_Time/TV
+1456,1,Lunch
+1457,0,Lunch
+1458,1,Lunch
+1459,1,Lunch
+1460,1,Lunch
+1461,1,Lunch
+1462,1,Lunch
+1463,1,Lunch
+1464,1,Spare_Time/TV
+1465,1,Spare_Time/TV
+1466,1,Spare_Time/TV
+1467,1,No Activity
+1468,1,No Activity
+1469,1,No Activity
+1470,1,No Activity
+1471,1,No Activity
+1472,1,Spare_Time/TV
+1473,1,Spare_Time/TV
+1474,0,Spare_Time/TV
+1475,1,Snack
+1476,1,Snack
+1477,0,Snack
+1478,1,Snack
+1479,1,Spare_Time/TV
+1480,0,Spare_Time/TV
+1481,1,Spare_Time/TV
+1482,1,Spare_Time/TV
+1483,0,Spare_Time/TV
+1484,1,Spare_Time/TV
+1485,1,Spare_Time/TV
+1486,1,Spare_Time/TV
+1487,1,Spare_Time/TV
+1488,1,No Activity
+1489,1,No Activity
+1490,1,No Activity
+1491,1,No Activity
+1492,1,No Activity
+1493,1,No Activity
+1494,1,Toileting
+1495,0,Toileting
+1496,1,No Activity
+1497,1,No Activity
+1498,1,No Activity
+1499,1,No Activity
+1500,1,No Activity
+1501,1,No Activity
+1502,1,No Activity
+1503,1,No Activity
+1504,0,No Activity
+1505,0,Snack
+1506,1,Snack
+1507,0,Snack
+1508,1,Snack
+1509,1,No Activity
+1510,1,Grooming
+1511,0,Grooming
+1512,1,No Activity
+1513,1,No Activity
+1514,1,Sleeping
+1515,0,Sleeping
+1516,1,Sleeping
+1517,1,Sleeping
+1518,0,Sleeping
+1519,1,Sleeping
+1520,0,Toileting
+1521,1,Toileting
+1522,1,Breakfast
+1523,1,Breakfast
+1524,0,Breakfast
+1525,0,Breakfast
+1526,0,Breakfast
+1527,1,Breakfast
+1528,1,No Activity
+1529,1,No Activity
+1530,1,No Activity
+1531,1,No Activity
+1532,1,Snack
+1533,0,Snack
+1534,1,Snack
+1535,1,Spare_Time/TV
+1536,0,Spare_Time/TV
+1537,1,Spare_Time/TV
+1538,1,Spare_Time/TV
+1539,0,Spare_Time/TV
+1540,1,Snack
+1541,0,Grooming
+1542,1,Spare_Time/TV
+1543,0,Spare_Time/TV
+1544,1,Spare_Time/TV
+1545,1,Spare_Time/TV
+1546,1,Spare_Time/TV
+1547,1,Spare_Time/TV
+1548,0,Spare_Time/TV
+1549,1,Spare_Time/TV
+1550,1,Spare_Time/TV
+1551,1,No Activity
+1552,0,No Activity
+1553,1,Lunch
+1554,0,Lunch
+1555,1,Lunch
+1556,1,Lunch
+1557,1,Lunch
+1558,1,Lunch
+1559,0,Lunch
+1560,1,Lunch
+1561,1,Lunch
+1562,1,Spare_Time/TV
+1563,1,Snack
+1564,0,Snack
+1565,1,Spare_Time/TV
+1566,1,Spare_Time/TV
+1567,0,Spare_Time/TV
+1568,1,Spare_Time/TV
+1569,1,Spare_Time/TV
+1570,0,Snack
+1571,1,Spare_Time/TV
+1572,1,Spare_Time/TV
+1573,0,Spare_Time/TV
+1574,1,Spare_Time/TV
+1575,1,No Activity
+1576,1,No Activity
+1577,1,No Activity
+1578,1,No Activity
+1579,1,No Activity
+1580,1,No Activity
+1581,1,No Activity
+1582,1,No Activity
+1583,1,No Activity
+1584,1,No Activity
+1585,0,Grooming
+1586,0,No Activity
+1587,1,No Activity
+1588,1,No Activity
+1589,1,No Activity
+1590,1,No Activity
+1591,1,No Activity
+1592,1,No Activity
+1593,0,No Activity
+1594,0,No Activity
+1595,1,No Activity
+1596,1,Snack
+1597,1,Snack
+1598,1,Snack
+1599,1,Snack
+1600,0,Snack
+1601,1,Snack
+1602,1,No Activity
+1603,1,No Activity
+1604,0,No Activity
+1605,0,Grooming
+1606,1,Grooming
+1607,1,No Activity
+1608,1,No Activity
+1609,1,Spare_Time/TV
+1610,1,Spare_Time/TV
+1611,0,Spare_Time/TV
+1612,1,Spare_Time/TV
+1613,0,Grooming
+1614,1,Grooming
+1615,0,Sleeping
+1616,1,Sleeping
+1617,0,Toileting
+1618,1,Toileting
+1619,1,No Activity
+1620,1,No Activity
+1621,1,Breakfast
+1622,1,Breakfast
+1623,0,Breakfast
+1624,1,Breakfast
+1625,1,No Activity
+1626,1,No Activity
+1627,1,No Activity
+1628,1,No Activity
+1629,1,No Activity
+1630,1,No Activity
+1631,0,Grooming
+1632,0,Grooming
+1633,1,Grooming
+1634,1,Grooming
+1635,0,Grooming
+1636,0,Grooming
+1637,1,Grooming
+1638,1,No Activity
+1639,0,Sleeping
+1640,0,Sleeping
+1641,1,No Activity
+1642,1,No Activity
+1643,1,No Activity
+1644,1,No Activity
+1645,1,No Activity
+1646,1,Snack
+1647,1,Snack
+1648,0,Snack
+1649,1,Snack
+1650,1,No Activity
+1651,1,No Activity
+1652,1,No Activity
+1653,1,Grooming
+1654,0,Grooming
+1655,1,No Activity
+1656,1,Spare_Time/TV
+1657,1,Spare_Time/TV
+1658,0,Spare_Time/TV
+1659,1,Spare_Time/TV
+1660,1,Spare_Time/TV
+1661,1,Lunch
+1662,1,Lunch
+1663,1,Lunch
+1664,0,Toileting
+1665,1,Toileting
+1666,1,Toileting
+1667,1,Toileting
+1668,1,No Activity
+1669,1,No Activity
+1670,1,No Activity
+1671,1,No Activity
+1672,1,No Activity
+1673,1,Spare_Time/TV
+1674,0,Spare_Time/TV
+1675,1,Spare_Time/TV
+1676,1,Spare_Time/TV
+1677,1,No Activity
+1678,0,Toileting
+1679,1,Toileting
+1680,1,Snack
+1681,1,Snack
+1682,1,Spare_Time/TV
+1683,1,Spare_Time/TV
+1684,0,Spare_Time/TV
+1685,1,Spare_Time/TV
+1686,1,Snack
+1687,0,Snack
+1688,1,Snack
+1689,1,No Activity
+1690,1,No Activity
+1691,1,No Activity
+1692,1,No Activity
+1693,1,Spare_Time/TV
+1694,0,Spare_Time/TV
+1695,1,Spare_Time/TV
+1696,0,Leaving
+1697,0,Leaving
+1698,0,Toileting
+1699,1,No Activity
+1700,1,No Activity
+1701,1,No Activity
+1702,1,No Activity
+1703,1,No Activity
+1704,1,No Activity
+1705,1,Spare_Time/TV
+1706,0,No Activity
+1707,1,Grooming
+1708,0,Grooming
+1709,1,Sleeping
+1710,0,Sleeping
+1711,1,Sleeping
+1712,1,Sleeping
+1713,1,Breakfast
+1714,1,Breakfast
+1715,0,Breakfast
+1716,0,Breakfast
+1717,1,Breakfast
+1718,1,No Activity
+1719,1,No Activity
+1720,0,No Activity
+1721,1,Spare_Time/TV
+1722,0,Spare_Time/TV
+1723,1,Spare_Time/TV
+1724,1,Snack
+1725,0,Snack
+1726,1,Snack
+1727,1,Snack
+1728,1,No Activity
+1729,1,No Activity
+1730,1,No Activity
+1731,0,Showering
+1732,0,Grooming
+1733,0,Grooming
+1734,1,No Activity
+1735,1,No Activity
+1736,0,Grooming
+1737,0,Toileting
+1738,1,No Activity
+1739,1,No Activity
+1740,1,No Activity
+1741,1,No Activity
+1742,1,Snack
+1743,1,Snack
+1744,1,No Activity
+1745,1,No Activity
+1746,1,No Activity
+1747,1,No Activity
+1748,1,Spare_Time/TV
+1749,0,Spare_Time/TV
+1750,1,Spare_Time/TV
+1751,1,No Activity
+1752,1,No Activity
+1753,1,No Activity
+1754,1,No Activity
+1755,1,No Activity
+1756,1,No Activity
+1757,1,No Activity
+1758,1,No Activity
+1759,1,No Activity
+1760,1,No Activity
+1761,1,Spare_Time/TV
+1762,1,Spare_Time/TV
+1763,1,Spare_Time/TV
+1764,1,Grooming
+1765,1,Grooming
+1766,1,Grooming
+1767,0,Grooming
+1768,1,No Activity
+1769,1,Leaving
+1770,0,Leaving
+1771,0,Leaving
+1772,1,Leaving
+1773,1,Leaving
+1774,1,Leaving
+1775,1,Toileting
+1776,0,No Activity
+1777,0,Toileting
+1778,1,Grooming
+1779,1,Grooming
+1780,0,No Activity
+1781,0,No Activity
+1782,1,Grooming
+1783,0,Spare_Time/TV
+1784,1,Snack
+1785,1,Snack
+1786,0,Snack
+1787,1,Snack
+1788,1,Snack
+1789,1,No Activity
+1790,1,No Activity
+1791,1,No Activity
+1792,1,No Activity
+1793,1,No Activity
+1794,1,No Activity
+1795,1,No Activity
+1796,1,Spare_Time/TV
+1797,1,Spare_Time/TV
+1798,1,Spare_Time/TV
+1799,1,Spare_Time/TV
+1800,1,Spare_Time/TV
+1801,1,No Activity
+1802,1,No Activity
+1803,1,No Activity
+1804,1,No Activity
+1805,1,No Activity
+1806,1,No Activity
+1807,1,No Activity
+1808,1,No Activity
+1809,1,Toileting
+1810,0,No Activity
+1811,1,Toileting
+1812,1,Spare_Time/TV
+1813,1,Spare_Time/TV
+1814,1,Dinner
+1815,1,Dinner
+1816,0,Dinner
+1817,0,Dinner
+1818,1,Spare_Time/TV
+1819,1,Spare_Time/TV
+1820,1,Snack
+1821,1,Snack
+1822,0,Snack
+1823,1,No Activity
+1824,1,No Activity
+1825,0,Spare_Time/TV
+1826,1,No Activity
+1827,0,No Activity
+1828,1,Spare_Time/TV
+1829,0,Spare_Time/TV
+1830,1,Spare_Time/TV
+1831,1,Sleeping
+1832,0,Sleeping
+1833,1,Sleeping
+1834,0,No Activity
+1835,0,No Activity
+1836,1,No Activity
+1837,1,No Activity
+1838,1,No Activity
+1839,1,No Activity
+1840,0,No Activity
+1841,0,Grooming
+1842,0,Toileting
+1843,1,No Activity
+1844,1,No Activity
+1845,1,Breakfast
+1846,0,Breakfast
+1847,0,Breakfast
+1848,1,Breakfast
+1849,1,No Activity
+1850,1,No Activity
+1851,1,Spare_Time/TV
+1852,0,Spare_Time/TV
+1853,1,Spare_Time/TV
+1854,1,No Activity
+1855,1,No Activity
+1856,0,Leaving
+1857,0,Leaving
+1858,0,Toileting
+1859,1,Toileting
+1860,1,No Activity
+1861,1,No Activity
+1862,1,No Activity
+1863,1,No Activity
+1864,1,No Activity
+1865,1,Spare_Time/TV
+1866,0,Spare_Time/TV
+1867,1,Spare_Time/TV
+1868,1,Spare_Time/TV
+1869,1,No Activity
+1870,1,No Activity
+1871,1,No Activity
+1872,1,Lunch
+1873,0,Lunch
+1874,0,Lunch
+1875,1,Lunch
+1876,1,Lunch
+1877,1,Lunch
+1878,1,Lunch
+1879,1,Lunch
+1880,1,No Activity
+1881,1,Snack
+1882,1,Snack
+1883,0,Snack
+1884,1,Snack
+1885,1,No Activity
+1886,1,No Activity
+1887,1,No Activity
+1888,1,No Activity
+1889,1,No Activity
+1890,1,Leaving
+1891,0,Leaving
+1892,0,Leaving
+1893,1,Leaving
+1894,1,No Activity
+1895,0,Toileting
+1896,1,Spare_Time/TV
+1897,0,Spare_Time/TV
+1898,1,Spare_Time/TV
+1899,1,Spare_Time/TV
+1900,1,No Activity
+1901,1,No Activity
+1902,1,No Activity
+1903,1,No Activity
+1904,1,Dinner
+1905,1,Dinner
+1906,1,Dinner
+1907,1,Dinner
+1908,0,Dinner
+1909,1,Dinner
+1910,1,Dinner
+1911,0,Spare_Time/TV
+1912,1,Spare_Time/TV
+1913,1,Spare_Time/TV
+1914,1,No Activity
+1915,1,No Activity
+1916,1,No Activity
+1917,1,No Activity
+1918,1,No Activity
+1919,1,No Activity
+1920,0,Spare_Time/TV
+1921,1,No Activity
+1922,1,No Activity
+1923,1,No Activity
+1924,1,No Activity
+1925,0,No Activity
+1926,1,No Activity
+1927,1,No Activity
+1928,1,No Activity
+1929,0,No Activity
+1930,1,Toileting
+1931,0,Sleeping
+1932,1,Sleeping
+1933,0,No Activity
+1934,1,Toileting
+1935,0,Sleeping
+1936,1,Sleeping
+1937,0,Toileting
+1938,1,No Activity
+1939,1,Breakfast
+1940,1,Breakfast
+1941,0,Breakfast
+1942,0,Breakfast
+1943,1,Breakfast
+1944,1,No Activity
+1945,1,No Activity
+1946,1,No Activity
+1947,1,No Activity
+1948,1,No Activity
+1949,1,No Activity
+1950,0,Showering
+1951,0,Grooming
+1952,1,No Activity
+1953,1,No Activity
+1954,0,No Activity
+1955,0,Toileting
+1956,1,No Activity
+1957,1,No Activity
+1958,0,Leaving
+1959,0,Leaving
+1960,1,Leaving
+1961,0,No Activity
+1962,1,No Activity
+1963,1,No Activity
+1964,1,No Activity
+1965,1,No Activity
+1966,1,Spare_Time/TV
+1967,1,Spare_Time/TV
+1968,0,Spare_Time/TV
+1969,1,Spare_Time/TV
+1970,1,Spare_Time/TV
+1971,1,Spare_Time/TV
+1972,1,Spare_Time/TV
+1973,0,Spare_Time/TV
+1974,1,Spare_Time/TV
+1975,0,Leaving
+1976,0,Leaving
+1977,0,Toileting
+1978,1,No Activity
+1979,1,No Activity
+1980,1,Spare_Time/TV
+1981,1,Spare_Time/TV
+1982,1,Spare_Time/TV
+1983,0,No Activity
+1984,1,Spare_Time/TV
+1985,1,No Activity
+1986,1,No Activity
+1987,1,No Activity
+1988,1,No Activity
+1989,1,No Activity
+1990,1,No Activity
+1991,1,No Activity
+1992,1,No Activity
+1993,1,No Activity
+1994,1,No Activity
+1995,0,No Activity
+1996,0,No Activity
+1997,1,No Activity
+1998,1,No Activity
+1999,1,No Activity
+2000,1,No Activity
+2001,1,No Activity
+2002,1,No Activity
+2003,0,Grooming
+2004,0,No Activity
+2005,0,Grooming
+2006,1,Grooming
+2007,0,Sleeping
+2008,1,Sleeping
+2009,0,Toileting
+2010,1,Toileting
+2011,1,Breakfast
+2012,1,Breakfast
+2013,0,Breakfast
+2014,0,Breakfast
+2015,1,Breakfast
+2016,1,No Activity
+2017,1,No Activity
+2018,1,No Activity
+2019,1,No Activity
+2020,1,No Activity
+2021,1,No Activity
+2022,1,No Activity
+2023,1,Spare_Time/TV
+2024,1,Spare_Time/TV
+2025,0,Spare_Time/TV
+2026,1,Spare_Time/TV
+2027,1,Spare_Time/TV
+2028,1,No Activity
+2029,1,No Activity
+2030,1,No Activity
+2031,0,Grooming
+2032,1,Grooming
+2033,0,Snack
+2034,1,Snack
+2035,1,Snack
+2036,1,Spare_Time/TV
+2037,1,Spare_Time/TV
+2038,0,Spare_Time/TV
+2039,1,Spare_Time/TV
+2040,1,Spare_Time/TV
+2041,1,No Activity
+2042,0,No Activity
+2043,1,Spare_Time/TV
+2044,0,Spare_Time/TV
+2045,1,Spare_Time/TV
+2046,1,Spare_Time/TV
+2047,1,No Activity
+2048,1,No Activity
+2049,1,No Activity
+2050,1,No Activity
+2051,1,No Activity
+2052,1,No Activity
+2053,1,No Activity
+2054,0,Grooming
+2055,0,Showering
+2056,0,Grooming
+2057,1,No Activity
+2058,1,No Activity
+2059,1,No Activity
+2060,1,No Activity
+2061,1,Spare_Time/TV
+2062,0,Spare_Time/TV
+2063,1,Spare_Time/TV
+2064,1,No Activity
+2065,1,No Activity
+2066,1,No Activity
+2067,1,No Activity
+2068,0,Leaving
+2069,0,Leaving
+2070,1,No Activity
+2071,1,No Activity
+2072,1,Spare_Time/TV
+2073,0,Spare_Time/TV
+2074,1,Spare_Time/TV
+2075,1,No Activity
+2076,1,No Activity
+2077,1,No Activity
+2078,1,No Activity
+2079,1,No Activity
+2080,1,No Activity
+2081,1,No Activity
+2082,1,Spare_Time/TV
+2083,1,Spare_Time/TV
+2084,1,Spare_Time/TV
+2085,1,Spare_Time/TV
+2086,1,Spare_Time/TV
+2087,1,Snack
+2088,0,Snack
+2089,1,Snack
+2090,1,Spare_Time/TV
+2091,0,Spare_Time/TV
+2092,1,Spare_Time/TV
+2093,1,No Activity
+2094,1,No Activity
+2095,1,No Activity
+2096,1,Grooming
+2097,0,Grooming
+2098,0,Toileting
+2099,0,Grooming
+2100,1,No Activity
+2101,1,No Activity
+2102,0,No Activity
+2103,0,No Activity
+2104,1,No Activity
+2105,1,No Activity
+2106,1,No Activity
+2107,1,Grooming
+2108,0,Grooming
+2109,1,No Activity
+2110,1,No Activity
+2111,0,Toileting
+2112,1,Toileting
+2113,1,Toileting
+2114,1,Toileting
+2115,0,Sleeping
+2116,1,Sleeping
+2117,0,Toileting
+2118,1,Toileting
+2119,1,No Activity
+2120,1,No Activity
+2121,1,Breakfast
+2122,1,Breakfast
+2123,0,Breakfast
+2124,0,Breakfast
+2125,1,Breakfast
+2126,1,Breakfast
+2127,1,Breakfast
+2128,1,Breakfast
+2129,0,Breakfast
+2130,1,Grooming
+2131,0,Grooming
+2132,1,No Activity
+2133,1,No Activity
+2134,0,Grooming
+2135,0,Toileting
+2136,0,Grooming
+2137,1,No Activity
+2138,1,No Activity
+2139,1,No Activity
+2140,1,No Activity
+2141,1,Spare_Time/TV
+2142,0,Spare_Time/TV
+2143,1,Spare_Time/TV
+2144,1,No Activity
+2145,1,No Activity
+2146,1,No Activity
+2147,1,No Activity
+2148,1,Spare_Time/TV
+2149,0,Spare_Time/TV
+2150,1,Spare_Time/TV
+2151,0,Leaving
+2152,0,Leaving
+2153,1,Snack
+2154,0,Snack
+2155,1,Snack
+2156,1,No Activity
+2157,1,No Activity
+2158,1,No Activity
+2159,1,No Activity
+2160,1,No Activity
+2161,1,No Activity
+2162,1,No Activity
+2163,1,Spare_Time/TV
+2164,1,Spare_Time/TV
+2165,0,Spare_Time/TV
+2166,1,Spare_Time/TV
+2167,1,Snack
+2168,0,Snack
+2169,1,Snack
+2170,1,Snack
+2171,1,No Activity
+2172,1,Spare_Time/TV
+2173,0,Spare_Time/TV
+2174,1,Spare_Time/TV
+2175,0,No Activity
+2176,0,Toileting
+2177,1,Toileting
+2178,1,Grooming
+2179,0,No Activity
+2180,0,No Activity
+2181,0,Leaving
+2182,0,Leaving
+2183,1,Leaving
+2184,0,Spare_Time/TV
+2185,1,Spare_Time/TV
+2186,0,Toileting
+2187,1,Spare_Time/TV
+2188,0,Spare_Time/TV
+2189,1,Spare_Time/TV
+2190,1,Snack
+2191,0,Snack
+2192,1,Snack
+2193,1,No Activity
+2194,1,No Activity
+2195,1,No Activity
+2196,1,No Activity
+2197,1,No Activity
+2198,1,No Activity
+2199,0,Leaving
+2200,0,Leaving
+2201,1,Dinner
+2202,0,Dinner
+2203,0,Dinner
+2204,1,Dinner
+2205,1,Dinner
+2206,1,Dinner
+2207,1,Dinner
+2208,1,Dinner
+2209,1,Spare_Time/TV
+2210,0,Spare_Time/TV
+2211,1,Spare_Time/TV
+2212,1,Spare_Time/TV
+2213,1,Spare_Time/TV
+2214,1,No Activity
+2215,1,No Activity
+2216,1,No Activity
+2217,1,No Activity
+2218,1,No Activity
+2219,1,No Activity
+2220,1,No Activity
+2221,1,No Activity
+2222,0,No Activity
+2223,1,Toileting
+2224,1,Toileting
+2225,0,No Activity
+2226,1,Grooming
+2227,1,No Activity
+2228,1,No Activity
+2229,1,No Activity
+2230,0,Grooming
+2231,1,Sleeping
+2232,0,No Activity
+2233,1,Grooming
+2234,0,No Activity
+2235,1,Sleeping
+2236,0,Sleeping
+2237,1,Sleeping
+2238,1,No Activity
+2239,1,Breakfast
+2240,1,Breakfast
+2241,0,Breakfast
+2242,0,Breakfast
+2243,0,Breakfast
+2244,1,Breakfast
+2245,1,Breakfast
+2246,1,No Activity
+2247,0,Toileting
+2248,1,Toileting
+2249,1,Toileting
+2250,1,Toileting
+2251,1,Toileting
+2252,1,No Activity
+2253,1,No Activity
+2254,0,Grooming
+2255,1,Grooming
+2256,1,Grooming
+2257,0,Grooming
+2258,1,No Activity
+2259,1,No Activity
+2260,0,Grooming
+2261,1,No Activity
+2262,1,No Activity
+2263,0,Grooming
+2264,0,Toileting
+2265,1,No Activity
+2266,1,No Activity
+2267,0,Leaving
+2268,0,Leaving
+2269,1,No Activity
+2270,1,No Activity
+2271,1,No Activity
+2272,1,No Activity
+2273,1,No Activity
+2274,1,No Activity
+2275,1,No Activity
+2276,1,No Activity
+2277,1,No Activity
+2278,0,No Activity
+2279,1,No Activity
+2280,1,No Activity
+2281,1,No Activity
+2282,1,No Activity
+2283,1,No Activity
+2284,1,Spare_Time/TV
+2285,1,Spare_Time/TV
+2286,1,Spare_Time/TV
+2287,1,No Activity
+2288,1,Spare_Time/TV
+2289,0,Spare_Time/TV
+2290,1,Spare_Time/TV
+2291,1,Spare_Time/TV
+2292,1,No Activity
+2293,1,No Activity
+2294,1,No Activity
+2295,1,No Activity
+2296,1,No Activity
+2297,1,No Activity
+2298,1,No Activity
+2299,1,No Activity
+2300,1,No Activity
+2301,1,No Activity
+2302,1,No Activity
+2303,0,No Activity
+2304,0,Grooming
+2305,1,Toileting
+2306,1,Toileting
+2307,1,Toileting
+2308,1,Toileting
+2309,1,Spare_Time/TV
+2310,0,Spare_Time/TV
+2311,1,Spare_Time/TV
+2312,1,Snack
+2313,0,Snack
+2314,1,Snack
+2315,1,No Activity
+2316,1,No Activity
+2317,1,No Activity
+2318,1,No Activity
+2319,1,No Activity
+2320,1,No Activity
+2321,1,Spare_Time/TV
+2322,0,Spare_Time/TV
+2323,1,Spare_Time/TV
+2324,1,Spare_Time/TV
+2325,0,Spare_Time/TV
+2326,1,Spare_Time/TV
+2327,0,No Activity
+2328,0,Grooming
+2329,1,Grooming
+2330,1,Grooming
+2331,1,Grooming
+2332,0,Spare_Time/TV
+2333,1,Spare_Time/TV
+2334,1,No Activity
+2335,1,No Activity
+2336,1,No Activity
+2337,1,No Activity
+2338,1,No Activity
+2339,1,No Activity
+2340,1,No Activity
+2341,1,No Activity
+2342,1,No Activity
+2343,1,No Activity
+2344,1,No Activity
+2345,1,No Activity
+2346,1,No Activity
+2347,1,No Activity
+2348,1,No Activity
+2349,1,No Activity
+2350,1,Dinner
+2351,0,Dinner
+2352,1,Dinner
+2353,1,Dinner
+2354,1,Dinner
+2355,1,Dinner
+2356,1,No Activity
+2357,1,No Activity
+2358,1,No Activity
+2359,1,No Activity
+2360,1,No Activity
+2361,1,No Activity
+2362,1,No Activity
+2363,1,No Activity
+2364,1,Spare_Time/TV
+2365,1,Spare_Time/TV
+2366,1,Spare_Time/TV
+2367,1,Spare_Time/TV
+2368,1,Spare_Time/TV
+2369,0,No Activity
+2370,1,Toileting
+2371,0,No Activity
+2372,1,Sleeping
+2373,1,Sleeping
+2374,0,Sleeping
+2375,1,Sleeping
+2376,0,Toileting
+2377,1,Toileting
+2378,1,Toileting
+2379,0,Toileting
+2380,1,Toileting
+2381,1,No Activity
+2382,1,No Activity
+2383,1,No Activity
+2384,1,No Activity
+2385,1,No Activity
+2386,1,No Activity
+2387,1,Breakfast
+2388,1,Breakfast
+2389,0,Breakfast
+2390,0,Breakfast
+2391,0,Breakfast
+2392,0,Breakfast
+2393,0,Breakfast
+2394,1,Breakfast
+2395,1,Breakfast
+2396,1,Breakfast
+2397,1,Breakfast
+2398,1,Breakfast
+2399,1,Breakfast
+2400,0,Breakfast
+2401,1,Breakfast
+2402,1,Breakfast
+2403,1,Breakfast
+2404,0,Grooming
+2405,0,Showering
+2406,0,Grooming
+2407,1,Spare_Time/TV
+2408,0,No Activity
+2409,1,Grooming
+2410,0,Grooming
+2411,1,No Activity
+2412,1,No Activity
+2413,1,No Activity
+2414,1,No Activity
+2415,1,No Activity
+2416,1,No Activity
+2417,1,No Activity
+2418,1,No Activity
+2419,0,No Activity
+2420,0,Toileting
+2421,1,Grooming
+2422,0,Spare_Time/TV
+2423,1,Spare_Time/TV
+2424,1,Spare_Time/TV
+2425,1,No Activity
+2426,1,No Activity
+2427,1,Lunch
+2428,1,Lunch
+2429,1,Lunch
+2430,1,Lunch
+2431,1,Lunch
+2432,1,Lunch
+2433,0,Lunch
+2434,0,Lunch
+2435,1,Lunch
+2436,1,Lunch
+2437,1,Lunch
+2438,1,Lunch
+2439,1,Lunch
+2440,1,Lunch
+2441,0,Spare_Time/TV
+2442,1,Snack
+2443,1,Snack
+2444,0,Snack
+2445,1,Snack
+2446,0,Toileting
+2447,1,No Activity
+2448,1,Spare_Time/TV
+2449,1,Spare_Time/TV
+2450,0,Spare_Time/TV
+2451,1,Spare_Time/TV
+2452,1,Spare_Time/TV
+2453,1,Spare_Time/TV
+2454,1,Spare_Time/TV
+2455,0,Spare_Time/TV
+2456,1,Spare_Time/TV
+2457,1,Spare_Time/TV
+2458,0,Spare_Time/TV
+2459,1,Dinner
+2460,1,Dinner
+2461,1,No Activity
+2462,1,No Activity
+2463,1,No Activity
+2464,1,No Activity
+2465,1,No Activity
+2466,1,No Activity
+2467,1,No Activity
+2468,1,No Activity
+2469,1,No Activity
+2470,1,No Activity
+2471,1,No Activity
+2472,1,No Activity
+2473,0,No Activity
+2474,1,No Activity
+2475,1,No Activity
+2476,1,No Activity
+2477,1,No Activity
+2478,1,Grooming
+2479,0,Grooming
+2480,1,No Activity
+2481,1,No Activity
+2482,0,No Activity
+2483,0,Grooming
+2484,1,No Activity
+2485,1,No Activity
+2486,1,Sleeping
+2487,0,Sleeping
+2488,1,Sleeping
+2489,0,Toileting
+2490,1,Toileting
+2491,1,Toileting
+2492,1,No Activity
+2493,1,Breakfast
+2494,1,Breakfast
+2495,1,Breakfast
+2496,1,No Activity
+2497,1,No Activity
+2498,1,No Activity
+2499,1,No Activity
+2500,1,No Activity
+2501,1,No Activity
+2502,1,No Activity
+2503,1,No Activity
+2504,1,No Activity
+2505,1,No Activity
+2506,1,No Activity
+2507,1,No Activity
+2508,1,No Activity
+2509,1,No Activity
+2510,1,No Activity
+2511,1,No Activity
+2512,0,Grooming
+2513,0,Showering
+2514,0,Grooming
+2515,1,No Activity
+2516,1,No Activity
+2517,1,No Activity
+2518,1,No Activity
+2519,0,Grooming
+2520,1,Grooming
+2521,1,No Activity
+2522,1,No Activity
+2523,1,No Activity
+2524,1,No Activity
+2525,1,No Activity
+2526,1,No Activity
+2527,1,No Activity
+2528,1,No Activity
+2529,1,Snack
+2530,1,Snack
+2531,0,Snack
+2532,1,Snack
+2533,1,No Activity
+2534,1,No Activity
+2535,1,No Activity
+2536,1,No Activity
+2537,1,No Activity
+2538,1,No Activity
+2539,0,Leaving
+2540,0,Leaving
+2541,1,No Activity
+2542,1,No Activity
+2543,0,Toileting
+2544,1,Toileting
+2545,1,Toileting
+2546,1,No Activity
+2547,1,No Activity
+2548,1,Lunch
+2549,0,No Activity
+2550,1,Lunch
+2551,1,No Activity
+2552,1,No Activity
+2553,1,No Activity
+2554,1,No Activity
+2555,1,No Activity
+2556,1,No Activity
+2557,1,No Activity
+2558,1,No Activity
+2559,1,No Activity
+2560,1,No Activity
+2561,1,No Activity
+2562,1,No Activity
+2563,1,No Activity
+2564,1,No Activity
+2565,1,No Activity
+2566,1,No Activity
+2567,1,No Activity
+2568,1,No Activity
+2569,1,No Activity
+2570,1,No Activity
+2571,1,No Activity
+2572,1,No Activity
+2573,1,No Activity
+2574,1,No Activity
+2575,1,No Activity
+2576,1,No Activity
+2577,1,No Activity
+2578,1,No Activity
+2579,1,No Activity
+2580,1,No Activity
+2581,1,Snack
+2582,0,Snack
+2583,1,Snack
+2584,1,No Activity
+2585,1,No Activity
+2586,1,No Activity
+2587,1,No Activity
+2588,1,No Activity
+2589,1,Snack
+2590,1,Snack
+2591,0,Snack
+2592,1,Snack
+2593,1,No Activity
+2594,1,No Activity
+2595,0,Toileting
+2596,1,Toileting
+2597,0,Spare_Time/TV
+2598,1,Spare_Time/TV
+2599,1,No Activity
+2600,1,No Activity
+2601,1,No Activity
+2602,1,No Activity
+2603,1,No Activity
+2604,1,No Activity
+2605,0,Grooming
+2606,1,No Activity
+2607,1,No Activity
+2608,1,No Activity
+2609,1,No Activity
+2610,1,No Activity
+2611,1,No Activity
+2612,1,No Activity
+2613,1,No Activity
+2614,1,No Activity
+2615,1,No Activity
+2616,0,No Activity
+2617,0,No Activity
+2618,1,No Activity
+2619,1,No Activity
+2620,1,No Activity
+2621,1,No Activity
+2622,0,Grooming
+2623,1,No Activity
+2624,1,No Activity
+2625,0,Toileting
+2626,1,Toileting
+2627,1,Sleeping
+2628,1,Sleeping
+2629,0,Sleeping
+2630,1,Sleeping
+2631,0,No Activity
+2632,1,Toileting
+2633,0,No Activity
+2634,1,Sleeping
+2635,0,Toileting
+2636,1,No Activity
+2637,1,No Activity
+2638,1,No Activity
+2639,1,Breakfast
+2640,1,Breakfast
+2641,0,Breakfast
+2642,1,Breakfast
+2643,1,No Activity
+2644,1,No Activity
+2645,1,No Activity
+2646,1,No Activity
+2647,1,No Activity
+2648,1,No Activity
+2649,1,No Activity
+2650,1,No Activity
+2651,1,No Activity
+2652,1,No Activity
+2653,0,Toileting
+2654,0,Grooming
+2655,1,No Activity
+2656,1,No Activity
+2657,0,Grooming
+2658,1,No Activity
+2659,1,No Activity
+2660,1,No Activity
+2661,1,No Activity
+2662,1,No Activity
+2663,1,No Activity
+2664,1,No Activity
+2665,1,No Activity
+2666,1,No Activity
+2667,1,Snack
+2668,1,Snack
+2669,0,Snack
+2670,1,Snack
+2671,1,No Activity
+2672,1,No Activity
+2673,1,No Activity
+2674,1,No Activity
+2675,0,Leaving
+2676,0,Leaving
+2677,1,No Activity
+2678,1,No Activity
+2679,1,No Activity
+2680,1,No Activity
+2681,1,No Activity
+2682,1,No Activity
+2683,1,No Activity
+2684,1,No Activity
+2685,1,No Activity
+2686,1,No Activity
+2687,1,No Activity
+2688,1,No Activity
+2689,1,No Activity
+2690,1,No Activity
+2691,1,No Activity
+2692,1,No Activity
+2693,1,No Activity
+2694,1,No Activity
+2695,1,No Activity
+2696,1,Lunch
+2697,1,Lunch
+2698,0,Lunch
+2699,1,Lunch
+2700,1,Lunch
+2701,1,Lunch
+2702,1,Lunch
+2703,0,Lunch
+2704,1,Lunch
+2705,1,No Activity
+2706,1,No Activity
+2707,1,Snack
+2708,0,Snack
+2709,1,Snack
+2710,1,No Activity
+2711,1,No Activity
+2712,1,No Activity
+2713,1,Spare_Time/TV
+2714,1,Spare_Time/TV
+2715,0,Spare_Time/TV
+2716,1,Spare_Time/TV
+2717,0,Toileting
+2718,1,Toileting
+2719,1,No Activity
+2720,1,No Activity
+2721,1,No Activity
+2722,1,No Activity
+2723,1,No Activity
+2724,0,Toileting
+2725,1,Toileting
+2726,1,No Activity
+2727,1,Spare_Time/TV
+2728,0,Spare_Time/TV
+2729,1,Spare_Time/TV
+2730,1,No Activity
+2731,1,Spare_Time/TV
+2732,1,Spare_Time/TV
+2733,1,Spare_Time/TV
+2734,1,No Activity
+2735,1,Grooming
+2736,0,Grooming
+2737,1,No Activity
+2738,1,No Activity
+2739,1,No Activity
+2740,1,No Activity
+2741,1,No Activity
+2742,0,Spare_Time/TV

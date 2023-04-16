@@ -14,7 +14,7 @@ import numpy as np # Needed for number processing and array manipulation
 import os # path creation
 
 DEBUG_MODE = True
-WRITE_DF_TO_CSV = False
+WRITE_DF_TO_CSV = True
 
 ## Converts a datetime.time object from %H%M%S format to seconds
 # Takes string form of time object and returns number of seconds
@@ -78,7 +78,7 @@ def get_encoded_df():
     ### that can be used for model training
     encoded_df = pd.DataFrame()
     # Create list of categorical attributes that need to be encoded
-    categorical_attributes = ['Location', 'Type', 'Place', 'Activity', 'Day of Week']
+    categorical_attributes = ['Location', 'Type', 'Place', 'Person', 'Day of Week']
     # For each of the categorical variables, fit an encoder and transform
     # to obtain one hot encoding
     encoder_dict = {}
@@ -105,8 +105,8 @@ def get_encoded_df():
     ## Since hour is continuous and cyclical, encode it using sine and
     ## cosine function (e.,g since hour 24 is closer to 1 than 22)
     hours_in_day = 24
-    encoded_df['cos_hour'] = np.cos(2*np.pi*model_input_df['Hour of Day']/hours_in_day)
-    encoded_df['sin_hour'] = np.sin(2*np.pi*model_input_df['Hour of Day']/hours_in_day)
+    encoded_df['cos_hour'] = np.cos(2*np.pi*model_input_df['Hour of Day'].astype(float)/hours_in_day)
+    encoded_df['sin_hour'] = np.sin(2*np.pi*model_input_df['Hour of Day'].astype(float)/hours_in_day)
 
 
     ## Convert Duration attribute as number of seconds

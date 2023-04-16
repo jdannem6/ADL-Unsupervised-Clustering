@@ -96,9 +96,9 @@ def preprocess_datasets():
     personA_df = personA_sensor_df.copy(deep=False)
     personB_df = personB_sensor_df.copy(deep=False)
 
-    ## Add new column for activity
-    personA_df['Activity'] = ''
-    personB_df['Activity'] = ''
+    # ## Add new column for activity
+    # personA_df['Activity'] = ''
+    # personB_df['Activity'] = ''
 
     ## Set Activity values based on those in ADL dataframe
     # Compare the times of the sensor readings to the times of the activities
@@ -119,7 +119,7 @@ def preprocess_datasets():
                                  personA_ADL_df.loc[ADL_df_index, "End Time"]
             if (start_day_contained and start_time_contained and \
                 end_day_contained and end_time_contained):
-                personA_df.at[new_df_index, 'Activity'] = \
+                personA_df.at[new_df_index, 'True Classification'] = \
                         personA_ADL_df.loc[ADL_df_index]['Activity']
                 # After activity of sensor reading has been found, there is no need
                 # to compare to any other activity
@@ -127,7 +127,7 @@ def preprocess_datasets():
             # Otherwise, if there is no activity to associate with the given sensor
             # reading, then assign it "No activity"
             else:
-                personA_df.at[new_df_index, 'Activity'] = 'No Activity'
+                personA_df.at[new_df_index, 'True Classification'] = 'No Activity'
 
     # Person B dataframe
     for new_df_index in range(len(personB_df.index)):
@@ -148,7 +148,7 @@ def preprocess_datasets():
                                  personB_ADL_df.loc[ADL_df_index, "End Time"]
             if (start_day_contained and start_time_contained and \
                 end_day_contained and end_time_contained):
-                personB_df.at[new_df_index, 'Activity'] = \
+                personB_df.at[new_df_index, 'True Classification'] = \
                         personB_ADL_df.loc[ADL_df_index]['Activity']
                 # After activity of sensor reading has been found, there is no need
                 # to compare to any other activity
@@ -156,7 +156,7 @@ def preprocess_datasets():
             # Otherwise, if there is no activity to associate with the given sensor
             # reading, then assign it "No activity"
             else:
-                personB_df.at[new_df_index, 'Activity'] = 'No Activity'
+                personB_df.at[new_df_index, 'True Classification'] = 'No Activity'
 
 
     ### Convert time start and time end into more meaningful attriutes
@@ -173,8 +173,8 @@ def preprocess_datasets():
 
     ## Combine the two dataframes into one
     # First add another attribute for the true label of each row
-    personA_df["True Classification"] = 'Person A'
-    personB_df["True Classification"] = 'Person B'
+    personA_df["Person"] = 'Person A'
+    personB_df["Person"] = 'Person B'
 
     combined_df = pd.concat([personA_df, personB_df], ignore_index=True)
     return combined_df
