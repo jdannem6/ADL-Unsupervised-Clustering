@@ -53,7 +53,7 @@ print('Explained variation per principal component: {}'.format(pca_model.explain
 print('Cumulative variance explained by n principal components: {:.2%}'.format(np.sum(pca_model.explained_variance_ratio_)))
 
 ## Apply K-Means
-kmeans_model = KMeans(n_clusters=2)
+kmeans_model = KMeans(n_clusters=11)
 print(pca_df)
 kmeans_model.fit(pca_df)
 
@@ -69,18 +69,19 @@ cluster_map.to_csv(cluster_map_csv_path, index=False)
 ## Calculate confusion matrix
 # index map simply maps the classification names onto an index
 # this is useful for confusion matrix calculation
-index_map = {}
-index_map["Person A"] = 0
-index_map["Person B"] = 1
-confusion_matrix = [[0, 0], [0, 0]]
+index_map = list(set(class_df['True Classification']))
+
+confusion_matrix = [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 
+                    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], 
+                    [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
 for i in range(len(cluster_map.index)):
     index_of_pred = cluster_map.loc[i, 'cluster']
     actual_class = cluster_map.loc[i, 'True Classification']
-    index_of_actual = index_map[actual_class]
+    index_of_actual = index_map.index(actual_class)
     confusion_matrix[index_of_actual][index_of_pred] +=1
 print("Confusion matrix: ")
-print(confusion_matrix[0])
-print(confusion_matrix[1])
+for i in range(len(confusion_matrix)):
+    print(confusion_matrix[i])
 
 ## Confusion matrix indicates result is not that good for person A but decent for person B
 # different results each time you run
