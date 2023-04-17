@@ -53,6 +53,57 @@ def maximize_diagonal(A):
     return new_arr, row_indices
 
 
+def test_and_display_model(model):
+    cluster_map = pd.DataFrame()
+    cluster_map['data_index'] = pca_df.index.values
+    cluster_map['cluster'] = kmeans_model.labels_
+    print(cluster_map['cluster'])
+
+    cluster_map["True Classification"] = class_df['True Classification']
+
+    cluster_map_csv_path = os.getcwd() + "/Processed_Dataframes/kmeans_result.csv"
+    cluster_map.to_csv(cluster_map_csv_path, index=False)
+    ## Calculate confusion matrix
+    # index map simply maps the classification names onto an index
+    # this is useful for confusion matrix calculation
+    index_map = list(set(class_df['True Classification']))
+
+    confusion_matrix = np.zeros((11,11))
+    for i in range(len(cluster_map.index)):
+        index_of_pred = cluster_map.loc[i, 'cluster']
+        actual_class = cluster_map.loc[i, 'True Classification']
+        index_of_actual = index_map.index(actual_class)
+        confusion_matrix[index_of_actual][index_of_pred] +=1
+
+        
+    print("Confusion Matrix:")
+    # Prints the optimized confusion matrix
+    # found by rearranging rows to map 
+    # clusters to the appropriate classes
+    print(maximize_diagonal(confusion_matrix)[0])
+        
+
+    # Create and train a t-SNE model to decrease the dimensionality from 35 to 3
+    tsne = TSNE(n_components=3, random_state=0)
+    proj_3d = tsne.fit_transform(norm_encoded_df)
+
+    # Display the flattened data on a 3D scatterplot with colors representing clusters
+    fig = px.scatter_3d(
+        proj_3d, x=0, y=1, z=2,
+        color=kmeans_model.labels_
+    )
+
+    fig.update_traces(marker_size=4)
+    fig.show()
+
+    # Create and train another t-SNE model, but this time map to 2D
+    tsne = TSNE(n_components=2, random_state=0)
+    proj_2d = tsne.fit_transform(norm_encoded_df)
+
+    # Show a 2D scatter plot of the clustered data
+    plt.scatter(proj_2d[:, 0], proj_2d[:, 1], c=kmeans_model.labels_)
+    plt.show()
+
 
 if __name__ == "__main__":
     # Load the encoded dataframe
@@ -96,55 +147,7 @@ kmeans_model = KMeans(n_clusters=11)
 print(pca_df)
 kmeans_model.fit(pca_df)
 
-cluster_map = pd.DataFrame()
-cluster_map['data_index'] = pca_df.index.values
-cluster_map['cluster'] = kmeans_model.labels_
-print(cluster_map['cluster'])
-
-cluster_map["True Classification"] = class_df['True Classification']
-
-cluster_map_csv_path = os.getcwd() + "/Processed_Dataframes/kmeans_result.csv"
-cluster_map.to_csv(cluster_map_csv_path, index=False)
-## Calculate confusion matrix
-# index map simply maps the classification names onto an index
-# this is useful for confusion matrix calculation
-index_map = list(set(class_df['True Classification']))
-
-confusion_matrix = np.zeros((11,11))
-for i in range(len(cluster_map.index)):
-    index_of_pred = cluster_map.loc[i, 'cluster']
-    actual_class = cluster_map.loc[i, 'True Classification']
-    index_of_actual = index_map.index(actual_class)
-    confusion_matrix[index_of_actual][index_of_pred] +=1
-
-    
-print("Confusion Matrix:")
-# Prints the optimized confusion matrix
-# found by rearranging rows to map 
-# clusters to the appropriate classes
-print(maximize_diagonal(confusion_matrix)[0])
-    
-
-# Create and train a t-SNE model to decrease the dimensionality from 35 to 3
-tsne = TSNE(n_components=3, random_state=0)
-proj_3d = tsne.fit_transform(norm_encoded_df)
-
-# Display the flattened data on a 3D scatterplot with colors representing clusters
-fig = px.scatter_3d(
-    proj_3d, x=0, y=1, z=2,
-    color=kmeans_model.labels_
-)
-
-fig.update_traces(marker_size=4)
-fig.show()
-
-# Create and train another t-SNE model, but this time map to 2D
-tsne = TSNE(n_components=2, random_state=0)
-proj_2d = tsne.fit_transform(norm_encoded_df)
-
-# Show a 2D scatter plot of the clustered data
-plt.scatter(proj_2d[0], proj_2d[1], c=kmeans_model.labels_)
-plt.show()
+test_and_display_model(kmeans_model)
 
 ## Confusion matrix indicates result is not that good for person A but decent for person B
 # different results each time you run
