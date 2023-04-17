@@ -16,6 +16,44 @@ from sklearn.cluster import KMeans
 from sklearn.manifold import TSNE
 import plotly.express as px
 import os
+
+## Given a matrix A, rearranges its rows to maximize the sum of its diagonal elements.
+#  Returns the rearranged matrix.
+def maximize_diagonal(A):
+    # Find the number of elements in each row of A
+    # and use that number to make an array of row indices
+    # that will be used to swap rows around
+    n = A.shape[0]
+    row_indices = np.arange(n)
+    max_sum = 0
+
+    # For each row in the array try to switch positions
+    # to calculate the sum of the diagonal in every configuration
+    for i in range(n):
+        for j in range(i+1, n):
+            new_row_indices = np.copy(row_indices)
+
+            # Swap indices
+            new_row_indices[i], new_row_indices[j] = new_row_indices[j], new_row_indices[i]
+            new_sum = 0
+
+            # Calculate the sum of the diagonal with the swap
+            for x in range(n):
+                new_sum += A[new_row_indices[x]][x]
+
+            # Track the largest sum and update the row indices
+            if new_sum > max_sum:
+                max_sum = new_sum
+                row_indices = new_row_indices
+
+    # Put the array in the order of the maximum diagonal sum and return it
+    new_arr = np.zeros(A.shape)
+    for n, x in enumerate(row_indices):
+        new_arr[n] = A[x]
+    return new_arr, row_indices
+
+
+
 if __name__ == "__main__":
     # Load the encoded dataframe
     encoded_df, input_df, class_df = get_encoded_df()
@@ -78,44 +116,20 @@ for i in range(len(cluster_map.index)):
     actual_class = cluster_map.loc[i, 'True Classification']
     index_of_actual = index_map.index(actual_class)
     confusion_matrix[index_of_actual][index_of_pred] +=1
-print("Confusion matrix: ")
-print(confusion_matrix)
 
-def maximize_diagonal(A):
-    """
-    Given a matrix A, rearranges its rows to maximize the sum of its diagonal elements.
-    Returns the rearranged matrix.
-    """
-    n = A.shape[0]
-    row_indices = np.arange(n)
-    diag_indices = np.arange(n)
-    max_sum = 0
-    for i in range(n):
-        for j in range(i+1, n):
-            new_row_indices = np.copy(row_indices)
-            new_row_indices[i], new_row_indices[j] = new_row_indices[j], new_row_indices[i]
-            new_sum = 0
-            for x in range(n):
-                new_sum += A[new_row_indices[x]][x]
-            if new_sum > max_sum:
-                max_sum = new_sum
-                row_indices = new_row_indices
-    new_arr = np.zeros(A.shape)
-    for n, x in enumerate(row_indices):
-        new_arr[n] = A[x]
-    return new_arr, row_indices
     
-
+print("Confusion Matrix:")
+# Prints the optimized confusion matrix
+# found by rearranging rows to map 
+# clusters to the appropriate classes
 print(maximize_diagonal(confusion_matrix)[0])
     
 
-
-
-
+# Create and train a t-SNE model to decrease the dimensionality from 35 to 3
 tsne = TSNE(n_components=3, random_state=0)
-
 proj_3d = tsne.fit_transform(norm_encoded_df)
 
+# Display the flattened data on a 3D scatterplot with colors representing clusters
 fig = px.scatter_3d(
     proj_3d, x=0, y=1, z=2,
     color=kmeans_model.labels_
@@ -124,6 +138,13 @@ fig = px.scatter_3d(
 fig.update_traces(marker_size=4)
 fig.show()
 
+# Create and train another t-SNE model, but this time map to 2D
+tsne = TSNE(n_components=2, random_state=0)
+proj_2d = tsne.fit_transform(norm_encoded_df)
+
+# Show a 2D scatter plot of the clustered data
+plt.scatter(proj_2d[0], proj_2d[1], c=kmeans_model.labels_)
+plt.show()
 
 ## Confusion matrix indicates result is not that good for person A but decent for person B
 # different results each time you run
