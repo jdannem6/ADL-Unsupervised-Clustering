@@ -12,7 +12,8 @@ from sklearn.decomposition import PCA # Needed for performing PCA on encoded df
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-from sklearn.cluster import KMeans
+from sklearn.cluster import KMeans, MeanShift
+from sklearn.mixture import GaussianMixture
 from sklearn.manifold import TSNE
 import plotly.express as px
 import os
@@ -50,13 +51,13 @@ def maximize_diagonal(A):
     new_arr = np.zeros(A.shape)
     for n, x in enumerate(row_indices):
         new_arr[n] = A[x]
-    return new_arr, row_indices
+    return new_arr, max_sum
 
 
-def test_and_display_model(model):
+def test_and_display_model(labels):
     cluster_map = pd.DataFrame()
     cluster_map['data_index'] = pca_df.index.values
-    cluster_map['cluster'] = kmeans_model.labels_
+    cluster_map['cluster'] = labels
     print(cluster_map['cluster'])
 
     cluster_map["True Classification"] = class_df['True Classification']
@@ -80,7 +81,9 @@ def test_and_display_model(model):
     # Prints the optimized confusion matrix
     # found by rearranging rows to map 
     # clusters to the appropriate classes
-    print(maximize_diagonal(confusion_matrix)[0])
+    results = maximize_diagonal(confusion_matrix)
+    print(results[0])
+    print("Accuracy:", results[1]/2743)
         
 
     # Create and train a t-SNE model to decrease the dimensionality from 35 to 3
@@ -90,7 +93,7 @@ def test_and_display_model(model):
     # Display the flattened data on a 3D scatterplot with colors representing clusters
     fig = px.scatter_3d(
         proj_3d, x=0, y=1, z=2,
-        color=kmeans_model.labels_
+        color=labels
     )
 
     fig.update_traces(marker_size=4)
@@ -101,7 +104,7 @@ def test_and_display_model(model):
     proj_2d = tsne.fit_transform(norm_encoded_df)
 
     # Show a 2D scatter plot of the clustered data
-    plt.scatter(proj_2d[:, 0], proj_2d[:, 1], c=kmeans_model.labels_)
+    plt.scatter(proj_2d[:, 0], proj_2d[:, 1], c=labels)
     plt.show()
 
 
@@ -143,11 +146,24 @@ print('Explained variation per principal component: {}'.format(pca_model.explain
 print('Cumulative variance explained by n principal components: {:.2%}'.format(np.sum(pca_model.explained_variance_ratio_)))
 
 ## Apply K-Means
-kmeans_model = KMeans(n_clusters=11)
-print(pca_df)
+kmeans_model = KMeans(n_clusters=11, n_init='auto', init='k-means++', random_state=1234, max_iter=300, algorithm='elkan') #Added the following hyper-parameters: init, n_init random_state, max_iter, algothm
+                                                                                                                          # n_init determines the number of times the algorithm will run of the different cluster centroid points initiate
+                                                                                                                          #random_state set to 1234 helps us reproduce the same results while running the model on different occasions. This is for reproducability purposes.
+                                                                                                                          #max_iter set to 1000 means that the model will run for 600 iterations in a single run. Default value is 300.
+                                                                                                                          #the algorithm elkan has many advantages including its fast speed of convergence.
 kmeans_model.fit(pca_df)
+test_and_display_model(kmeans_model.labels_)
 
-test_and_display_model(kmeans_model)
+#Applying the Gaussian Mixture Model.
+gmm_model = GaussianMixture(n_components=11, random_state=42).fit(pca_df) # n_components set to 11 means that there are 11 distributions making up our model which can be 
+                                                                                # indirectly translated as the elements we are trying to cluster. This is not necesarrily true in all cases.
+                                                                                #warm start set to True enables reuse of the learned model from previous training instances.
+test_and_display_model(gmm_model.predict(pca_df))
 
-## Confusion matrix indicates result is not that good for person A but decent for person B
-# different results each time you run
+
+##Applying MeanShift Algorithm
+meanshift_model = MeanShift(bandwidth=6, cluster_all=True, bin_seeding=True, max_iter=1000).fit(pca_df) #the bandwith value determines the number of clusters that will be identifies. 
+                                                                       #Its is not direct like in KMeans. A bandwidth value results in large number of clusters being identified
+                                                                       #The inverse is also true, a smaller bandwith value results in a larger number of clusters identified.
+                                                                       #bin seeding set to true speeds up convergence because the model doesnt strive to initialize many seeds
+test_and_display_model(meanshift_model.labels_)
