@@ -21,7 +21,6 @@ WRITE_DF_TO_CSV = True
 def convert_time_to_secs(time_str):
     # Split the string using ":" as delimiter (assumes time is delimited 
     # with colons
-    print("Time Time")
     return time_str.total_seconds()
 
     # time_components = time_str.split(":")
