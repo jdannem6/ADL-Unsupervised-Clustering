@@ -53,7 +53,9 @@ def maximize_diagonal(A):
         new_arr[n] = A[x]
     return new_arr, max_sum
 
-
+# Given a set of labels for the pca_df dataframe,
+# generates the confusion matrix as well as
+# a 2d and 3d projection of the clusters
 def test_and_display_model(labels):
     cluster_map = pd.DataFrame()
     cluster_map['data_index'] = pca_df.index.values
@@ -69,7 +71,7 @@ def test_and_display_model(labels):
     # this is useful for confusion matrix calculation
     index_map = list(set(class_df['True Classification']))
 
-    confusion_matrix = np.zeros((11,11))
+    confusion_matrix = np.zeros((10,10))
     for i in range(len(cluster_map.index)):
         index_of_pred = cluster_map.loc[i, 'cluster']
         actual_class = cluster_map.loc[i, 'True Classification']
@@ -79,11 +81,12 @@ def test_and_display_model(labels):
         
     print("Confusion Matrix:")
     # Prints the optimized confusion matrix
-    # found by rearranging rows to map 
+    # found by rearranging confusion matrix to map 
     # clusters to the appropriate classes
     results = maximize_diagonal(confusion_matrix)
     print(results[0])
-    print("Accuracy:", results[1]/2743)
+    print(len(pca_df))
+    print("Accuracy:", results[1]/len(pca_df))
         
 
     # Create and train a t-SNE model to decrease the dimensionality from 35 to 3
@@ -146,7 +149,7 @@ print('Explained variation per principal component: {}'.format(pca_model.explain
 print('Cumulative variance explained by n principal components: {:.2%}'.format(np.sum(pca_model.explained_variance_ratio_)))
 
 ## Apply K-Means
-kmeans_model = KMeans(n_clusters=11, n_init='auto', init='k-means++', random_state=1234, max_iter=300, algorithm='elkan') #Added the following hyper-parameters: init, n_init random_state, max_iter, algothm
+kmeans_model = KMeans(n_clusters=10, n_init='auto', init='k-means++', random_state=1234, max_iter=300, algorithm='elkan') #Added the following hyper-parameters: init, n_init random_state, max_iter, algothm
                                                                                                                           # n_init determines the number of times the algorithm will run of the different cluster centroid points initiate
                                                                                                                           #random_state set to 1234 helps us reproduce the same results while running the model on different occasions. This is for reproducability purposes.
                                                                                                                           #max_iter set to 1000 means that the model will run for 600 iterations in a single run. Default value is 300.
@@ -155,7 +158,7 @@ kmeans_model.fit(pca_df)
 test_and_display_model(kmeans_model.labels_)
 
 #Applying the Gaussian Mixture Model.
-gmm_model = GaussianMixture(n_components=11, random_state=42).fit(pca_df) # n_components set to 11 means that there are 11 distributions making up our model which can be 
+gmm_model = GaussianMixture(n_components=10, random_state=42).fit(pca_df) # n_components set to 10 means that there are 10 distributions making up our model which can be 
                                                                                 # indirectly translated as the elements we are trying to cluster. This is not necesarrily true in all cases.
                                                                                 #warm start set to True enables reuse of the learned model from previous training instances.
 test_and_display_model(gmm_model.predict(pca_df))

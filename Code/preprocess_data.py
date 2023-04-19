@@ -129,6 +129,16 @@ def preprocess_datasets():
             else:
                 personA_df.at[new_df_index, 'True Classification'] = 'No Activity'
 
+    ten_class_personA_df = pd.DataFrame()
+    print(ten_class_personA_df.head())
+    for x in personA_df.iloc:
+        if x['True Classification'] == 'No Activity':
+            continue
+        ten_class_personA_df = pd.concat([ten_class_personA_df, x], ignore_index=True, axis=1)
+
+    personA_df = ten_class_personA_df.transpose()
+    print(personA_df)
+
     # Person B dataframe
     for new_df_index in range(len(personB_df.index)):
         # # Set activity to "No Activity" as default for cases in which activity can not
@@ -158,6 +168,16 @@ def preprocess_datasets():
             else:
                 personB_df.at[new_df_index, 'True Classification'] = 'No Activity'
 
+    ten_class_personB_df = pd.DataFrame()
+    print(ten_class_personB_df.head())
+    for x in personB_df.iloc:
+        if x['True Classification'] == 'No Activity':
+            continue
+        ten_class_personB_df = pd.concat([ten_class_personB_df, x], ignore_index=True, axis=1)
+
+
+    personB_df = ten_class_personB_df.transpose()
+    print(personB_df)
 
     ### Convert time start and time end into more meaningful attriutes
     ## Create new attributes: activity duration, day of week, and hour of day
