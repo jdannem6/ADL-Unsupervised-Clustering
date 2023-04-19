@@ -13,7 +13,7 @@ from sklearn.preprocessing import OneHotEncoder # Needed for encoding categorica
 import numpy as np # Needed for number processing and array manipulation
 import os # path creation
 
-DEBUG_MODE = True
+DEBUG_MODE = False
 WRITE_DF_TO_CSV = True
 
 ## Converts a datetime.time object from %H%M%S format to seconds
@@ -21,13 +21,16 @@ WRITE_DF_TO_CSV = True
 def convert_time_to_secs(time_str):
     # Split the string using ":" as delimiter (assumes time is delimited 
     # with colons
-    time_components = time_str.split(":")
-    hours = int(time_components[0])
-    minutes = int(time_components[1])
-    seconds = int(time_components[2])
+    print("Time Time")
+    return time_str.total_seconds()
 
-    total_seconds = 3600*hours + 60*minutes + seconds
-    return total_seconds
+    # time_components = time_str.split(":")
+    # hours = int(time_components[0])
+    # minutes = int(time_components[1])
+    # seconds = int(time_components[2])
+
+    # total_seconds = 3600*hours + 60*minutes + seconds
+    # return total_seconds
 
 # Main function of this program, takes the preprocessed dataframe
 # creates an encoded dataframe from them
