@@ -71,7 +71,7 @@ def test_and_display_model(labels):
     # this is useful for confusion matrix calculation
     index_map = list(set(class_df['True Classification']))
 
-    confusion_matrix = np.zeros((10,10))
+    confusion_matrix = np.zeros((11,11))
     for i in range(len(cluster_map.index)):
         index_of_pred = cluster_map.loc[i, 'cluster']
         actual_class = cluster_map.loc[i, 'True Classification']
@@ -120,8 +120,6 @@ if __name__ == "__main__":
     ## smaller, more meaningful set of features
     # First, normalize the data to ensure variance is distributed well
     # across features
-
-    ## Consider using StandardScalar instead of this method of normalization
     desired_feature_count = 24
     norm_encoded_df = (encoded_df - encoded_df.mean())/encoded_df.std()
     print(norm_encoded_df)
@@ -134,39 +132,34 @@ if __name__ == "__main__":
     pca_df = pd.DataFrame(pca_model.transform(norm_encoded_df), 
                           columns=['Feature %s' % i 
                                    for i in range(desired_feature_count)])
-    
-    # plt.plt(pca_model.explained_variance_ratio_)
-    # plt.ylabel('Explained Variance')
-    # plt.xlabel('Components')
-    # plt.show()
 
 
-pca_result = pca_model.fit_transform(norm_encoded_df)
-print('Explained variation per principal component: {}'.format(pca_model.explained_variance_ratio_))
+    # fit pca model to normalized encoded dataframe and apply pca it get pca
+    # component results
+    pca_result = pca_model.fit_transform(norm_encoded_df)
 
-# >> Explained variation per principal component: [0.36198848 0.1920749 ]
+    ## Apply K-Means with same number of clusters as total number of activities
+    # Added the following hyper-parameters: init, n_init random_state, max_iter, algothm
+    # n_init determines the number of times the algorithm will run of the different cluster centroid points initiate
+    #random_state set to 1234 helps us reproduce the same results while running the model on different occasions. 
+    # This is for reproducability purposes. max_iter set to 1000 means that the model will run for 600 iterations in a 
+    # single run. Default value is 300. the algorithm elkan has many advantages including its fast speed of convergence.
+    kmeans_model = KMeans(n_clusters=11, n_init='auto', init='k-means++', random_state=1234, max_iter=300, algorithm='elkan') 
+    kmeans_model.fit(pca_df)
+    test_and_display_model(kmeans_model.labels_)
 
-print('Cumulative variance explained by n principal components: {:.2%}'.format(np.sum(pca_model.explained_variance_ratio_)))
-
-## Apply K-Means
-kmeans_model = KMeans(n_clusters=10, n_init='auto', init='k-means++', random_state=1234, max_iter=300, algorithm='elkan') #Added the following hyper-parameters: init, n_init random_state, max_iter, algothm
-                                                                                                                          # n_init determines the number of times the algorithm will run of the different cluster centroid points initiate
-                                                                                                                          #random_state set to 1234 helps us reproduce the same results while running the model on different occasions. This is for reproducability purposes.
-                                                                                                                          #max_iter set to 1000 means that the model will run for 600 iterations in a single run. Default value is 300.
-                                                                                                                          #the algorithm elkan has many advantages including its fast speed of convergence.
-kmeans_model.fit(pca_df)
-test_and_display_model(kmeans_model.labels_)
-
-#Applying the Gaussian Mixture Model.
-gmm_model = GaussianMixture(n_components=10, random_state=42).fit(pca_df) # n_components set to 10 means that there are 10 distributions making up our model which can be 
-                                                                                # indirectly translated as the elements we are trying to cluster. This is not necesarrily true in all cases.
-                                                                                #warm start set to True enables reuse of the learned model from previous training instances.
-test_and_display_model(gmm_model.predict(pca_df))
+    ## Applying the Gaussian Mixture Model.
+    # n_components set to 10 means that there are 10 distributions making up our model which can be 
+    # indirectly translated as the elements we are trying to cluster. This is not necesarrily true in all cases.
+    #warm start set to True enables reuse of the learned model from previous training instances.
+    gmm_model = GaussianMixture(n_components=11, random_state=42).fit(pca_df) 
+    test_and_display_model(gmm_model.predict(pca_df))
 
 
-##Applying MeanShift Algorithm
-meanshift_model = MeanShift(bandwidth=6, cluster_all=True, bin_seeding=True, max_iter=1000).fit(pca_df) #the bandwith value determines the number of clusters that will be identifies. 
-                                                                       #Its is not direct like in KMeans. A bandwidth value results in large number of clusters being identified
-                                                                       #The inverse is also true, a smaller bandwith value results in a larger number of clusters identified.
-                                                                       #bin seeding set to true speeds up convergence because the model doesnt strive to initialize many seeds
-test_and_display_model(meanshift_model.labels_)
+    ## Applying MeanShift Algorithm
+    #the bandwith value determines the number of clusters that will be identifies. 
+    #Its is not direct like in KMeans. A bandwidth value results in large number of clusters being identified
+    #The inverse is also true, a smaller bandwith value results in a larger number of clusters identified.
+    #bin seeding set to true speeds up convergence because the model doesnt strive to initialize many seeds
+    meanshift_model = MeanShift(bandwidth=6, cluster_all=True, bin_seeding=True, max_iter=1000).fit(pca_df) 
+    test_and_display_model(meanshift_model.labels_)

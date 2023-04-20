@@ -129,15 +129,17 @@ def preprocess_datasets():
             else:
                 personA_df.at[new_df_index, 'True Classification'] = 'No Activity'
 
-    ten_class_personA_df = pd.DataFrame()
-    print(ten_class_personA_df.head())
-    for x in personA_df.iloc:
-        if x['True Classification'] == 'No Activity':
-            continue
-        ten_class_personA_df = pd.concat([ten_class_personA_df, x], ignore_index=True, axis=1)
+    ## The commented portion below was used to remove records having "No Activity" as
+    ## their classification. This code change resulted in a decrease in accuracy
+    # ten_class_personA_df = pd.DataFrame()
+    # print(ten_class_personA_df.head())
+    # for x in personA_df.iloc:
+    #     if x['True Classification'] == 'No Activity':
+    #         continue
+    #     ten_class_personA_df = pd.concat([ten_class_personA_df, x], ignore_index=True, axis=1)
 
-    personA_df = ten_class_personA_df.transpose()
-    print(personA_df)
+    # personA_df = ten_class_personA_df.transpose()
+    # print(personA_df)
 
     # Person B dataframe
     for new_df_index in range(len(personB_df.index)):
@@ -167,17 +169,19 @@ def preprocess_datasets():
             # reading, then assign it "No activity"
             else:
                 personB_df.at[new_df_index, 'True Classification'] = 'No Activity'
+                
+    ## The commented portion below was used to remove records having "No Activity" as
+    ## their classification. This code change resulted in a decrease in accuracy
+    # ten_class_personB_df = pd.DataFrame()
+    # print(ten_class_personB_df.head())
+    # for x in personB_df.iloc:
+    #     if x['True Classification'] == 'No Activity':
+    #         continue
+    #     ten_class_personB_df = pd.concat([ten_class_personB_df, x], ignore_index=True, axis=1)
 
-    ten_class_personB_df = pd.DataFrame()
-    print(ten_class_personB_df.head())
-    for x in personB_df.iloc:
-        if x['True Classification'] == 'No Activity':
-            continue
-        ten_class_personB_df = pd.concat([ten_class_personB_df, x], ignore_index=True, axis=1)
 
-
-    personB_df = ten_class_personB_df.transpose()
-    print(personB_df)
+    # personB_df = ten_class_personB_df.transpose()
+    # print(personB_df)
 
     ### Convert time start and time end into more meaningful attriutes
     ## Create new attributes: activity duration, day of week, and hour of day

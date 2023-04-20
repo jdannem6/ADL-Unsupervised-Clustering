@@ -12,1696 +12,2733 @@ data_index,cluster,True Classification
 10,0,Breakfast
 11,3,Breakfast
 12,0,Grooming
-13,0,Spare_Time/TV
+13,1,Spare_Time/TV
 14,0,Toileting
 15,2,Toileting
-16,1,Leaving
-17,1,Leaving
-18,0,Spare_Time/TV
-19,2,Toileting
-20,0,Lunch
+16,0,Leaving
+17,0,Leaving
+18,0,No Activity
+19,1,Spare_Time/TV
+20,2,Toileting
 21,0,Lunch
 22,0,Lunch
 23,0,Lunch
 24,0,Lunch
-25,0,Grooming
-26,0,Spare_Time/TV
-27,0,Spare_Time/TV
+25,0,Lunch
+26,0,Grooming
+27,1,Spare_Time/TV
 28,0,Spare_Time/TV
-29,0,Snack
-30,0,Grooming
-31,0,Grooming
-32,0,Grooming
-33,0,Showering
-34,0,Breakfast
-35,3,Breakfast
-36,0,Breakfast
-37,3,Breakfast
-38,0,Grooming
-39,0,Grooming
-40,2,Grooming
-41,0,Snack
-42,0,Spare_Time/TV
-43,2,Toileting
-44,0,Toileting
-45,0,Lunch
-46,0,Lunch
-47,3,Lunch
-48,0,Lunch
-49,0,Lunch
+29,1,Spare_Time/TV
+30,0,Snack
+31,1,No Activity
+32,4,No Activity
+33,2,No Activity
+34,0,Grooming
+35,0,Grooming
+36,0,Grooming
+37,0,Showering
+38,0,Breakfast
+39,3,Breakfast
+40,0,Breakfast
+41,3,Breakfast
+42,0,Grooming
+43,0,Grooming
+44,2,Grooming
+45,1,No Activity
+46,0,Snack
+47,1,Spare_Time/TV
+48,2,Toileting
+49,0,Toileting
 50,0,Lunch
 51,0,Lunch
-52,0,Grooming
-53,0,Spare_Time/TV
-54,2,Toileting
-55,0,Spare_Time/TV
-56,0,Toileting
-57,2,Toileting
-58,1,Leaving
-59,1,Leaving
-60,0,Spare_Time/TV
-61,4,Sleeping
-62,0,Showering
-63,0,Breakfast
-64,0,Breakfast
-65,3,Breakfast
-66,3,Breakfast
-67,0,Grooming
-68,0,Grooming
-69,0,Snack
-70,0,Spare_Time/TV
-71,2,Toileting
-72,0,Toileting
-73,0,Spare_Time/TV
-74,0,Lunch
-75,0,Lunch
-76,0,Lunch
-77,0,Lunch
-78,0,Lunch
-79,0,Spare_Time/TV
-80,0,Toileting
-81,0,Snack
-82,0,Spare_Time/TV
-83,0,Toileting
-84,0,Spare_Time/TV
-85,2,Toileting
-86,0,Spare_Time/TV
-87,2,Toileting
-88,0,Toileting
-89,1,Leaving
-90,1,Leaving
-91,0,Grooming
-92,0,Spare_Time/TV
-93,4,Sleeping
-94,2,Grooming
-95,0,Grooming
-96,0,Grooming
-97,0,Showering
-98,3,Breakfast
-99,0,Breakfast
-100,0,Breakfast
-101,3,Breakfast
-102,0,Spare_Time/TV
-103,0,Spare_Time/TV
-104,0,Lunch
-105,3,Lunch
-106,0,Lunch
-107,0,Lunch
-108,0,Spare_Time/TV
-109,2,Toileting
-110,1,Leaving
-111,1,Leaving
-112,0,Spare_Time/TV
-113,0,Grooming
-114,0,Spare_Time/TV
-115,0,Grooming
+52,3,Lunch
+53,0,Lunch
+54,0,Lunch
+55,0,Lunch
+56,0,Lunch
+57,0,Grooming
+58,1,Spare_Time/TV
+59,2,Toileting
+60,0,No Activity
+61,1,Spare_Time/TV
+62,0,Toileting
+63,2,Toileting
+64,1,No Activity
+65,0,Leaving
+66,0,Leaving
+67,1,Spare_Time/TV
+68,4,Sleeping
+69,2,No Activity
+70,0,Showering
+71,0,Breakfast
+72,0,Breakfast
+73,3,Breakfast
+74,3,Breakfast
+75,0,Grooming
+76,0,Grooming
+77,1,No Activity
+78,0,Snack
+79,1,Spare_Time/TV
+80,2,Toileting
+81,0,Toileting
+82,1,Spare_Time/TV
+83,0,Lunch
+84,0,Lunch
+85,0,Lunch
+86,0,Lunch
+87,0,Lunch
+88,1,Spare_Time/TV
+89,2,No Activity
+90,0,Toileting
+91,0,Snack
+92,1,Spare_Time/TV
+93,0,Toileting
+94,2,No Activity
+95,1,Spare_Time/TV
+96,2,Toileting
+97,1,Spare_Time/TV
+98,2,Toileting
+99,0,Toileting
+100,0,Leaving
+101,0,Leaving
+102,1,No Activity
+103,0,No Activity
+104,0,Grooming
+105,1,Spare_Time/TV
+106,4,Sleeping
+107,2,Grooming
+108,0,Grooming
+109,0,Grooming
+110,0,Showering
+111,3,Breakfast
+112,0,Breakfast
+113,0,Breakfast
+114,3,Breakfast
+115,1,Spare_Time/TV
 116,0,Spare_Time/TV
-117,0,Grooming
-118,4,Sleeping
-119,0,Showering
-120,0,Spare_Time/TV
-121,0,Lunch
-122,3,Lunch
-123,0,Lunch
-124,0,Lunch
-125,0,Spare_Time/TV
-126,0,Grooming
-127,0,Spare_Time/TV
-128,0,Snack
-129,0,Spare_Time/TV
-130,0,Spare_Time/TV
-131,4,Sleeping
+117,0,Lunch
+118,3,Lunch
+119,0,Lunch
+120,0,Lunch
+121,1,Spare_Time/TV
+122,2,Toileting
+123,0,No Activity
+124,0,Leaving
+125,0,Leaving
+126,0,No Activity
+127,1,Spare_Time/TV
+128,2,No Activity
+129,1,No Activity
+130,0,Grooming
+131,1,Spare_Time/TV
 132,0,Grooming
-133,0,Grooming
-134,0,Showering
-135,3,Breakfast
-136,0,Breakfast
-137,0,Breakfast
-138,3,Breakfast
-139,0,Spare_Time/TV
-140,0,Grooming
-141,0,Spare_Time/TV
-142,0,Grooming
-143,1,Leaving
-144,1,Leaving
-145,0,Spare_Time/TV
-146,1,Spare_Time/TV
-147,0,Spare_Time/TV
-148,0,Spare_Time/TV
-149,4,Sleeping
-150,0,Grooming
+133,1,Spare_Time/TV
+134,0,Grooming
+135,4,Sleeping
+136,2,No Activity
+137,0,No Activity
+138,0,No Activity
+139,0,Showering
+140,0,No Activity
+141,0,No Activity
+142,3,No Activity
+143,3,No Activity
+144,1,Spare_Time/TV
+145,0,No Activity
+146,0,Lunch
+147,3,Lunch
+148,0,Lunch
+149,0,Lunch
+150,1,Spare_Time/TV
 151,0,Grooming
-152,0,Showering
-153,0,Breakfast
-154,0,Breakfast
-155,3,Breakfast
-156,3,Breakfast
-157,0,Spare_Time/TV
-158,1,Leaving
-159,1,Leaving
-160,0,Spare_Time/TV
-161,0,Snack
-162,0,Spare_Time/TV
-163,0,Grooming
-164,0,Spare_Time/TV
-165,2,Toileting
-166,0,Toileting
-167,0,Snack
-168,0,Spare_Time/TV
-169,2,Toileting
-170,0,Toileting
-171,0,Spare_Time/TV
+152,1,No Activity
+153,2,No Activity
+154,1,Spare_Time/TV
+155,0,Snack
+156,1,Spare_Time/TV
+157,2,No Activity
+158,1,Spare_Time/TV
+159,4,Sleeping
+160,2,No Activity
+161,0,Grooming
+162,0,Grooming
+163,0,Showering
+164,0,No Activity
+165,3,Breakfast
+166,0,Breakfast
+167,0,Breakfast
+168,3,Breakfast
+169,1,Spare_Time/TV
+170,0,Grooming
+171,1,Spare_Time/TV
 172,0,Grooming
-173,4,Sleeping
-174,2,Toileting
-175,0,Grooming
-176,0,Showering
-177,0,Breakfast
-178,0,Breakfast
-179,3,Breakfast
-180,3,Breakfast
-181,0,Breakfast
+173,0,Leaving
+174,0,Leaving
+175,1,Spare_Time/TV
+176,0,Spare_Time/TV
+177,1,Spare_Time/TV
+178,2,No Activity
+179,1,Spare_Time/TV
+180,4,Sleeping
+181,2,No Activity
 182,0,Grooming
-183,1,Leaving
-184,1,Leaving
-185,0,Lunch
-186,0,Lunch
-187,0,Lunch
-188,3,Lunch
-189,0,Lunch
-190,0,Lunch
-191,0,Lunch
-192,0,Lunch
-193,0,Lunch
-194,0,Spare_Time/TV
-195,0,Spare_Time/TV
-196,1,Leaving
-197,1,Leaving
-198,0,Spare_Time/TV
-199,0,Snack
-200,0,Spare_Time/TV
-201,0,Grooming
-202,0,Spare_Time/TV
+183,0,Grooming
+184,0,Showering
+185,0,Breakfast
+186,0,Breakfast
+187,3,Breakfast
+188,3,Breakfast
+189,1,Spare_Time/TV
+190,2,No Activity
+191,0,Leaving
+192,0,Leaving
+193,1,Spare_Time/TV
+194,0,Snack
+195,1,Spare_Time/TV
+196,0,Grooming
+197,1,Spare_Time/TV
+198,2,Toileting
+199,0,Toileting
+200,0,Snack
+201,1,Spare_Time/TV
+202,2,Toileting
 203,0,Toileting
-204,0,Grooming
-205,0,Spare_Time/TV
-206,2,Toileting
-207,0,Toileting
-208,4,Sleeping
-209,0,Grooming
-210,0,Grooming
-211,0,Grooming
-212,0,Showering
+204,1,Spare_Time/TV
+205,0,Grooming
+206,4,Sleeping
+207,2,Toileting
+208,0,Grooming
+209,0,Showering
+210,1,No Activity
+211,0,Breakfast
+212,0,Breakfast
 213,3,Breakfast
-214,0,Breakfast
+214,3,Breakfast
 215,0,Breakfast
-216,3,Breakfast
-217,0,Spare_Time/TV
-218,0,Lunch
-219,0,Lunch
-220,3,Lunch
+216,1,No Activity
+217,0,Grooming
+218,0,Leaving
+219,0,Leaving
+220,0,Lunch
 221,0,Lunch
 222,0,Lunch
-223,0,Lunch
-224,0,Grooming
-225,0,Spare_Time/TV
-226,2,Toileting
-227,0,Spare_Time/TV
-228,0,Grooming
-229,0,Spare_Time/TV
-230,0,Snack
-231,0,Grooming
-232,0,Spare_Time/TV
-233,0,Grooming
-234,0,Spare_Time/TV
-235,2,Toileting
-236,4,Sleeping
-237,0,Grooming
-238,0,Grooming
-239,0,Showering
-240,3,Breakfast
-241,0,Breakfast
-242,0,Breakfast
-243,3,Breakfast
-244,0,Spare_Time/TV
-245,0,Lunch
-246,0,Lunch
-247,3,Lunch
-248,0,Lunch
-249,0,Lunch
-250,0,Lunch
-251,0,Lunch
-252,0,Spare_Time/TV
-253,0,Grooming
-254,0,Spare_Time/TV
-255,0,Grooming
-256,1,Leaving
-257,1,Leaving
-258,0,Grooming
-259,0,Spare_Time/TV
-260,0,Snack
-261,0,Snack
-262,0,Snack
-263,0,Snack
-264,0,Snack
-265,2,Toileting
-266,0,Spare_Time/TV
-267,0,Spare_Time/TV
-268,0,Toileting
-269,0,Spare_Time/TV
-270,4,Sleeping
+223,3,Lunch
+224,0,Lunch
+225,0,Lunch
+226,0,Lunch
+227,0,Lunch
+228,0,Lunch
+229,0,No Activity
+230,2,No Activity
+231,1,Spare_Time/TV
+232,2,No Activity
+233,1,Spare_Time/TV
+234,0,Leaving
+235,0,Leaving
+236,1,Spare_Time/TV
+237,0,Snack
+238,1,Spare_Time/TV
+239,0,Grooming
+240,2,No Activity
+241,1,Spare_Time/TV
+242,0,Toileting
+243,2,No Activity
+244,0,Grooming
+245,1,Spare_Time/TV
+246,2,Toileting
+247,0,Toileting
+248,4,Sleeping
+249,2,No Activity
+250,0,Grooming
+251,0,Grooming
+252,0,Grooming
+253,0,Showering
+254,3,Breakfast
+255,0,Breakfast
+256,0,Breakfast
+257,3,Breakfast
+258,1,Spare_Time/TV
+259,0,Lunch
+260,0,Lunch
+261,3,Lunch
+262,0,Lunch
+263,0,Lunch
+264,0,Lunch
+265,1,No Activity
+266,0,Grooming
+267,1,Spare_Time/TV
+268,2,Toileting
+269,0,No Activity
+270,1,Spare_Time/TV
 271,0,Grooming
-272,0,Grooming
-273,0,Grooming
-274,0,Showering
-275,3,Breakfast
-276,0,Breakfast
-277,0,Breakfast
-278,0,Breakfast
-279,3,Breakfast
-280,0,Spare_Time/TV
+272,1,Spare_Time/TV
+273,0,Snack
+274,0,Grooming
+275,1,Spare_Time/TV
+276,0,Grooming
+277,1,Spare_Time/TV
+278,2,Toileting
+279,4,Sleeping
+280,2,No Activity
 281,0,Grooming
-282,1,Leaving
-283,1,Leaving
-284,0,Spare_Time/TV
-285,0,Grooming
-286,0,Spare_Time/TV
-287,0,Grooming
-288,0,Spare_Time/TV
-289,0,Grooming
-290,4,Sleeping
-291,2,Toileting
-292,0,Grooming
-293,0,Grooming
-294,0,Showering
-295,3,Breakfast
-296,0,Breakfast
-297,0,Breakfast
-298,0,Breakfast
-299,3,Breakfast
-300,0,Spare_Time/TV
+282,0,Grooming
+283,0,No Activity
+284,0,Showering
+285,3,Breakfast
+286,0,Breakfast
+287,0,Breakfast
+288,3,Breakfast
+289,1,Spare_Time/TV
+290,0,Lunch
+291,0,Lunch
+292,3,Lunch
+293,0,Lunch
+294,0,Lunch
+295,0,Lunch
+296,0,Lunch
+297,1,Spare_Time/TV
+298,0,Grooming
+299,2,No Activity
+300,1,Spare_Time/TV
 301,0,Grooming
-302,1,Leaving
-303,1,Leaving
-304,0,Spare_Time/TV
-305,0,Spare_Time/TV
-306,0,Grooming
-307,1,Leaving
-308,1,Leaving
-309,0,Spare_Time/TV
-310,0,Grooming
-311,0,Spare_Time/TV
-312,0,Grooming
-313,0,Spare_Time/TV
-314,4,Sleeping
-315,0,Grooming
-316,0,Grooming
-317,0,Grooming
-318,0,Grooming
-319,0,Showering
-320,0,Breakfast
-321,3,Breakfast
-322,0,Breakfast
-323,0,Breakfast
-324,3,Breakfast
-325,0,Breakfast
-326,0,Spare_Time/TV
-327,0,Grooming
-328,1,Leaving
-329,1,Leaving
-330,0,Spare_Time/TV
+302,0,Leaving
+303,0,Leaving
+304,0,Grooming
+305,2,No Activity
+306,1,Spare_Time/TV
+307,0,No Activity
+308,0,Snack
+309,0,Snack
+310,0,Snack
+311,0,Snack
+312,0,Snack
+313,2,Toileting
+314,1,Spare_Time/TV
+315,0,No Activity
+316,1,Spare_Time/TV
+317,0,Toileting
+318,1,Spare_Time/TV
+319,4,Sleeping
+320,0,Grooming
+321,2,No Activity
+322,0,Grooming
+323,0,Grooming
+324,0,Showering
+325,3,Breakfast
+326,0,Breakfast
+327,0,Breakfast
+328,0,Breakfast
+329,3,Breakfast
+330,1,Spare_Time/TV
 331,0,Grooming
-332,0,Spare_Time/TV
-333,4,Sleeping
-334,0,Grooming
-335,0,Showering
-336,3,Breakfast
-337,0,Breakfast
-338,0,Breakfast
-339,3,Breakfast
-340,0,Spare_Time/TV
-341,0,Lunch
-342,0,Lunch
-343,0,Lunch
-344,0,Lunch
-345,0,Lunch
-346,0,Lunch
-347,2,Toileting
-348,0,Grooming
-349,0,Spare_Time/TV
-350,0,Spare_Time/TV
-351,0,Spare_Time/TV
-352,0,Spare_Time/TV
-353,0,Spare_Time/TV
-354,0,Spare_Time/TV
-355,0,Toileting
-356,0,Toileting
-357,0,Toileting
-358,4,Sleeping
-359,0,Sleeping
-360,2,Toileting
-361,0,Breakfast
-362,0,Breakfast
-363,3,Breakfast
-364,0,Breakfast
-365,0,Spare_Time/TV
-366,0,Spare_Time/TV
-367,0,Spare_Time/TV
-368,0,Spare_Time/TV
+332,0,Leaving
+333,0,Leaving
+334,1,Spare_Time/TV
+335,0,Grooming
+336,1,Spare_Time/TV
+337,0,Grooming
+338,1,Spare_Time/TV
+339,0,Grooming
+340,4,Sleeping
+341,2,Toileting
+342,0,Grooming
+343,0,Grooming
+344,0,Showering
+345,3,Breakfast
+346,0,Breakfast
+347,0,Breakfast
+348,0,Breakfast
+349,3,Breakfast
+350,1,Spare_Time/TV
+351,0,Grooming
+352,0,Leaving
+353,0,Leaving
+354,1,Spare_Time/TV
+355,2,No Activity
+356,1,Spare_Time/TV
+357,0,Grooming
+358,1,No Activity
+359,0,Leaving
+360,0,Leaving
+361,0,No Activity
+362,1,Spare_Time/TV
+363,0,Grooming
+364,1,Spare_Time/TV
+365,0,Grooming
+366,1,Spare_Time/TV
+367,4,Sleeping
+368,2,No Activity
 369,0,Grooming
-370,0,Showering
+370,0,Grooming
 371,0,Grooming
 372,0,Grooming
-373,0,Grooming
-374,0,Grooming
-375,0,Grooming
-376,0,Grooming
-377,0,Spare_Time/TV
-378,0,Spare_Time/TV
-379,0,Snack
-380,0,Snack
-381,3,Snack
-382,0,Snack
-383,0,Snack
-384,0,Snack
-385,0,Snack
-386,0,Snack
-387,0,Snack
-388,0,Toileting
-389,2,Toileting
-390,2,Toileting
-391,0,Grooming
+373,0,Showering
+374,0,Breakfast
+375,3,Breakfast
+376,0,Breakfast
+377,0,Breakfast
+378,3,Breakfast
+379,0,Breakfast
+380,1,Spare_Time/TV
+381,0,Grooming
+382,0,Leaving
+383,0,Leaving
+384,1,Spare_Time/TV
+385,0,Grooming
+386,0,No Activity
+387,0,No Activity
+388,1,Spare_Time/TV
+389,0,No Activity
+390,4,Sleeping
+391,2,No Activity
 392,0,Grooming
-393,0,Spare_Time/TV
-394,0,Spare_Time/TV
-395,0,Lunch
-396,0,Lunch
-397,0,Lunch
-398,0,Lunch
+393,0,Showering
+394,3,Breakfast
+395,0,Breakfast
+396,0,Breakfast
+397,3,Breakfast
+398,1,Spare_Time/TV
 399,0,Lunch
 400,0,Lunch
 401,0,Lunch
 402,0,Lunch
 403,0,Lunch
 404,0,Lunch
-405,0,Lunch
-406,0,Lunch
-407,0,Lunch
-408,0,Lunch
-409,0,Spare_Time/TV
-410,0,Spare_Time/TV
-411,0,Snack
-412,0,Snack
-413,0,Snack
-414,0,Grooming
+405,2,Toileting
+406,0,Grooming
+407,1,No Activity
+408,4,No Activity
+409,1,Spare_Time/TV
+410,0,No Activity
+411,0,No Activity
+412,0,Spare_Time/TV
+413,0,Spare_Time/TV
+414,1,Spare_Time/TV
 415,0,Spare_Time/TV
-416,0,Spare_Time/TV
-417,0,Spare_Time/TV
-418,1,Leaving
-419,1,Leaving
-420,0,Spare_Time/TV
-421,0,Spare_Time/TV
-422,0,Spare_Time/TV
-423,0,Spare_Time/TV
-424,0,Grooming
-425,0,Spare_Time/TV
-426,0,Snack
-427,0,Snack
-428,0,Snack
-429,3,Snack
-430,0,Snack
-431,0,Spare_Time/TV
-432,0,Spare_Time/TV
-433,0,Spare_Time/TV
-434,0,Spare_Time/TV
+416,0,No Activity
+417,0,No Activity
+418,0,No Activity
+419,0,Spare_Time/TV
+420,1,No Activity
+421,0,Toileting
+422,0,Toileting
+423,2,No Activity
+424,0,Toileting
+425,4,Sleeping
+426,0,Sleeping
+427,2,Toileting
+428,0,No Activity
+429,0,No Activity
+430,0,Breakfast
+431,0,Breakfast
+432,3,Breakfast
+433,0,Breakfast
+434,0,No Activity
 435,0,Spare_Time/TV
 436,0,Spare_Time/TV
-437,0,Spare_Time/TV
-438,0,Grooming
-439,0,Grooming
-440,0,Dinner
-441,0,Dinner
-442,0,Dinner
-443,0,Grooming
-444,0,Spare_Time/TV
-445,0,Spare_Time/TV
-446,0,Spare_Time/TV
-447,0,Spare_Time/TV
-448,0,Toileting
-449,2,Toileting
-450,0,Spare_Time/TV
-451,0,Grooming
-452,0,Grooming
-453,4,Sleeping
-454,0,Sleeping
-455,0,Breakfast
-456,0,Breakfast
-457,0,Breakfast
-458,3,Breakfast
-459,0,Breakfast
-460,0,Breakfast
-461,0,Grooming
-462,2,Toileting
-463,0,Grooming
-464,0,Grooming
-465,0,Grooming
-466,1,Leaving
-467,1,Leaving
-468,0,Leaving
+437,1,Spare_Time/TV
+438,0,Spare_Time/TV
+439,0,No Activity
+440,0,No Activity
+441,0,Grooming
+442,0,Showering
+443,0,No Activity
+444,0,Grooming
+445,0,Grooming
+446,0,Grooming
+447,0,Grooming
+448,2,No Activity
+449,0,No Activity
+450,0,Grooming
+451,0,No Activity
+452,0,No Activity
+453,0,No Activity
+454,0,Grooming
+455,0,Spare_Time/TV
+456,0,Spare_Time/TV
+457,0,Snack
+458,0,Snack
+459,3,Snack
+460,0,Snack
+461,0,No Activity
+462,0,No Activity
+463,0,No Activity
+464,0,No Activity
+465,0,No Activity
+466,0,No Activity
+467,0,No Activity
+468,0,No Activity
 469,0,Snack
 470,0,Snack
-471,1,Leaving
-472,1,Leaving
+471,0,Snack
+472,0,Snack
 473,0,Snack
-474,0,Snack
-475,0,Snack
-476,0,Snack
-477,2,Toileting
-478,0,Lunch
-479,0,Lunch
-480,0,Lunch
-481,0,Lunch
-482,0,Lunch
-483,0,Lunch
-484,0,Lunch
-485,0,Lunch
-486,0,Lunch
-487,0,Lunch
-488,0,Lunch
+474,0,No Activity
+475,0,No Activity
+476,0,No Activity
+477,0,No Activity
+478,0,No Activity
+479,0,No Activity
+480,0,Toileting
+481,2,Toileting
+482,0,No Activity
+483,0,No Activity
+484,0,No Activity
+485,0,No Activity
+486,2,Toileting
+487,0,Grooming
+488,0,Grooming
 489,0,Spare_Time/TV
 490,0,Spare_Time/TV
-491,0,Spare_Time/TV
-492,0,Spare_Time/TV
-493,0,Toileting
-494,0,Spare_Time/TV
-495,0,Spare_Time/TV
-496,0,Spare_Time/TV
-497,0,Spare_Time/TV
-498,0,Snack
-499,0,Snack
-500,0,Snack
-501,0,Spare_Time/TV
-502,0,Spare_Time/TV
-503,0,Spare_Time/TV
-504,0,Spare_Time/TV
-505,0,Spare_Time/TV
-506,0,Spare_Time/TV
+491,0,No Activity
+492,0,No Activity
+493,0,Lunch
+494,0,Lunch
+495,0,Lunch
+496,0,Lunch
+497,0,Lunch
+498,0,Lunch
+499,0,Lunch
+500,0,Lunch
+501,0,Lunch
+502,0,Lunch
+503,0,Lunch
+504,0,Lunch
+505,0,Lunch
+506,0,Lunch
 507,0,Spare_Time/TV
 508,0,Spare_Time/TV
-509,0,Spare_Time/TV
+509,0,Snack
 510,0,Snack
 511,0,Snack
-512,0,Snack
-513,2,Toileting
+512,2,No Activity
+513,0,Grooming
 514,0,Spare_Time/TV
-515,0,Spare_Time/TV
+515,1,Spare_Time/TV
 516,0,Spare_Time/TV
-517,0,Spare_Time/TV
-518,0,Spare_Time/TV
+517,0,Leaving
+518,0,Leaving
 519,0,Spare_Time/TV
-520,0,Dinner
-521,0,Dinner
-522,3,Dinner
-523,0,Dinner
-524,0,Dinner
-525,0,Grooming
-526,0,Grooming
-527,0,Spare_Time/TV
-528,2,Toileting
-529,0,Toileting
-530,4,Sleeping
-531,0,Sleeping
-532,0,Grooming
-533,0,Grooming
-534,4,Sleeping
-535,0,Sleeping
-536,2,Toileting
-537,0,Toileting
-538,0,Breakfast
-539,0,Breakfast
-540,0,Breakfast
-541,3,Breakfast
-542,3,Breakfast
-543,0,Breakfast
-544,0,Spare_Time/TV
-545,0,Spare_Time/TV
-546,0,Spare_Time/TV
-547,0,Spare_Time/TV
-548,0,Spare_Time/TV
-549,0,Breakfast
-550,0,Breakfast
-551,0,Breakfast
-552,0,Breakfast
-553,0,Breakfast
-554,0,Breakfast
+520,0,Spare_Time/TV
+521,0,Spare_Time/TV
+522,0,Spare_Time/TV
+523,0,No Activity
+524,0,No Activity
+525,2,No Activity
+526,0,No Activity
+527,0,Grooming
+528,1,Spare_Time/TV
+529,0,Snack
+530,0,Snack
+531,0,Snack
+532,3,Snack
+533,0,Snack
+534,0,No Activity
+535,0,Spare_Time/TV
+536,0,Spare_Time/TV
+537,1,Spare_Time/TV
+538,0,Spare_Time/TV
+539,0,Spare_Time/TV
+540,0,No Activity
+541,0,Spare_Time/TV
+542,0,Spare_Time/TV
+543,0,Grooming
+544,0,Grooming
+545,0,No Activity
+546,0,No Activity
+547,0,No Activity
+548,0,Dinner
+549,0,Dinner
+550,0,Dinner
+551,0,Grooming
+552,0,Spare_Time/TV
+553,1,Spare_Time/TV
+554,0,Spare_Time/TV
 555,0,Spare_Time/TV
-556,0,Spare_Time/TV
-557,0,Spare_Time/TV
-558,0,Spare_Time/TV
-559,0,Spare_Time/TV
-560,0,Spare_Time/TV
-561,0,Grooming
-562,0,Showering
-563,0,Grooming
-564,0,Grooming
+556,0,Toileting
+557,2,Toileting
+558,0,No Activity
+559,0,No Activity
+560,0,No Activity
+561,0,No Activity
+562,0,No Activity
+563,1,Spare_Time/TV
+564,0,No Activity
 565,0,Grooming
-566,0,Spare_Time/TV
-567,0,Spare_Time/TV
-568,0,Spare_Time/TV
-569,0,Spare_Time/TV
-570,0,Spare_Time/TV
-571,0,Spare_Time/TV
-572,0,Spare_Time/TV
-573,1,Spare_Time/TV
-574,1,Leaving
-575,0,Leaving
-576,0,Leaving
-577,0,Leaving
-578,1,Leaving
-579,1,Leaving
+566,0,Grooming
+567,4,Sleeping
+568,0,Sleeping
+569,0,No Activity
+570,0,Breakfast
+571,0,Breakfast
+572,0,Breakfast
+573,3,Breakfast
+574,0,Breakfast
+575,0,Breakfast
+576,0,No Activity
+577,0,No Activity
+578,0,Grooming
+579,2,Toileting
 580,0,Grooming
-581,1,Leaving
-582,1,Leaving
-583,0,Spare_Time/TV
-584,0,Spare_Time/TV
-585,0,Spare_Time/TV
-586,0,Spare_Time/TV
-587,0,Spare_Time/TV
-588,0,Spare_Time/TV
-589,0,Spare_Time/TV
-590,0,Spare_Time/TV
-591,0,Spare_Time/TV
-592,3,Dinner
-593,0,Dinner
-594,0,Dinner
-595,0,Dinner
-596,0,Dinner
-597,0,Dinner
-598,3,Dinner
-599,0,Dinner
-600,0,Dinner
-601,0,Dinner
-602,0,Dinner
-603,0,Spare_Time/TV
-604,0,Spare_Time/TV
-605,0,Spare_Time/TV
-606,0,Snack
-607,0,Snack
-608,0,Spare_Time/TV
-609,0,Spare_Time/TV
-610,0,Spare_Time/TV
-611,0,Spare_Time/TV
-612,0,Grooming
-613,0,Grooming
-614,4,Sleeping
-615,0,Sleeping
-616,4,Sleeping
-617,0,Sleeping
-618,0,Sleeping
-619,0,Spare_Time/TV
+581,0,Grooming
+582,0,Grooming
+583,0,No Activity
+584,0,No Activity
+585,0,Leaving
+586,0,Leaving
+587,0,Leaving
+588,0,No Activity
+589,0,No Activity
+590,0,Snack
+591,0,Snack
+592,0,No Activity
+593,0,No Activity
+594,0,Leaving
+595,0,Leaving
+596,0,No Activity
+597,0,No Activity
+598,0,No Activity
+599,0,No Activity
+600,0,Snack
+601,0,Snack
+602,0,Snack
+603,0,Snack
+604,0,No Activity
+605,0,No Activity
+606,2,Toileting
+607,0,Lunch
+608,0,Lunch
+609,0,Lunch
+610,0,Lunch
+611,0,Lunch
+612,0,Lunch
+613,0,Lunch
+614,0,Lunch
+615,0,Lunch
+616,0,Lunch
+617,0,Lunch
+618,0,Spare_Time/TV
+619,1,Spare_Time/TV
 620,0,Spare_Time/TV
-621,0,Sleeping
-622,4,Sleeping
-623,0,Sleeping
-624,2,Toileting
-625,0,Sleeping
-626,4,Sleeping
-627,0,Sleeping
-628,0,Breakfast
-629,0,Breakfast
-630,0,Breakfast
-631,3,Breakfast
-632,0,Breakfast
-633,0,Breakfast
-634,0,Grooming
-635,0,Grooming
-636,0,Grooming
-637,0,Grooming
-638,0,Grooming
-639,0,Snack
-640,0,Snack
-641,0,Spare_Time/TV
-642,1,Leaving
-643,1,Leaving
-644,0,Leaving
+621,0,Spare_Time/TV
+622,0,No Activity
+623,0,No Activity
+624,0,No Activity
+625,2,No Activity
+626,0,Toileting
+627,0,Spare_Time/TV
+628,0,No Activity
+629,0,No Activity
+630,0,Spare_Time/TV
+631,1,Spare_Time/TV
+632,0,Spare_Time/TV
+633,0,No Activity
+634,0,Snack
+635,0,Snack
+636,0,Snack
+637,0,Spare_Time/TV
+638,1,Spare_Time/TV
+639,0,Spare_Time/TV
+640,0,Spare_Time/TV
+641,1,Spare_Time/TV
+642,0,Spare_Time/TV
+643,0,Spare_Time/TV
+644,1,Spare_Time/TV
 645,0,Spare_Time/TV
-646,0,Lunch
-647,0,Lunch
-648,0,Lunch
-649,0,Lunch
-650,0,Lunch
-651,0,Lunch
-652,0,Lunch
-653,0,Lunch
-654,0,Lunch
-655,0,Lunch
-656,0,Lunch
-657,0,Lunch
-658,0,Lunch
-659,0,Lunch
-660,0,Lunch
-661,0,Leaving
-662,1,Leaving
-663,1,Leaving
-664,0,Snack
-665,0,Snack
-666,0,Snack
-667,0,Dinner
-668,0,Dinner
-669,3,Dinner
-670,0,Dinner
-671,0,Dinner
-672,0,Grooming
-673,0,Grooming
-674,0,Grooming
-675,0,Sleeping
-676,4,Sleeping
-677,0,Sleeping
-678,0,Breakfast
-679,0,Breakfast
-680,3,Breakfast
-681,0,Breakfast
-682,0,Showering
+646,0,Snack
+647,0,Snack
+648,0,Snack
+649,0,No Activity
+650,0,No Activity
+651,0,No Activity
+652,2,Toileting
+653,0,No Activity
+654,0,No Activity
+655,0,Spare_Time/TV
+656,1,Spare_Time/TV
+657,0,Spare_Time/TV
+658,0,Spare_Time/TV
+659,0,Spare_Time/TV
+660,0,Spare_Time/TV
+661,0,Dinner
+662,0,Dinner
+663,3,Dinner
+664,0,Dinner
+665,0,Dinner
+666,0,No Activity
+667,0,No Activity
+668,0,No Activity
+669,0,Grooming
+670,0,Grooming
+671,0,No Activity
+672,0,No Activity
+673,0,No Activity
+674,0,No Activity
+675,1,Spare_Time/TV
+676,0,No Activity
+677,0,No Activity
+678,2,Toileting
+679,0,Toileting
+680,4,Sleeping
+681,0,Sleeping
+682,0,Grooming
 683,0,Grooming
-684,0,Grooming
-685,0,Grooming
-686,0,Snack
-687,0,Snack
-688,0,Snack
-689,0,Snack
-690,1,Leaving
-691,1,Leaving
-692,0,Spare_Time/TV
-693,0,Spare_Time/TV
-694,0,Spare_Time/TV
-695,0,Spare_Time/TV
+684,4,Sleeping
+685,0,Sleeping
+686,2,Toileting
+687,0,Toileting
+688,0,Breakfast
+689,0,Breakfast
+690,0,Breakfast
+691,3,Breakfast
+692,3,Breakfast
+693,0,Breakfast
+694,0,No Activity
+695,0,No Activity
 696,0,Spare_Time/TV
-697,0,Lunch
-698,0,Lunch
-699,0,Lunch
-700,0,Lunch
-701,0,Lunch
-702,0,Lunch
-703,0,Lunch
-704,0,Lunch
-705,0,Lunch
-706,0,Lunch
-707,0,Lunch
-708,0,Lunch
-709,0,Lunch
-710,0,Lunch
-711,0,Lunch
-712,0,Lunch
-713,2,Toileting
-714,1,Leaving
-715,1,Leaving
-716,0,Leaving
-717,0,Leaving
-718,2,Toileting
-719,0,Toileting
-720,0,Snack
-721,0,Snack
-722,0,Snack
-723,0,Spare_Time/TV
+697,0,Spare_Time/TV
+698,0,Spare_Time/TV
+699,1,Spare_Time/TV
+700,0,Spare_Time/TV
+701,0,Breakfast
+702,0,Breakfast
+703,0,Breakfast
+704,0,Breakfast
+705,0,Breakfast
+706,0,Breakfast
+707,0,No Activity
+708,0,No Activity
+709,0,Spare_Time/TV
+710,1,Spare_Time/TV
+711,0,Spare_Time/TV
+712,0,Spare_Time/TV
+713,1,Spare_Time/TV
+714,0,Spare_Time/TV
+715,0,No Activity
+716,0,No Activity
+717,0,Grooming
+718,0,Showering
+719,0,Grooming
+720,0,Grooming
+721,0,No Activity
+722,0,No Activity
+723,0,Grooming
 724,0,Spare_Time/TV
 725,0,Spare_Time/TV
 726,0,Spare_Time/TV
 727,0,Spare_Time/TV
 728,0,Spare_Time/TV
-729,0,Spare_Time/TV
+729,1,Spare_Time/TV
 730,0,Spare_Time/TV
 731,0,Spare_Time/TV
-732,0,Spare_Time/TV
-733,0,Spare_Time/TV
-734,0,Spare_Time/TV
-735,0,Spare_Time/TV
-736,0,Spare_Time/TV
-737,0,Grooming
-738,0,Grooming
-739,0,Sleeping
-740,4,Sleeping
-741,0,Sleeping
-742,2,Toileting
-743,0,Breakfast
-744,0,Breakfast
-745,0,Breakfast
-746,0,Breakfast
-747,3,Breakfast
-748,0,Breakfast
-749,0,Grooming
-750,0,Grooming
-751,0,Grooming
-752,1,Leaving
-753,1,Leaving
-754,0,Grooming
-755,0,Spare_Time/TV
-756,0,Spare_Time/TV
-757,0,Spare_Time/TV
-758,0,Spare_Time/TV
-759,0,Spare_Time/TV
-760,0,Spare_Time/TV
-761,0,Spare_Time/TV
+732,0,Leaving
+733,0,Leaving
+734,0,Leaving
+735,0,Leaving
+736,0,No Activity
+737,0,No Activity
+738,0,No Activity
+739,0,Leaving
+740,0,Leaving
+741,2,No Activity
+742,0,No Activity
+743,0,Grooming
+744,0,No Activity
+745,0,No Activity
+746,0,No Activity
+747,0,Leaving
+748,0,Leaving
+749,0,No Activity
+750,0,No Activity
+751,0,Spare_Time/TV
+752,1,Spare_Time/TV
+753,0,Spare_Time/TV
+754,0,No Activity
+755,0,No Activity
+756,0,No Activity
+757,0,No Activity
+758,0,No Activity
+759,0,No Activity
+760,0,No Activity
+761,0,No Activity
 762,0,Spare_Time/TV
-763,1,Leaving
-764,1,Leaving
-765,0,Leaving
-766,0,Toileting
-767,0,Toileting
-768,0,Spare_Time/TV
-769,0,Spare_Time/TV
-770,0,Spare_Time/TV
-771,0,Spare_Time/TV
-772,0,Spare_Time/TV
-773,0,Spare_Time/TV
-774,0,Spare_Time/TV
-775,0,Spare_Time/TV
-776,0,Spare_Time/TV
-777,0,Spare_Time/TV
-778,0,Spare_Time/TV
-779,0,Spare_Time/TV
+763,1,Spare_Time/TV
+764,0,Spare_Time/TV
+765,0,Spare_Time/TV
+766,0,Spare_Time/TV
+767,0,Spare_Time/TV
+768,3,Dinner
+769,0,Dinner
+770,0,Dinner
+771,0,Dinner
+772,0,Dinner
+773,0,Dinner
+774,3,Dinner
+775,0,Dinner
+776,0,Dinner
+777,0,Dinner
+778,0,Dinner
+779,1,Spare_Time/TV
 780,0,Spare_Time/TV
 781,0,Spare_Time/TV
-782,0,Spare_Time/TV
-783,0,Spare_Time/TV
+782,0,Snack
+783,0,Snack
 784,0,Spare_Time/TV
-785,0,Spare_Time/TV
+785,1,Spare_Time/TV
 786,0,Spare_Time/TV
-787,0,Spare_Time/TV
-788,0,Spare_Time/TV
-789,3,Snack
-790,0,Snack
-791,0,Snack
-792,0,Snack
-793,0,Snack
-794,3,Snack
-795,0,Snack
-796,2,Toileting
+787,0,No Activity
+788,0,No Activity
+789,0,No Activity
+790,0,No Activity
+791,0,No Activity
+792,1,Spare_Time/TV
+793,0,No Activity
+794,0,Grooming
+795,2,No Activity
+796,0,No Activity
 797,0,Grooming
-798,0,Grooming
-799,0,Grooming
-800,0,Grooming
-801,0,Spare_Time/TV
-802,0,Spare_Time/TV
-803,0,Spare_Time/TV
-804,0,Sleeping
-805,4,Sleeping
+798,4,Sleeping
+799,0,No Activity
+800,0,Sleeping
+801,4,Sleeping
+802,0,Sleeping
+803,0,Sleeping
+804,1,Spare_Time/TV
+805,0,Spare_Time/TV
 806,0,Sleeping
-807,0,Sleeping
-808,2,Toileting
-809,0,Breakfast
-810,0,Breakfast
-811,3,Breakfast
-812,0,Breakfast
-813,0,Breakfast
-814,0,Showering
-815,0,Grooming
-816,0,Grooming
-817,1,Leaving
-818,1,Leaving
-819,0,Spare_Time/TV
-820,0,Spare_Time/TV
-821,0,Spare_Time/TV
-822,1,Leaving
-823,1,Leaving
-824,0,Leaving
-825,0,Lunch
-826,0,Lunch
-827,0,Lunch
-828,0,Lunch
-829,0,Lunch
-830,0,Lunch
-831,0,Lunch
-832,0,Lunch
-833,0,Lunch
-834,0,Lunch
-835,0,Snack
-836,0,Snack
-837,0,Snack
-838,0,Grooming
-839,0,Spare_Time/TV
-840,0,Spare_Time/TV
-841,0,Spare_Time/TV
-842,0,Spare_Time/TV
-843,0,Spare_Time/TV
-844,0,Spare_Time/TV
-845,0,Spare_Time/TV
-846,0,Spare_Time/TV
-847,0,Spare_Time/TV
-848,0,Spare_Time/TV
-849,0,Spare_Time/TV
-850,0,Spare_Time/TV
-851,0,Spare_Time/TV
-852,0,Spare_Time/TV
-853,0,Spare_Time/TV
-854,0,Spare_Time/TV
-855,1,Leaving
-856,1,Leaving
-857,0,Dinner
-858,0,Dinner
-859,0,Dinner
-860,0,Dinner
-861,0,Dinner
-862,0,Dinner
-863,0,Dinner
-864,0,Grooming
-865,0,Grooming
-866,0,Spare_Time/TV
-867,0,Snack
-868,0,Snack
-869,0,Snack
-870,0,Snack
-871,0,Grooming
-872,0,Grooming
-873,0,Grooming
-874,0,Spare_Time/TV
-875,2,Toileting
-876,0,Toileting
-877,4,Sleeping
-878,0,Sleeping
-879,2,Toileting
-880,0,Breakfast
-881,0,Breakfast
-882,0,Breakfast
-883,3,Breakfast
-884,0,Breakfast
-885,0,Breakfast
-886,0,Breakfast
-887,0,Spare_Time/TV
-888,0,Spare_Time/TV
-889,0,Spare_Time/TV
-890,0,Grooming
-891,0,Grooming
-892,0,Showering
-893,2,Toileting
+807,4,Sleeping
+808,0,Sleeping
+809,2,Toileting
+810,0,Sleeping
+811,4,Sleeping
+812,0,Sleeping
+813,0,No Activity
+814,0,Breakfast
+815,0,Breakfast
+816,0,Breakfast
+817,3,Breakfast
+818,0,Breakfast
+819,0,Breakfast
+820,0,No Activity
+821,2,No Activity
+822,0,Grooming
+823,0,Grooming
+824,0,Grooming
+825,0,Grooming
+826,0,No Activity
+827,0,Grooming
+828,0,No Activity
+829,0,No Activity
+830,0,Snack
+831,0,Snack
+832,0,No Activity
+833,0,No Activity
+834,0,No Activity
+835,1,Spare_Time/TV
+836,0,No Activity
+837,0,No Activity
+838,0,No Activity
+839,0,Leaving
+840,0,Leaving
+841,0,Leaving
+842,0,No Activity
+843,0,No Activity
+844,0,No Activity
+845,0,No Activity
+846,0,No Activity
+847,0,No Activity
+848,1,Spare_Time/TV
+849,0,No Activity
+850,0,No Activity
+851,0,No Activity
+852,0,No Activity
+853,0,Lunch
+854,0,Lunch
+855,0,Lunch
+856,0,Lunch
+857,0,Lunch
+858,0,Lunch
+859,0,Lunch
+860,0,Lunch
+861,0,Lunch
+862,0,Lunch
+863,0,Lunch
+864,0,Lunch
+865,0,Lunch
+866,0,Lunch
+867,0,Lunch
+868,0,No Activity
+869,2,No Activity
+870,0,No Activity
+871,0,No Activity
+872,0,Leaving
+873,0,Leaving
+874,0,Leaving
+875,0,No Activity
+876,0,No Activity
+877,0,No Activity
+878,0,No Activity
+879,0,No Activity
+880,0,No Activity
+881,0,Snack
+882,0,Snack
+883,0,Snack
+884,0,Dinner
+885,0,Dinner
+886,3,Dinner
+887,0,Dinner
+888,0,Dinner
+889,0,No Activity
+890,0,No Activity
+891,0,No Activity
+892,0,No Activity
+893,0,No Activity
 894,0,Grooming
-895,0,Grooming
-896,0,Grooming
-897,0,Spare_Time/TV
-898,0,Spare_Time/TV
-899,0,Grooming
-900,0,Grooming
-901,0,Grooming
-902,0,Grooming
-903,0,Toileting
-904,0,Toileting
-905,1,Leaving
-906,1,Leaving
-907,0,Leaving
-908,0,Toileting
-909,2,Toileting
-910,0,Toileting
-911,0,Snack
-912,0,Snack
-913,0,Snack
-914,3,Snack
-915,3,Snack
+895,0,No Activity
+896,2,No Activity
+897,0,Grooming
+898,0,Grooming
+899,0,No Activity
+900,0,Sleeping
+901,4,Sleeping
+902,0,Sleeping
+903,0,No Activity
+904,0,No Activity
+905,0,Breakfast
+906,0,Breakfast
+907,3,Breakfast
+908,0,Breakfast
+909,0,Showering
+910,0,Grooming
+911,0,Grooming
+912,0,No Activity
+913,0,No Activity
+914,0,Grooming
+915,0,No Activity
 916,0,Snack
 917,0,Snack
-918,0,Spare_Time/TV
-919,0,Spare_Time/TV
-920,0,Spare_Time/TV
-921,0,Spare_Time/TV
-922,0,Spare_Time/TV
+918,0,Snack
+919,0,Snack
+920,0,Leaving
+921,0,Leaving
+922,0,No Activity
 923,0,Spare_Time/TV
 924,0,Spare_Time/TV
-925,0,Spare_Time/TV
+925,1,Spare_Time/TV
 926,0,Spare_Time/TV
-927,3,Dinner
-928,0,Dinner
-929,0,Dinner
-930,0,Dinner
-931,0,Grooming
-932,0,Snack
-933,0,Snack
-934,0,Snack
-935,0,Snack
-936,0,Spare_Time/TV
-937,2,Toileting
-938,0,Sleeping
-939,4,Sleeping
-940,0,Sleeping
-941,0,Breakfast
-942,0,Breakfast
-943,0,Breakfast
-944,0,Breakfast
-945,0,Breakfast
-946,0,Grooming
-947,0,Grooming
-948,0,Snack
-949,0,Snack
-950,0,Snack
-951,0,Spare_Time/TV
-952,0,Spare_Time/TV
-953,0,Spare_Time/TV
-954,0,Snack
-955,0,Snack
-956,0,Snack
-957,0,Spare_Time/TV
-958,0,Spare_Time/TV
-959,0,Spare_Time/TV
-960,0,Spare_Time/TV
+927,0,Spare_Time/TV
+928,0,No Activity
+929,0,No Activity
+930,0,Lunch
+931,0,Lunch
+932,0,Lunch
+933,0,Lunch
+934,0,Lunch
+935,0,Lunch
+936,0,Lunch
+937,0,Lunch
+938,0,Lunch
+939,0,Lunch
+940,0,Lunch
+941,0,Lunch
+942,0,Lunch
+943,0,Lunch
+944,0,Lunch
+945,0,Lunch
+946,2,Toileting
+947,0,No Activity
+948,0,No Activity
+949,0,No Activity
+950,0,No Activity
+951,0,Leaving
+952,0,Leaving
+953,0,Leaving
+954,0,Leaving
+955,2,Toileting
+956,0,Toileting
+957,0,Snack
+958,0,Snack
+959,3,No Activity
+960,0,Snack
 961,0,Spare_Time/TV
-962,0,Lunch
-963,0,Lunch
-964,0,Lunch
-965,0,Lunch
-966,0,Lunch
-967,0,Lunch
-968,0,Lunch
-969,0,Lunch
-970,0,Lunch
-971,0,Lunch
+962,0,Spare_Time/TV
+963,1,Spare_Time/TV
+964,0,Spare_Time/TV
+965,0,Spare_Time/TV
+966,0,Spare_Time/TV
+967,0,Spare_Time/TV
+968,1,Spare_Time/TV
+969,0,Spare_Time/TV
+970,0,Spare_Time/TV
+971,0,Spare_Time/TV
 972,0,Spare_Time/TV
-973,0,Spare_Time/TV
+973,1,Spare_Time/TV
 974,0,Spare_Time/TV
-975,0,Spare_Time/TV
-976,0,Spare_Time/TV
-977,2,Toileting
-978,0,Toileting
-979,1,Leaving
-980,1,Leaving
-981,0,Spare_Time/TV
-982,0,Spare_Time/TV
-983,0,Spare_Time/TV
-984,0,Spare_Time/TV
-985,0,Spare_Time/TV
-986,0,Spare_Time/TV
-987,0,Spare_Time/TV
-988,0,Spare_Time/TV
-989,0,Grooming
-990,0,Grooming
-991,0,Grooming
-992,0,Sleeping
-993,4,Sleeping
-994,0,Sleeping
-995,2,Toileting
-996,0,Toileting
+975,0,No Activity
+976,0,No Activity
+977,0,Grooming
+978,0,No Activity
+979,0,No Activity
+980,0,No Activity
+981,0,No Activity
+982,0,No Activity
+983,0,No Activity
+984,0,No Activity
+985,0,No Activity
+986,0,Grooming
+987,2,No Activity
+988,0,No Activity
+989,0,Sleeping
+990,4,Sleeping
+991,0,Sleeping
+992,2,Toileting
+993,0,No Activity
+994,0,Breakfast
+995,0,Breakfast
+996,0,Breakfast
 997,0,Breakfast
-998,0,Breakfast
+998,3,Breakfast
 999,0,Breakfast
-1000,0,Breakfast
-1001,0,Breakfast
-1002,0,Breakfast
-1003,0,Spare_Time/TV
-1004,0,Spare_Time/TV
-1005,0,Spare_Time/TV
-1006,0,Grooming
+1000,0,No Activity
+1001,0,No Activity
+1002,0,No Activity
+1003,0,Grooming
+1004,0,Grooming
+1005,0,No Activity
+1006,0,No Activity
 1007,0,Grooming
-1008,1,Leaving
-1009,1,Leaving
-1010,0,Spare_Time/TV
-1011,0,Spare_Time/TV
-1012,0,Spare_Time/TV
-1013,0,Spare_Time/TV
-1014,0,Spare_Time/TV
-1015,0,Spare_Time/TV
-1016,0,Spare_Time/TV
-1017,0,Lunch
-1018,0,Lunch
-1019,0,Lunch
-1020,0,Lunch
-1021,0,Lunch
-1022,0,Lunch
-1023,0,Lunch
-1024,0,Lunch
+1008,0,No Activity
+1009,0,No Activity
+1010,0,Leaving
+1011,0,Leaving
+1012,0,No Activity
+1013,0,No Activity
+1014,0,No Activity
+1015,0,No Activity
+1016,0,No Activity
+1017,0,No Activity
+1018,0,Grooming
+1019,0,No Activity
+1020,0,No Activity
+1021,0,Spare_Time/TV
+1022,1,Spare_Time/TV
+1023,0,Spare_Time/TV
+1024,0,Spare_Time/TV
 1025,0,Spare_Time/TV
 1026,0,Spare_Time/TV
-1027,0,Spare_Time/TV
+1027,1,Spare_Time/TV
 1028,0,Spare_Time/TV
-1029,0,Spare_Time/TV
-1030,0,Spare_Time/TV
-1031,0,Snack
-1032,0,Snack
-1033,0,Snack
-1034,0,Snack
-1035,0,Spare_Time/TV
-1036,0,Spare_Time/TV
-1037,0,Spare_Time/TV
-1038,0,Spare_Time/TV
-1039,0,Spare_Time/TV
+1029,0,No Activity
+1030,0,No Activity
+1031,0,No Activity
+1032,0,No Activity
+1033,0,Leaving
+1034,0,Leaving
+1035,0,Leaving
+1036,0,No Activity
+1037,2,No Activity
+1038,0,Toileting
+1039,0,Toileting
 1040,0,Spare_Time/TV
 1041,0,Spare_Time/TV
 1042,0,Spare_Time/TV
 1043,0,Spare_Time/TV
-1044,0,Toileting
-1045,2,Toileting
-1046,1,Snack
-1047,0,Snack
-1048,0,Snack
-1049,0,Snack
-1050,0,Grooming
-1051,0,Grooming
-1052,0,Sleeping
-1053,4,Sleeping
-1054,0,Sleeping
-1055,0,Sleeping
-1056,4,Sleeping
-1057,0,Sleeping
-1058,2,Toileting
-1059,0,Toileting
-1060,0,Breakfast
-1061,0,Breakfast
-1062,0,Breakfast
-1063,0,Breakfast
-1064,0,Breakfast
-1065,0,Breakfast
-1066,0,Snack
-1067,0,Snack
+1044,1,Spare_Time/TV
+1045,0,Spare_Time/TV
+1046,0,No Activity
+1047,0,No Activity
+1048,0,No Activity
+1049,0,No Activity
+1050,0,No Activity
+1051,0,No Activity
+1052,0,Spare_Time/TV
+1053,0,Spare_Time/TV
+1054,0,Spare_Time/TV
+1055,0,Spare_Time/TV
+1056,0,Spare_Time/TV
+1057,0,Spare_Time/TV
+1058,0,Spare_Time/TV
+1059,1,Spare_Time/TV
+1060,0,Spare_Time/TV
+1061,0,Spare_Time/TV
+1062,0,Spare_Time/TV
+1063,0,Spare_Time/TV
+1064,1,Spare_Time/TV
+1065,0,Spare_Time/TV
+1066,0,Spare_Time/TV
+1067,3,Snack
 1068,0,Snack
-1069,0,Spare_Time/TV
-1070,0,Spare_Time/TV
-1071,0,Spare_Time/TV
-1072,0,Spare_Time/TV
-1073,0,Spare_Time/TV
-1074,0,Snack
-1075,0,Grooming
-1076,0,Spare_Time/TV
-1077,0,Spare_Time/TV
-1078,0,Spare_Time/TV
-1079,0,Spare_Time/TV
-1080,0,Spare_Time/TV
-1081,0,Spare_Time/TV
-1082,0,Spare_Time/TV
-1083,0,Spare_Time/TV
-1084,0,Spare_Time/TV
-1085,0,Lunch
-1086,0,Lunch
-1087,0,Lunch
-1088,0,Lunch
-1089,0,Lunch
-1090,0,Lunch
-1091,0,Lunch
-1092,0,Lunch
-1093,0,Lunch
-1094,0,Spare_Time/TV
-1095,0,Snack
-1096,0,Snack
+1069,0,Snack
+1070,0,Snack
+1071,0,Snack
+1072,3,Snack
+1073,0,Snack
+1074,0,No Activity
+1075,0,No Activity
+1076,0,No Activity
+1077,0,No Activity
+1078,0,No Activity
+1079,0,No Activity
+1080,2,Toileting
+1081,0,Grooming
+1082,0,Grooming
+1083,0,Grooming
+1084,0,No Activity
+1085,0,No Activity
+1086,0,No Activity
+1087,0,No Activity
+1088,0,No Activity
+1089,0,No Activity
+1090,0,Grooming
+1091,0,No Activity
+1092,0,No Activity
+1093,0,No Activity
+1094,0,No Activity
+1095,0,No Activity
+1096,0,No Activity
 1097,0,Spare_Time/TV
-1098,0,Spare_Time/TV
+1098,1,Spare_Time/TV
 1099,0,Spare_Time/TV
-1100,0,Spare_Time/TV
-1101,0,Spare_Time/TV
-1102,0,Snack
-1103,0,Spare_Time/TV
-1104,0,Spare_Time/TV
-1105,0,Spare_Time/TV
-1106,0,Spare_Time/TV
-1107,0,Grooming
-1108,0,Snack
-1109,0,Snack
-1110,0,Snack
-1111,0,Snack
-1112,0,Snack
-1113,0,Snack
-1114,0,Grooming
-1115,0,Grooming
-1116,0,Spare_Time/TV
-1117,0,Spare_Time/TV
-1118,0,Spare_Time/TV
-1119,0,Spare_Time/TV
-1120,0,Grooming
-1121,0,Grooming
-1122,4,Sleeping
-1123,0,Sleeping
-1124,2,Toileting
-1125,0,Toileting
-1126,0,Breakfast
-1127,0,Breakfast
-1128,0,Breakfast
-1129,0,Breakfast
-1130,0,Grooming
-1131,0,Grooming
-1132,0,Grooming
-1133,0,Grooming
-1134,0,Grooming
-1135,0,Grooming
-1136,0,Grooming
-1137,1,Sleeping
-1138,1,Sleeping
-1139,0,Snack
-1140,0,Snack
-1141,0,Snack
-1142,0,Snack
-1143,0,Grooming
-1144,0,Grooming
-1145,0,Spare_Time/TV
-1146,0,Spare_Time/TV
-1147,0,Spare_Time/TV
-1148,0,Spare_Time/TV
-1149,0,Spare_Time/TV
+1100,0,Sleeping
+1101,4,Sleeping
+1102,0,Sleeping
+1103,0,Sleeping
+1104,0,No Activity
+1105,0,No Activity
+1106,0,No Activity
+1107,2,Toileting
+1108,0,Breakfast
+1109,0,Breakfast
+1110,3,Breakfast
+1111,0,Breakfast
+1112,0,Breakfast
+1113,0,No Activity
+1114,0,No Activity
+1115,0,No Activity
+1116,0,No Activity
+1117,0,Showering
+1118,0,Grooming
+1119,0,Grooming
+1120,0,No Activity
+1121,0,No Activity
+1122,0,Leaving
+1123,0,Leaving
+1124,0,No Activity
+1125,0,No Activity
+1126,0,No Activity
+1127,0,No Activity
+1128,0,No Activity
+1129,0,No Activity
+1130,0,No Activity
+1131,0,No Activity
+1132,0,Spare_Time/TV
+1133,1,Spare_Time/TV
+1134,0,Spare_Time/TV
+1135,0,Leaving
+1136,0,Leaving
+1137,0,Leaving
+1138,0,No Activity
+1139,0,No Activity
+1140,0,No Activity
+1141,0,Lunch
+1142,0,Lunch
+1143,0,Lunch
+1144,0,Lunch
+1145,0,Lunch
+1146,0,Lunch
+1147,0,Lunch
+1148,0,Lunch
+1149,0,Lunch
 1150,0,Lunch
-1151,0,Lunch
-1152,0,Lunch
-1153,2,Toileting
-1154,0,Toileting
-1155,0,Toileting
-1156,0,Toileting
-1157,0,Spare_Time/TV
-1158,0,Spare_Time/TV
-1159,0,Spare_Time/TV
-1160,0,Spare_Time/TV
-1161,2,Toileting
-1162,0,Toileting
-1163,0,Snack
-1164,0,Snack
-1165,0,Spare_Time/TV
-1166,0,Spare_Time/TV
+1151,0,No Activity
+1152,0,No Activity
+1153,0,No Activity
+1154,0,No Activity
+1155,0,No Activity
+1156,0,No Activity
+1157,0,No Activity
+1158,0,No Activity
+1159,0,Snack
+1160,0,Snack
+1161,0,Snack
+1162,2,No Activity
+1163,0,No Activity
+1164,0,No Activity
+1165,0,Grooming
+1166,0,No Activity
 1167,0,Spare_Time/TV
-1168,0,Spare_Time/TV
-1169,0,Snack
-1170,0,Snack
-1171,0,Snack
+1168,1,Spare_Time/TV
+1169,0,Spare_Time/TV
+1170,0,Spare_Time/TV
+1171,0,Spare_Time/TV
 1172,0,Spare_Time/TV
 1173,0,Spare_Time/TV
 1174,0,Spare_Time/TV
-1175,1,Leaving
-1176,1,Leaving
-1177,2,Toileting
+1175,0,Spare_Time/TV
+1176,0,Spare_Time/TV
+1177,1,Spare_Time/TV
 1178,0,Spare_Time/TV
-1179,0,Grooming
-1180,0,Grooming
-1181,0,Sleeping
-1182,4,Sleeping
-1183,0,Sleeping
-1184,0,Sleeping
-1185,0,Breakfast
-1186,0,Breakfast
-1187,0,Breakfast
-1188,0,Breakfast
-1189,0,Breakfast
-1190,0,Spare_Time/TV
-1191,0,Spare_Time/TV
-1192,0,Spare_Time/TV
-1193,0,Snack
-1194,0,Snack
-1195,0,Snack
-1196,0,Snack
-1197,0,Showering
-1198,0,Grooming
-1199,0,Grooming
-1200,0,Grooming
-1201,2,Toileting
+1179,0,Spare_Time/TV
+1180,1,Spare_Time/TV
+1181,0,Spare_Time/TV
+1182,0,Spare_Time/TV
+1183,0,No Activity
+1184,0,No Activity
+1185,0,No Activity
+1186,0,Leaving
+1187,0,Leaving
+1188,0,Dinner
+1189,0,Dinner
+1190,0,Dinner
+1191,0,Dinner
+1192,0,Dinner
+1193,0,Dinner
+1194,0,Dinner
+1195,0,No Activity
+1196,0,Grooming
+1197,0,Grooming
+1198,0,Spare_Time/TV
+1199,0,Snack
+1200,0,Snack
+1201,3,No Activity
 1202,0,Snack
 1203,0,Snack
-1204,0,Spare_Time/TV
-1205,0,Spare_Time/TV
-1206,0,Spare_Time/TV
-1207,0,Spare_Time/TV
-1208,0,Spare_Time/TV
-1209,0,Spare_Time/TV
-1210,0,Grooming
-1211,0,Grooming
-1212,0,Grooming
-1213,0,Grooming
-1214,0,Leaving
-1215,1,Leaving
-1216,1,Leaving
-1217,0,Leaving
-1218,0,Leaving
-1219,0,Leaving
-1220,0,Toileting
-1221,0,Toileting
-1222,0,Grooming
-1223,0,Grooming
-1224,0,Grooming
-1225,0,Spare_Time/TV
-1226,0,Snack
-1227,0,Snack
-1228,0,Snack
-1229,0,Snack
-1230,0,Snack
-1231,0,Spare_Time/TV
+1204,0,Grooming
+1205,0,Grooming
+1206,0,Grooming
+1207,0,No Activity
+1208,0,No Activity
+1209,0,No Activity
+1210,0,No Activity
+1211,1,Spare_Time/TV
+1212,0,No Activity
+1213,0,No Activity
+1214,0,No Activity
+1215,2,Toileting
+1216,0,Toileting
+1217,4,Sleeping
+1218,0,Sleeping
+1219,2,Toileting
+1220,0,Breakfast
+1221,0,Breakfast
+1222,0,Breakfast
+1223,3,Breakfast
+1224,0,Breakfast
+1225,0,Breakfast
+1226,0,Breakfast
+1227,0,No Activity
+1228,0,No Activity
+1229,0,No Activity
+1230,0,Spare_Time/TV
+1231,1,Spare_Time/TV
 1232,0,Spare_Time/TV
-1233,0,Spare_Time/TV
-1234,0,Spare_Time/TV
-1235,0,Spare_Time/TV
-1236,0,Toileting
-1237,0,Toileting
-1238,0,Spare_Time/TV
-1239,0,Spare_Time/TV
-1240,0,Dinner
-1241,0,Dinner
-1242,0,Dinner
-1243,0,Dinner
-1244,0,Spare_Time/TV
-1245,0,Spare_Time/TV
-1246,0,Snack
-1247,0,Snack
-1248,0,Snack
-1249,0,Spare_Time/TV
-1250,0,Spare_Time/TV
-1251,0,Spare_Time/TV
-1252,0,Spare_Time/TV
-1253,0,Sleeping
-1254,4,Sleeping
-1255,0,Sleeping
+1233,0,No Activity
+1234,0,No Activity
+1235,0,No Activity
+1236,0,No Activity
+1237,0,No Activity
+1238,0,No Activity
+1239,0,No Activity
+1240,0,No Activity
+1241,0,No Activity
+1242,0,No Activity
+1243,0,No Activity
+1244,0,No Activity
+1245,0,No Activity
+1246,0,No Activity
+1247,0,No Activity
+1248,0,No Activity
+1249,0,Grooming
+1250,0,Grooming
+1251,0,Showering
+1252,2,Toileting
+1253,0,Grooming
+1254,0,No Activity
+1255,0,Grooming
 1256,0,Grooming
-1257,2,Toileting
-1258,0,Breakfast
-1259,0,Breakfast
-1260,0,Breakfast
-1261,0,Breakfast
-1262,0,Spare_Time/TV
+1257,0,No Activity
+1258,0,No Activity
+1259,0,No Activity
+1260,0,No Activity
+1261,0,No Activity
+1262,0,No Activity
 1263,0,Spare_Time/TV
-1264,0,Spare_Time/TV
-1265,1,Leaving
-1266,1,Leaving
-1267,2,Toileting
-1268,0,Toileting
-1269,0,Spare_Time/TV
-1270,0,Spare_Time/TV
-1271,0,Spare_Time/TV
-1272,0,Spare_Time/TV
-1273,0,Lunch
-1274,0,Lunch
-1275,0,Lunch
-1276,0,Lunch
-1277,0,Lunch
-1278,0,Lunch
-1279,0,Lunch
-1280,0,Lunch
+1264,1,Spare_Time/TV
+1265,0,Grooming
+1266,0,Grooming
+1267,0,Grooming
+1268,0,No Activity
+1269,2,No Activity
+1270,0,Grooming
+1271,0,Toileting
+1272,0,Toileting
+1273,0,Leaving
+1274,0,Leaving
+1275,0,Leaving
+1276,0,Toileting
+1277,2,Toileting
+1278,0,Toileting
+1279,0,Snack
+1280,0,Snack
 1281,0,Snack
-1282,0,Snack
-1283,0,Snack
+1282,3,Snack
+1283,3,Snack
 1284,0,Snack
-1285,0,Leaving
-1286,1,Leaving
-1287,1,Leaving
-1288,0,Leaving
-1289,2,Toileting
-1290,0,Spare_Time/TV
-1291,0,Spare_Time/TV
-1292,0,Spare_Time/TV
+1285,0,Snack
+1286,0,Spare_Time/TV
+1287,1,Spare_Time/TV
+1288,0,Spare_Time/TV
+1289,0,No Activity
+1290,0,No Activity
+1291,0,No Activity
+1292,0,No Activity
 1293,0,Spare_Time/TV
-1294,0,Dinner
-1295,0,Dinner
-1296,0,Dinner
-1297,0,Dinner
-1298,0,Dinner
-1299,0,Dinner
+1294,1,Spare_Time/TV
+1295,0,Spare_Time/TV
+1296,0,Spare_Time/TV
+1297,0,Spare_Time/TV
+1298,0,Spare_Time/TV
+1299,3,Dinner
 1300,0,Dinner
-1301,0,Spare_Time/TV
-1302,0,Spare_Time/TV
-1303,0,Spare_Time/TV
-1304,0,Spare_Time/TV
-1305,0,Toileting
-1306,4,Sleeping
-1307,0,Sleeping
-1308,0,Toileting
-1309,4,Sleeping
-1310,0,Sleeping
-1311,2,Toileting
-1312,0,Breakfast
-1313,0,Breakfast
-1314,0,Breakfast
-1315,0,Breakfast
-1316,0,Breakfast
-1317,0,Showering
-1318,0,Grooming
-1319,2,Toileting
-1320,1,Leaving
-1321,1,Leaving
-1322,0,Leaving
-1323,0,Spare_Time/TV
-1324,0,Spare_Time/TV
-1325,0,Spare_Time/TV
-1326,0,Spare_Time/TV
-1327,0,Spare_Time/TV
-1328,0,Spare_Time/TV
-1329,0,Spare_Time/TV
-1330,0,Spare_Time/TV
-1331,0,Spare_Time/TV
-1332,1,Leaving
-1333,1,Leaving
-1334,2,Toileting
-1335,0,Spare_Time/TV
-1336,0,Spare_Time/TV
-1337,0,Spare_Time/TV
-1338,0,Spare_Time/TV
-1339,0,Grooming
-1340,0,Grooming
-1341,0,Grooming
-1342,4,Sleeping
-1343,0,Sleeping
-1344,2,Toileting
-1345,0,Toileting
-1346,0,Breakfast
-1347,0,Breakfast
-1348,0,Breakfast
-1349,0,Breakfast
-1350,0,Breakfast
-1351,0,Spare_Time/TV
+1301,0,Dinner
+1302,0,Dinner
+1303,0,No Activity
+1304,0,No Activity
+1305,0,No Activity
+1306,0,No Activity
+1307,0,No Activity
+1308,0,No Activity
+1309,0,Grooming
+1310,0,No Activity
+1311,0,No Activity
+1312,0,Snack
+1313,0,Snack
+1314,0,Snack
+1315,0,Snack
+1316,1,Spare_Time/TV
+1317,0,No Activity
+1318,0,No Activity
+1319,0,No Activity
+1320,0,No Activity
+1321,1,No Activity
+1322,0,No Activity
+1323,2,Toileting
+1324,0,Sleeping
+1325,4,Sleeping
+1326,0,Sleeping
+1327,0,No Activity
+1328,0,No Activity
+1329,0,No Activity
+1330,0,No Activity
+1331,0,No Activity
+1332,0,No Activity
+1333,0,No Activity
+1334,0,No Activity
+1335,2,No Activity
+1336,0,Breakfast
+1337,0,Breakfast
+1338,0,Breakfast
+1339,0,Breakfast
+1340,0,Breakfast
+1341,0,No Activity
+1342,0,No Activity
+1343,0,No Activity
+1344,0,No Activity
+1345,0,Grooming
+1346,0,Grooming
+1347,0,Snack
+1348,0,Snack
+1349,0,Snack
+1350,0,Spare_Time/TV
+1351,1,Spare_Time/TV
 1352,0,Spare_Time/TV
-1353,0,Spare_Time/TV
-1354,0,Spare_Time/TV
-1355,0,Spare_Time/TV
-1356,0,Grooming
-1357,0,Grooming
-1358,0,Snack
-1359,0,Snack
-1360,0,Snack
-1361,0,Spare_Time/TV
-1362,0,Spare_Time/TV
-1363,0,Spare_Time/TV
+1353,2,No Activity
+1354,0,Snack
+1355,0,Snack
+1356,0,Snack
+1357,0,No Activity
+1358,0,No Activity
+1359,0,No Activity
+1360,0,No Activity
+1361,0,No Activity
+1362,0,No Activity
+1363,0,No Activity
 1364,0,Spare_Time/TV
 1365,0,Spare_Time/TV
 1366,0,Spare_Time/TV
 1367,0,Spare_Time/TV
 1368,0,Spare_Time/TV
-1369,0,Spare_Time/TV
-1370,0,Grooming
-1371,0,Showering
-1372,0,Grooming
-1373,0,Spare_Time/TV
-1374,0,Spare_Time/TV
-1375,0,Spare_Time/TV
-1376,1,Leaving
-1377,1,Leaving
-1378,0,Spare_Time/TV
-1379,0,Spare_Time/TV
+1369,0,Lunch
+1370,0,Lunch
+1371,0,Lunch
+1372,0,Lunch
+1373,0,Lunch
+1374,0,Lunch
+1375,0,Lunch
+1376,0,Lunch
+1377,0,Lunch
+1378,0,Lunch
+1379,0,No Activity
 1380,0,Spare_Time/TV
 1381,0,Spare_Time/TV
-1382,0,Spare_Time/TV
+1382,1,Spare_Time/TV
 1383,0,Spare_Time/TV
 1384,0,Spare_Time/TV
-1385,0,Spare_Time/TV
-1386,0,Snack
-1387,0,Snack
-1388,0,Snack
-1389,0,Spare_Time/TV
-1390,0,Spare_Time/TV
-1391,0,Spare_Time/TV
-1392,0,Grooming
-1393,0,Grooming
-1394,2,Toileting
-1395,0,Grooming
-1396,0,Grooming
-1397,0,Grooming
-1398,2,Toileting
-1399,0,Toileting
-1400,0,Toileting
-1401,0,Toileting
-1402,4,Sleeping
-1403,0,Sleeping
-1404,2,Toileting
-1405,0,Toileting
-1406,0,Breakfast
-1407,0,Breakfast
-1408,0,Breakfast
-1409,0,Breakfast
-1410,0,Breakfast
-1411,0,Breakfast
-1412,0,Breakfast
-1413,0,Breakfast
-1414,0,Breakfast
-1415,0,Grooming
-1416,0,Grooming
-1417,0,Grooming
-1418,2,Toileting
-1419,0,Grooming
-1420,0,Spare_Time/TV
-1421,0,Spare_Time/TV
-1422,0,Spare_Time/TV
-1423,0,Spare_Time/TV
+1385,0,No Activity
+1386,0,No Activity
+1387,0,No Activity
+1388,0,No Activity
+1389,0,No Activity
+1390,2,Toileting
+1391,0,Toileting
+1392,0,No Activity
+1393,0,Leaving
+1394,0,Leaving
+1395,0,Spare_Time/TV
+1396,1,Spare_Time/TV
+1397,0,Spare_Time/TV
+1398,0,Spare_Time/TV
+1399,1,Spare_Time/TV
+1400,0,Spare_Time/TV
+1401,0,Spare_Time/TV
+1402,0,No Activity
+1403,0,No Activity
+1404,1,Spare_Time/TV
+1405,0,Grooming
+1406,0,Grooming
+1407,0,No Activity
+1408,0,No Activity
+1409,2,No Activity
+1410,0,No Activity
+1411,0,Grooming
+1412,0,No Activity
+1413,0,Sleeping
+1414,4,Sleeping
+1415,0,Sleeping
+1416,2,Toileting
+1417,0,Toileting
+1418,0,Breakfast
+1419,0,Breakfast
+1420,0,Breakfast
+1421,0,Breakfast
+1422,0,Breakfast
+1423,0,Breakfast
 1424,0,Spare_Time/TV
-1425,0,Spare_Time/TV
-1426,1,Leaving
-1427,1,Leaving
-1428,0,Snack
-1429,0,Snack
-1430,0,Snack
-1431,0,Spare_Time/TV
-1432,0,Spare_Time/TV
-1433,0,Spare_Time/TV
-1434,0,Spare_Time/TV
-1435,0,Snack
-1436,0,Snack
-1437,0,Snack
-1438,0,Snack
-1439,0,Spare_Time/TV
-1440,0,Spare_Time/TV
-1441,0,Spare_Time/TV
-1442,0,Toileting
-1443,0,Toileting
-1444,0,Grooming
-1445,1,Leaving
-1446,1,Leaving
-1447,0,Leaving
-1448,0,Spare_Time/TV
-1449,0,Spare_Time/TV
-1450,2,Toileting
-1451,0,Spare_Time/TV
+1425,1,Spare_Time/TV
+1426,0,Spare_Time/TV
+1427,0,No Activity
+1428,0,No Activity
+1429,0,Grooming
+1430,2,No Activity
+1431,0,Grooming
+1432,0,Leaving
+1433,0,Leaving
+1434,0,No Activity
+1435,0,No Activity
+1436,0,Spare_Time/TV
+1437,1,Spare_Time/TV
+1438,0,Spare_Time/TV
+1439,0,No Activity
+1440,0,No Activity
+1441,0,No Activity
+1442,0,No Activity
+1443,0,No Activity
+1444,0,No Activity
+1445,0,No Activity
+1446,0,No Activity
+1447,0,No Activity
+1448,0,No Activity
+1449,0,No Activity
+1450,0,No Activity
+1451,0,No Activity
 1452,0,Spare_Time/TV
 1453,0,Spare_Time/TV
-1454,0,Snack
-1455,0,Snack
-1456,0,Snack
-1457,1,Leaving
-1458,1,Leaving
-1459,0,Dinner
-1460,0,Dinner
-1461,0,Dinner
-1462,0,Dinner
-1463,0,Dinner
-1464,0,Dinner
-1465,0,Dinner
-1466,0,Dinner
-1467,0,Spare_Time/TV
-1468,0,Spare_Time/TV
-1469,0,Spare_Time/TV
-1470,0,Spare_Time/TV
-1471,0,Spare_Time/TV
-1472,0,Toileting
-1473,0,Toileting
-1474,0,Grooming
-1475,0,Grooming
-1476,0,Sleeping
-1477,0,Grooming
-1478,0,Sleeping
-1479,4,Sleeping
-1480,0,Sleeping
-1481,0,Breakfast
-1482,0,Breakfast
-1483,0,Breakfast
-1484,0,Breakfast
-1485,0,Breakfast
-1486,0,Breakfast
-1487,0,Breakfast
-1488,2,Toileting
-1489,0,Toileting
-1490,0,Toileting
-1491,0,Toileting
-1492,0,Toileting
-1493,0,Grooming
-1494,0,Grooming
-1495,0,Grooming
-1496,0,Grooming
-1497,0,Grooming
-1498,0,Grooming
-1499,2,Toileting
-1500,1,Leaving
-1501,1,Leaving
-1502,0,Spare_Time/TV
-1503,0,Spare_Time/TV
-1504,0,Spare_Time/TV
-1505,0,Spare_Time/TV
-1506,0,Spare_Time/TV
-1507,0,Spare_Time/TV
-1508,0,Spare_Time/TV
-1509,0,Grooming
-1510,0,Toileting
-1511,0,Toileting
-1512,0,Toileting
-1513,0,Toileting
-1514,0,Spare_Time/TV
-1515,0,Spare_Time/TV
-1516,0,Spare_Time/TV
-1517,0,Snack
-1518,0,Snack
-1519,0,Snack
-1520,0,Spare_Time/TV
-1521,0,Spare_Time/TV
-1522,0,Spare_Time/TV
-1523,0,Spare_Time/TV
-1524,0,Spare_Time/TV
-1525,0,Spare_Time/TV
-1526,0,Grooming
-1527,0,Grooming
-1528,0,Grooming
-1529,0,Grooming
-1530,0,Spare_Time/TV
-1531,0,Spare_Time/TV
-1532,0,Dinner
-1533,0,Dinner
-1534,0,Dinner
-1535,0,Dinner
-1536,0,Dinner
-1537,0,Dinner
+1454,1,Spare_Time/TV
+1455,0,Spare_Time/TV
+1456,0,Lunch
+1457,0,Lunch
+1458,0,Lunch
+1459,0,Lunch
+1460,0,Lunch
+1461,0,Lunch
+1462,0,Lunch
+1463,0,Lunch
+1464,0,Spare_Time/TV
+1465,0,Spare_Time/TV
+1466,0,Spare_Time/TV
+1467,0,No Activity
+1468,0,No Activity
+1469,0,No Activity
+1470,0,No Activity
+1471,0,No Activity
+1472,0,Spare_Time/TV
+1473,0,Spare_Time/TV
+1474,1,Spare_Time/TV
+1475,0,Snack
+1476,0,Snack
+1477,0,Snack
+1478,0,Snack
+1479,0,Spare_Time/TV
+1480,1,Spare_Time/TV
+1481,0,Spare_Time/TV
+1482,0,Spare_Time/TV
+1483,1,Spare_Time/TV
+1484,0,Spare_Time/TV
+1485,0,Spare_Time/TV
+1486,0,Spare_Time/TV
+1487,0,Spare_Time/TV
+1488,0,No Activity
+1489,0,No Activity
+1490,0,No Activity
+1491,0,No Activity
+1492,0,No Activity
+1493,0,No Activity
+1494,0,Toileting
+1495,2,Toileting
+1496,0,No Activity
+1497,0,No Activity
+1498,0,No Activity
+1499,0,No Activity
+1500,0,No Activity
+1501,0,No Activity
+1502,0,No Activity
+1503,0,No Activity
+1504,0,No Activity
+1505,0,Snack
+1506,0,Snack
+1507,0,Snack
+1508,0,Snack
+1509,0,No Activity
+1510,0,Grooming
+1511,0,Grooming
+1512,0,No Activity
+1513,0,No Activity
+1514,0,Sleeping
+1515,4,Sleeping
+1516,0,Sleeping
+1517,0,Sleeping
+1518,4,Sleeping
+1519,0,Sleeping
+1520,2,Toileting
+1521,0,Toileting
+1522,0,Breakfast
+1523,0,Breakfast
+1524,0,Breakfast
+1525,0,Breakfast
+1526,0,Breakfast
+1527,0,Breakfast
+1528,0,No Activity
+1529,0,No Activity
+1530,0,No Activity
+1531,0,No Activity
+1532,0,Snack
+1533,0,Snack
+1534,0,Snack
+1535,0,Spare_Time/TV
+1536,1,Spare_Time/TV
+1537,0,Spare_Time/TV
 1538,0,Spare_Time/TV
 1539,0,Spare_Time/TV
-1540,0,Spare_Time/TV
-1541,0,Spare_Time/TV
+1540,0,Snack
+1541,0,Grooming
 1542,0,Spare_Time/TV
-1543,0,Toileting
-1544,0,Sleeping
-1545,0,Sleeping
-1546,4,Sleeping
-1547,0,Sleeping
-1548,2,Toileting
-1549,0,Toileting
-1550,0,Toileting
-1551,0,Toileting
-1552,0,Toileting
-1553,0,Breakfast
-1554,0,Breakfast
-1555,0,Breakfast
-1556,0,Breakfast
-1557,0,Breakfast
-1558,0,Breakfast
-1559,0,Breakfast
-1560,0,Breakfast
-1561,0,Breakfast
-1562,0,Breakfast
-1563,0,Breakfast
-1564,0,Breakfast
-1565,0,Breakfast
-1566,0,Breakfast
-1567,0,Breakfast
-1568,0,Breakfast
-1569,0,Breakfast
-1570,0,Grooming
-1571,0,Showering
-1572,0,Grooming
-1573,0,Spare_Time/TV
-1574,0,Grooming
-1575,0,Grooming
-1576,0,Toileting
-1577,0,Grooming
-1578,0,Spare_Time/TV
-1579,0,Spare_Time/TV
-1580,0,Spare_Time/TV
-1581,0,Lunch
-1582,0,Lunch
-1583,0,Lunch
-1584,0,Lunch
-1585,0,Lunch
-1586,0,Lunch
-1587,0,Lunch
-1588,0,Lunch
-1589,0,Lunch
-1590,0,Lunch
-1591,0,Lunch
-1592,0,Lunch
-1593,0,Lunch
-1594,0,Lunch
-1595,0,Spare_Time/TV
+1543,1,Spare_Time/TV
+1544,0,Spare_Time/TV
+1545,0,Spare_Time/TV
+1546,0,Spare_Time/TV
+1547,0,Spare_Time/TV
+1548,1,Spare_Time/TV
+1549,0,Spare_Time/TV
+1550,0,Spare_Time/TV
+1551,0,No Activity
+1552,2,No Activity
+1553,0,Lunch
+1554,0,Lunch
+1555,0,Lunch
+1556,0,Lunch
+1557,0,Lunch
+1558,0,Lunch
+1559,0,Lunch
+1560,0,Lunch
+1561,0,Lunch
+1562,0,Spare_Time/TV
+1563,0,Snack
+1564,0,Snack
+1565,0,Spare_Time/TV
+1566,0,Spare_Time/TV
+1567,1,Spare_Time/TV
+1568,0,Spare_Time/TV
+1569,0,Spare_Time/TV
+1570,0,Snack
+1571,0,Spare_Time/TV
+1572,0,Spare_Time/TV
+1573,1,Spare_Time/TV
+1574,0,Spare_Time/TV
+1575,0,No Activity
+1576,0,No Activity
+1577,0,No Activity
+1578,0,No Activity
+1579,0,No Activity
+1580,0,No Activity
+1581,0,No Activity
+1582,0,No Activity
+1583,0,No Activity
+1584,0,No Activity
+1585,0,Grooming
+1586,2,No Activity
+1587,0,No Activity
+1588,0,No Activity
+1589,0,No Activity
+1590,0,No Activity
+1591,0,No Activity
+1592,0,No Activity
+1593,0,No Activity
+1594,0,No Activity
+1595,0,No Activity
 1596,0,Snack
 1597,0,Snack
 1598,0,Snack
 1599,0,Snack
-1600,2,Toileting
-1601,0,Spare_Time/TV
-1602,0,Spare_Time/TV
-1603,0,Spare_Time/TV
-1604,0,Spare_Time/TV
-1605,0,Spare_Time/TV
-1606,0,Spare_Time/TV
-1607,0,Spare_Time/TV
-1608,0,Spare_Time/TV
+1600,0,Snack
+1601,0,Snack
+1602,0,No Activity
+1603,0,No Activity
+1604,2,No Activity
+1605,0,Grooming
+1606,0,Grooming
+1607,0,No Activity
+1608,0,No Activity
 1609,0,Spare_Time/TV
 1610,0,Spare_Time/TV
-1611,0,Spare_Time/TV
-1612,0,Dinner
-1613,0,Dinner
+1611,1,Spare_Time/TV
+1612,0,Spare_Time/TV
+1613,0,Grooming
 1614,0,Grooming
-1615,0,Grooming
-1616,0,Grooming
-1617,0,Sleeping
-1618,4,Sleeping
-1619,0,Sleeping
-1620,2,Toileting
-1621,0,Toileting
-1622,0,Toileting
+1615,4,Sleeping
+1616,0,Sleeping
+1617,2,Toileting
+1618,0,Toileting
+1619,0,No Activity
+1620,0,No Activity
+1621,0,Breakfast
+1622,0,Breakfast
 1623,0,Breakfast
 1624,0,Breakfast
-1625,0,Breakfast
-1626,0,Grooming
-1627,0,Showering
-1628,0,Grooming
-1629,0,Grooming
-1630,0,Grooming
-1631,0,Snack
-1632,0,Snack
-1633,0,Snack
-1634,0,Snack
-1635,1,Leaving
-1636,1,Leaving
-1637,2,Toileting
-1638,0,Toileting
-1639,0,Toileting
-1640,0,Lunch
-1641,0,Lunch
-1642,0,Snack
-1643,0,Snack
-1644,0,Snack
-1645,0,Snack
+1625,0,No Activity
+1626,0,No Activity
+1627,0,No Activity
+1628,0,No Activity
+1629,0,No Activity
+1630,0,No Activity
+1631,0,Grooming
+1632,0,Grooming
+1633,0,Grooming
+1634,0,Grooming
+1635,0,Grooming
+1636,0,Grooming
+1637,0,Grooming
+1638,0,No Activity
+1639,0,Sleeping
+1640,0,Sleeping
+1641,0,No Activity
+1642,0,No Activity
+1643,0,No Activity
+1644,0,No Activity
+1645,0,No Activity
 1646,0,Snack
 1647,0,Snack
 1648,0,Snack
-1649,2,Toileting
-1650,0,Toileting
-1651,0,Spare_Time/TV
-1652,0,Spare_Time/TV
+1649,0,Snack
+1650,0,No Activity
+1651,0,No Activity
+1652,0,No Activity
 1653,0,Grooming
 1654,0,Grooming
-1655,2,Toileting
-1656,0,Toileting
-1657,0,Sleeping
-1658,0,Sleeping
-1659,4,Sleeping
-1660,0,Sleeping
-1661,0,Toileting
-1662,0,Sleeping
-1663,2,Toileting
-1664,0,Breakfast
-1665,0,Breakfast
-1666,0,Breakfast
-1667,0,Breakfast
-1668,2,Toileting
-1669,0,Grooming
-1670,0,Grooming
-1671,0,Snack
-1672,0,Snack
-1673,0,Snack
-1674,0,Snack
-1675,1,Leaving
-1676,1,Leaving
-1677,0,Lunch
-1678,0,Lunch
-1679,0,Lunch
-1680,0,Lunch
-1681,0,Lunch
-1682,0,Lunch
-1683,0,Lunch
-1684,0,Lunch
-1685,0,Lunch
+1655,0,No Activity
+1656,0,Spare_Time/TV
+1657,0,Spare_Time/TV
+1658,1,Spare_Time/TV
+1659,0,Spare_Time/TV
+1660,0,Spare_Time/TV
+1661,0,Lunch
+1662,0,Lunch
+1663,0,Lunch
+1664,2,Toileting
+1665,0,Toileting
+1666,0,Toileting
+1667,0,Toileting
+1668,0,No Activity
+1669,0,No Activity
+1670,0,No Activity
+1671,0,No Activity
+1672,0,No Activity
+1673,0,Spare_Time/TV
+1674,1,Spare_Time/TV
+1675,0,Spare_Time/TV
+1676,0,Spare_Time/TV
+1677,0,No Activity
+1678,2,Toileting
+1679,0,Toileting
+1680,0,Snack
+1681,0,Snack
+1682,0,Spare_Time/TV
+1683,0,Spare_Time/TV
+1684,1,Spare_Time/TV
+1685,0,Spare_Time/TV
 1686,0,Snack
 1687,0,Snack
 1688,0,Snack
-1689,0,Spare_Time/TV
-1690,0,Spare_Time/TV
-1691,0,Spare_Time/TV
-1692,0,Spare_Time/TV
-1693,2,Toileting
-1694,0,Toileting
-1695,2,Toileting
-1696,0,Toileting
-1697,0,Spare_Time/TV
-1698,0,Spare_Time/TV
-1699,0,Spare_Time/TV
-1700,0,Spare_Time/TV
-1701,0,Spare_Time/TV
-1702,0,Spare_Time/TV
-1703,0,Grooming
-1704,0,Grooming
+1689,0,No Activity
+1690,0,No Activity
+1691,0,No Activity
+1692,0,No Activity
+1693,0,Spare_Time/TV
+1694,1,Spare_Time/TV
+1695,0,Spare_Time/TV
+1696,0,Leaving
+1697,0,Leaving
+1698,2,Toileting
+1699,0,No Activity
+1700,0,No Activity
+1701,0,No Activity
+1702,0,No Activity
+1703,0,No Activity
+1704,0,No Activity
 1705,0,Spare_Time/TV
+1706,1,No Activity
+1707,0,Grooming
+1708,0,Grooming
+1709,0,Sleeping
+1710,4,Sleeping
+1711,0,Sleeping
+1712,0,Sleeping
+1713,0,Breakfast
+1714,0,Breakfast
+1715,0,Breakfast
+1716,0,Breakfast
+1717,0,Breakfast
+1718,0,No Activity
+1719,0,No Activity
+1720,2,No Activity
+1721,0,Spare_Time/TV
+1722,1,Spare_Time/TV
+1723,0,Spare_Time/TV
+1724,0,Snack
+1725,0,Snack
+1726,0,Snack
+1727,0,Snack
+1728,0,No Activity
+1729,0,No Activity
+1730,0,No Activity
+1731,0,Showering
+1732,0,Grooming
+1733,0,Grooming
+1734,0,No Activity
+1735,0,No Activity
+1736,0,Grooming
+1737,2,Toileting
+1738,0,No Activity
+1739,0,No Activity
+1740,0,No Activity
+1741,0,No Activity
+1742,0,Snack
+1743,0,Snack
+1744,0,No Activity
+1745,0,No Activity
+1746,0,No Activity
+1747,0,No Activity
+1748,0,Spare_Time/TV
+1749,1,Spare_Time/TV
+1750,0,Spare_Time/TV
+1751,0,No Activity
+1752,0,No Activity
+1753,0,No Activity
+1754,0,No Activity
+1755,0,No Activity
+1756,0,No Activity
+1757,0,No Activity
+1758,0,No Activity
+1759,0,No Activity
+1760,0,No Activity
+1761,0,Spare_Time/TV
+1762,0,Spare_Time/TV
+1763,0,Spare_Time/TV
+1764,0,Grooming
+1765,0,Grooming
+1766,0,Grooming
+1767,0,Grooming
+1768,0,No Activity
+1769,0,Leaving
+1770,0,Leaving
+1771,0,Leaving
+1772,0,Leaving
+1773,0,Leaving
+1774,0,Leaving
+1775,0,Toileting
+1776,2,No Activity
+1777,0,Toileting
+1778,0,Grooming
+1779,0,Grooming
+1780,2,No Activity
+1781,0,No Activity
+1782,0,Grooming
+1783,1,Spare_Time/TV
+1784,0,Snack
+1785,0,Snack
+1786,0,Snack
+1787,0,Snack
+1788,0,Snack
+1789,0,No Activity
+1790,0,No Activity
+1791,0,No Activity
+1792,0,No Activity
+1793,0,No Activity
+1794,0,No Activity
+1795,0,No Activity
+1796,0,Spare_Time/TV
+1797,0,Spare_Time/TV
+1798,0,Spare_Time/TV
+1799,0,Spare_Time/TV
+1800,0,Spare_Time/TV
+1801,0,No Activity
+1802,0,No Activity
+1803,0,No Activity
+1804,0,No Activity
+1805,0,No Activity
+1806,0,No Activity
+1807,0,No Activity
+1808,0,No Activity
+1809,0,Toileting
+1810,2,No Activity
+1811,0,Toileting
+1812,0,Spare_Time/TV
+1813,0,Spare_Time/TV
+1814,0,Dinner
+1815,0,Dinner
+1816,0,Dinner
+1817,0,Dinner
+1818,0,Spare_Time/TV
+1819,0,Spare_Time/TV
+1820,0,Snack
+1821,0,Snack
+1822,0,Snack
+1823,0,No Activity
+1824,0,No Activity
+1825,1,Spare_Time/TV
+1826,0,No Activity
+1827,0,No Activity
+1828,0,Spare_Time/TV
+1829,1,Spare_Time/TV
+1830,0,Spare_Time/TV
+1831,0,Sleeping
+1832,4,Sleeping
+1833,0,Sleeping
+1834,2,No Activity
+1835,0,No Activity
+1836,0,No Activity
+1837,0,No Activity
+1838,0,No Activity
+1839,0,No Activity
+1840,2,No Activity
+1841,0,Grooming
+1842,2,Toileting
+1843,0,No Activity
+1844,0,No Activity
+1845,0,Breakfast
+1846,0,Breakfast
+1847,0,Breakfast
+1848,0,Breakfast
+1849,0,No Activity
+1850,0,No Activity
+1851,0,Spare_Time/TV
+1852,1,Spare_Time/TV
+1853,0,Spare_Time/TV
+1854,0,No Activity
+1855,0,No Activity
+1856,0,Leaving
+1857,0,Leaving
+1858,2,Toileting
+1859,0,Toileting
+1860,0,No Activity
+1861,0,No Activity
+1862,0,No Activity
+1863,0,No Activity
+1864,0,No Activity
+1865,0,Spare_Time/TV
+1866,1,Spare_Time/TV
+1867,0,Spare_Time/TV
+1868,0,Spare_Time/TV
+1869,0,No Activity
+1870,0,No Activity
+1871,0,No Activity
+1872,0,Lunch
+1873,0,Lunch
+1874,0,Lunch
+1875,0,Lunch
+1876,0,Lunch
+1877,0,Lunch
+1878,0,Lunch
+1879,0,Lunch
+1880,0,No Activity
+1881,0,Snack
+1882,0,Snack
+1883,0,Snack
+1884,0,Snack
+1885,0,No Activity
+1886,0,No Activity
+1887,0,No Activity
+1888,0,No Activity
+1889,0,No Activity
+1890,0,Leaving
+1891,0,Leaving
+1892,0,Leaving
+1893,0,Leaving
+1894,0,No Activity
+1895,2,Toileting
+1896,0,Spare_Time/TV
+1897,1,Spare_Time/TV
+1898,0,Spare_Time/TV
+1899,0,Spare_Time/TV
+1900,0,No Activity
+1901,0,No Activity
+1902,0,No Activity
+1903,0,No Activity
+1904,0,Dinner
+1905,0,Dinner
+1906,0,Dinner
+1907,0,Dinner
+1908,0,Dinner
+1909,0,Dinner
+1910,0,Dinner
+1911,1,Spare_Time/TV
+1912,0,Spare_Time/TV
+1913,0,Spare_Time/TV
+1914,0,No Activity
+1915,0,No Activity
+1916,0,No Activity
+1917,0,No Activity
+1918,0,No Activity
+1919,0,No Activity
+1920,1,Spare_Time/TV
+1921,0,No Activity
+1922,0,No Activity
+1923,0,No Activity
+1924,0,No Activity
+1925,1,No Activity
+1926,0,No Activity
+1927,0,No Activity
+1928,0,No Activity
+1929,2,No Activity
+1930,0,Toileting
+1931,4,Sleeping
+1932,0,Sleeping
+1933,2,No Activity
+1934,0,Toileting
+1935,4,Sleeping
+1936,0,Sleeping
+1937,2,Toileting
+1938,0,No Activity
+1939,0,Breakfast
+1940,0,Breakfast
+1941,0,Breakfast
+1942,0,Breakfast
+1943,0,Breakfast
+1944,0,No Activity
+1945,0,No Activity
+1946,0,No Activity
+1947,0,No Activity
+1948,0,No Activity
+1949,0,No Activity
+1950,0,Showering
+1951,0,Grooming
+1952,0,No Activity
+1953,0,No Activity
+1954,0,No Activity
+1955,2,Toileting
+1956,0,No Activity
+1957,0,No Activity
+1958,0,Leaving
+1959,0,Leaving
+1960,0,Leaving
+1961,0,No Activity
+1962,0,No Activity
+1963,0,No Activity
+1964,0,No Activity
+1965,0,No Activity
+1966,0,Spare_Time/TV
+1967,0,Spare_Time/TV
+1968,1,Spare_Time/TV
+1969,0,Spare_Time/TV
+1970,0,Spare_Time/TV
+1971,0,Spare_Time/TV
+1972,0,Spare_Time/TV
+1973,1,Spare_Time/TV
+1974,0,Spare_Time/TV
+1975,0,Leaving
+1976,0,Leaving
+1977,2,Toileting
+1978,0,No Activity
+1979,0,No Activity
+1980,0,Spare_Time/TV
+1981,0,Spare_Time/TV
+1982,0,Spare_Time/TV
+1983,1,No Activity
+1984,0,Spare_Time/TV
+1985,0,No Activity
+1986,0,No Activity
+1987,0,No Activity
+1988,0,No Activity
+1989,0,No Activity
+1990,0,No Activity
+1991,0,No Activity
+1992,0,No Activity
+1993,0,No Activity
+1994,0,No Activity
+1995,0,No Activity
+1996,0,No Activity
+1997,0,No Activity
+1998,0,No Activity
+1999,0,No Activity
+2000,0,No Activity
+2001,0,No Activity
+2002,0,No Activity
+2003,0,Grooming
+2004,2,No Activity
+2005,0,Grooming
+2006,0,Grooming
+2007,4,Sleeping
+2008,0,Sleeping
+2009,2,Toileting
+2010,0,Toileting
+2011,0,Breakfast
+2012,0,Breakfast
+2013,0,Breakfast
+2014,0,Breakfast
+2015,0,Breakfast
+2016,0,No Activity
+2017,0,No Activity
+2018,0,No Activity
+2019,0,No Activity
+2020,0,No Activity
+2021,0,No Activity
+2022,0,No Activity
+2023,0,Spare_Time/TV
+2024,0,Spare_Time/TV
+2025,1,Spare_Time/TV
+2026,0,Spare_Time/TV
+2027,0,Spare_Time/TV
+2028,0,No Activity
+2029,0,No Activity
+2030,0,No Activity
+2031,0,Grooming
+2032,0,Grooming
+2033,0,Snack
+2034,0,Snack
+2035,0,Snack
+2036,0,Spare_Time/TV
+2037,0,Spare_Time/TV
+2038,1,Spare_Time/TV
+2039,0,Spare_Time/TV
+2040,0,Spare_Time/TV
+2041,0,No Activity
+2042,2,No Activity
+2043,0,Spare_Time/TV
+2044,1,Spare_Time/TV
+2045,0,Spare_Time/TV
+2046,0,Spare_Time/TV
+2047,0,No Activity
+2048,0,No Activity
+2049,0,No Activity
+2050,0,No Activity
+2051,0,No Activity
+2052,0,No Activity
+2053,0,No Activity
+2054,0,Grooming
+2055,0,Showering
+2056,0,Grooming
+2057,0,No Activity
+2058,0,No Activity
+2059,0,No Activity
+2060,0,No Activity
+2061,0,Spare_Time/TV
+2062,1,Spare_Time/TV
+2063,0,Spare_Time/TV
+2064,0,No Activity
+2065,0,No Activity
+2066,0,No Activity
+2067,0,No Activity
+2068,0,Leaving
+2069,0,Leaving
+2070,0,No Activity
+2071,0,No Activity
+2072,0,Spare_Time/TV
+2073,1,Spare_Time/TV
+2074,0,Spare_Time/TV
+2075,0,No Activity
+2076,0,No Activity
+2077,0,No Activity
+2078,0,No Activity
+2079,0,No Activity
+2080,0,No Activity
+2081,0,No Activity
+2082,0,Spare_Time/TV
+2083,0,Spare_Time/TV
+2084,0,Spare_Time/TV
+2085,0,Spare_Time/TV
+2086,0,Spare_Time/TV
+2087,0,Snack
+2088,0,Snack
+2089,0,Snack
+2090,0,Spare_Time/TV
+2091,1,Spare_Time/TV
+2092,0,Spare_Time/TV
+2093,0,No Activity
+2094,0,No Activity
+2095,0,No Activity
+2096,0,Grooming
+2097,0,Grooming
+2098,2,Toileting
+2099,0,Grooming
+2100,0,No Activity
+2101,0,No Activity
+2102,0,No Activity
+2103,0,No Activity
+2104,0,No Activity
+2105,0,No Activity
+2106,0,No Activity
+2107,0,Grooming
+2108,0,Grooming
+2109,0,No Activity
+2110,0,No Activity
+2111,2,Toileting
+2112,0,Toileting
+2113,0,Toileting
+2114,0,Toileting
+2115,4,Sleeping
+2116,0,Sleeping
+2117,2,Toileting
+2118,0,Toileting
+2119,0,No Activity
+2120,0,No Activity
+2121,0,Breakfast
+2122,0,Breakfast
+2123,0,Breakfast
+2124,0,Breakfast
+2125,0,Breakfast
+2126,0,Breakfast
+2127,0,Breakfast
+2128,0,Breakfast
+2129,0,Breakfast
+2130,0,Grooming
+2131,0,Grooming
+2132,0,No Activity
+2133,0,No Activity
+2134,0,Grooming
+2135,2,Toileting
+2136,0,Grooming
+2137,0,No Activity
+2138,0,No Activity
+2139,0,No Activity
+2140,0,No Activity
+2141,0,Spare_Time/TV
+2142,1,Spare_Time/TV
+2143,0,Spare_Time/TV
+2144,0,No Activity
+2145,0,No Activity
+2146,0,No Activity
+2147,0,No Activity
+2148,0,Spare_Time/TV
+2149,1,Spare_Time/TV
+2150,0,Spare_Time/TV
+2151,0,Leaving
+2152,0,Leaving
+2153,0,Snack
+2154,0,Snack
+2155,0,Snack
+2156,0,No Activity
+2157,0,No Activity
+2158,0,No Activity
+2159,0,No Activity
+2160,0,No Activity
+2161,0,No Activity
+2162,0,No Activity
+2163,0,Spare_Time/TV
+2164,0,Spare_Time/TV
+2165,1,Spare_Time/TV
+2166,0,Spare_Time/TV
+2167,0,Snack
+2168,0,Snack
+2169,0,Snack
+2170,0,Snack
+2171,0,No Activity
+2172,0,Spare_Time/TV
+2173,1,Spare_Time/TV
+2174,0,Spare_Time/TV
+2175,2,No Activity
+2176,0,Toileting
+2177,0,Toileting
+2178,0,Grooming
+2179,2,No Activity
+2180,0,No Activity
+2181,0,Leaving
+2182,0,Leaving
+2183,0,Leaving
+2184,1,Spare_Time/TV
+2185,0,Spare_Time/TV
+2186,2,Toileting
+2187,0,Spare_Time/TV
+2188,1,Spare_Time/TV
+2189,0,Spare_Time/TV
+2190,0,Snack
+2191,0,Snack
+2192,0,Snack
+2193,0,No Activity
+2194,0,No Activity
+2195,0,No Activity
+2196,0,No Activity
+2197,0,No Activity
+2198,0,No Activity
+2199,0,Leaving
+2200,0,Leaving
+2201,0,Dinner
+2202,0,Dinner
+2203,0,Dinner
+2204,0,Dinner
+2205,0,Dinner
+2206,0,Dinner
+2207,0,Dinner
+2208,0,Dinner
+2209,0,Spare_Time/TV
+2210,1,Spare_Time/TV
+2211,0,Spare_Time/TV
+2212,0,Spare_Time/TV
+2213,0,Spare_Time/TV
+2214,0,No Activity
+2215,0,No Activity
+2216,0,No Activity
+2217,0,No Activity
+2218,0,No Activity
+2219,0,No Activity
+2220,0,No Activity
+2221,0,No Activity
+2222,2,No Activity
+2223,0,Toileting
+2224,0,Toileting
+2225,0,No Activity
+2226,0,Grooming
+2227,0,No Activity
+2228,0,No Activity
+2229,0,No Activity
+2230,0,Grooming
+2231,0,Sleeping
+2232,4,No Activity
+2233,0,Grooming
+2234,0,No Activity
+2235,0,Sleeping
+2236,4,Sleeping
+2237,0,Sleeping
+2238,0,No Activity
+2239,0,Breakfast
+2240,0,Breakfast
+2241,0,Breakfast
+2242,0,Breakfast
+2243,0,Breakfast
+2244,0,Breakfast
+2245,0,Breakfast
+2246,0,No Activity
+2247,2,Toileting
+2248,0,Toileting
+2249,0,Toileting
+2250,0,Toileting
+2251,0,Toileting
+2252,0,No Activity
+2253,0,No Activity
+2254,0,Grooming
+2255,0,Grooming
+2256,0,Grooming
+2257,0,Grooming
+2258,0,No Activity
+2259,0,No Activity
+2260,0,Grooming
+2261,0,No Activity
+2262,0,No Activity
+2263,0,Grooming
+2264,2,Toileting
+2265,0,No Activity
+2266,0,No Activity
+2267,0,Leaving
+2268,0,Leaving
+2269,0,No Activity
+2270,0,No Activity
+2271,0,No Activity
+2272,0,No Activity
+2273,0,No Activity
+2274,0,No Activity
+2275,0,No Activity
+2276,0,No Activity
+2277,0,No Activity
+2278,0,No Activity
+2279,0,No Activity
+2280,0,No Activity
+2281,0,No Activity
+2282,0,No Activity
+2283,0,No Activity
+2284,0,Spare_Time/TV
+2285,0,Spare_Time/TV
+2286,0,Spare_Time/TV
+2287,0,No Activity
+2288,0,Spare_Time/TV
+2289,1,Spare_Time/TV
+2290,0,Spare_Time/TV
+2291,0,Spare_Time/TV
+2292,0,No Activity
+2293,0,No Activity
+2294,0,No Activity
+2295,0,No Activity
+2296,0,No Activity
+2297,0,No Activity
+2298,0,No Activity
+2299,0,No Activity
+2300,0,No Activity
+2301,0,No Activity
+2302,0,No Activity
+2303,2,No Activity
+2304,0,Grooming
+2305,0,Toileting
+2306,0,Toileting
+2307,0,Toileting
+2308,0,Toileting
+2309,0,Spare_Time/TV
+2310,1,Spare_Time/TV
+2311,0,Spare_Time/TV
+2312,0,Snack
+2313,0,Snack
+2314,0,Snack
+2315,0,No Activity
+2316,0,No Activity
+2317,0,No Activity
+2318,0,No Activity
+2319,0,No Activity
+2320,0,No Activity
+2321,0,Spare_Time/TV
+2322,1,Spare_Time/TV
+2323,0,Spare_Time/TV
+2324,0,Spare_Time/TV
+2325,1,Spare_Time/TV
+2326,0,Spare_Time/TV
+2327,2,No Activity
+2328,0,Grooming
+2329,0,Grooming
+2330,0,Grooming
+2331,0,Grooming
+2332,1,Spare_Time/TV
+2333,0,Spare_Time/TV
+2334,0,No Activity
+2335,0,No Activity
+2336,0,No Activity
+2337,0,No Activity
+2338,0,No Activity
+2339,0,No Activity
+2340,0,No Activity
+2341,0,No Activity
+2342,0,No Activity
+2343,0,No Activity
+2344,0,No Activity
+2345,0,No Activity
+2346,0,No Activity
+2347,0,No Activity
+2348,0,No Activity
+2349,0,No Activity
+2350,0,Dinner
+2351,0,Dinner
+2352,0,Dinner
+2353,0,Dinner
+2354,0,Dinner
+2355,0,Dinner
+2356,0,No Activity
+2357,0,No Activity
+2358,0,No Activity
+2359,0,No Activity
+2360,0,No Activity
+2361,0,No Activity
+2362,0,No Activity
+2363,0,No Activity
+2364,0,Spare_Time/TV
+2365,0,Spare_Time/TV
+2366,0,Spare_Time/TV
+2367,0,Spare_Time/TV
+2368,0,Spare_Time/TV
+2369,2,No Activity
+2370,0,Toileting
+2371,4,No Activity
+2372,0,Sleeping
+2373,0,Sleeping
+2374,4,Sleeping
+2375,0,Sleeping
+2376,2,Toileting
+2377,0,Toileting
+2378,0,Toileting
+2379,0,Toileting
+2380,0,Toileting
+2381,0,No Activity
+2382,0,No Activity
+2383,0,No Activity
+2384,0,No Activity
+2385,0,No Activity
+2386,0,No Activity
+2387,0,Breakfast
+2388,0,Breakfast
+2389,0,Breakfast
+2390,0,Breakfast
+2391,0,Breakfast
+2392,0,Breakfast
+2393,0,Breakfast
+2394,0,Breakfast
+2395,0,Breakfast
+2396,0,Breakfast
+2397,0,Breakfast
+2398,0,Breakfast
+2399,0,Breakfast
+2400,0,Breakfast
+2401,0,Breakfast
+2402,0,Breakfast
+2403,0,Breakfast
+2404,0,Grooming
+2405,0,Showering
+2406,0,Grooming
+2407,0,Spare_Time/TV
+2408,1,No Activity
+2409,0,Grooming
+2410,0,Grooming
+2411,0,No Activity
+2412,0,No Activity
+2413,0,No Activity
+2414,0,No Activity
+2415,0,No Activity
+2416,0,No Activity
+2417,0,No Activity
+2418,0,No Activity
+2419,2,No Activity
+2420,0,Toileting
+2421,0,Grooming
+2422,1,Spare_Time/TV
+2423,0,Spare_Time/TV
+2424,0,Spare_Time/TV
+2425,0,No Activity
+2426,0,No Activity
+2427,0,Lunch
+2428,0,Lunch
+2429,0,Lunch
+2430,0,Lunch
+2431,0,Lunch
+2432,0,Lunch
+2433,0,Lunch
+2434,0,Lunch
+2435,0,Lunch
+2436,0,Lunch
+2437,0,Lunch
+2438,0,Lunch
+2439,0,Lunch
+2440,0,Lunch
+2441,1,Spare_Time/TV
+2442,0,Snack
+2443,0,Snack
+2444,0,Snack
+2445,0,Snack
+2446,2,Toileting
+2447,0,No Activity
+2448,0,Spare_Time/TV
+2449,0,Spare_Time/TV
+2450,1,Spare_Time/TV
+2451,0,Spare_Time/TV
+2452,0,Spare_Time/TV
+2453,0,Spare_Time/TV
+2454,0,Spare_Time/TV
+2455,1,Spare_Time/TV
+2456,0,Spare_Time/TV
+2457,0,Spare_Time/TV
+2458,0,Spare_Time/TV
+2459,0,Dinner
+2460,0,Dinner
+2461,0,No Activity
+2462,0,No Activity
+2463,0,No Activity
+2464,0,No Activity
+2465,0,No Activity
+2466,0,No Activity
+2467,0,No Activity
+2468,0,No Activity
+2469,0,No Activity
+2470,0,No Activity
+2471,0,No Activity
+2472,0,No Activity
+2473,1,No Activity
+2474,0,No Activity
+2475,0,No Activity
+2476,0,No Activity
+2477,0,No Activity
+2478,0,Grooming
+2479,0,Grooming
+2480,0,No Activity
+2481,0,No Activity
+2482,2,No Activity
+2483,0,Grooming
+2484,0,No Activity
+2485,0,No Activity
+2486,0,Sleeping
+2487,4,Sleeping
+2488,0,Sleeping
+2489,2,Toileting
+2490,0,Toileting
+2491,0,Toileting
+2492,0,No Activity
+2493,0,Breakfast
+2494,0,Breakfast
+2495,0,Breakfast
+2496,0,No Activity
+2497,0,No Activity
+2498,0,No Activity
+2499,0,No Activity
+2500,0,No Activity
+2501,0,No Activity
+2502,0,No Activity
+2503,0,No Activity
+2504,0,No Activity
+2505,0,No Activity
+2506,0,No Activity
+2507,0,No Activity
+2508,0,No Activity
+2509,0,No Activity
+2510,0,No Activity
+2511,0,No Activity
+2512,0,Grooming
+2513,0,Showering
+2514,0,Grooming
+2515,0,No Activity
+2516,0,No Activity
+2517,0,No Activity
+2518,0,No Activity
+2519,0,Grooming
+2520,0,Grooming
+2521,0,No Activity
+2522,0,No Activity
+2523,0,No Activity
+2524,0,No Activity
+2525,0,No Activity
+2526,0,No Activity
+2527,0,No Activity
+2528,0,No Activity
+2529,0,Snack
+2530,0,Snack
+2531,0,Snack
+2532,0,Snack
+2533,0,No Activity
+2534,0,No Activity
+2535,0,No Activity
+2536,0,No Activity
+2537,0,No Activity
+2538,0,No Activity
+2539,0,Leaving
+2540,0,Leaving
+2541,0,No Activity
+2542,0,No Activity
+2543,2,Toileting
+2544,0,Toileting
+2545,0,Toileting
+2546,0,No Activity
+2547,0,No Activity
+2548,0,Lunch
+2549,0,No Activity
+2550,0,Lunch
+2551,0,No Activity
+2552,0,No Activity
+2553,0,No Activity
+2554,0,No Activity
+2555,0,No Activity
+2556,0,No Activity
+2557,0,No Activity
+2558,0,No Activity
+2559,0,No Activity
+2560,0,No Activity
+2561,0,No Activity
+2562,0,No Activity
+2563,0,No Activity
+2564,0,No Activity
+2565,0,No Activity
+2566,0,No Activity
+2567,0,No Activity
+2568,0,No Activity
+2569,0,No Activity
+2570,0,No Activity
+2571,0,No Activity
+2572,0,No Activity
+2573,0,No Activity
+2574,0,No Activity
+2575,0,No Activity
+2576,0,No Activity
+2577,0,No Activity
+2578,0,No Activity
+2579,0,No Activity
+2580,0,No Activity
+2581,0,Snack
+2582,0,Snack
+2583,0,Snack
+2584,0,No Activity
+2585,0,No Activity
+2586,0,No Activity
+2587,0,No Activity
+2588,0,No Activity
+2589,0,Snack
+2590,0,Snack
+2591,0,Snack
+2592,0,Snack
+2593,0,No Activity
+2594,0,No Activity
+2595,2,Toileting
+2596,0,Toileting
+2597,1,Spare_Time/TV
+2598,0,Spare_Time/TV
+2599,0,No Activity
+2600,0,No Activity
+2601,0,No Activity
+2602,0,No Activity
+2603,0,No Activity
+2604,0,No Activity
+2605,0,Grooming
+2606,0,No Activity
+2607,0,No Activity
+2608,0,No Activity
+2609,0,No Activity
+2610,0,No Activity
+2611,0,No Activity
+2612,0,No Activity
+2613,0,No Activity
+2614,0,No Activity
+2615,0,No Activity
+2616,0,No Activity
+2617,0,No Activity
+2618,0,No Activity
+2619,0,No Activity
+2620,0,No Activity
+2621,0,No Activity
+2622,0,Grooming
+2623,0,No Activity
+2624,0,No Activity
+2625,2,Toileting
+2626,0,Toileting
+2627,0,Sleeping
+2628,0,Sleeping
+2629,4,Sleeping
+2630,0,Sleeping
+2631,2,No Activity
+2632,0,Toileting
+2633,4,No Activity
+2634,0,Sleeping
+2635,2,Toileting
+2636,0,No Activity
+2637,0,No Activity
+2638,0,No Activity
+2639,0,Breakfast
+2640,0,Breakfast
+2641,0,Breakfast
+2642,0,Breakfast
+2643,0,No Activity
+2644,0,No Activity
+2645,0,No Activity
+2646,0,No Activity
+2647,0,No Activity
+2648,0,No Activity
+2649,0,No Activity
+2650,0,No Activity
+2651,0,No Activity
+2652,0,No Activity
+2653,2,Toileting
+2654,0,Grooming
+2655,0,No Activity
+2656,0,No Activity
+2657,0,Grooming
+2658,0,No Activity
+2659,0,No Activity
+2660,0,No Activity
+2661,0,No Activity
+2662,0,No Activity
+2663,0,No Activity
+2664,0,No Activity
+2665,0,No Activity
+2666,0,No Activity
+2667,0,Snack
+2668,0,Snack
+2669,0,Snack
+2670,0,Snack
+2671,0,No Activity
+2672,0,No Activity
+2673,0,No Activity
+2674,0,No Activity
+2675,0,Leaving
+2676,0,Leaving
+2677,0,No Activity
+2678,0,No Activity
+2679,0,No Activity
+2680,0,No Activity
+2681,0,No Activity
+2682,0,No Activity
+2683,0,No Activity
+2684,0,No Activity
+2685,0,No Activity
+2686,0,No Activity
+2687,0,No Activity
+2688,0,No Activity
+2689,0,No Activity
+2690,0,No Activity
+2691,0,No Activity
+2692,0,No Activity
+2693,0,No Activity
+2694,0,No Activity
+2695,0,No Activity
+2696,0,Lunch
+2697,0,Lunch
+2698,0,Lunch
+2699,0,Lunch
+2700,0,Lunch
+2701,0,Lunch
+2702,0,Lunch
+2703,0,Lunch
+2704,0,Lunch
+2705,0,No Activity
+2706,0,No Activity
+2707,0,Snack
+2708,0,Snack
+2709,0,Snack
+2710,0,No Activity
+2711,0,No Activity
+2712,0,No Activity
+2713,0,Spare_Time/TV
+2714,0,Spare_Time/TV
+2715,1,Spare_Time/TV
+2716,0,Spare_Time/TV
+2717,2,Toileting
+2718,0,Toileting
+2719,0,No Activity
+2720,0,No Activity
+2721,0,No Activity
+2722,0,No Activity
+2723,0,No Activity
+2724,2,Toileting
+2725,0,Toileting
+2726,0,No Activity
+2727,0,Spare_Time/TV
+2728,1,Spare_Time/TV
+2729,0,Spare_Time/TV
+2730,0,No Activity
+2731,0,Spare_Time/TV
+2732,0,Spare_Time/TV
+2733,0,Spare_Time/TV
+2734,0,No Activity
+2735,0,Grooming
+2736,0,Grooming
+2737,0,No Activity
+2738,0,No Activity
+2739,0,No Activity
+2740,0,No Activity
+2741,0,No Activity
+2742,1,Spare_Time/TV
